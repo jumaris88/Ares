@@ -1,0 +1,746 @@
+{
+    "status": true,
+    "data": {
+        "start": 2794,
+        "end": 2940,
+        "total": 147,
+        "book": "darimi",
+        "hadits": [
+            {
+                "number": 2794,
+                "arab": " حَدَّثَنَا جَعْفَرُ بْنُ عَوْنٍ حَدَّثَنَا أَبُو حَيَّانَ عَنْ يَزِيدَ بْنِ حَيَّانَ عَنْ زَيْدِ بْنِ أَرْقَمَ قَالَ قَامَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَوْمًا خَطِيبًا فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ ثُمَّ قَالَ يَا أَيُّهَا النَّاسُ إِنَّمَا أَنَا بَشَرٌ يُوشِكُ أَنْ يَأْتِيَنِي رَسُولُ رَبِّي فَأُجِيبَهُ وَإِنِّي تَارِكٌ فِيكُمْ الثَّقَلَيْنِ أَوَّلُهُمَا كِتَابُ اللَّهِ فِيهِ الْهُدَى وَالنُّورُ فَتَمَسَّكُوا بِكِتَابِ اللَّهِ وَخُذُوا بِهِ فَحَثَّ عَلَيْهِ وَرَغَّبَ فِيهِ ثُمَّ قَالَ وَأَهْلَ بَيْتِي أُذَكِّرُكُمْ اللَّهَ فِي أَهْلِ بَيْتِي ثَلَاثَ مَرَّاتٍ",
+                "id": "Telah menceritakan kepada kami [Ja'far bin 'Aun] telah menceritakan kepada kami [Abu Hayyan] dari [Yazid bin Hayyan] dari [Zaid bin Arqam] ia berkata, \"Suatu hari Rasulullah shallallahu 'alaihi wasallam pernah berdiri khutbah, beliau memuji Allah dan memuja-Nya kemudian bersabda: \"Wahai manusia, aku hanyalah seorang manusia, hampir tiba masanya utusan Rabbku datang padaku hingga aku pun harus memenuhi-Nya. Dan sesungguhnya aku tinggalkan kepada kalian dua perkara yang berat. Pertama adalah Kitabullah yang mengandung di dalamnya petunjuk dan cahaya maka berpegang teguhlah dengan Kitabullah dan ambillah ia.\" Maka beliau mendorong dan menganjurkan untuk berpegang teguh kepadanya. Kemudian beliau bersabda: 'Aku ingatkan kalian akan Allah pada Ahlu baitku.' Beliau mengatakan tiga kali.\""
+            },
+            {
+                "number": 2795,
+                "arab": " حَدَّثَنَا جَعْفَرُ بْنُ عَوْنٍ أَخْبَرَنَا الْأَعْمَشُ عَنْ أَبِي وَائِلٍ قَالَ قَالَ عَبْدُ اللَّهِ إِنَّ هَذَا الصِّرَاطَ مُحْتَضَرٌ تَحْضُرُهُ الشَّيَاطِينُ يُنَادُونَ يَا عَبْدَ اللَّهِ هَذَا الطَّرِيقُ فَاعْتَصِمُوا بِحَبْلِ اللَّهِ فَإِنَّ حَبْلَ اللَّهِ الْقُرْآنُ",
+                "id": "Telah menceritakan kepada kami [Ja'far bin 'Aun] telah mengabarkan kepada kami [Al A'masy] dari [Abu Wa`il] ia berkata; [Abdullah] berkata, \"Sesungguhnya jalan ini dipenuhi dengan setan-setan yang selalu datang sambil berseru, 'Hai hamba Allah, ini adalah jalanmu.' Oleh karena itu berpegang teguhlah kalian dengan tali Allah, sesungguhnya tali Allah adalah Al Qur'an.\""
+            },
+            {
+                "number": 2796,
+                "arab": " أَخْبَرَنَا أَبُو الْمُغِيرَةِ حَدَّثَنَا عَبْدَةُ عَنْ خَالِدِ بْنِ مَعْدَانَ قَالَ إِنَّ قَارِئَ الْقُرْآنِ وَالْمُتَعَلِّمَ تُصَلِّي عَلَيْهِمْ الْمَلَائِكَةُ حَتَّى يَخْتِمُوا السُّورَةَ فَإِذَا أَقْرَأَ أَحَدُكُمْ السُّورَةَ فَلْيُؤَخِّرْ مِنْهَا آيَتَيْنِ حَتَّى يَخْتِمَهَا مِنْ آخِرِ النَّهَارِ كَيْ مَا تُصَلِّي الْمَلَائِكَةُ عَلَى الْقَارِئِ وَالْمُقْرِئِ مِنْ أَوَّلِ النَّهَارِ إِلَى آخِرِهِ",
+                "id": "Telah menceritakan kepada kami [Abu Al Mughirah] telah menceritakan kepada kami ['Abdah] dari [Khalid bin Ma'dan] ia berkata, \"Sesungguhnya pembaca Al Qur'an dan yang mempelajari Al Qur'an akan didoakan oleh para malaikat hingga mereka menyelesaikan satu surat, jika salah seorang dari kalian membacakan suatu surat maka hendaklah ia menunda membaca dua ayat dari surat tersebut hingga ia dapat menyelesaikannya di akhir siang, agar para malaikat mendoakan orang yang membaca dan orang yang dibacakan dari awal sampai akhir siang.\""
+            },
+            {
+                "number": 2797,
+                "arab": " أَخْبَرَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا عَبْدُ الْوَاحِدِ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِسْحَقَ حَدَّثَنَا النُّعْمَانُ بْنُ سَعْدٍ عَنْ عَلِيٍّ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+                "id": "Telah mengabarkan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Abdul Wahid] telah menceritakan kepada kami [Abdurrahman bin Ishaq] telah menceritakan kepada kami [An Nu'man bin Sa'd] dari [Ali] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sebaik-baik kalian adalah orang yang mempelajari Al Qur'an dan mengajarkannya.\""
+            },
+            {
+                "number": 2798,
+                "arab": " حَدَّثَنَا الْحَجَّاجُ بْنُ مِنْهَالٍ حَدَّثَنَا شُعْبَةُ أَخْبَرَنِي عَلْقَمَةُ بْنُ مَرْثَدٍ قَالَ سَمِعْتُ سَعْدَ بْنَ عُبَيْدَةَ عَنْ أَبِي عَبْدِ الرَّحْمَنِ السُّلَمِيِّ عَنْ عُثْمَانَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِنَّ خَيْرَكُمْ مَنْ عَلَّمَ الْقُرْآنَ أَوْ تَعَلَّمَهُ قَالَ أَقْرَأَ أَبُو عَبْدِ الرَّحْمَنِ فِي إِمْرَةِ عُثْمَانَ حَتَّى كَانَ الْحَجَّاجُ قَالَ ذَاكَ أَقْعَدَنِي مَقْعَدِي هَذَا",
+                "id": "Telah menceritakan kepada kami [Al Hajjaj bin Minhal] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepadaku ['Alqamah bin Martsad] ia berkata; Aku pernah mendengar [Sa'd bin Ubaidah] dari [Abu Abdurrahman As Sulami] dari [Utsman] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Sesungguhnya sebaik-baik kalian adalah orang yang mengajarkan Al Qur'an atau mempelajarinya.\" Ia berkata; Abu Abdurrahman pernah membacakan Al Qur'an pada masa pemerintahan Utsman hingga Al Hajjaj pernah berkata; Orang itu membuatku terduduk di tempat dudukku ini."
+            },
+            {
+                "number": 2799,
+                "arab": " حَدَّثَنَا الْمُعَلَّى بْنُ أَسَدٍ حَدَّثَنَا الْحَارِثُ بْنُ نَبْهَانَ حَدَّثَنَا عَاصِمُ بْنُ بَهْدَلَةَ عَنْ مُصْعَبِ بْنِ سَعْدٍ عَنْ أَبِيهِ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خِيَارُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَ الْقُرْآنَ قَالَ فَأَخَذَ بِيَدِي فَأَقْعَدَنِي هَذَا الْمَقْعَدَ أُقْرِئُ",
+                "id": "Telah menceritakan kepada kami [Al Mu'alla bin Asad] telah menceritakan kepada kami [Al Harits bin Nabhan] telah menceritakan kepada kami ['Ashim bin Bahdalah] dari [Mush'ab bin Sa'd] dari [ayahnya] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sebaik-baik kalian adalah orang yang mempelajari dan mengajarkan Al Qur`an.\" Ia berkata; Lalu beliau meraih tanganku dan mendudukanku di tempat duduk ini lalu dibacakan Al Qur'an kepadaku."
+            },
+            {
+                "number": 2800,
+                "arab": " حَدَّثَنَا سَعِيدُ بْنُ عَامِرٍ عَنْ شُعْبَةَ عَنْ يَزِيدَ بْنِ أَبِي زِيَادٍ عَنْ عِيسَى عَنْ رَجُلٍ عَنْ سَعْدِ بْنِ عُبَادَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَا مِنْ رَجُلٍ يَتَعَلَّمُ الْقُرْآنَ ثُمَّ يَنْسَاهُ إِلَّا لَقِيَ اللَّهَ يَوْمَ الْقِيَامَةِ وَهُوَ أَجْذَمُ قَالَ أَبُو مُحَمَّد عِيسَى هُوَ ابْنُ فَائِدٍ",
+                "id": "Telah menceritakan kepada kami [Sa'id bin Amir] dari [Syu'bah] dari [Yazid bin Abu Ziyad] dari [Isa] dari [seseorang] dari [Sa'd bin Ubadah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidaklah seseorang mempelajari Al Qur'an kemudian melupakannya kecuali ia akan bertemu dengan Allah pada hari kiamat dalam keadaan terputus tangannya.\" Abu Muhammad berkata; Isa adalah Ibnu Fa`id."
+            },
+            {
+                "number": 2801,
+                "arab": " حَدَّثَنَا جَعْفَرُ بْنُ عَوْنٍ حَدَّثَنَا مُوسَى بْنُ عُبَيْدَةَ عَنْ صَفْوَانَ بْنِ سُلَيْمٍ عَنْ نَاجِيَةَ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ عَنْ أَبِيهِ عَنْ عَبْدِ اللَّهِ قَالَ أَكْثِرُوا تِلَاوَةَ الْقُرْآنِ قَبْلَ أَنْ يُرْفَعَ قَالُوا هَذِهِ الْمَصَاحِفُ تُرْفَعُ فَكَيْفَ بِمَا فِي صُدُورِ الرِّجَالِ قَالَ يُسْرَى عَلَيْهِ لَيْلًا فَيُصْبِحُونَ مِنْهُ فُقَرَاءَ وَيَنْسَوْنَ قَوْلَ لَا إِلَهَ إِلَّا اللَّهُ وَيَقَعُونَ فِي قَوْلِ الْجَاهِلِيَّةِ وَأَشْعَارِهِمْ وَذَلِكَ حِينَ يَقَعُ عَلَيْهِمْ الْقَوْلُ",
+                "id": "Telah menceritakan kepada kami [Ja'far bin 'Aun] telah menceritakan kepada kami [Musa bin Ubaid] dari [Shafwan bin Sulaim] dari [Najiyah bin Abdullah bin Utbah] dari [ayahnya] dari [Abdullah] ia berkata; Perbanyaklah membaca Al Qur'an sebelum ia akan diangkat. Mereka bertanya; Apakah lembaran-lembaran (mushaf) ini akan diangkat? Bagaimana dengan yang ada di dalam dada (dihafal) manusia? Ia menjawab; Akan berlalu satu malam lalu pada pagi harinya mereka menjadi fakir dan melupakan ucapan LA ILAAHA ILLALLAH. Mereka juga terjebak dalam perkataan jahiliyah dan syair-syair mereka. Hal ini terjadi ketika keputusan telah ditetapkan atas mereka."
+            },
+            {
+                "number": 2802,
+                "arab": " حَدَّثَنَا الْمُعَلَّى بْنُ أَسَدٍ حَدَّثَنَا سَلَّامٌ يَعْنِي ابْنَ أَبِي مُطِيعٍ قَالَ كَانَ قَتَادَةُ يَقُولُ اعْمُرُوا بِهِ قُلُوبَكُمْ وَاعْمُرُوا بِهِ بُيُوتَكُمْ قَالَ أُرَاهُ يَعْنِي الْقُرْآنَ",
+                "id": "Telah menceritakan kepada kami [Al Mu'alla bin Asad] telah menceritakan kepada kami [Sallam] yakni Ibnu Abu Muthi', ia berkata; [Qatadah] pernah berkata; Makmurkanlah hati kalian dan makmurkanlah rumah kalian dengannya. Ia berkata; Menurutku yang dimaksudkan adalah Al Qur`an."
+            },
+            {
+                "number": 2803,
+                "arab": " حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ عَنْ عَاصِمٍ عَنْ زِرٍّ عَنْ ابْنِ مَسْعُودٍ قَالَ لَيُسْرَيَنَّ عَلَى الْقُرْآنِ ذَاتَ لَيْلَةٍ فَلَا يُتْرَكُ آيَةٌ فِي مُصْحَفٍ وَلَا فِي قَلْبِ أَحَدٍ إِلَّا رُفِعَتْ",
+                "id": "Telah menceritakan kepada kami [Amr bin 'Ashim] telah menceritakan kepada kami [Hammad bin Salamah] dari ['Ashim] dari [Zirr] dari [Ibnu Mas'ud] ia berkata; Sungguh akan berlalu suatu malam atas Al Qur'an, sehingga tidak ada satu ayat pun dalam lembaran serta dalam hati (hafalan) seseorang, kecuali telah diangkat."
+            },
+            {
+                "number": 2804,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ عَنْ عَبْدِ اللَّهِ بْنِ وَاقِدٍ عَنْ قَتَادَةَ قَالَ مَا جَالَسَ الْقُرْآنَ أَحَدٌ فَقَامَ عَنْهُ إِلَّا بِزِيَادَةٍ أَوْ نُقْصَانٍ ثُمَّ قَرَأَ { وَنُنَزِّلُ مِنْ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِلْمُؤْمِنِينَ وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا }",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Katsir] dari [Abdullah bin Waqid] dari [Qatadah] ia berkata; Tidaklah seseorang duduk (dalam majlis) Al Qur'an lalu berdiri darinya kecuali dengan keadaan bertambah atau berkurang. Kemudian ia membaca: (Dan Kami turunkan dari Al Qur'an suatu yang menjadi penawar dan rahmat bagi orang-orang yang beriman dan Al Qur'an itu tidaklah menambah kepada orang-orang yang zhalim selain kerugian)."
+            },
+            {
+                "number": 2805,
+                "arab": " حَدَّثَنَا مَرْوَانُ بْنُ مُحَمَّدٍ حَدَّثَنَا رِفْدَةُ الْغَسَّانِيُّ حَدَّثَنَا ثَابِتُ بْنُ عَجْلَانَ الْأَنْصَارِيُّ قَالَ كَانَ يُقَالُ إِنَّ اللَّهَ لَيُرِيدُ الْعَذَابَ بِأَهْلِ الْأَرْضِ فَإِذَا سَمِعَ تَعْلِيمَ الصِّبْيَانِ الْحِكْمَةَ صَرَفَ ذَلِكَ عَنْهُمْ قَالَ مَرْوَانُ يَعْنِي بِالْحِكْمَةِ الْقُرْآنَ",
+                "id": "Telah menceritakan kepada kami [Marwan bin Muhammad] telah menceritakan kepada kami [Rifdah Al Ghassani] telah menceritakan kepada kami [Tsabit bin 'Ajlan Al Anshari] ia berkata; Dikatakan; Sesungguhnya Allah berkehendak untuk memberikan adzab kepada penduduk bumi, namun ketika Dia mendengarkan beberapa anak kecil mempelajari Al Hikmah, Dia memalingkan adzab tersebut dari mereka. Marwan berkata; Yang dimaksud dengan Al Hikmah adalah Al Qur`an."
+            },
+            {
+                "number": 2806,
+                "arab": " أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُبَارَكِ حَدَّثَنَا صَدَقَةُ بْنُ خَالِدٍ عَنْ ابْنِ جَابِرٍ حَدَّثَنَا شَيْخٌ يُكَنَّى أَبَا عَمْرٍو عَنْ مُعَاذِ بْنِ جَبَلٍ قَالَ سَيَبْلَى الْقُرْآنُ فِي صُدُورِ أَقْوَامٍ كَمَا يَبْلَى الثَّوْبُ فَيَتَهَافَتُ يَقْرَءُونَهُ لَا يَجِدُونَ لَهُ شَهْوَةً وَلَا لَذَّةً يَلْبَسُونَ جُلُودَ الضَّأْنِ عَلَى قُلُوبِ الذِّئَابِ أَعْمَالُهُمْ طَمَعٌ لَا يُخَالِطُهُ خَوْفٌ إِنْ قَصَّرُوا قَالُوا سَنَبْلُغُ وَإِنْ أَسَاءُوا قَالُوا سَيُغْفَرُ لَنَا إِنَّا لَا نُشْرِكُ بِاللَّهِ شَيْئًا",
+                "id": "Telah mengabarkan kepada kami [Muhammad bin Al Mubarak] telah menceritakan kepada kami [Shadaqah bin Khalid] dari [Ibnu Jabir] telah menceritakan kepada kami seorang syaikh yang dijuluki [Abu Amr] dari [Mu'adz bin Jabal] ia berkata; Al Qur'an akan usang di dalam dada beberapa kaum sebagaimana usangnya pakaian. Mereka berlomba membacanya namun mereka tidak merasakan kenikmatan dan kelezatan membacanya. Mereka ibarat orang yang mengenakan pakaian dari kulit domba namun berhati serigala, amalan mereka hanya ketamakan tanpa tercampuri rasa takut jika mereka melakukan kelalaian. Mereka berkata; Kami pasti akan sampai, sekalipun mereka berbuat jahat. Mereka berkata; Kami pasti akan diampuni, karena sesungguhnya kami tidak menyekutukan Allah dengan sesuatu pun."
+            },
+            {
+                "number": 2807,
+                "arab": " حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عَبْدِ الْمَجِيدِ عَنْ شُعْبَةَ عَنْ مَنْصُورٍ قَالَ سَمِعْتُ أَبَا وَائِلٍ عَنْ عَبْدِ اللَّهِ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ بِئْسَمَا لِأَحَدِكُمْ أَنْ يَقُولَ نَسِيتُ آيَةَ كَيْتَ وَكَيْتَ بَلْ هُوَ نُسِّيَ وَاسْتَذْكِرُوا الْقُرْآنَ فَإِنَّهُ أَسْرَعُ تَفَصِّيًا مِنْ صُدُورِ الرِّجَالِ مِنْ النَّعَمِ مِنْ عُقُلِهَا",
+                "id": "Telah menceritakan kepada kami [ubaidhullah bin Abdul Majid] dari [Syu'bah] dari [Manshur] ia berkata; Aku mendengar [Abu Wa`il] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Alangkah buruknya bagi salah seorang dari kalian jika mengatakan; Aku lupa ayat ini dan itu, tetapi ia dilupakan. Hendaklah kalian selalu mengingat Al Qur`an, karena ia lebih cepat lepasnya dari dada (hafalan) seseorang dari pada lepasnya seekor unta dari ikatannya.\""
+            },
+            {
+                "number": 2808,
+                "arab": " حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ حَدَّثَنَا مُوسَى يَعْنِي ابْنَ عُلَيٍّ قَالَ سَمِعْتُ أَبِي قَالَ سَمِعْتُ عُقْبَةَ بْنَ عَامِرٍ يَقُولُ تَعَلَّمُوا كِتَابَ اللَّهِ وَتَعَاهَدُوهُ وَتَغَنَّوْا بِهِ وَاقْتَنُوهُ فَوَالَّذِي نَفْسِي بِيَدِهِ أَوْ فَوَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ لَهُوَ أَشَدُّ تَفَلُّتًا مِنْ الْمَخَاضِ فِي الْعُقُلِ",
+                "id": "Telah menceritakan kepada kami [Wahb bin Jarir] telah menceritakan kepada kami [Musa] yakni Ibnu 'Ulayyin ia berkata; Aku mendengar [ayahku] berkata; Aku mendengar [Uqbah bin Amir] berkata; Pelajarilah Kitabullah, jagalah, lantunkanlah dengan suara yang indah dan perhatikan ia. Maka demi Dzat yang jiwaku berada di tanganNya atau demi Dzat yang jiwa Muhammad berada di tanganNya, sungguh ia lebih cepat lepasnya dari pada unta bunting pada ikatannya."
+            },
+            {
+                "number": 2809,
+                "arab": " حَدَّثَنَا عَبْدُ اللَّهِ بْنُ صَالِحٍ قَالَ حَدَّثَنِي مُوسَى عَنْ أَبِيهِ عَنْ عُقْبَةَ بْنِ عَامِرٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ تَعَلَّمُوا كِتَابَ اللَّهِ تَعَالَى وَتَعَاهَدُوهُ وَاقْتَنُوهُ وَتَغَنَّوْا بِهِ فَوَالَّذِي نَفْسِي بِيَدِهِ لَهُوَ أَشَدُّ تَفَلُّتًا مِنْ الْمَخَاضِ فِي الْعُقُلِ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Shalih] ia berkata; Telah menceritakan kepadaku [Musa] dari [ayahnya] dari [Uqbah bin Amir] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Pelajarilah Kitabullah Ta'ala, jagalah, perhatikan dan lantunkanlah ia dengan suara yang indah. Maka demi Dzat yang jiwaku berada di tangannya, sungguh ia lebih cepat lepasnya dari pada unta bunting pada ikatannya.\""
+            },
+            {
+                "number": 2810,
+                "arab": " حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا هَمَّامٌ حَدَّثَنَا ثَابِتٌ قَالَ كَانَ عَبْدُ الرَّحْمَنِ بْنُ أَبِي لَيْلَى إِذَا صَلَّى الصُّبْحَ قَرَأَ الْمُصْحَفَ حَتَّى تَطْلُعَ الشَّمْسُ قَالَ وَكَانَ ثَابِتٌ يَفْعَلُهُ",
+                "id": "Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Tsabit] ia berkata; [Abdurrahman bin Abu Laila] jika telah sholat Shubuh, ia membaca mushaf hingga terbit matahari. Ia berkata lagi; Tsabit juga melakukannya."
+            },
+            {
+                "number": 2811,
+                "arab": " أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الرَّقَاشِيُّ عَنْ يَزِيدَ بْنِ زُرَيْعٍ عَنْ سَعِيدٍ عَنْ قَتَادَةَ قَالَ { فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ أَنَّهُ الْحَقُّ مِنْ رَبِّهِمْ } قَالَ أَيْ يَعْلَمُونَ أَنَّهُ كَلَامُ الرَّحْمَنِ",
+                "id": "Telah mengabarkan kepada kami [Muhammad bin Abdullah Ar Raqasyi] dari [Yazid bin Zurai'] dari [Sa'id] dari [Qatadah] ia berkata tentang firmanNya: (Adapun orang-orang yang beriman maka mereka yakin bahwa perumpamaan itu benar dari Rabb mereka). ia berkata; Maksudnya, mereka yakin bahwa itu adalah kalam Rabb Yang Maha Pengasih."
+            },
+            {
+                "number": 2812,
+                "arab": " حَدَّثَنَا عَبْدُ اللَّهِ بْنُ صَالِحٍ عَنْ مُعَاوِيَةَ بْنِ صَالِحٍ عَنْ أَبِي بَكْرِ بْنِ أَبِي مَرْيَمَ عَنْ عَطِيَّةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا مِنْ كَلَامٍ أَعْظَمُ عِنْدَ اللَّهِ مِنْ كَلَامِهِ وَمَا رَدَّ الْعِبَادُ إِلَى اللَّهِ كَلَامًا أَحَبَّ إِلَيْهِ مِنْ كَلَامِهِ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Shalih] dari [Mu'awiyah bin Shalih] dari [Abu Bakr bin Abu Maryam] dari ['Athiyyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada satu perkataan pun yang lebih agung di sisi Allah dari pada perkataanNya dan tidak ada perkataan yang diucapkan oleh seorang hamba kepada Allah yang lebih disukaiNya daripada perkataanNya.\""
+            },
+            {
+                "number": 2813,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ عَنْ إِسْرَائِيلَ حَدَّثَنَا عُثْمَانُ بْنُ الْمُغِيرَةِ الثَّقَفِيُّ عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَعْرِضُ نَفْسَهُ فِي الْمَوْسِمِ عَلَى النَّاسِ فِي الْمَوْقِفِ فَيَقُولُ هَلْ مِنْ رَجُلٍ يَحْمِلُنِي إِلَى قَوْمِهِ فَإِنَّ قُرَيْشًا مَنَعُونِي أَنْ أُبَلِّغَ كَلَامَ رَبِّي",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yusuf] dari [Isra`il] telah menceritakan kepada kami [Utsman bin Al Mughirah Ats Tsaqafi] dari [Salim bin Abu Al Ja'd] dari [Jabir bin Abdullah] ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah menampakkan diri pada musim haji di hadapan orang-orang di padang Arafah, lalu beliau bersabda: \"Adakah seseorang yang akan membawaku kepada kaumnya, karena kaum Quraisy telah mencegahku untuk menyampaikan kalam Rabbku.\""
+            },
+            {
+                "number": 2814,
+                "arab": " حَدَّثَنَا إِسْحَقُ حَدَّثَنَا جَرِيرٌ عَنْ لَيْثٍ عَنْ سَلَمَةَ بْنِ كُهَيْلٍ عَنْ أَبِي الزَّعْرَاءِ قَالَ قَالَ عُمَرُ بْنُ الْخَطَّابِ إِنَّ هَذَا الْقُرْآنَ كَلَامُ اللَّهِ فَلَا أَعْرِفَنَّكُمْ فِيمَا عَطَفْتُمُوهُ عَلَى أَهْوَائِكُمْ",
+                "id": "Telah menceritakan kepada kami [Ishaq] telah menceritakan kepada kami [Jarir] dari [Laits] dari [Salamah bin Kuhail] dari [Abu Az Za'ra`] ia berkata; [Umar bin Al Khaththab] berkata; Sesungguhnya Al Qur'an ini adalah Kalamullah, maka janganlah kalian tertipu untuk melakukan perubahan padanya atas dasar hawa nafsu kalian."
+            },
+            {
+                "number": 2815,
+                "arab": " أَخْبَرَنَا إِسْمَعِيلُ بْنُ إِبْرَاهِيمَ التَّرْجُمَانِيُّ حَدَّثَنَا مُحَمَّدُ بْنُ الْحَسَنِ الْهَمْدَانِيُّ عَنْ عَمْرِو بْنِ قَيْسٍ عَنْ عَطِيَّةَ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ شَغَلَهُ قِرَاءَةُ الْقُرْآنِ عَنْ مَسْأَلَتِي وَذِكْرِي أَعْطَيْتُهُ أَفْضَلَ ثَوَابِ السَّائِلِينَ وَفَضْلُ كَلَامِ اللَّهِ عَلَى سَائِرِ الْكَلَامِ كَفَضْلِ اللَّهِ عَلَى خَلْقِهِ",
+                "id": "Telah mengabarkan kepada kami [Isma'il bin Ibrahim At Tarjumani] telah menceritakan kepada kami [Muhammad bin Al Hasan Al Hamdani] dari [Amr bin Qais] dari ['Athiyyah] dari [Abu Sa'id Al Khudri] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa yang disibukkan membaca Al Qur'an hingga lupa meminta dan berdzikir kepadaKu, maka Aku akan memberikan kepadanya sebaik-baik pahala orang-orang yang meminta (kepadaKu). Keutamaan Kalamullah atas seluruh perkataan lainnya seperti keutamaan Allah atas seluruh makhlukNya.\""
+            },
+            {
+                "number": 2816,
+                "arab": " حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ عَنْ أَشْعَثَ الْحُدَّانِيِّ عَنْ شَهْرِ بْنِ حَوْشَبٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَضْلُ كَلَامِ اللَّهِ عَلَى كَلَامِ خَلْقِهِ كَفَضْلِ اللَّهِ عَلَى خَلْقِهِ",
+                "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Salamah] dari [Asy'ats Al Huddani] dari [Syahr bin Hausyab] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Keutamaan Kalamullah atas seluruh perkataan makhlukNya seperti keutamaan Allah atas makhlukNya.\""
+            },
+            {
+                "number": 2817,
+                "arab": " حَدَّثَنَا عَبْدُ اللَّهِ بْنُ صَالِحٍ حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي جَعْفَرٍ عَنْ رَجُلٍ مِنْ شُيُوخِ مِصْرَ أَنَّهُ حَدَّثَهُ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ الْقُرْآنُ أَحَبُّ إِلَى اللَّهِ مِنْ السَّمَوَاتِ وَالْأَرْضِ وَمَنْ فِيهِنَّ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Shalih] telah menceritakan kepada kami [Yahya bin Ayyub] dari [ubaidhullah bin Abu Ja'far] dari [seseorang syaikh Mesir] bahwa ia menceritakan dari [Abdullah bin Amr] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda: \"Al Qur'an lebih disukai Allah dari pada langit dan bumi beserta isinya.\""
+            },
+            {
+                "number": 2818,
+                "arab": " حَدَّثَنَا أَبُو النُّعْمَانِ حَدَّثَنَا هَارُونُ الْأَعْوَرُ عَنْ أَبِي عِمْرَانَ الْجَوْنِيِّ عَنْ جُنْدُبٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ اقْرَءُوا الْقُرْآنَ مَا ائْتَلَفْتُمْ عَلَيْهِ فَإِذَا اخْتَلَفْتُمْ فِيهِ فَقُومُوا",
+                "id": "Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Harun Al A'war] dari [Abu Imran Al Jauni] dari [Jundub] bahwa Nabi shallallahu 'alaihi wasallam bersabda: \"Bacalah Al Qur'an selama kalian bersepakat atasnya (dalam memahami maknanya), namun jika kalian berselisih di dalamnya, maka berdirilah (untuk menghindari terjadinya perselisihan yang dapat berakibat buruk).\" "
+            },
+            {
+                "number": 2819,
+                "arab": " أَخْبَرَنَا يَزِيدُ بْنُ هَارُونَ حَدَّثَنَا هَمَّامٌ حَدَّثَنَا أَبُو عِمْرَانَ الْجَوْنِيُّ عَنْ جُنْدُبِ بْنِ عَبْدِ اللَّهِ قَالَ اقْرَءُوا الْقُرْآنَ مَا ائْتَلَفَتْ عَلَيْهِ قُلُوبُكُمْ فَإِذَا اخْتَلَفْتُمْ فِيهِ فَقُومُوا",
+                "id": "Telah mengabarkan kepada kami [Yazid bin Harun] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Abu Imran Al Jauni] dari [Jundub bin Abdullah] ia berkata; (Nabi shallallahu 'alaihi wasallam bersabda); \"Bacalah Al Qur'an selama hati kalian bersatu atasnya, namun jika kalian berselisih di dalamnya maka berdirilah.\""
+            },
+            {
+                "number": 2820,
+                "arab": " حَدَّثَنَا أَبُو غَسَّانَ مَالِكُ بْنُ إِسْمَعِيلَ حَدَّثَنَا أَبُو قُدَامَةَ حَدَّثَنَا أَبُو عِمْرَانَ الْجَوْنِيُّ عَنْ جُنْدُبٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اقْرَءُوا الْقُرْآنَ مَا ائْتَلَفَتْ عَلَيْهِ قُلُوبُكُمْ فَإِذَا اخْتَلَفْتُمْ فِيهِ فَقُومُوا",
+                "id": "Telah menceritakan kepada kami [Abu Ghassan, Malik bin Isma'il] telah menceritakan kepada kami [Abu Qudamah] telah menceritakan kepada kami [Abu Imran Al Jauni] dari [Jundub] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Bacalah Al Qur'an selama hati kalian bersatu atasnya, namun jika kalian berselisih di dalamnya maka berdirilah.\""
+            },
+            {
+                "number": 2821,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا فِطْرٌ عَنْ أَبِي إِسْحَقَ عَنْ الْحَارِثِ عَنْ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُ قَالَ مِنْ النَّاسِ مَنْ يُؤْتَى الْإِيمَانَ وَلَا يُؤْتَى الْقُرْآنَ وَمِنْهُمْ مَنْ يُؤْتَى الْقُرْآنَ وَلَا يُؤْتَى الْإِيمَانَ وَمِنْهُمْ مَنْ يُؤْتَى الْقُرْآنَ وَالْإِيمَانَ وَمِنْهُمْ مَنْ لَا يُؤْتَى الْقُرْآنَ وَلَا الْإِيمَانَ ثُمَّ ضَرَبَ لَهُمْ مَثَلًا قَالَ فَأَمَّا مَنْ أُوتِيَ الْإِيمَانَ وَلَمْ يُؤْتَ الْقُرْآنَ فَمَثَلُهُ مَثَلُ التَّمْرَةِ حُلْوَةُ الطَّعْمِ لَا رِيحَ لَهَا وَأَمَّا مَثَلُ الَّذِي أُوتِيَ الْقُرْآنَ وَلَمْ يُؤْتَ الْإِيمَانَ فَمَثَلُ الْآسَةِ طَيِّبَةُ الرِّيحِ مُرَّةُ الطَّعْمِ وَأَمَّا الَّذِي أُوتِيَ الْقُرْآنَ وَالْإِيمَانَ فَمَثَلُ الْأُتْرُجَّةِ طَيِّبَةُ الرِّيحِ حُلْوَةُ الطَّعْمِ وَأَمَّا الَّذِي لَمْ يُؤْتَ الْقُرْآنَ وَلَا الْإِيمَانَ فَمَثَلُهُ مَثَلُ الْحَنْظَلَةِ مُرَّةُ الطَّعْمِ لَا رِيحَ لَهَا",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Fithr] dari [Abu Ishaq] dari [Al Harits] dari [Ali] radliallahu 'anhu, ia berkata; Di antara manusia ada yang hanya diberi iman dan tidak diberi Al Qur`an. Di antara mereka ada yang hanya diberi Al Qur'an dan tidak diberi iman. Di antara mereka ada yang diberi Al Qur'an dan iman. Di antara mereka juga ada yang tidak diberi Al Qur'an dan tidak pula iman. Kemudian ia membuat perumpamaan bagi mereka, ia berkata; Adapun orang yang hanya diberi iman dan tidak diberi Al Qur'an seperti buah kurma yang rasanya manis namun tidak berbau harum, orang yang hanya diberi Al Qur'an dan tidak diberi iman seperti tanaman Asah yang harum namun rasanya pahit. Orang yang diberi Al Qur'an dan iman seperti buah utrujah yang harum baunya dan rasanya manis. Sedangkan orang yang tidak diberi Al Qur'an dan tidak pula iman seperti tanaman hanzhalah yang rasanya pahit lagi tanpa bau harum."
+            },
+            {
+                "number": 2822,
+                "arab": " حَدَّثَنَا أَبُو النُّعْمَانِ حَدَّثَنَا أَبُو عَوَانَةَ عَنْ قَتَادَةَ عَنْ أَنَسِ بْنِ مَالِكٍ عَنْ أَبِي مُوسَى الْأَشْعَرِيِّ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَثَلُ الْمُؤْمِنِ الَّذِي يَقْرَأُ الْقُرْآنَ مَثَلُ الْأُتْرُجَّةِ طَعْمُهَا طَيِّبٌ وَرِيحُهَا طَيِّبٌ وَمَثَلُ الْمُؤْمِنِ الَّذِي لَا يَقْرَأُ الْقُرْآنَ مَثَلُ التَّمْرَةِ طَعْمُهَا حُلْوٌ وَلَيْسَ لَهَا رِيحٌ وَمَثَلُ الْمُنَافِقِ الَّذِي يَقْرَأُ الْقُرْآنَ مَثَلُ الرَّيْحَانَةِ رِيحُهَا طَيِّبٌ وَطَعْمُهَا مُرٌّ وَمَثَلُ الْمُنَافِقِ الَّذِي لَا يَقْرَأُ الْقُرْآنَ مَثَلُ الْحَنْظَلَةِ لَيْسَ لَهَا رِيحٌ وَطَعْمُهَا مُرٌّ",
+                "id": "Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Anas bin Malik] dari [Abu Musa Al Asy'ari] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Perumpamaan orang mukmin yang membaca Al Qur'an seperti buah utrujah yang harum baunya dan rasanya enak, perumpaman orang mukmin yang tidak membaca Al Qur'an seperti buah kurma yang rasanya manis namun tidak berbau harum, perumpamaan orang munafik yang membaca Al Qur'an seperti tanaman Raihanah yang berbau harum namun rasanya pahit, sedangkan perumpamaan orang munafik yang tidak membaca Al Qur'an seperti tanaman hanzhalah yang tidak berbau lagi rasanya pahit.\""
+            },
+            {
+                "number": 2823,
+                "arab": " أَخْبَرَنَا عُبَيْدُ اللَّهِ عَنْ إِسْرَائِيلَ عَنْ أَبِي إِسْحَقَ عَنْ الْحَارِثِ عَنْ عَلِيٍّ قَالَ مَثَلُ الَّذِي أُوتِيَ الْإِيمَانَ وَلَمْ يُؤْتَ الْقُرْآنَ مَثَلُ التَّمْرَةِ طَعْمُهَا طَيِّبٌ وَلَا رِيحَ لَهَا وَمَثَلُ الَّذِي أُوتِيَ الْقُرْآنَ وَلَمْ يُؤْتَ الْإِيمَانَ مَثَلُ الرَّيْحَانَةِ الْآسَةِ رِيحُهَا طَيِّبٌ وَطَعْمُهَا مُرٌّ وَمَثَلُ الَّذِي أُوتِيَ الْقُرْآنَ وَالْإِيمَانَ مَثَلُ الْأُتْرُجَّةِ رِيحُهَا طَيِّبٌ وَطَعْمُهَا طَيِّبٌ وَمَثَلُ الَّذِي لَمْ يُؤْتَ الْإِيمَانَ وَلَا الْقُرْآنَ مَثَلُ الْحَنْظَلَةِ رِيحُهَا خَبِيثٌ وَطَعْمُهَا خَبِيثٌ",
+                "id": "Telah mengabarkan kepada kami [ubaidhullah] dari [Isra`il] dari [Abu Ishaq] dari [Al Harits] dari [Ali] ia berkata; Perumpamaan orang yang hanya diberi iman dan tidak diberi Al Qur'an seperti buah kurma yang rasanya manis namun tidak berbau harum, perumpamaan orang yang hanya diberi Al Qur'an dan tidak diberi iman seperti tanaman Rahanah Asah yang berbau harum namun rasanya pahit, perumpamaan orang yang diberi Al Qur'an dan iman seperti buah Utrujah yang harum baunya lagi rasanya enak, sedangkan perumpamaan orang yang tidak diberi Al Qur'an dan tidak pula iman seperti tanaman Hanzhalah yang berbau busuk lagi rasanya tidak enak."
+            },
+            {
+                "number": 2824,
+                "arab": " أَخْبَرَنَا الْحَكَمُ بْنُ نَافِعٍ عَنْ شُعَيْبِ بْنِ أَبِي حَمْزَةَ عَنْ الزُّهْرِيِّ حَدَّثَنِي عَامِرُ بْنُ وَاثِلَةَ أَنَّ نَافِعَ بْنَ عَبْدِ الْحَارِثِ لَقِيَ عُمَرَ بْنَ الْخَطَّابِ بِعُسْفَانَ وَكَانَ عُمَرُ اسْتَعْمَلَهُ عَلَى أَهْلِ مَكَّةَ فَسَلَّمَ عَلَى عُمَرَ فَقَالَ لَهُ عُمَرُ مَنْ اسْتَخْلَفْتَ عَلَى أَهْلِ الْوَادِي فَقَالَ نَافِعٌ اسْتَخْلَفْتُ عَلَيْهِمْ ابْنَ أَبْزَى فَقَالَ عُمَرُ وَمَنْ ابْنُ أَبْزَى فَقَالَ مَوْلًى مِنْ مَوَالِينَا فَقَالَ عُمَرُ فَاسْتَخْلَفْتَ عَلَيْهِمْ مَوْلًى فَقَالَ يَا أَمِيرَ الْمُؤْمِنِينَ إِنَّهُ قَارِئٌ لِكِتَابِ اللَّهِ عَالِمٌ بِالْفَرَائِضِ فَقَالَ عُمَرُ أَمَا إِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِنَّ اللَّهَ يَرْفَعُ بِهَذَا الْكِتَابِ أَقْوَامًا وَيَضَعُ بِهِ آخَرِينَ",
+                "id": "Telah mengabarkan kepada kami [Al Hakam bin Nafi'] dari [Syu'aib bin Abu Hamzah] dari [Az Zuhri] telah menceritakan kepadaku [Amir bin Watsilah] bahwa Nafi' bin Abdul Harits menemui [Umar bin Al Khaththab] di 'Usfan. Ketika Umar itu telah mengangkatnya sebagai gubernur Makkah. Lalu ia memberi salam kepada Umar, Umar pun berkata kepadanya; Siapa yang memimpin penduduk lembah? Nafi' menjawab; Aku mengangkat Ibnu Abza sebagai pimpinan mereka. Umar pun bertanya; Siapa Ibnu Abza itu? Ia menjawab; Ia adalah salah seorang mantan budak yang telah kami merdekakan. Umar berkata; Lalu engkau menjadikan seorang mantan budak untuk memimpin mereka? Ia menjawab; Wahai Amirul Mukminin, sesungguhnya ia orang yang selalu membaca Al Qur'an lagi menguasai faraidl (hukum waris). Umar berkata; Ketahuilah sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya Allah akan mengangkat derajat beberapa kaum dengan kitab ini (Al Qur`an) dan menghinakan beberapa kaum lainnya dengannya pula.\""
+            },
+            {
+                "number": 2825,
+                "arab": " حَدَّثَنَا أَبُو الْمُغِيرَةِ حَدَّثَنَا عَبْدَةُ عَنْ خَالِدِ بْنِ مَعْدَانَ قَالَ إِنَّ الَّذِي يَقْرَأُ الْقُرْآنَ لَهُ أَجْرٌ وَإِنَّ الَّذِي يَسْتَمِعُ لَهُ أَجْرَانِ",
+                "id": "Telah menceritakan kepada kami [Abu Al Mughirah] telah menceritakan kepada kami [Abdah] dari [Khalid bin Ma'dan] ia berkata; Sesungguhnya orang yang membaca Al Qur'an mendapatkan satu pahala dan orang yang mendengarkannya mendapatkan dua pahala."
+            },
+            {
+                "number": 2826,
+                "arab": " حَدَّثَنَا رَزِينُ بْنُ عَبْدِ اللَّهِ بْنِ حُمَيْدٍ عَنْ عَبْدِ الرَّزَّاقِ عَنْ ابْنِ جُرَيْجٍ عَنْ عَطَاءٍ عَنْ ابْنِ عَبَّاسٍ قَالَ مَنْ اسْتَمَعَ إِلَى آيَةٍ مِنْ كِتَابِ اللَّهِ كَانَتْ لَهُ نُورًا",
+                "id": "Telah menceritakan kepada kami [Razin bin Abdullah bin Humaid] dari [Abdurrazaq] dari [Ibnu Juraij] dari ['Atha`] dari [Ibnu Abbas] ia berkata; Barangsiapa yang mendengarkan satu ayat dari Kitabullah, maka ayat itu akan menjadi cahaya baginya."
+            },
+            {
+                "number": 2827,
+                "arab": " أَخْبَرَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا هِشَامٌ وَهَمَّامٌ قَالَا حَدَّثَنَا قَتَادَةُ عَنْ زُرَارَةَ بْنِ أَوْفَى عَنْ سَعْدِ بْنِ هِشَامٍ عَنْ عَائِشَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ الَّذِي يَقْرَأُ الْقُرْآنَ وَهُوَ مَاهِرٌ بِهِ فَهُوَ مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ وَالَّذِي يَقْرَؤُهُ وَهُوَ يَشْتَدُّ عَلَيْهِ فَلَهُ أَجْرَانِ",
+                "id": "Telah mengabarkan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] dan [Hammam] keduanya berkata; Telah menceritakan kepada kami [Qatadah] dari [Zurarah bin Aufa] dari [Sa'd bin Hisyam] dari [A`isyah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Orang yang membaca Al Qur'an dan mahir membacanya bersama para malaikat yang mulia lagi berbakti (taat). Sedangkan orang yang membacanya dengan bersusah payah, maka ia mendapatkan dua pahala.\""
+            },
+            {
+                "number": 2828,
+                "arab": " حَدَّثَنَا مَرْوَانُ بْنُ مُحَمَّدٍ حَدَّثَنَا سَعِيدٌ هُوَ ابْنُ عَبْدِ الْعَزِيزِ عَنْ إِسْمَعِيلَ بْنِ عُبَيْدِ اللَّهِ عَنْ وَهْبٍ الذِّمَارِيِّ قَالَ مَنْ آتَاهُ اللَّهُ الْقُرْآنَ فَقَامَ بِهِ آنَاءَ اللَّيْلِ وَآنَاءَ النَّهَارِ وَعَمِلَ بِمَا فِيهِ وَمَاتَ عَلَى الطَّاعَةِ بَعَثَهُ اللَّهُ يَوْمَ الْقِيَامَةِ مَعَ السَّفَرَةِ وَالْأَحْكَامِ قَالَ سَعِيدٌ السَّفَرَةُ الْمَلَائِكَةُ وَالْأَحْكَامُ الْأَنْبِيَاءُ قَالَ وَمَنْ كَانَ حَرِيصًا وَهُوَ يَتَفَلَّتُ مِنْهُ وَهُوَ لَا يَدَعُهُ أُوتِيَ أَجْرَهُ مَرَّتَيْنِ وَمَنْ كَانَ عَلَيْهِ حَرِيصًا وَهُوَ يَتَفَلَّتُ مِنْهُ وَمَاتَ عَلَى الطَّاعَةِ فَهُوَ مِنْ أَشْرَافِهِمْ وَفُضِّلُوا عَلَى النَّاسِ كَمَا فُضِّلَتْ النُّسُورُ عَلَى سَائِرِ الطَّيْرِ وَكَمَا فُضِّلَتْ مَرْجَةٌ خَضْرَاءُ عَلَى مَا حَوْلَهَا مِنْ الْبِقَاعِ فَإِذَا كَانَ يَوْمُ الْقِيَامَةِ قِيلَ أَيْنَ الَّذِينَ كَانُوا يَتْلُونَ كِتَابِي لَمْ يُلْهِهِمْ اتِّبَاعُ الْأَنْعَامِ فَيُعْطَى الْخُلْدَ وَالنَّعِيمَ فَإِنْ كَانَ أَبَوَاهُ مَاتَا عَلَى الطَّاعَةِ جُعِلَ عَلَى رُءُوسِهِمَا تَاجُ الْمُلْكِ فَيَقُولَانِ رَبَّنَا مَا بَلَغَتْ هَذَا أَعْمَالُنَا فَيَقُولُ بَلَى إِنَّ ابْنَكُمَا كَانَ يَتْلُو كِتَابِي",
+                "id": "Telah menceritakan kepada kami [Marwan bin Muhammad] telah menceritakan kepada kami [Sa'id] ia adalah Ibnu Abdul Aziz, dari [Isma'il bin ubaidhullah] dari [Wahb Adz Dzimari] ia berkata; Barangsiapa yang diberikan Al Qur'an oleh Allah, lalu ia membaca Al Qur'an itu di ujung malam dan di ujung siang serta mengamalkan isinya dan ia meninggal dalam ketaatan (kepada Allah), niscaya Allah akan membangkitkannya pada hari kiamat bersama para malaikat yang mulia dan para hakim. Sa'id berkata; Safarah adalah para malaikat dan ahkam adalah para nabi. Ia melanjutkan; Barangsiapa yang menjaga Al Qur'an namun ia tetap lepas dari hafalannya, padahal ia tidak pernah meninggalkannya, maka ia diberi pahala dua kali. Barangsiapa yang menjaga Al Qur'an namun ia tetap lepas dari hafalannya, sedangkan ia meninggal dalam ketaatan (kepada Allah), maka ia termasuk manusia yang paling mulia dan diutamakan dari manusia lainnya sebagaimana burung elang yang diutamakan atas seluruh burung, juga tanah hijau yang dipenuhi rerumputan lebih disukai dari tanah-tanah di sekitarnya. Maka jika hari kiamat telah tiba, dikatakan; Dimanakah orang-orang yang membaca kitabku? Mereka tidak dilenakan oleh mengejar kenikmatan. Lalu diberikan kepada mereka keabadian dan kenikmatan. Jika kedua orang tuanya meninggal dalam ketaatan (kepada Allah), maka diletakkan di atas kepala orang tuanya itu mahkota kerajaan. Lalu keduanya pun berkata; Wahai Rabb kami, amal kami tidak mungkin membawa kami kepada derajat ini. Dia menjawab: Tentu, sesungguhnya anak kalian berdua yang selalu membaca kitabKu."
+            },
+            {
+                "number": 2829,
+                "arab": " أَخْبَرَنَا قَبِيصَةُ أَخْبَرَنَا سُفْيَانُ عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي فَاتِحَةِ الْكِتَابِ شِفَاءٌ مِنْ كُلِّ دَاءٍ",
+                "id": "Telah mengabarkan kepada kami [Qabishah] telah mengabarkan kepada kami [Sufyan] dari [Abdul Malik bin Umair] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Surat Al Fatihah adalah penawar dari segala penyakit.\""
+            },
+            {
+                "number": 2830,
+                "arab": " حَدَّثَنَا بِشْرُ بْنُ عُمَرَ الزَّهْرَانِيُّ حَدَّثَنَا شُعْبَةُ عَنْ خُبَيْبِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ حَفْصِ بْنِ عَاصِمٍ عَنْ أَبِي سَعِيدِ بْنِ الْمُعَلَّى الْأَنْصَارِيِّ قَالَ مَرَّ بِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ أَلَمْ يَقُلْ اللَّهُ عَزَّ وَجَلَّ { يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ } قَالَ أَلَا أُعَلِّمُكَ أَعْظَمَ سُورَةٍ فِي الْقُرْآنِ قَبْلَ أَنْ أَخْرُجَ مِنْ الْمَسْجِدِ فَلَمَّا أَرَادَ أَنْ يَخْرُجَ قَالَ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ وَهِيَ السَّبْعُ الْمَثَانِي وَالْقُرْآنُ الْعَظِيمُ الَّذِي أُوتِيتُمْ",
+                "id": "Telah menceritakan kepada kami [Bisyr bin Umar Az Zahrani] telah menceritakan kepada kami [Syu'bah] dari [Khubaib bin Abdurrahman] dari [Hafsh bin 'Ashim] dari [Abu Sa'id bin Al Mu'alla Al Anshari] ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah lewati di hadapanku, lalu beliau bersabda: \"Bukankah Allah 'azza wajalla telah berfirman: (Hai orang-orang yang beriman, penuhilah seruan Allah dan seruan Rasul apabila Rasul menyeru kamu).\" Beliau melanjutkan: \"Maukah aku ajarkan kepadamu surat yang paling agung di dalam Al Qur'an sebelum aku keluar dari masjid?\" Ketika beliau hendak keluar, beliau bersabda: \"Alhamdulillahi rabbil 'alamin, ia adalah sab'ul matsani dan Al Qur'an yang agung yang diberikan kepada kalian.\" "
+            },
+            {
+                "number": 2831,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ سَعِيدٍ حَدَّثَنَا أَبُو أُسَامَةَ عَنْ عَبْدِ الْحَمِيدِ بْنِ جَعْفَرٍ عَنْ الْعَلَاءِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ عَنْ أُبَيِّ بْنِ كَعْبٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَاتِحَةُ الْكِتَابِ هِيَ السَّبْعُ الْمَثَانِي",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Sa'id] telah menceritakan kepada kami [Abu Usamah] dari [Abdul Hamid bin Ja'far] dari [Al 'Ala` bin Abdurrahman] dari [ayahnya] dari [Abu Hurairah] dari [Ubay bin Ka'b] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Fatihatul Kitab adalah sab'ul matsani.\" "
+            },
+            {
+                "number": 2832,
+                "arab": " حَدَّثَنَا نُعَيْمُ بْنُ حَمَّادٍ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ عَنْ الْعَلَاءِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَا أُنْزِلَتْ فِي التَّوْرَاةِ وَلَا فِي الْإِنْجِيلِ وَالزَّبُورِ وَالْقُرْآنِ مِثْلُهَا يَعْنِي أُمَّ الْقُرْآنِ وَإِنَّهَا لَسَبْعٌ مِنْ الْمَثَانِي وَالْقُرْآنُ الْعَظِيمُ الَّذِي أُعْطِيتُ",
+                "id": "Telah menceritakan kepada kami [Nu'aim bin Hammad] telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Al 'Ala` bin Abdurrahman] dair [ayahnya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak pernah diturunkan dalam Taurat, Injil, Zabur dan Al Qur'an yang sepertinya, yakni ummul Qur'an (surat Al Fatihah). Sesungguhnya ia adalah sab'ul matsani dan Al Qur'an yang agung yang diberikan kepadaku.\""
+            },
+            {
+                "number": 2833,
+                "arab": " أَخْبَرَنَا أَبُو عَلِيٍّ الْحَنَفِيُّ حَدَّثَنِي ابْنُ أَبِي ذِئْبٍ عَنْ الْمَقْبُرِيِّ عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْحَمْدُ لِلَّهِ أُمُّ الْقُرْآنِ وَأُمُّ الْكِتَابِ وَالسَّبْعُ الْمَثَانِي",
+                "id": "Telah mengabarkan kepada kami [Abu Ali bin Al Hanafi] telah menceritakan kepadaku [Ibnu Abu Dzi`b] dari [Al Maqburi] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Alhamdulillah (surat Al Fatihah) adalah ummul Qur'an, ummul kitab dan sab'ul matsani.\""
+            },
+            {
+                "number": 2834,
+                "arab": " أَخْبَرَنَا أَبُو نُعَيْمٍ حَدَّثَنَا فِطْرٌ عَنْ أَبِي إِسْحَقَ عَنْ أَبِي الْأَحْوَصِ عَنْ عَبْدِ اللَّهِ قَالَ مَا مِنْ بَيْتٍ يُقْرَأُ فِيهِ سُورَةُ الْبَقَرَةِ إِلَّا خَرَجَ مِنْهُ الشَّيْطَانُ وَلَهُ ضَرِيطٌ",
+                "id": "Telah mengabarkan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Fithr] dari [Abu Ishaq] dari [Abu Al Ahwash] dari [Abdullah] ia berkata; Tidak ada satu rumah pun yang di dalamnya dibaca surat Al Baqarah kecuali setan keluar darinya dengan terkentut-kentut."
+            },
+            {
+                "number": 2835,
+                "arab": " حَدَّثَنَا أَبُو الْمُغِيرَةِ حَدَّثَنَا عَبْدَةُ عَنْ خَالِدِ بْنِ مَعْدَانَ قَالَ سُورَةُ الْبَقَرَةِ تَعْلِيمُهَا بَرَكَةٌ وَتَرْكُهَا حَسْرَةٌ وَلَا يَسْتَطِيعُهَا الْبَطَلَةُ وَهِيَ فُسْطَاطُ الْقُرْآنِ",
+                "id": "Telah menceritakan kepada kami [Abu Al Mughirah] telah menceritakan kepada kami [Abdah] dari [Khalid bin Ma'dan] ia berkata; Mengajarkan surat Al Baqarah adalah keberkahan dan meninggalkannya adalah kerugian. Para penyihir pun tidak akan sanggup menghadapinya. Ia adalah penyempurna Al Qur'an."
+            },
+            {
+                "number": 2836,
+                "arab": " حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ عَنْ عَاصِمٍ عَنْ أَبِي الْأَحْوَصِ عَنْ عَبْدِ اللَّهِ أَنَّهُ قَالَ إِنَّ لِكُلِّ شَيْءٍ سَنَامًا وَإِنَّ سَنَامَ الْقُرْآنِ سُورَةُ الْبَقَرَةِ وَإِنَّ لِكُلِّ شَيْءٍ لُبَابًا وَإِنَّ لُبَابَ الْقُرْآنِ الْمُفَصَّلُ قَالَ أَبُو مُحَمَّد اللُّبَابُ الْخَالِصُ",
+                "id": "Telah menceritakan kepada kami [Amr bin 'Ashim] telah menceritakan kepada kami [Hammad bin Salamah] dari ['Ashim] dari [Abu Al Ahwash] dari [Abdullah] bahwa ia berkata; Sesungguhnya setiap sesuatu memiliki pemimpin, sesungguhnya pemimpin Al Qur'an adalah surat Al Baqarah. Dan sesungguhnya setiap sesuatu memiliki inti dan inti Al Qur'an adalah Al Mufashshal. [Abu Muhammad] berkata; Lubab berarti inti. "
+            },
+            {
+                "number": 2837,
+                "arab": " حَدَّثَنَا إِسْمَعِيلُ بْنُ أَبَانَ عَنْ مُحَمَّدِ بْنِ طَلْحَةَ عَنْ زُبَيْدٍ عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْأَسْوَدِ قَالَ مَنْ قَرَأَ سُورَةَ الْبَقَرَةِ تُوِّجَ بِهَا تَاجًا فِي الْجَنَّةِ",
+                "id": "Telah menceritakan kepada kami [Isma'il bin Aban] dari [Muhammad bin Thalhah] dari [Zubaid] dari [Abdurrahman bin Al Aswad] ia berkata; Barangsiapa yang membaca surat Al Baqarah, maka ia akan diberi mahkota kelak di dalam surga."
+            },
+            {
+                "number": 2838,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا شُعْبَةُ عَنْ سَلَمَةَ بْنِ كُهَيْلٍ عَنْ أَبِي الْأَحْوَصِ قَالَ قَالَ عَبْدُ اللَّهِ إِنَّ الشَّيْطَانَ إِذَا سَمِعَ سُورَةَ الْبَقَرَةِ تُقْرَأُ فِي بَيْتٍ خَرَجَ مِنْهُ",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Syu'bah] dari dari [Salamah bin Kuhail] dari [Abu Al Ahwash] ia berkata; [Abdullah] berkata; Sesungguhnya jika setan mendengar surat Al Baqarah dibaca di dalam sebuah rumah, ia pasti akan keluar darinya."
+            },
+            {
+                "number": 2839,
+                "arab": " حَدَّثَنَا أَبُو الْمُغِيرَةِ حَدَّثَنَا صَفْوَانُ حَدَّثَنِي أَيْفَعُ بْنُ عَبْدٍ الْكَلَاعِيُّ قَالَ قَالَ رَجُلٌ يَا رَسُولَ اللَّهِ أَيُّ سُورَةِ الْقُرْآنِ أَعْظَمُ قَالَ قُلْ هُوَ اللَّهُ أَحَدٌ قَالَ فَأَيُّ آيَةٍ فِي الْقُرْآنِ أَعْظَمُ قَالَ آيَةُ الْكُرْسِيِّ { اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ } قَالَ فَأَيُّ آيَةٍ يَا نَبِيَّ اللَّهِ تُحِبُّ أَنْ تُصِيبَكَ وَأُمَّتَكَ قَالَ خَاتِمَةُ سُورَةِ الْبَقَرَةِ فَإِنَّهَا مِنْ خَزَائِنِ رَحْمَةِ اللَّهِ مِنْ تَحْتِ عَرْشِهِ أَعْطَاهَا هَذِهِ الْأُمَّةَ لَمْ تَتْرُكْ خَيْرًا مِنْ خَيْرِ الدُّنْيَا وَالْآخِرَةِ إِلَّا اشْتَمَلَتْ عَلَيْهِ",
+                "id": "Telah menceritakan kepada kami [Abu Al Mughirah] telah menceritakan kepada kami [Shafwan] telah menceritakan kepadaku [Aifa' bin Abdul Kala'i] ia berkata; Ada seorang bertanya; Wahai Rasulullah, surat Al Qur'an mana yang paling agung? Beliau menjawab: \"QUL HUWALLAHU AHAD (surat Al Ikhlas).\" Ia bertanya lagi; Lalu ayat apa lagi yang paling agung di dalam Al Qur'an? Beliau menjawab: \"Ayat Kursi: ALLAHU LAAILAAHA ILLA HUWAL HAYYUL QAYYUM (Allah tidak ada Ilah melainkan Dia Yang Hidup kekal lagi terus menerus mengurus (makhlukNya)).\" Ia bertanya lagi; Ayat mana wahai Nabiyullah, yang engkau dan juga umatmu inginkan untuk mendapatkannya? Beliau menjawab: \"Ayat penutup surat Al Baqarah, sebab sesungguhnya ia termasuk perbendaharaan rahmat Allah dari bawah ArasyNya. Dia memberikannya kepada umat ini. Tidak ada satu kebaikan pun dari pada kebaikan dunia dan akhirat kecuali telah dikandung olehnya.\" "
+            },
+            {
+                "number": 2840,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا أَبُو عَاصِمٍ الثَّقَفِيُّ حَدَّثَنَا الشَّعْبِيُّ قَالَ قَالَ عَبْدُ اللَّهِ بْنُ مَسْعُودٍ لَقِيَ رَجُلٌ مِنْ أَصْحَابِ مُحَمَّدٍ رَجُلًا مِنْ الْجِنِّ فَصَارَعَهُ فَصَرَعَهُ الْإِنْسِيُّ فَقَالَ لَهُ الْإِنْسِيُّ إِنِّي لَأَرَاكَ ضَئِيلًا شَخِيتًا كَأَنَّ ذُرَيِّعَتَيْكَ ذُرَيِّعَتَا كَلْبٍ فَكَذَلِكَ أَنْتُمْ مَعْشَرَ الْجِنِّ أَمْ أَنْتَ مِنْ بَيْنِهِمْ كَذَلِكَ قَالَ لَا وَاللَّهِ إِنِّي مِنْهُمْ لَضَلِيعٌ وَلَكِنْ عَاوِدْنِي الثَّانِيَةَ فَإِنْ صَرَعْتَنِي عَلَّمْتُكَ شَيْئًا يَنْفَعُكَ قَالَ نَعَمْ قَالَ تَقْرَأُ { اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ } قَالَ نَعَمْ قَالَ فَإِنَّكَ لَا تَقْرَؤُهَا فِي بَيْتٍ إِلَّا خَرَجَ مِنْهُ الشَّيْطَانُ لَهُ خَبَجٌ كَخَبَجِ الْحِمَارِ ثُمَّ لَا يَدْخُلُهُ حَتَّى يُصْبِحَ قَالَ أَبُو مُحَمَّد الضَّئِيلُ الدَّقِيقُ وَالشَّخِيتُ الْمَهْزُولُ وَالضَّلِيعُ جَيِّدُ الْأَضْلَاعِ وَالْخَبَجُ الرِّيحُ",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Abu 'Ashim Ats Tsaqafi] telah menceritakan kepada kami [Asy Sya'bi] ia berkata; [Abdullah bin Mas'ud] berkata; Seorang sahabat Muhammad bertemu seseorang dari bangsa jin. Lalu ia bergulat dengannya dan ternyata seseorang dari bangsa manusia dapat mengalahkannya. Lalu seseorang dari bangsa manusia berkata kepadanya; Sesungguhnya aku melihatmu begitu lemah lagi kurus, seakan-akan kedua lenganmu seperti lengan anjing. Seperti itulah kalian hai bangsa jin. Apakah kamu di antara jin-jin lain seperti itu? Ia menjawab; Tidak demi Allah, sesungguhnya aku termasuk yang kuat dari mereka, tetapi temuilah aku kedua kalinya. Jika kamu dapat mengalahkanku lagi, maka aku akan mengajarkan sesuatu yang bermanfaat bagimu. Ia berkata; Baik. Ia berkata; Kamu membaca ayat: ALLAHU LAAILAAHA ILLA HUWAL HAYYUL QAYYUM (Allah tidak ada Ilah melainkan Dia Yang Maha Hidup kekal lagi terus menerus mengurus (makhlukNya). Ia berkata; Baik. Ia melanjutkan; Sesungguhnya tidaklah kamu membacanya di sebuah rumah kecuali setan akan keluar dari rumah itu sambil mengeluarkan angin seperti suara keledai. Kemudian ia tidak akan masuk memasukinya hingga pagi hari. Abu Muhammad berkata; Ia berkata; Adl Dla`il berarti lemah, Asy Syakhit berarti kuat dan Al Khabaj berarti angin."
+            },
+            {
+                "number": 2841,
+                "arab": " حَدَّثَنَا جَعْفَرُ بْنُ عَوْنٍ أَخْبَرَنَا أَبُو الْعُمَيْسِ عَنْ الشَّعْبِيِّ قَالَ قَالَ عَبْدُ اللَّهِ مَنْ قَرَأَ عَشْرَ آيَاتٍ مِنْ سُورَةِ الْبَقَرَةِ فِي لَيْلَةٍ لَمْ يَدْخُلْ ذَلِكَ الْبَيْتَ شَيْطَانٌ تِلْكَ اللَّيْلَةَ حَتَّى يُصْبِحَ أَرْبَعًا مِنْ أَوَّلِهَا وَآيَةُ الْكُرْسِيِّ وَآيَتَانِ بَعْدَهَا وَثَلَاثٌ خَوَاتِيمُهَا أَوَّلُهَا { لِلَّهِ مَا فِي السَّمَوَاتِ }",
+                "id": "Telah menceritakan kepada kami [Ja'far bin 'Aun] telah mengabarkan kepada kami [Abu Al 'Umais] dari [Asy Sya'bi] ia berkata; [Abdullah] berkata; Barangsiapa yang membaca sepuluh ayat dari surat Al Baqarah pada malam hari, niscaya setan tidak akan masuk ke dalam rumahnya pada malam itu hingga pagi hari. Yaitu empat ayat dari awal surat, ayat kursi dan dua ayat setelahnya, serta tiga ayat penutup surat, yaitu mulai dari ayat: LILLAAHI MAA FIS SAMAAWAATI… (Kepunyaan Allahlah segala apa yang ada di langit…) "
+            },
+            {
+                "number": 2842,
+                "arab": " أَخْبَرَنَا عَمْرُو بْنُ عَاصِمٍ حَدَّثَنَا حَمَّادٌ عَنْ عَاصِمٍ عَنْ الشَّعْبِيِّ عَنْ ابْنِ مَسْعُودٍ قَالَ مَنْ قَرَأَ أَرْبَعَ آيَاتٍ مِنْ أَوَّلِ سُورَةِ الْبَقَرَةِ وَآيَةَ الْكُرْسِيِّ وَآيَتَانِ بَعْدَ آيَةِ الْكُرْسِيِّ وَثَلَاثًا مِنْ آخِرِ سُورَةِ الْبَقَرَةِ لَمْ يَقْرَبْهُ وَلَا أَهْلَهُ يَوْمَئِذٍ شَيْطَانٌ وَلَا شَيْءٌ يَكْرَهُهُ وَلَا يُقْرَأْنَ عَلَى مَجْنُونٍ إِلَّا أَفَاقَ",
+                "id": "Telah mengabarkan kepada kami [Amr bin 'Ashim] telah menceritakan kepada kami [Hammad] dari ['Ashim] dari [Asy Sya'bi] dari [Ibnu Mas'ud] ia berkata; Barangsiapa yang membaca empat ayat dari awal surat Al Baqarah, ayat kursi, dua ayat setelahnya dan tiga ayat terakhir dari surat al Baqarah, maka tidak ada satu setan pun yang mendekati dirinya dan keluarganya pada hari itu, serta tidak ada pula sesuatu pun yang ia benci (mendatangkan madharat baginya). Tidaklah dibacakan ayat-ayat tersebut kepada orang gila, kecuali ia pasti sadar."
+            },
+            {
+                "number": 2843,
+                "arab": " حَدَّثَنَا سَعِيدُ بْنُ عَامِرٍ عَنْ شُعْبَةَ عَنْ أَبِي إِسْحَقَ عَمَّنْ سَمِعَ عَلِيًّا يَقُولُ مَا كُنْتُ أَرَى أَنَّ أَحَدًا يَعْقِلُ يَنَامُ حَتَّى يَقْرَأَ هَؤُلَاءِ الْآيَاتِ مِنْ آخِرِ سُورَةِ الْبَقَرَةِ وَإِنَّهُنَّ لَمِنْ كَنْزٍ تَحْتَ الْعَرْشِ",
+                "id": "Telah menceritakan kepada kami [Sa'id bin Amir] dari [Syu'bah] dari [Abu Ishaq] dari [orang yang mendengar] [Ali] berkata; Aku tidak melihat seorang berakal tidur hingga ia membaca ayat-ayat terakhir surat Al Baqarah. Sesungguhnya ayat-ayat tersebut termasuk perbendaharaan (rahmat Allah) di bawah 'Arasy."
+            },
+            {
+                "number": 2844,
+                "arab": " حَدَّثَنَا إِسْحَقُ بْنُ عِيسَى عَنْ أَبِي الْأَحْوَصِ عَنْ أَبِي سِنَانٍ عَنْ الْمُغِيرَةِ بْنِ سُبَيْعٍ وَكَانَ مِنْ أَصْحَابِ عَبْدِ اللَّهِ قَالَ مَنْ قَرَأَ عَشْرَ آيَاتٍ مِنْ الْبَقَرَةِ عِنْدَ مَنَامِهِ لَمْ يَنْسَ الْقُرْآنَ أَرْبَعُ آيَاتٍ مِنْ أَوَّلِهَا وَآيَةُ الْكُرْسِيِّ وَآيَتَانِ بَعْدَهَا وَثَلَاثٌ مِنْ آخِرِهَا قَالَ إِسْحَقُ لَمْ يَنْسَ مَا قَدْ حَفِظَ قَالَ أَبُو مُحَمَّد مِنْهُمْ مَنْ يَقُولُ الْمُغِيرَةُ بْنُ سُمَيْعٍ",
+                "id": "Telah menceritakan kepada kami [Ishaq bin Isa] dari [Abu Al Ahwash] dari [Abu Sinan] dari [Al Mughirah bin Subai'], ia termasuk sahabat Abdullah, ia berkata; Barangsiapa yang membaca sepuluh ayat dari surat Al Baqarah ketika hendak tidur, maka ia tidak akan lupa Al Qur'an. Yaitu empat ayat dari awal surat, ayat kursi, dua ayat setelahnya dan tiga ayat terakhir. Ishaq berkata; Ia tidak akan lupa ayat-ayat Al Qur'an yang telah dihafalnya. Abu Muhammad berkata; Di antara mereka yang mengatakan adalah Al Mughirah bin Sumai'."
+            },
+            {
+                "number": 2845,
+                "arab": " حَدَّثَنَا إِسْحَقُ بْنُ عِيسَى عَنْ أَبِي مُعَاوِيَةَ عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرٍ الْمُلَيْكِيِّ عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ قَرَأَ آيَةَ الْكُرْسِيِّ وَفَاتِحَةَ حم الْمُؤْمِنِ إِلَى قَوْلِهِ { إِلَيْهِ الْمَصِيرُ } لَمْ يَرَ شَيْئًا يَكْرَهُهُ حَتَّى يُمْسِيَ وَمَنْ قَرَأَهَا حِينَ يُمْسِي لَمْ يَرَ شَيْئًا يَكْرَهُهُ حَتَّى يُصْبِحَ",
+                "id": "Telah menceritakan kepada kami [Ishaq bin Isa] dari [Abu Mu'awiyah] dari [Abdurahman bin Abu Bakr Al Mulaiki] dari [Abu Salamah] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa yang membaca ayat kursi dan ayat pembuka surat Al Mukmin (yakni) HAAMIIM sampai firmanNya WA ILAIHIL MASHIIR (Dan hanya kepadaNyalah kembali (semua makhluk)), maka ia tidak akan melihat sesuatu yang dibenci hingga sore. Barangsiapa yang membacanya ketika berada di waktu sore maka ia tidak akan melihat sesuatu yang dibenci hingga pagi hari.\""
+            },
+            {
+                "number": 2846,
+                "arab": " حَدَّثَنَا عَفَّانُ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ أَخْبَرَنَا أَشْعَثُ بْنُ عَبْدِ الرَّحْمَنِ الْجَرْمِيُّ عَنْ أَبِي قِلَابَةَ عَنْ أَبِي الْأَشْعَثِ الصَّنْعَانِيِّ عَنْ النُّعْمَانِ بْنِ بَشِيرٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِنَّ اللَّهَ كَتَبَ كِتَابًا قَبْلَ أَنْ يَخْلُقَ السَّمَوَاتِ وَالْأَرْضَ بِأَلْفَيْ عَامٍ فَأَنْزَلَ مِنْهُ آيَتَيْنِ خَتَمَ بِهِمَا سُورَةَ الْبَقَرَةِ وَلَا تُقْرَأَانِ فِي دَارٍ ثَلَاثَ لَيَالٍ فَيَقْرَبُهَا شَيْطَانٌ",
+                "id": "Telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Hammad bin Salamah] telah mengabarkan kepada kami [Asy'ats bin Abdurrahman Al Jarmi] dari [Abu Qilabah] dari [Abu Al Asy'ats Ash Shan'ani] dari [An Nu'man bin Basyir] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya Allah telah menulis sebuah kitab dua ribu tahun sebelum Dia menciptakan langit dan bumi. Lalu Dia menurunkan dua ayat dari kitab tersebut, Dia menutup surat Al Baqarah dengan kedua ayat itu. Dan jika dua ayat itu dibaca di sebuah rumah selama tiga malam, maka setan tidak dapat mendekatinya.\""
+            },
+            {
+                "number": 2847,
+                "arab": " حَدَّثَنَا سَعِيدُ بْنُ عَامِرٍ عَنْ شُعْبَةَ عَنْ مَنْصُورٍ عَنْ إِبْرَاهِيمَ عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ عَنْ أَبِي مَسْعُودٍ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ قَرَأَ الْآيَتَيْنِ الْآخِرَتَيْنِ مِنْ سُورَةِ الْبَقَرَةِ فِي لَيْلَةٍ كَفَتَاهُ",
+                "id": "Telah menceritakan kepada kami [Sa'id bin Amir] dari [Syu'bah] dari [Manshur] dari [Ibrahim] dari [Abdurrahman bin Yazid] dari [Abu Mas'ud] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa yang membaca dua ayat terakhir dari surat Al Baqarah pada malam hari, maka kedua ayat itu telah mencukupinya.\""
+            },
+            {
+                "number": 2848,
+                "arab": " حَدَّثَنَا أَبُو عَاصِمٍ حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ أَبِي زِيَادٍ عَنْ شَهْرِ بْنِ حَوْشَبٍ عَنْ أَسْمَاءَ بِنْتِ يَزِيدَ قَالَتْ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اسْمُ اللَّهِ الْأَعْظَمُ فِي هَاتَيْنِ الْآيَتَيْنِ { اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ } { وَإِلَهُكُمْ إِلَهٌ وَاحِدٌ }",
+                "id": "Telah menceritakan kepada kami [Abu 'Ashim] telah menceritakan kepada kami [ubaidhullah bin Abu Ziyad] dari [Syahr bin Hausyab] dari [Asma` bintu Yazid] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Nama Allah yang paling agung terdapat dalam dua ayat ini: LAA ILAAHA ILLA HUWAL HAYYUL QAYYUM (Allah tidak ada Ilah melainkan Dia Yang Hidup kekal lagi terus menerus mengurus (makhlukNya)) dan WA ILAAHUKUM ILAAHUN WAHID (Rabb kalian adalah Rabb Yang Maha Esa).\""
+            },
+            {
+                "number": 2849,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا بَشِيرٌ هُوَ ابْنُ الْمُهَاجِرِ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ عَنْ أَبِيهِ قَالَ كُنْتُ جَالِسًا عِنْدَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَسَمِعْتُهُ يَقُولُ تَعَلَّمُوا سُورَةَ الْبَقَرَةِ فَإِنَّ أَخْذَهَا بَرَكَةٌ وَتَرْكَهَا حَسْرَةٌ وَلَا يَسْتَطِيعُهَا الْبَطَلَةُ ثُمَّ سَكَتَ سَاعَةً ثُمَّ قَالَ تَعَلَّمُوا سُورَةَ الْبَقَرَةِ وَآلِ عِمْرَانَ فَإِنَّهُمَا الزَّهْرَاوَانِ وَإِنَّهُمَا تُظِلَّانِ صَاحِبَهُمَا يَوْمَ الْقِيَامَةِ كَأَنَّهُمَا غَمَامَتَانِ أَوْ غَيَايَتَانِ أَوْ فِرْقَانِ مِنْ طَيْرٍ صَوَافَّ وَإِنَّ الْقُرْآنَ يَلْقَى صَاحِبَهُ يَوْمَ الْقِيَامَةِ حِينَ يَنْشَقُّ عَنْهُ الْقَبْرُ كَالرَّجُلِ الشَّاحِبِ فَيَقُولُ لَهُ هَلْ تَعْرِفُنِي فَيَقُولُ مَا أَعْرِفُكَ فَيَقُولُ أَنَا صَاحِبُكَ الْقُرْآنُ الَّذِي أَظْمَأْتُكَ فِي الْهَوَاجِرِ وَأَسْهَرْتُ لَيْلَكَ وَإِنَّ كُلَّ تَاجِرٍ مِنْ وَرَاءِ تِجَارَتِهِ وَإِنَّكَ الْيَوْمَ مِنْ وَرَاءِ كُلِّ تِجَارَةٍ فَيُعْطَى الْمُلْكَ بِيَمِينِهِ وَالْخُلْدَ بِشِمَالِهِ وَيُوضَعُ عَلَى رَأْسِهِ تَاجُ الْوَقَارِ وَيُكْسَى وَالِدَاهُ حُلَّتَيْنِ لَا يُقَوَّمُ لَهُمَا الدُّنْيَا فَيَقُولَانِ بِمَ كُسِينَا هَذَا وَيُقَالُ لَهُمَا بِأَخْذِ وَلَدِكُمَا الْقُرْآنَ ثُمَّ يُقَالُ لَهُ اقْرَأْ وَاصْعَدْ فِي دَرَجِ الْجَنَّةِ وَغُرَفِهَا فَهُوَ فِي صُعُودٍ مَا دَامَ يَقْرَأُ هَذًّا كَانَ أَوْ تَرْتِيلًا",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Basyir] ia adalah Ibnu Al Muhajir telah menceritakan kepadaku [Abdullah bin Buraidah] dari [ayahnya] ia berkata; Aku pernah duduk di sebelah Nabi shallallahu 'alaihi wasallam, aku mendengar beliau bersabda: \"Pelajarilah surat Al Baqarah sebab mempelajarinya adalah keberkahan dan meninggalkannya adalah kerugian. Para penyihir tidak mampu mengalahkannya.\" Kemudian beliau diam sesaat, lalu bersabda: \"Pelajarilah surah Al Baqarah dan surah Ali Imran, sesungguhnya kedua surat itu dinamakan 'az zahrawan' dan kedua surat itu juga akan menaungi pembacanya pada hari kiamat. Seakan-akan kedua surat itu seperti dua buah awan atau dua benda yang biasa menaungi manusia atau dua kelompok burung yang membentangkan sayapnya. Sesungguhnya Al Qur'an akan menemui pembacanya pada hari kiamat ketika kubur terbelah seperti seorang laki-laki pucat karena takut. Ia berkata kepada pembacanya; Apakah engkau mengenalku? Ia menjawab; Aku tidak mengenalmu. Ia berkata; Aku adalah temanmu, Al Qur'an, yang menghilangkan haus pada siang hari yang panas dan membuatmu begadang di malam hari. Sesungguhnya setiap pedagang akan mendapatkan laba dari perdagangannya. Sesungguhnya hari ini engkau mendapatkan pahala dari setiap perdagangan (yang telah engkau lakukan). Lalu kerajaan diberikan di tangan kanan pembaca Al Qur'an itu dan keabadian di tangan kirinya, serta diletakkan mahkota ketenangan di kepalanya. Sementara kedua orang tuanya diberi dua perhiasan yang tidak ternilai harganya di dunia. Kedua orang tuanya berkata; Karena apa kami diberi perhiasan ini? Dikatakan kepada keduanya; Karena anak kalian mempelajari Al Qur'an. Kemudian dikatakan kepadanya; Bacalah dan naiklah ke tangga-tangga surga dan kamar-kamarnya. Maka ia pun terus naik selama ia membaca, baik secara cepat maupun secara lambat.\" "
+            },
+            {
+                "number": 2850,
+                "arab": " حَدَّثَنَا عَبْدُ اللَّهِ بْنُ صَالِحٍ حَدَّثَنِي مُعَاوِيَةُ عَنْ أَبِي يَحْيَى سُلَيْمِ بْنِ عَامِرٍ أَنَّهُ سَمِعَ أَبَا أُمَامَةَ يَقُولُ إِنَّ أَخًا لَكُمْ أُرِيَ فِي الْمَنَامِ أَنَّ النَّاسَ يَسْلُكُونَ فِي صَدْعِ جَبَلٍ وَعْرٍ طَوِيلٍ وَعَلَى رَأْسِ الْجَبَلِ شَجَرَتَانِ خَضْرَاوَانِ تَهْتِفَانِ هَلْ فِيكُمْ مَنْ يَقْرَأُ سُورَةَ الْبَقَرَةِ هَلْ فِيكُمْ مَنْ يَقْرَأُ سُورَةَ آلِ عِمْرَانَ فَإِذَا قَالَ الرَّجُلُ نَعَمْ دَنَتَا بِأَعْذَاقِهِمَا حَتَّى يَتَعَلَّقَ بِهِمَا فَتَخْطِرَانِ بِهِ الْجَبَلَ قَالَ أَبُو مُحَمَّد الْأَعْذَاقُ الْأَغْصَانُ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Shalih] telah menceritakan kepadaku [Mu'awiyah] dari [Abu Yahya Sulaim bin Amir] bahwa ia mendengar [Abu Umamah] berkata; Sesungguhnya ada seorang saudara kalian yang diperlihatkan dalam mimpi bahwa manusia berjalan di jalan setapak sebuah gunung yang tidak rata lagi panjang. Di puncak gunung itu ada dua batang pohon hijau yang bersuara; Apakah di antara kalian ada orang yang membaca surah Al Baqarah? Apakah di antara kalian ada orang yang membaca surah Ali Imran? Tiba-tiba ada seseorang menjawab; Ya, maka kedua pohon itu mendekatkan dahannya hingga orang itu dapat meraihnya. Lalu kedua pohon itu membawanya melewati gunung. Abu Muhammad berkata; Al A'dzaq berarti dahan pohon."
+            },
+            {
+                "number": 2851,
+                "arab": " حَدَّثَنَا عَبْدُ اللَّهِ بْنُ جَعْفَرٍ الرَّقِّيُّ عَنْ عُبَيْدِ اللَّهِ بْنِ عَمْرٍو عَنْ زَيْدٍ عَنْ جَابِرٍ عَنْ أَبِي الضُّحَى عَنْ مَسْرُوقٍ عَنْ عَبْدِ اللَّهِ قَالَ قَرَأَ رَجُلٌ عِنْدَ عَبْدِ اللَّهِ الْبَقَرَةَ وَآلَ عِمْرَانَ فَقَالَ قَرَأْتَ سُورَتَيْنِ فِيهِمَا اسْمُ اللَّهِ الْأَعْظَمُ الَّذِي إِذَا دُعِيَ بِهِ أَجَابَ وَإِذَا سُئِلَ بِهِ أَعْطَى",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Ja'far Ar Raqqi] dari [ubaidhullah bin Amr] dari [Zaid] dari [Jabir] dari [Abu Adl Dluha] dari [Masruq] dari [Abdullah] ia berkata; Ada seseorang membaca surat Al Baqarah dan surat Ali Imran di samping Abdullah, lalu ia pun berkata; Engkau telah membaca dua surat yang di dalamnya terdapat nama Allah yang paling agung, yang apabila digunakan ketika berdoa pasti diperkenankan dan apabila digunakan ketika meminta pasti dikabulkan."
+            },
+            {
+                "number": 2852,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ سَعِيدٍ حَدَّثَنَا عَبْدُ السَّلَامِ بْنُ حَرْبٍ عَنْ الْجُرَيْرِيِّ عَنْ أَبِي عَطَّافٍ عَنْ كَعْبٍ قَالَ مَنْ قَرَأَ الْبَقَرَةَ وَآلَ عِمْرَانَ جَاءَتَا يَوْمَ الْقِيَامَةِ تَقُولَانِ رَبَّنَا لَا سَبِيلَ عَلَيْهِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Sa'id] telah menceritakan kepada kami [Abdus Salam bin Harb] dari [Al Jurairi] dari [Abu 'Aththaf] dari [Ka'b] ia berkata; Barangsiapa yang membaca surat Al Baqarah dan surat Ali Imran, maka kedua surat itu akan datang pada hari kiamat seraya berkata; Wahai Rabb kami, tidak ada alasan untuk mencelakainya."
+            },
+            {
+                "number": 2853,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا إِسْرَائِيلُ عَنْ أَبِي إِسْحَقَ عَنْ سُلَيْمِ بْنِ حَنْظَلَةَ الْبَكْرِيِّ قَالَ قَالَ عَبْدُ اللَّهِ بْنُ مَسْعُودٍ مَنْ قَرَأَ آلَ عِمْرَانَ فَهُوَ غَنِيٌّ وَالنِّسَاءُ مُحَبِّرَةٌ قَالَ أَبُو مُحَمَّد مُحَبِّرَةٌ مُزَيِّنَةٌ",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Isra`il] dari [Abu Ishaq] dari [Sulaim bin Hanzhalah Al Bakri] ia berkata; [Abdullah bin Mas'ud] berkata; Barangsiapa yang membaca surat Ali Imran maka ia adalah orang kaya, sedangkan jika ia seorang perempuan maka ia adalah orang yang berhias. [Abu Muhammad] berkata; Muhabbirah berarti perempuan yang berhias."
+            },
+            {
+                "number": 2854,
+                "arab": " حَدَّثَنَا إِسْحَقُ بْنُ عِيسَى عَنْ ابْنِ لَهِيعَةَ عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ عَنْ أَبِي الْخَيْرِ عَنْ عُثْمَانَ بْنِ عَفَّانَ قَالَ مَنْ قَرَأَ آخِرَ آلِ عِمْرَانَ فِي لَيْلَةٍ كُتِبَ لَهُ قِيَامُ لَيْلَةٍ",
+                "id": "Telah menceritakan kepada kami [Ishaq bin Isa] dari [Ibnu Lahi'ah] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari [Utsman bin 'Affan] ia berkata; Barangsiapa yang membaca akhir surat Ali Imran pada malam hari, maka ditulis baginya pahala sholat malam."
+            },
+            {
+                "number": 2855,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ الْمُبَارَكِ حَدَّثَنَا صَدَقَةُ بْنُ خَالِدٍ عَنْ يَحْيَى بْنِ الْحَارِثِ عَنْ مَكْحُولٍ قَالَ مَنْ قَرَأَ سُورَةَ آلِ عِمْرَانَ يَوْمَ الْجُمُعَةِ صَلَّتْ عَلَيْهِ الْمَلَائِكَةُ إِلَى اللَّيْلِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Al Mubarak] telah menceritakan kepada kami [Shadaqah bin Khalid] dari [Yahya bin Al Harits] dari [Makhul] ia berkata; Barangsiapa yang membaca surat Ali Imran pada hari Jum'at, maka para malaikat mendo'akan untuknya sampai tiba malam hari."
+            },
+            {
+                "number": 2856,
+                "arab": " حَدَّثَنَا الْقَاسِمُ بْنُ سَلَّامٍ أَبُو عُبَيْدٍ قَالَ حَدَّثَنِي عُبَيْدُ اللَّهِ الْأَشْجَعِيُّ حَدَّثَنِي مِسْعَرٌ حَدَّثَنِي جَابِرٌ قَبْلَ أَنْ يَقَعَ فِيمَا وَقَعَ فِيهِ عَنْ الشَّعْبِيِّ قَالَ قَالَ عَبْدُ اللَّهِ نِعْمَ كَنْزُ الصُّعْلُوكِ سُورَةُ آلِ عِمْرَانَ يَقُومُ بِهَا فِي آخِرِ اللَّيْلِ",
+                "id": "Telah menceritakan kepada kami [Al Qasim bin Sallam Abu Ubaid] ia berkata; Telah menceritakan kepadaku [ubaidhullah Al Asyja'i] telah menceritakan kepadaku [Mis'ar] telah menceritakan kepadaku [Jabir] sebelum terjadi sesuatu padanya, dari [Asy Sya'bi] ia berkata; [Abdullah] berkata; Sebaik-baik perbendaharaan orang fakir adalah surat Ali Imran yang ia baca ketika melakukan sholat di akhir malam."
+            },
+            {
+                "number": 2857,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ سَعِيدٍ حَدَّثَنَا عَبْدُ السَّلَامِ عَنْ الْجُرَيْرِيِّ عَنْ أَبِي السَّلِيلِ قَالَ أَصَابَ رَجُلٌ دَمًا قَالَ فَأَوَى إِلَى وَادِي مَجَنَّةٍ وَادٍ لَا يُمْسِي فِيهِ أَحَدٌ إِلَّا أَصَابَتْهُ حَيَّةٌ وَعَلَى شَفِيرِ الْوَادِي رَاهِبَانِ فَلَمَّا أَمْسَى قَالَ أَحَدُهُمَا لِصَاحِبِهِ هَلَكَ وَاللَّهِ الرَّجُلُ قَالَ فَافْتَتَحَ سُورَةَ آلِ عِمْرَانَ قَالَا فَقَرَأَ سُورَةً طَيِّبَةً لَعَلَّهُ سَيَنْجُو قَالَ فَأَصْبَحَ سَلِيمًا قَالَ أَبُو مُحَمَّد أَبُو السَّلِيلِ ضُرَيْبُ بْنُ نُقَيْرٍ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Sa'id] telah menceritakan kepada kami [Abdus Salam] dari [Al Jurairi] dari [Abu As Salil] ia berkata; Ada seseorang terluka mengeluarkan darah. Ia melanjutkan; Lalu orang itu singgah di lembah Majannah, sebuah lembah yang tidak seorang pun berada di waktu sore kecuali menjadi gila, sementara di tepi lembah ada dua orang pendeta. Ketika orang itu berada di waktu sore, salah seorang pendeta berkata kepada temannya; Demi Allah, celakalah orang itu. Ia melanjutkan; Lalu orang itu membaca awal surat Ali Imran, maka kedua pendeta tersebut berkata; Ia telah membaca sebuah surat yang baik, semoga ia selamat. Ia berkata lagi; Maka selamatlah orang itu. [Abu Muhammad] berkata; Abu As Salil adalah Dluraib bin Nuqair. "
+            },
+            {
+                "number": 2858,
+                "arab": " حَدَّثَنَا مُعَاذُ بْنُ هَانِئٍ حَدَّثَنَا إِبْرَاهِيمُ بْنُ طَهْمَانَ حَدَّثَنَا عَاصِمٌ عَنْ الْمُسَيَّبِ بْنِ رَافِعٍ قَالَ قَالَ عَبْدُ اللَّهِ السَّبْعُ الطُّوَلُ مِثْلُ التَّوْرَاةِ وَالْمِئِينَ مِثْلُ الْإِنْجِيلِ وَالْمَثَانِي مِثْلُ الزَّبُورِ وَسَائِرُ الْقُرْآنِ بَعْدُ فَضْلٌ",
+                "id": "Telah menceritakan kepada kami [Mu'adz bin Hani`] telah menceritakan kepada kami [Ibrahim bin Thahman] telah menceritakan kepada kami ['Ashim] dari [Al Musayyab bin Rafi'] ia berkata; [Abdullah] berkata; As Sab'u ath Thuwal seperti Taurat, Al Mi`in (Al Mi`un) seperti Injil, Al Matsaani seperti Zabur, dan seluruh surat Al Qur'an lainnya memiliki keutamaan. "
+            },
+            {
+                "number": 2859,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا زُهَيْرٌ عَنْ أَبِي إِسْحَقَ عَنْ عَبْدِ اللَّهِ بْنِ خَلِيفَةَ عَنْ عُمَرَ قَالَ الْأَنْعَامُ مِنْ نَوَاجِبِ الْقُرْآنِ",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Zuhair] dari [Abu Ishaq] dari [Abdullah bin Khalifah] dari [Umar] ia berkata; Surat Al An'am termasuk surat Al Qur'an yang berharga."
+            },
+            {
+                "number": 2860,
+                "arab": " حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا هَمَّامٌ عَنْ أَبِي عِمْرَانَ الْجَوْنِيِّ عَنْ عَبْدِ اللَّهِ بْنِ رَبَاحٍ عَنْ كَعْبٍ قَالَ فَاتِحَةُ التَّوْرَاةِ الْأَنْعَامُ وَخَاتِمَتُهَا هُودٌ",
+                "id": "Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hammam] dari [Abu Imran Al Jauni] dari [Abdullah bin Rabah] dari [Ka'b] ia berkata; Pembuka Taurat adalah surat Al An'am dan penutupnya adalah surat Hud."
+            },
+            {
+                "number": 2861,
+                "arab": " أَخْبَرَنَا يَزِيدُ بْنُ هَارُونَ أَخْبَرَنَا هَمَّامٌ عَنْ أَبِي عِمْرَانَ الْجَوْنِيِّ عَنْ عَبْدِ اللَّهِ بْنِ رَبَاحٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ اقْرَءُوا سُورَةَ هُودٍ يَوْمَ الْجُمُعَةِ",
+                "id": "Telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Hammam] dari [Abu Imran Al Jauni] dari [Abdullah bin Rabah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: \"Bacalah surat Hud pada hari Jum'at.\""
+            },
+            {
+                "number": 2862,
+                "arab": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا هَمَّامٌ حَدَّثَنَا أَبُو عِمْرَانَ الْجَوْنِيُّ عَنْ عَبْدِ اللَّهِ بْنِ رَبَاحٍ عَنْ كَعْبٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اقْرَءُوا سُورَةَ هُودٍ يَوْمَ الْجُمُعَةِ",
+                "id": "Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Abu Imran Al Jauni] dari [Abdullah bin Rabah] dari [Ka'b] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Bacalah surat Hud pada hari Jum'at.\""
+            },
+            {
+                "number": 2863,
+                "arab": " حَدَّثَنَا أَبُو الْمُغِيرَةِ حَدَّثَتْنَا عَبْدَةُ عَنْ خَالِدِ بْنِ مَعْدَانَ قَالَ مَنْ قَرَأَ عَشْرَ آيَاتٍ مِنْ الْكَهْفِ لَمْ يَخَفْ الدَّجَّالَ",
+                "id": "Telah menceritakan kepada kami [Abu Al Mughirah] telah menceritakan kepada kami [Abdah] dari [Khalid bin Ma'dan] ia berkata; Barangsiapa yang membaca sepuluh ayat dari surat Al Kahfi, maka ia tidak akan takut terhadap Dajjal."
+            },
+            {
+                "number": 2864,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ عَنْ الْأَوْزَاعِيِّ عَنْ عَبْدَةَ عَنْ زِرِّ بْنِ حُبَيْشٍ قَالَ مَنْ قَرَأَ آخِرَ سُورَةِ الْكَهْفِ لِسَاعَةٍ يُرِيدُ يَقُومُ مِنْ اللَّيْلِ قَامَهَا قَالَ عَبْدَةُ فَجَرَّبْنَاهُ فَوَجَدْنَاهُ كَذَلِكَ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Katsir] dari [Al Auza'i] dari [Abdah] dari [Zirr bin Hubaisy] ia berkata; Barangsiapa yang membaca akhir surat Al Kahfi karena ingin bangun pada malam hari, maka ia terbangun. [Abdah] berkata; Maka kami membuktikannya, ternyata kami mendapatkan seperti itu."
+            },
+            {
+                "number": 2865,
+                "arab": " حَدَّثَنَا أَبُو النُّعْمَانِ حَدَّثَنَا هُشَيْمٌ حَدَّثَنَا أَبُو هَاشِمٍ عَنْ أَبِي مِجْلَزٍ عَنْ قَيْسِ بْنِ عُبَادٍ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَ مَنْ قَرَأَ سُورَةَ الْكَهْفِ لَيْلَةَ الْجُمُعَةِ أَضَاءَ لَهُ مِنْ النُّورِ فِيمَا بَيْنَهُ وَبَيْنَ الْبَيْتِ الْعَتِيقِ",
+                "id": "Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Husyaim] telah menceritakan kepada kami [Abu Hasyim] dari [Abu Mijlaz] dari [Qais bin Ubad] dari [Abu Sa'id Al Khudri] ia berkata; Barangsiapa yang membaca surat Al Kahfi pada malam Jum'at maka ia akan diterangi oleh cahaya yang terangnya mencapai jarak antara dirinya dan Baitul 'Atiq."
+            },
+            {
+                "number": 2866,
+                "arab": " أَخْبَرَنَا أَبُو الْمُغِيرَةِ حَدَّثَتْنَا عَبْدَةُ عَنْ خَالِدِ بْنِ مَعْدَانَ قَالَ اقْرَءُوا الْمُنَجِّيَةَ وَهِيَ الم تَنْزِيلُ فَإِنَّهُ بَلَغَنِي أَنَّ رَجُلًا كَانَ يَقْرَؤُهَا مَا يَقْرَأُ شَيْئًا غَيْرَهَا وَكَانَ كَثِيرَ الْخَطَايَا فَنَشَرَتْ جَنَاحَهَا عَلَيْهِ وَقَالَتْ رَبِّ اغْفِرْ لَهُ فَإِنَّهُ كَانَ يُكْثِرُ قِرَاءَتِي فَشَفَّعَهَا الرَّبُّ فِيهِ وَقَالَ اكْتُبُوا لَهُ بِكُلِّ خَطِيئَةٍ حَسَنَةً وَارْفَعُوا لَهُ دَرَجَةً",
+                "id": "Telah mengabarkan kepada kami [Abu Al Mughirah] telah menceritakan kepada kami ['Abdah] dari [Khalid bin Ma'dan], ia berkata; Bacalah Al Munajjiyah, yaitu ALIF LAAM MIIM TANZIIL (surat As Sajdah). Sebab, aku mendapat kabar bahwa ada seorang laki-laki yang hanya membacanya dan tidak ada surat lain yang dibacanya, padahal dia orang yang banyak kesalahan, maka sayap surat itu terbentang untuknya dan berkata, Wahai Tuhanku, ampunilah dia, sebab dia sering sekali membacaku. Maka, Tuhan memberi izin kepada surat itu untuk menolongnya serya berfirman, \"Tuliskan untuknya setiap kesalahan menjadi satu kebaikan dan angkat satu derajat baginya.\" "
+            },
+            {
+                "number": 2867,
+                "arab": " حَدَّثَنَا عَفَّانُ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ أَخْبَرَنَا أَبُو الزُّبَيْرِ عَنْ عَبْدِ اللَّهِ بْنِ ضَمْرَةَ عَنْ كَعْبٍ قَالَ مَنْ قَرَأَ تَنْزِيلُ السَّجْدَةَ وَ تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ كُتِبَ لَهُ سَبْعُونَ حَسَنَةً وَحُطَّ عَنْهُ بِهَا سَبْعُونَ سَيِّئَةً وَرُفِعَ لَهُ بِهَا سَبْعُونَ دَرَجَةً",
+                "id": "Telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Hammad bin Salamah] telah mengabarkan kepada kami [Abu Az Zubair] dari [Abdullah bin Dlamrah] dari [Ka'b] ia berkata; Barangsiapa yang membaca ALIF LAAM MIIM TANZIIL (surat As Sajdah) dan TABAARAKALLADZI BIYADIHIL MULKU (surat Al Mulk), maka akan ditulis baginya tujuh puluh kebaikan dan dihapuskan darinya tujuh puluh keburukan, serta dengan surat itu diangkat baginya tujuh puluh derajat."
+            },
+            {
+                "number": 2868,
+                "arab": " حَدَّثَنَا عَبْدُ اللَّهِ بْنُ صَالِحٍ حَدَّثَنِي مُعَاوِيَةُ بْنُ صَالِحٍ أَنَّهُ سَمِعَ أَبَا خَالِدٍ عَامِرَ بْنَ جَشِيبٍ وَبَحِيرَ بْنَ سَعْدٍ يُحَدِّثَانِ أَنَّ خَالِدَ بْنَ مَعْدَانَ قَالَ إِنَّ الم تَنْزِيلُ تُجَادِلُ عَنْ صَاحِبِهَا فِي الْقَبْرِ تَقُولُ اللَّهُمَّ إِنْ كُنْتُ مِنْ كِتَابِكَ فَشَفِّعْنِي فِيهِ وَإِنْ لَمْ أَكُنْ مِنْ كِتَابِكَ فَامْحُنِي عَنْهُ وَإِنَّهَا تَكُونُ كَالطَّيْرِ تَجْعَلُ جَنَاحَهَا عَلَيْهِ فَيُشْفَعُ لَهُ فَتَمْنَعُهُ مِنْ عَذَابِ الْقَبْرِ وَفِي تَبَارَكَ مِثْلَهُ فَكَانَ خَالِدٌ لَا يَبِيتُ حَتَّى يَقْرَأَ بِهِمَا",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Shalih] telah menceritakan kepadaku [Mu'awiyah bin Shalih] bahwa ia mendengar [Abu Khalid Amir bin Jasyib] dan [Bahir bin Sa'd] keduanya menceritakan bahwa [Khalid bin Ma'dan] berkata; Sesungguhnya ALIF LAAM MIIM TANZIIL (surat As Sajdah) akan membela pembacanya di dalam kubur. Surat itu berkata; Ya Allah, jika aku termasuk dari kitabMu maka izinkan aku memberi syafaat padanya, namun jika aku tidak termasuk dari kitabMu maka hapuslah aku dari kitabMu. Sesungguhnya surat itu akan menjadi seperti burung yang membentangkan sayapnya di atas pembacanya, lalu memberi syafaat kepadanya. Ia menghalangi pembacanya dari siksa kubur. Demikian pula dengan TABAARAKALLADZI BIYADIHIL MULKU (surat Al Mulk) seperti itu. Khalid tidak pernah tidur malam hingga ia membaca kedua surat tersebut."
+            },
+            {
+                "number": 2869,
+                "arab": " أَخْبَرَنَا أَبُو نُعَيْمٍ حَدَّثَنَا سُفْيَانُ عَنْ لَيْثٍ عَنْ أَبِي الزُّبَيْرِ عَنْ جَابِرٍ قَالَ كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا يَنَامُ حَتَّى يَقْرَأَ تَنْزِيلُ السَّجْدَةَ وَتَبَارَكَ",
+                "id": "Telah mengabarkan kepada kami [Abu An Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Laits] dari [Abu Az Zubair] dari [Jabir] ia berkata; Nabi shallallahu 'alaihi wasallam tidak tidur hingga membaca ALIF LAAM MIIM TANZIIL (surat As Sajdah) dan TABAARAKALLADZI BIYADIHIL MULKU (surat Al Mulk)."
+            },
+            {
+                "number": 2870,
+                "arab": " حَدَّثَنَا مُوسَى بْنُ خَالِدٍ حَدَّثَنَا مُعْتَمِرٌ عَنْ لَيْثٍ عَنْ طَاوُسٍ قَالَ فُضِّلَتَا عَلَى كُلِّ سُورَةٍ فِي الْقُرْآنِ بِسِتِّينَ حَسَنَةً",
+                "id": "Telah menceritakan kepada kami [Musa bin Khalid] telah menceritakan kepada kami [Mu'tamir] dari [Laits] dari [Thawus] ia berkata; Kedua surat itu (surat As Sajdah dan Al Mulk) diberi keutamaan dari semua surat dalam Al Qur'an dengan enam puluh kebaikan."
+            },
+            {
+                "number": 2871,
+                "arab": " أَخْبَرَنَا حَجَّاجُ بْنُ مِنْهَالٍ حَدَّثَنَا شُعْبَةُ حَدَّثَنِي عَمْرُو بْنُ مُرَّةَ قَالَ سَمِعْتُ مُرَّةَ يَقُولُ أُتِيَ رَجُلٌ فِي قَبْرِهِ فَأُتِيَ جَانِبُ قَبْرِهِ فَجَعَلَتْ سُورَةٌ مِنْ الْقُرْآنِ ثَلَاثُونَ آيَةً تُجَادِلُ عَنْهُ حَتَّى قَالَ فَنَظَرْنَا أَنَا وَمَسْرُوقٌ فَلَمْ نَجِدْ فِي الْقُرْآنِ سُورَةً ثَلَاثِينَ آيَةً إِلَّا تَبَارَكَ",
+                "id": "Telah mengabarkan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepadaku [Amr bin Murrah] ia berkata; Aku mendengar [Murrah] berkata; Ada seseorang dimasukkan ke dalam kuburnya, lalu ia ditemui dari sisi kuburnya ternyata sebuah surat dari Al Qur'an yang berjumlah tiga puluh ayat membelanya, hingga ia berkata; Lalu aku dan Masruq melihat isi Al Qur'an, namun kami tidak menemukan di dalam Al Qur'an sebuah surat yang berjumlah tiga puluh ayat kecuali TABAARAKA (surat Al Mulk)."
+            },
+            {
+                "number": 2872,
+                "arab": " حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُهَاجِرِ بْنِ الْمِسْمَارِ عَنْ عُمَرَ بْنِ حَفْصِ بْنِ ذَكْوَانَ عَنْ مَوْلَى الْحُرَقَةِ عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّ اللَّهَ تَبَارَكَ وَتَعَالَى قَرَأَ طه وْ يس قَبْلَ أَنْ يَخْلُقَ السَّمَوَاتِ وَالْأَرْضَ بِأَلْفِ عَامٍ فَلَمَّا سَمِعَتْ الْمَلَائِكَةُ الْقُرْآنَ قَالَتْ طُوبَى لِأُمَّةٍ يَنْزِلُ هَذَا عَلَيْهَا وَطُوبَى لِأَجْوَافٍ تَحْمِلُ هَذَا وَطُوبَى لِأَلْسِنَةٍ تَتَكَلَّمُ بِهَذَا",
+                "id": "Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Ibrahim bin Al Muhajir bin Al Mismar] dari [Umar bin Hafsh bin Dzakwan] dari [mantan budak Al Huraqah] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya Allah Tabaraka wa Ta'ala membaca surat Thaha dan surat Yasin seribu tahun sebelum menciptakan langit dan bumi. Ketika para malaikat mendengar Al Qur'an, mereka berkata; Beruntunglah umat yang diturunkan surat itu padanya, beruntunglah rongga yang mengandung surat itu, dan beruntunglah lidah yang berbicara dengan surat itu."
+            },
+            {
+                "number": 2873,
+                "arab": " حَدَّثَنَا أَبُو الْوَلِيدِ مُوسَى بْنُ خَالِدٍ حَدَّثَنَا مُعْتَمِرٌ عَنْ أَبِيهِ قَالَ بَلَغَنِي عَنْ الْحَسَنِ قَالَ مَنْ قَرَأَ يس فِي لَيْلَةٍ ابْتِغَاءَ وَجْهِ اللَّهِ أَوْ مَرْضَاةِ اللَّهِ غُفِرَ لَهُ وَقَالَ بَلَغَنِي أَنَّهَا تَعْدِلُ الْقُرْآنَ كُلَّهُ",
+                "id": "Telah menceritakan kepada kami [Abu Al Walid Musa bin Khalid] telah menceritakan kepada kami [Mu'tamir] dari [ayahnya] ia berkata; Telah sampai berita kepadaku dari [Al Hasan] ia berkata; Barangsiapa yang membaca surat Yasin pada malam hari karena mengharap wajah Allah atau mengharap keridlaan Allah niscaya ia akan diampuni. Ia berkata lagi; Telah sampai berita kepadaku bahwa surat itu menyamai Al Qur'an seluruhnya."
+            },
+            {
+                "number": 2874,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ سَعِيدٍ حَدَّثَنَا حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ عَنْ الْحَسَنِ بْنِ صَالِحٍ عَنْ هَارُونَ أَبِي مُحَمَّدٍ عَنْ مُقَاتِلِ بْنِ حَيَّانَ عَنْ قَتَادَةَ عَنْ أَنَسٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّ لِكُلِّ شَيْءٍ قَلْبًا وَإِنَّ قَلْبَ الْقُرْآنِ يس مَنْ قَرَأَهَا فَكَأَنَّمَا قَرَأَ الْقُرْآنَ عَشْرَ مَرَّاتٍ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Sa'id] telah menceritakan kepada kami [Humaid bin Abdurrahman] dari [Al Hasan bin Shalih] dari [Harun Abu Muhammad] dari [Muqatil bin Hayyan] dari [Qatadah] dari [Anas] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya setiap sesuatu memiliki hati dan sesungguhnya hati Al Qur'an adalah surat Yasin. Barangsiapa yang membacanya, maka ia seakan-akan telah membaca Al Qur'an sebanyak sepuluh kali.\""
+            },
+            {
+                "number": 2875,
+                "arab": " حَدَّثَنَا الْوَلِيدُ بْنُ شُجَاعٍ حَدَّثَنِي أَبِي حَدَّثَنِي زِيَادُ بْنُ خَيْثَمَةَ عَنْ مُحَمَّدِ بْنِ جُحَادَةَ عَنْ الْحَسَنِ عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ قَرَأَ يس فِي لَيْلَةٍ ابْتِغَاءَ وَجْهِ اللَّهِ غُفِرَ لَهُ فِي تِلْكَ اللَّيْلَةِ",
+                "id": "Telah menceritakan kepada kami [Al Walid bin Syuja'] telah menceritakan kepadaku [ayahku] telah menceritakan kepadaku [Ziyad bin Khaitsamah] dari [Muhammad bin Juhadah] dari [Al Hasan] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa yang membaca surat Yasin pada malam hari karena mengharap wajah Allah niscaya ia akan diampuni pada malam hari tersebut.\""
+            },
+            {
+                "number": 2876,
+                "arab": " حَدَّثَنَا الْوَلِيدُ بْنُ شُجَاعٍ حَدَّثَنِي أَبِي حَدَّثَنِي زِيَادُ بْنُ خَيْثَمَةَ عَنْ مُحَمَّدِ بْنِ جُحَادَةَ عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ قَالَ بَلَغَنِي أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ قَرَأَ يس فِي صَدْرِ النَّهَارِ قُضِيَتْ حَوَائِجُهُ",
+                "id": "Telah menceritakan kepada kami [Al Walid bin Syuja'] telah menceritakan kepadaku [ayahku] telah menceritakan kepadaku [Ziyad bin Khaitsamah] dari [Muhammad bin Juhadah] dari ['Atha` bin Abu Rabah] ia berkata; Telah sampai berita kepadaku bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa yang membaca surat Yasin pada awal siang niscaya akan terpenuhi semua kebutuhannya.\""
+            },
+            {
+                "number": 2877,
+                "arab": " حَدَّثَنَا عَمْرُو بْنُ زُرَارَةَ حَدَّثَنَا عَبْدُ الْوَهَّابِ حَدَّثَنَا رَاشِدٌ أَبُو مُحَمَّدٍ الْحِمَّانِيُّ عَنْ شَهْرِ بْنِ حَوْشَبٍ قَالَ قَالَ ابْنُ عَبَّاسٍ مَنْ قَرَأَ يس حِينَ يُصْبِحُ أُعْطِيَ يُسْرَ يَوْمِهِ حَتَّى يُمْسِيَ وَمَنْ قَرَأَهَا فِي صَدْرِ لَيْلِهِ أُعْطِيَ يُسْرَ لَيْلَتِهِ حَتَّى يُصْبِحَ",
+                "id": "Telah menceritakan kepada kami [Amr bin Zurarah] telah menceritakan kepada kami [Abdul Wahhab] telah menceritakan kepada kami [Rasyid Abu Muhammad Al Himmani] dari [Syahr bin Hausyab] ia berkata; [Ibnu Abbas] berkata; Barangsiapa yang membaca surat Yasin ketika berada di waktu pagi niscaya diberikan kepadanya kemudahan hari itu hingga ia berada di waktu sore, dan barangsiapa yang membacanya pada awal malam niscaya diberikan kepadanya kemudahan malam itu hingga ia berada di waktu pagi."
+            },
+            {
+                "number": 2878,
+                "arab": " حَدَّثَنَا يَعْلَى حَدَّثَنَا إِسْمَعِيلُ عَنْ عَبْدِ اللَّهِ بْنِ عِيسَى قَالَ أُخْبِرْتُ أَنَّهُ مَنْ قَرَأَ حم الدُّخَانَ لَيْلَةَ الْجُمُعَةِ إِيمَانًا وَتَصْدِيقًا بِهَا أَصْبَحَ مَغْفُورًا لَهُ",
+                "id": "Telah menceritakan kepada kami [Ya'la] telah menceritakan kepada kami [Isma'il] dari [Abdullah bin Isa] ia berkata; Telah dikabarkan kepadaku bahwa barangsiapa yang membaca HAA MIIM (surat Ad Dukhan) pada malam Jum'at karena keimanan dan membenarkan surat tersebut niscaya ia berada di waktu pagi dalam keadaan telah diampuni."
+            },
+            {
+                "number": 2879,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ الْمُبَارَكِ حَدَّثَنَا صَدَقَةُ بْنُ خَالِدٍ عَنْ يَحْيَى بْنِ الْحَارِثِ عَنْ أَبِي رَافِعٍ قَالَ مَنْ قَرَأَ الدُّخَانَ فِي لَيْلَةِ الْجُمُعَةِ أَصْبَحَ مَغْفُورًا لَهُ وَزُوِّجَ مِنْ الْحُورِ الْعِينِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Al Mubarak] telah menceritakan kepada kami [Shadaqah bin Khalid] dari [Yahya bin Al Harits] dari [Abu Rafi'] ia berkata; Barangsiapa yang membaca surat Ad Dukhan pada malam Jum'at niscaya ia berada di waktu pagi dalam keadaan telah diampuni dan ia akan dikawinkan dengan bidadari."
+            },
+            {
+                "number": 2880,
+                "arab": " حَدَّثَنَا جَعْفَرُ بْنُ عَوْنٍ عَنْ مِسْعَرٍ عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ قَالَ كُنَّ الْحَوَامِيمُ يُسَمَّيْنَ الْعَرَائِسَ",
+                "id": "Telah menceritakan kepada kami [Ja'far bin 'Aun] dari [Mis'ar] dari [Sa'd bin Ibrahim] ia berkata; Surat-surat yang diawali dengan (bacaan) HAA MIIM dinamakan dengan Al 'Ara`is (para pengantin)."
+            },
+            {
+                "number": 2881,
+                "arab": " حَدَّثَنَا سَعِيدُ بْنُ عَامِرٍ عَنْ هِشَامٍ عَنْ الْحَسَنِ قَالَ مَنْ قَرَأَ ثَلَاثَ آيَاتٍ مِنْ آخِرِ سُورَةِ الْحَشْرِ إِذَا أَصْبَحَ فَمَاتَ مِنْ يَوْمِهِ ذَلِكَ طُبِعَ بِطَابَعِ الشُّهَدَاءِ وَإِنْ قَرَأَ إِذَا أَمْسَى فَمَاتَ مِنْ لَيْلَتِهِ طُبِعَ بِطَابَعِ الشُّهَدَاءِ",
+                "id": "Telah menceritakan kepada kami [Sa'id bin Amir] dari [Hisyam] dari [Al Hasan] ia berkata; Barangsiapa yang membaca tiga ayat dari akhir surat Al Hasyr ketika berada di waktu pagi, lalu ia meninggal di hari itu maka ia dicap sebagai syahid. jika ia membacanya ketika berada di waktu sore, lalu ia meninggal pada malam itu maka ia dicap sebagai syahid."
+            },
+            {
+                "number": 2882,
+                "arab": " حَدَّثَنَا إِسْحَقُ بْنُ عِيسَى عَنْ مَعْنٍ عَنْ مُعَاوِيَةَ بْنِ صَالِحٍ عَنْ بَحِيرِ بْنِ سَعْدٍ عَنْ خَالِدِ بْنِ مَعْدَانَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ كَانَ يَقْرَأُ الْمُسَبِّحَاتِ عِنْدَ النَّوْمِ وَيَقُولُ إِنَّ فِيهِنَّ آيَةً تَعْدِلُ أَلْفَ آيَةٍ",
+                "id": "Telah menceritakan kepada kami [Ishaq bin Isa] dari [Ma'n] dari [Mu'awiyah bin Shalih] dari [Bahir bin Sa'd] dari [Khalid bin Ma'dan] dari Nabi shallallahu 'alaihi wasallam bahwa beliau selalu membaca surat-surat yang diawali dengan tasbih ketika hendak tidur. Beliau bersabda: \"Sesungguhnya pada surat-surat itu ada satu ayat yang menyamai seribu ayat.\""
+            },
+            {
+                "number": 2883,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ الْفَرَجِ الْبَغْدَادِيُّ حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ حَدَّثَنَا خَالِدُ بْنُ طَهْمَانَ أَبُو الْعَلَاءِ الْخَفَّافُ حَدَّثَنِي نَافِعُ بْنُ أَبِي نَافِعٍ عَنْ مَعْقِلِ بْنِ يَسَارٍ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ قَالَ حِينَ يُصْبِحُ أَعُوذُ بِاللَّهِ السَّمِيعِ الْعَلِيمِ مِنْ الشَّيْطَانِ الرَّجِيمِ وَثَلَاثَ آيَاتٍ مِنْ آخِرِ سُورَةِ الْحَشْرِ وَكَّلَ اللَّهُ بِهِ سَبْعِينَ أَلْفَ مَلَكٍ يُصَلُّونَ عَلَيْهِ حَتَّى يُمْسِيَ وَإِنْ قَالَهَا مَسَاءً فَمِثْلُ ذَلِكَ حَتَّى يُصْبِحَ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Al Faraj Al Baghdadi] telah menceritakan kepada kami [Muhammad bin Abdullah bin Az Zubair] telah menceritakan kepada kami [Khalid bin Thahman Abu Al 'Ala` Al Khaffaf] telah menceritakan kepadaku [Nafi' bin Abu Nafi'] dari [Ma'qil bin Yasar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa yang mengucapkan ketika berada di waktu pagi; A'UDZUBILLAHIS SAMI'IL 'ALIM MINASY SYAITHANIR RAJIM dan tiga ayat dari akhir surat Al Hasyr, maka Allah akan menugaskan tujuh puluh ribu malaikat untuk memintakan ampun untuknya hingga ia berada di waktu sore. Dan jika ia membacanya di waktu sore, maka Allah akan menugaskan tujuh puluh ribu malaikat untuk memintakan ampun untuknya juga hingga ia berada di waktu pagi.\""
+            },
+            {
+                "number": 2884,
+                "arab": " حَدَّثَنَا أَبُو زَيْدٍ سَعِيدُ بْنُ الرَّبِيعِ حَدَّثَنَا شُعْبَةُ عَنْ أَبِي الْحَسَنِ مُهَاجِرٍ قَالَ جَاءَ رَجُلٌ زَمَنَ زِيَادٍ إِلَى الْكُوفَةِ فَسَمِعْتُهُ يُحَدِّثُ أَنَّهُ كَانَ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي مَسِيرٍ لَهُ قَالَ وَرُكْبَتِي تُصِيبُ أَوْ تَمَسُّ رُكْبَتَهُ فَسَمِعَ رَجُلًا يَقْرَأُ قُلْ يَا أَيُّهَا الْكَافِرُونَ قَالَ بَرِئَ مِنْ الشِّرْكِ وَسَمِعَ رَجُلًا يَقْرَأُ قُلْ هُوَ اللَّهُ أَحَدٌ قَالَ غُفِرَ لَهُ",
+                "id": "Telah menceritakan kepada kami [Abu Zaid Sa'id bin Ar Rabi'] telah menceritakan kepada kami [Syu'bah] dari [Abu Al Hasan Muhajir] ia berkata; [Ada seorang laki-laki] datang ke Kufah pada masa pemerintahan Ziyad. Lalu aku mendengar orang itu menceritakan bahwa ia pernah bersama Rasulullah shallallahu 'alaihi wasallam pada sebuah perjalanan. Ia berkata; Lututku mengenai atau menyentuh lutut beliau, lalu beliau mendengar seseorang membaca; QUL YA AYYUHAL KAFIRUN (surat Al Kafirun). Beliau bersabda: \"Ia bebas dari syirik.\" Dan beliau mendengar seseorang membaca; QUL HUWALLAHU AHAD (surat Al Ikhlas). Beliau bersabda: \"Ia telah diampuni.\""
+            },
+            {
+                "number": 2885,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا زُهَيْرٌ عَنْ أَبِي إِسْحَقَ عَنْ فَرْوَةَ بْنِ نَوْفَلٍ عَنْ أَبِيهِ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَجِيءٌ مَا جَاءَ بِكَ قَالَ جِئْتُ لِتُعَلِّمَنِي شَيْئًا أَقُولُهُ عِنْدَ مَنَامِي قَالَ فَإِذَا أَخَذْتَ مَضْجَعَكَ فَاقْرَأْ قُلْ يَا أَيُّهَا الْكَافِرُونَ ثُمَّ نَمْ عَلَى خَاتِمَتِهَا فَإِنَّهَا بَرَاءَةٌ مِنْ الشِّرْكِ",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Zuhair] dari [Abu Ishaq] dari [Farwah bin Naufal] dari [ayahnya] bahwa Rasulullah shallallahu 'alaihi wasallam pernah bertanya: \"Apa yang membuatmu datang ke sini?\" Ia menjawab; Aku datang agar engkau mengajariku sesuatu yang harus aku baca ketika hendak tidur. Beliau menjawab: \"Jika engkau telah berada di tempat pembaringan maka bacalah; \"QUL YA AYYUHAL KAFIRUN (surat Al Kafirun) kemudian tidurlah setelah selesai membacanya, sebab surat itu merupakan jaminan kebebasan dari syirik.\""
+            },
+            {
+                "number": 2886,
+                "arab": " حَدَّثَنَا أَبُو الْمُغِيرَةِ حَدَّثَنَا صَفْوَانُ حَدَّثَنَا إِيَاسٌ الْبِكَالِيُّ عَنْ نَوْفٍ الْبِكَالِيِّ قَالَ إِنَّ اللَّهَ جَزَّأَ الْقُرْآنَ عَلَى ثَلَاثَةِ أَجْزَاءٍ فَجَعَلَ قُلْ هُوَ اللَّهُ أَحَدٌ ثُلُثَ الْقُرْآنِ",
+                "id": "Telah menceritakan kepada kami [Abu Al Mughirah] telah menceritakan kepada kami [Shafwan] telah menceritakan kepada kami [Iyas Al Bikali] dari [Nauf Al Bikali] ia berkata; Sesungguhnya Allah telah membagi Al Qur'an menjadi tiga bagian, lalu Dia menjadikan QUL HUWALLAHU AHAD (surat Al Ikhlas) sepertiga dari Al Qur'an."
+            },
+            {
+                "number": 2887,
+                "arab": " حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ حَدَّثَنَا حَيْوَةُ قَالَ أَخْبَرَنِي أَبُو عَقِيلٍ أَنَّهُ سَمِعَ سَعِيدَ بْنَ الْمُسَيَّبِ يَقُولُ إِنَّ نَبِيَّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ قَرَأَ قُلْ هُوَ اللَّهُ أَحَدٌ عَشْرَ مَرَّاتٍ بُنِيَ لَهُ بِهَا قَصْرٌ فِي الْجَنَّةِ وَمَنْ قَرَأَ عِشْرِينَ مَرَّةً بُنِيَ لَهُ بِهَا قَصْرَانِ فِي الْجَنَّةِ وَمَنْ قَرَأَهَا ثَلَاثِينَ مَرَّةً بُنِيَ لَهُ بِهَا ثَلَاثَةُ قُصُورٍ فِي الْجَنَّةِ فَقَالَ عُمَرُ بْنُ الْخَطَّابِ وَاللَّهِ يَا رَسُولَ اللَّهِ إِذَنْ لَتَكْثُرَنَّ قُصُورُنَا فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اللَّهُ أَوْسَعُ مِنْ ذَلِكَ قَالَ أَبُو مُحَمَّد أَبُو عَقِيلٍ زُهْرَةُ بْنُ مَعْبَدٍ وَزَعَمُوا أَنَّهُ كَانَ مِنْ الْأَبْدَالِ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Yazid] telah menceritakan kepada kami [Haiwah] ia berkata; telah mengabarkan kepadaku [Abu 'Aqil] bahwa ia mendengar [Sa'id bin Al Musayyab] berkata; Sesungguhnya Nabiyullah shallallahu 'alaihi wasallam pernah bersabda: \"Barangsiapa yang membaca QUL HUWALLAHU AHAD (surat Al Ikhlas) sepuluh kali, niscaya akan dibangunkan sebuah istana untuknya di surga, barangsiapa yang membacanya dua puluh kali, niscaya akan dibangunkan dua buah istana untuknya di surga dan barangsiapa yang membacanya tiga puluh kali, niscaya akan dibangunkan tiga buah istana untuknya di surga.\" Lalu Umar bin Al Khaththab bertanya; Demi Allah, wahai Rasulullah, kalau begitu kami dapat memperbanyak istana kami? Rasulullah shallallahu 'alaihi wasallam menjawab: \"Allah lebih luas kekayaannya dari itu.\" Abu Muhammad berkata; Abu 'Aqil adalah Zuhrah bin Ma'bad dan mereka menganggap bahwa ia termasuk abdal. "
+            },
+            {
+                "number": 2888,
+                "arab": " أَخْبَرَنَا أَبُو الْمُغِيرَةِ عَنْ عُتْبَةَ بْنِ ضَمْرَةَ بْنِ حَبِيبٍ عَنْ أَبِيهِ أَنَّهُ كَانَ إِذَا قَرَأَ سُورَةً فَخَتَمَهَا أَتْبَعَهَا بِقُلْ هُوَ اللَّهُ أَحَدٌ",
+                "id": "Telah mengabarkan kepada kami [Abu Al Mughirah] dari [Utbah bin Dlamrah bin Habib] dari [ayahnya] bahwa jika ia membaca suatu surat dan menyelesaikannya, maka ia selalu mengiringinya dengan membaca QUL HUWALLAHU AHAD (surat Al Ikhlas)."
+            },
+            {
+                "number": 2889,
+                "arab": " حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ عَنْ أَبَانَ بْنِ يَزِيدَ الْعَطَّارِ حَدَّثَنَا قَتَادَةُ عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ عَنْ مَعْدَانَ بْنِ أَبِي طَلْحَةَ عَنْ أَبِي الدَّرْدَاءِ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَيَعْجِزُ أَحَدُكُمْ أَنْ يَقْرَأَ فِي لَيْلَةٍ ثُلُثَ الْقُرْآنِ قَالُوا نَحْنُ أَعْجَزُ وَأَضْعَفُ مِنْ ذَلِكَ فَقَالَ إِنَّ اللَّهَ جَزَّأَ الْقُرْآنَ ثَلَاثَةَ أَجْزَاءٍ فَجَعَلَ قُلْ هُوَ اللَّهُ أَحَدٌ ثُلُثَ الْقُرْآنِ",
+                "id": "Telah menceritakan kepada kami [Muslim bin Ibrahim] dari [Aban bin Yazid Al 'Aththar] telah menceritakan kepada kami [Qatadah] dari [Salim bin Abu Al Ja'd] dari [Ma'dan bin Abu Thalhah] dari [Abu Ad Darda`] ia berkata; Rasulullah shallallahu 'alaihi wasallam bertanya: \"Apakah salah seorang dari kalian tidak sanggup untuk membaca sepertiga Al Qur'an di malam hari?\" Mereka menjawab; Kami tidak sanggup dan lebih lemah melakukan hal itu. Maka beliau bersabda: \"Sesungguhnya Allah membagi Al Qur'an menjadi tiga bagian, maka Dia menjadikan QUL HUWALLAHU AHAD (surat Al Ikhlas) sepertiga Al Qur'an.\""
+            },
+            {
+                "number": 2890,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ عَنْ إِبْرَاهِيمَ بْنِ إِسْمَعِيلَ بْنِ مُجَمِّعٍ قَالَ أَخْبَرَنِي ابْنُ شِهَابٍ أَنَّ حُمَيْدَ بْنَ عَبْدِ الرَّحْمَنِ حَدَّثَهُ أَنَّ أَبَا هُرَيْرَةَ كَانَ يَقُولُ قُلْ هُوَ اللَّهُ أَحَدٌ تَعْدِلُ ثُلُثَ الْقُرْآنِ",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] dari [Ibrahim bin Isma'il bin Mujammi'] ia berkata; Telah mengabarkan kepadaku [Ibnu Syihab] bahwa [Humaid bin Abdurrahman] menceritakan kepadanya bahwa [Abu Hurairah] pernah berkata; QUL HUWALLAHU AHAD (surat Al Ikhlas) menyamai sepertiga Al Qur'an."
+            },
+            {
+                "number": 2891,
+                "arab": " أَخْبَرَنَا الْمُعَلَّى بْنُ أَسَدٍ عَنْ سَلَّامِ بْنِ أَبِي مُطِيعٍ عَنْ عَاصِمٍ عَنْ زِرٍّ عَنْ عَبْدِ اللَّهِ قَالَ قُلْ هُوَ اللَّهُ أَحَدٌ تَعْدِلُ ثُلُثَ الْقُرْآنِ حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ عَنْ حَمَّادِ بْنِ سَلَمَةَ عَنْ عَاصِمٍ عَنْ زِرٍّ عَنْ عَبْدِ اللَّهِ مِثْلَهُ",
+                "id": "Telah mengabarkan kepada kami [Al Mu'alla bin Asad] dari [Sallam bin Abu Muthi'] dari ['Ashim] dari [Zirr] dari [Abdullah] ia berkata; QUL HUWALLAHU AHAD (surat Al Ikhlas) menyamai sepertiga Al Qur'an. Telah menceritakan kepada kami [Amr bin 'Ashim] dari [Hammad bin Salamah] dari ['Ashim] dari [Zirr] dari [Abdullah] seperti itu."
+            },
+            {
+                "number": 2892,
+                "arab": " حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ أَخْبَرَنَا مُبَارَكُ بْنُ فَضَالَةَ حَدَّثَنَا ثَابِتٌ عَنْ أَنَسٍ أَنَّ رَجُلًا قَالَ وَاللَّهِ إِنِّي لَأُحِبُّ هَذِهِ السُّورَةَ قُلْ هُوَ اللَّهُ أَحَدٌ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حُبُّكَ إِيَّاهَا أَدْخَلَكَ الْجَنَّةَ",
+                "id": "Telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Mubarak bin Fadlalah] telah menceritakan kepada kami [Tsabit] dari [Anas] bahwa seseorang berkata; Demi Allah, sesungguhnya aku cinta kepada surat ini: QUL HUWALLAHU AHAD (surat Al Ikhlas). Maka Rasulullah shallallahu 'alaihi wasallam bersabda: \"Cintamu kepadanya (surat Al Ikhlas) akan memasukkanmu ke dalam surga.\""
+            },
+            {
+                "number": 2893,
+                "arab": " حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ مُسْلِمٍ عَنْ مُحَمَّدِ بْنِ شِهَابٍ عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أُمِّهِ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سُئِلَ عَنْ قُلْ هُوَ اللَّهُ أَحَدٌ فَقَالَ ثُلُثُ الْقُرْآنِ أَوْ تَعْدِلُهُ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Muhammad bin Abdullah bin Muslim] dari [Muhammad bin Syihab] dari [Humaid bin Abdurrahman] dari [ibunya] bahwa Rasulullah shallallahu 'alaihi wasallam pernah ditanya tentang QUL HUWALLAHU AHAD (surat Al Ikhlas), beliau menjawab: \"(Kedudukannya) sepertiga Al Qur'an atau menyamainya.\""
+            },
+            {
+                "number": 2894,
+                "arab": " حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى عَنْ إِسْرَائِيلَ عَنْ مَنْصُورٍ عَنْ هِلَالٍ عَنْ الرَّبِيعِ بْنِ خُثَيْمٍ عَنْ عَمْرِو بْنِ مَيْمُونٍ عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى عَنْ امْرَأَةٍ مِنْ الْأَنْصَارِ عَنْ أَبِي أَيُّوبَ قَالَ أَتَاهَا فَقَالَ أَلَا تَرَيْنَ إِلَى مَا جَاءَ بِهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَتْ رُبَّ خَيْرٍ قَدْ أَتَانَا بِهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَمَا هُوَ قَالَ قَالَ لَنَا أَيَعْجِزُ أَحَدُكُمْ أَنْ يَقْرَأَ ثُلُثَ الْقُرْآنِ فِي لَيْلَةٍ قَالَ فَأَشْفَقْنَا أَنْ يُرِيدَنَا عَلَى أَمْرٍ نَعْجِزُ عَنْهُ فَلَمْ نَرْجِعْ إِلَيْهِ شَيْئًا حَتَّى قَالَهَا ثَلَاثَ مَرَّاتٍ ثُمَّ قَالَ أَمَا يَسْتَطِيعُ أَحَدُكُمْ أَنْ يَقْرَأَ اللَّهُ الْوَاحِدُ الصَّمَدُ",
+                "id": "Telah menceritakan kepada kami [ubaidhullah bin Musa] dari [Isra`il] dari [Manshur] dari [Hilal] dari [Ar Rabi' bin Khutsaim] dari [Amr bin Maimun] dari [Abdurrahman bin Abu Laila] dari [seorang wanita Anshar] dari [Abu Ayyub], ia berkata; Dengan menemui wanita itu, ia berkata; Maukah engkau diperlihatkan kepada sesuatu yang dibawa oleh Rasulullah shallallahu 'alaihi wasallam? Wanita itu menjawab; Berapa banyak kebaikan yang dibawa oleh Rasulullah shallallahu 'alaihi wasallam kepada kami, apakah itu? Ia menjawab; Beliau mengatakan kepada kami: \"Apakah salah seorang dari kalian tidak sanggup membaca sepertiga Al Qur'an pada malam hari?\" Ia melanjutkan; Maka kami meminta belas kasih jika beliau menginginkan kami melakukan perintah yang kami tidak sanggup melakukannya, namun kami tidak menjawab pertanyaan itu sedikit pun hingga beliau mengatakannya sebanyak tiga kali. Kemudian beliau bersabda: \"Tidak adakah salah seorang dari kalian yang sanggup membaca QUL HUWALLAHU AHAD ALLAAHUSH SHAMMAD (surah Al Ikhlas).\""
+            },
+            {
+                "number": 2895,
+                "arab": " حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ عَنْ نُوحِ بْنِ قَيْسٍ عَنْ مُحَمَّدٍ الْعَطَّارِ عَنْ أُمِّ كَثِيرٍ الْأَنْصَارِيَّةِ عَنْ أَنَسِ بْنِ مَالِكٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ قَرَأَ قُلْ هُوَ اللَّهُ أَحَدٌ خَمْسِينَ مَرَّةً غَفَرَ اللَّهُ لَهُ ذُنُوبَ خَمْسِينَ سَنَةً",
+                "id": "Telah menceritakan kepada kami [Nashr bin Ali] dari [Nuh bin Qais] dari [Muhammad Al 'Aththar] dari [Ummu Katsir Al Anshariyah] dari [Anas bin Malik] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa yang membaca QUL HUWALLAHU AHAD (surat Al Ikhlas) sebanyak lima puluh kali, niscaya Allah akan mengampuni dosanya selama lima puluh tahun.\""
+            },
+            {
+                "number": 2896,
+                "arab": " حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ حَدَّثَنَا حَيْوَةُ وَابْنُ لَهِيعَةَ قَالَا سَمِعْنَا يَزِيدَ بْنَ أَبِي حَبِيبٍ يَقُولُ حَدَّثَنِي أَبُو عِمْرَانَ أَنَّهُ سَمِعَ عُقْبَةَ بْنَ عَامِرٍ يَقُولُ تَعَلَّقْتُ بِقَدَمِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقُلْتُ يَا رَسُولَ اللَّهِ أَقْرِئْنِي سُورَةَ هُودٍ وَسُورَةَ يُوسُفَ فَقَالَ لِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَا عُقْبَةُ إِنَّكَ لَنْ تَقْرَأَ مِنْ الْقُرْآنِ سُورَةً أَحَبَّ إِلَى اللَّهِ وَلَا أَبْلَغَ عِنْدَهُ مِنْ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ قَالَ يَزِيدُ فَلَمْ يَكُنْ أَبُو عِمْرَانَ يَدَعُهَا كَانَ لَا يَزَالُ يَقْرَؤُهَا فِي صَلَاةِ الْمَغْرِبِ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Yazid] telah menceritakan kepada kami [Haiwah] dan [Ibnu Lahi'ah] keduanya berkata; Kami mendengar [Yazid bin Abu Habib] berkata; Telah menceritakan kepadaku [Abu Imran] bahwa ia mendengar [Uqbah bin Amir] berkata; Aku pernah memegang kaki Rasulullah shallallahu 'alaihi wasallam lalu aku katakan; Wahai Rasulullah, bacakan kepadaku surat Hud dan surat Yusuf. Lalu Rasulullah shallallahu 'alaihi wasallam mengatakan kepadaku; \"Wahai Uqbah, sesungguhnya engkau tidak akan pernah membaca surat dari Al Qur'an yang lebih Allah cintai dan lebih bermanfaat di sisiNya daripada QUL A'UUDZU BI RABBIL FALAQ (surat Al Falaq).\" Yazid berkata; Abu Imran tidak pernah meninggalkannya, ia selalu membacanya pada sholat Maghrib."
+            },
+            {
+                "number": 2897,
+                "arab": " حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ حَدَّثَنَا لَيْثٌ عَنْ ابْنِ عَجْلَانَ عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ أَنَّ عُقْبَةَ بْنَ عَامِرٍ قَالَ مَشَيْتُ مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ لِي قُلْ يَا عُقْبَةُ فَقُلْتُ أَيَّ شَيْءٍ أَقُولُ قَالَ فَسَكَتَ عَنِّي ثُمَّ قَالَ يَا عُقْبَةُ قُلْ فَقُلْتُ أَيَّ شَيْءٍ أَقُولُ قَالَ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ فَقَرَأْتُهَا حَتَّى جِئْتُ عَلَى آخِرِهَا فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عِنْدَ ذَلِكَ مَا سَأَلَ سَائِلٌ وَلَا اسْتَعَاذَ مُسْتَعِيذٌ بِمِثْلِهَا",
+                "id": "Telah menceritakan kepada kami [Ahmad bin Abdullah] telah menceritakan kepada kami [Laits] dari [Ibnu 'Ajlan] dari [Sa'id bin Abu Sa'id Al Maqburi] bahwa [Uqbah bin Amir] berkata; Aku pernah berjalan bersama Nabi shallallahu 'alaihi wasallam, lalu beliau mengatakan kepadaku: \"Bacalah, wahai Uqbah.\" Aku pun bertanya; Apa yang harus aku baca? Ia berkata; Lalu beliau diam tidak menjawabku. Kemudian beliau bersabda: \"Wahai Uqbah, bacalah.\" Aku bertanya: Apa yang harus aku baca? Beliau menjawab: \"(Bacalah) QUL A'UDZU BIRABBIL FALAQ (surat Al Falaq).\" Maka aku pun membacanya hingga akhir surat. Lalu, pada saat itu Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidaklah sama permintaan orang yang meminta dan perlindungan orang yang meminta perlindungan seperti orang yang meminta dan berlindung dengan membacanya (membaca surat Al Falaq).\""
+            },
+            {
+                "number": 2898,
+                "arab": " حَدَّثَنَا يَعْلَى حَدَّثَنَا إِسْمَعِيلُ هُوَ ابْنُ أَبِي خَالِدٍ عَنْ قَيْسٍ عَنْ عُقْبَةَ بْنِ عَامِرٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَقَدْ أُنْزِلَ عَلَيَّ آيَاتٌ لَمْ أَرَ أَوْ لَمْ يُرَ مِثْلَهُنَّ يَعْنِي الْمُعَوِّذَتَيْنِ",
+                "id": "Telah menceritakan kepada kami [Ya'la] telah menceritakan kepada kami [Isma'il] ia adalah Ibnu Abu Khalid, dari [Qais] dari [Uqbah bin Amir] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; \"Sungguh telah diturunkan kepadaku beberapa ayat yang aku tidak pernah melihat.\" Atau: \"Tidak pernah diperlihatkan sepertinya, yakni mu'awwidzatain.\""
+            },
+            {
+                "number": 2899,
+                "arab": " حَدَّثَنَا يَحْيَى بْنُ بِسْطَامَ عَنْ يَحْيَى بْنِ حَمْزَةَ حَدَّثَنِي يَحْيَى بْنُ الْحَارِثِ عَنْ الْقَاسِمِ أَبِي عَبْدِ الرَّحْمَنِ عَنْ تَمِيمٍ الدَّارِيِّ ح وَحَدَّثَنِي عُثْمَانُ بْنُ مُسْلِمٍ عَنْ الْعَبَّاسِ بْنِ مَيْمُونٍ عَنْ تَمِيمٍ الدَّارِيِّ قَالَ مَنْ قَرَأَ عَشْرَ آيَاتٍ فِي لَيْلَةٍ لَمْ يُكْتَبْ مِنْ الْغَافِلِينَ",
+                "id": "Telah menceritakan kepada kami [Yahya bin Bistham] dari [Yahya bin Hamzah] telah menceritakan kepadaku [Yahya bin Al Harits] dari [Al Qasim Abu Abdurrahman] dari [Tamim Ad Dari], diganti dengan jalur riwayat, telah menceritakan kepadaku [Utsman bin Muslim] dari [Al Abbas bin Maimun] dari [Tamim Ad Dari] berkata; Barangsiapa yang membaca sepuluh ayat pada malam hari, maka ia tidak akan dicatat termasuk golongan orang-orang yang lalai."
+            },
+            {
+                "number": 2900,
+                "arab": " حَدَّثَنَا يَحْيَى بْنُ بِسْطَامَ عَنْ يَحْيَى بْنِ حَمْزَةَ حَدَّثَنِي يَحْيَى بْنُ الْحَارِثِ عَنْ الْقَاسِمِ أَبِي عَبْدِ الرَّحْمَنِ عَنْ تَمِيمٍ الدَّارِيِّ وَفَضَالَةَ بْنِ عُبَيْدٍ قَالَا مَنْ قَرَأَ بِعَشْرِ آيَاتٍ فِي لَيْلَةٍ كُتِبَ مِنْ الْمُصَلِّينَ",
+                "id": "Telah menceritakan kepada kami [Yahya bin Bistham] dari [Yahya bin Hamzah] telah menceritakan kepadaku [Yahya bin Al Harits] dari [Al Qasim Abu Abdurrahman] dari [Tamim Ad Dari] dan [Fadlalah bin Ubaid] berkata; Barangsiapa yang membaca sepuluh ayat pada malam hari, maka ia akan dicatat termasuk golongan orang-orang yang melakukan sholat."
+            },
+            {
+                "number": 2901,
+                "arab": " حَدَّثَنَا إِسْمَعِيلُ بْنُ أَبَانَ حَدَّثَنَا أَبُو أُوَيْسٍ عَنْ مُوسَى بْنِ عُقْبَةَ عَنْ مُحَمَّدِ بْنِ كَعْبٍ الْقُرَظِيِّ عَنْ ابْنِ عُمَرَ قَالَ مَنْ قَرَأَ فِي لَيْلَةٍ بِعَشْرِ آيَاتٍ لَمْ يُكْتَبْ مِنْ الْغَافِلِينَ",
+                "id": "Telah menceritakan kepada kami [Isma'il bin Aban] telah menceritakan kepada kami [Abu Uwais] dari [Musa bin Uqbah] dari [Muhammad bin Ka'b Al Qurazhi] dari [Ibnu Umar] ia berkata; Barangsiapa yang membaca sepuluh ayat pada malam hari, maka ia tidak dicatat termasuk golongan orang-orang yang lalai."
+            },
+            {
+                "number": 2902,
+                "arab": " حَدَّثَنَا مَالِكُ بْنُ إِسْمَعِيلَ حَدَّثَنَا إِسْرَائِيلُ عَنْ أَبِي إِسْحَقَ عَنْ الْمُغِيرَةِ بْنِ عَبْدِ اللَّهِ الْجَدَلِيِّ عَنْ ابْنِ عُمَرَ قَالَ مَنْ قَرَأَ فِي لَيْلَةٍ بِعَشْرِ آيَاتٍ لَمْ يُكْتَبْ مِنْ الْغَافِلِينَ",
+                "id": "Telah menceritakan kepada kami [Malik bin Isma'il] telah menceritakan kepada kami [Isra`il] dari [Abu Ishaq] dari [Al Mughirah bin Abdullah Al Jadali] dari [Ibnu Umar] ia berkata; Barangsiapa yang membaca sepuluh ayat pada malam hari, maka ia tidak dicatat termasuk golongan orang-orang yang lalai."
+            },
+            {
+                "number": 2903,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا فِطْرٌ عَنْ أَبِي إِسْحَقَ عَنْ أَبِي الْأَحْوَصِ عَنْ عَبْدِ اللَّهِ قَالَ مَنْ قَرَأَ فِي لَيْلَةٍ بِخَمْسِينَ آيَةً لَمْ يُكْتَبْ مِنْ الْغَافِلِينَ",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Fithr] dari [Abu Ishaq] dari [Abu Al Ahwash] dari [Abdullah] ia berkata; Barangsiapa yang membaca lima puluh ayat pada malam hari, maka ia tidak dicatat termasuk golongan orang-orang yang lalai."
+            },
+            {
+                "number": 2904,
+                "arab": " حَدَّثَنَا يَحْيَى بْنُ بِسْطَامَ حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ عَنْ يَحْيَى بْنِ الْحَارِثِ عَنْ الْقَاسِمِ أَبِي عَبْدِ الرَّحْمَنِ عَنْ تَمِيمٍ الدَّارِيِّ وَفَضَالَةَ بْنِ عُبَيْدٍ قَالَا مَنْ قَرَأَ بِخَمْسِينَ آيَةً فِي لَيْلَةٍ كُتِبَ مِنْ الْحَافِظِينَ",
+                "id": "Telah menceritakan kepada kami [Yahya bin Bistham] telah menceritakan kepada kami [Yahya bin Hamzah] dari [Yahya bin Al Harits] dari [Al Qasim Abu Abdurrahman] dari [Tamim Ad Dari] dan [Fadlalah bin Ubaid] keduanya berkata; Barangsiapa yang membaca lima puluh ayat pada malam hari, maka ia tidak dicatat termasuk golongan orang-orang yang menjaga."
+            },
+            {
+                "number": 2905,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ الْقَاسِمِ حَدَّثَنَا مُوسَى بْنُ عُبَيْدَةَ عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ عَنْ يُحَنَّسَ مَوْلَى الزُّبَيْرِ عَنْ سَالِمٍ أَخِي أُمِّ الدَّرْدَاءِ فِي اللَّهِ عَنْ أُمِّ الدَّرْدَاءِ عَنْ أَبِي الدَّرْدَاءِ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ قَرَأَ بِمِائَةِ آيَةٍ فِي لَيْلَةٍ لَمْ يُكْتَبْ مِنْ الْغَافِلِينَ قَالَ أَبُو مُحَمَّد مِنْهُمْ مَنْ يَقُولُ مَكَانَ سَالِمٍ رَاشِدُ بْنُ سَعْدٍ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Al Qasim] telah menceritakan kepada kami [Musa bin Ubaidah] dari [Muhammad bin Ibrahim] dari [Yuhannas] mantan budak Az Zubair dari [Salim] saudara Ummu Ad Darda` karena Allah dari [Ummu Ad Darda`] dari [Abu Ad Darda`] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa yang membaca seratus ayat pada malam hari, maka ia tidak dicatat termasuk golongan orang-orang yang lalai.\" [Abu Muhammad] berkata; Di antara mereka ada yang mengatakan; Di tempat [Salim], [Rasyid bin Sa'ad]."
+            },
+            {
+                "number": 2906,
+                "arab": " حَدَّثَنَا إِسْمَعِيلُ بْنُ أَبَانَ حَدَّثَنَا أَبُو أُوَيْسٍ عَنْ مُوسَى بْنِ عُقْبَةَ عَنْ مُحَمَّدِ بْنِ كَعْبٍ الْقُرَظِيِّ عَنْ ابْنِ عُمَرَ قَالَ مَنْ قَرَأَ فِي لَيْلَةٍ بِمِائَةِ آيَةٍ كُتِبَ مِنْ الْقَانِتِينَ",
+                "id": "Telah menceritakan kepada kami [Isma'il bin Aban] telah menceritakan kepada kami [Abu Uwais] dari [Musa bin Uqbah] dari [Muhammad bin Ka'b Al Qurazhi] dari [Ibnu Umar] ia berkata; Barangsiapa yang membaca seratus ayat pada malam hari, maka ia dicatat termasuk golongan orang-orang yang taat."
+            },
+            {
+                "number": 2907,
+                "arab": " حَدَّثَنَا يَحْيَى بْنُ بِسْطَامَ حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ حَدَّثَنِي زَيْدُ بْنُ وَاقِدٍ عَنْ سُلَيْمَانَ بْنِ مُوسَى عَنْ كَثِيرِ بْنِ مُرَّةَ عَنْ تَمِيمٍ الدَّارِيِّ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ قَرَأَ بِمِائَةِ آيَةٍ فِي لَيْلَةٍ كُتِبَ لَهُ قُنُوتُ لَيْلَةٍ",
+                "id": "Telah menceritakan kepada kami [Yahya bin Bistham] telah menceritakan kepada kami [Yahya bin Hamzah] telah menceritakan kepadaku [Zaid bin Waqid] dari [Sulaiman bin Musa] dari [Katsir bin Murrah] dari [Tamim Ad Dari] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa yang membaca seratus ayat pada malam hari, maka dicatat baginya ketaatan sepanjang malam.\""
+            },
+            {
+                "number": 2908,
+                "arab": " حَدَّثَنَا جَعْفَرُ بْنُ عَوْنٍ عَنْ الْأَعْمَشِ عَنْ أَبِي صَالِحٍ قَالَ قَالَ كَعْبٌ مَنْ قَرَأَ مِائَةَ آيَةٍ كُتِبَ مِنْ الْقَانِتِينَ",
+                "id": "Telah menceritakan kepada kami [Ja'far bin 'Aun] dari [Al A'masy] dari [Abu Shalih] ia berkata; [Ka'ab] berkata; Barangsiapa yang membaca seratus ayat, maka ia dicatat termasuk golongan orang-orang yang taat."
+            },
+            {
+                "number": 2909,
+                "arab": " حَدَّثَنَا يَحْيَى بْنُ بِسْطَامَ حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ حَدَّثَنِي يَحْيَى بْنُ الْحَارِثِ عَنْ الْقَاسِمِ أَبِي عَبْدِ الرَّحْمَنِ عَنْ تَمِيمٍ الدَّارِيِّ وَفَضَالَةَ بْنِ عُبَيْدٍ قَالَا مَنْ قَرَأَ بِمِائَةِ آيَةٍ فِي لَيْلَةٍ كُتِبَ مِنْ الْقَانِتِينَ",
+                "id": "Telah menceritakan kepada kami [Yahya bin Bistham] telah menceritakan kepada kami [Yahya bin Hamzah] telah menceritakan kepadaku [Yahya bin Al Harits] dari [Al Qasim Abu Abdurrahman] dari [Tamim Ad Dari] dan [Fadlalah bin Ubaid] keduanya berkata; Barangsiapa yang membaca seratus ayat pada malam hari, maka ia dicatat termasuk golongan orang-orang yang taat."
+            },
+            {
+                "number": 2910,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا فِطْرٌ عَنْ أَبِي إِسْحَقَ عَنْ أَبِي الْأَحْوَصِ عَنْ عَبْدِ اللَّهِ قَالَ مَنْ قَرَأَ فِي لَيْلَةٍ بِمِائَةِ آيَةٍ كُتِبَ مِنْ الْقَانِتِينَ",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Fithr] dari [Abu Ishaq] dari [Abu Al Ahwash] dari [Abdullah] ia berkata; Barangsiapa yang membaca seratus ayat, maka ia dicatat termasuk golongan orang-orang yang taat."
+            },
+            {
+                "number": 2911,
+                "arab": " حَدَّثَنَا الْحَكَمُ بْنُ نَافِعٍ أَخْبَرَنَا حَرِيزُ بْنُ عُثْمَانَ عَنْ حَبِيبِ بْنِ عُبَيْدٍ قَالَ سَمِعْتُ أَبَا أُمَامَةَ يَقُولُ مَنْ قَرَأَ بِمِائَةِ آيَةٍ لَمْ يُكْتَبْ مِنْ الْغَافِلِينَ",
+                "id": "Telah menceritakan kepada kami [Al Hakam bin Nafi'] telah mengabarkan kepada kami [Hariz bin Utsman] dari [Habib bin Ubaid] ia berkata; Aku mendengar [Abu Umamah] berkata; Barangsiapa yang membaca seratus ayat, maka ia tidak dicatat termasuk golongan orang-orang yang lalai."
+            },
+            {
+                "number": 2912,
+                "arab": " حَدَّثَنَا الْحَكَمُ بْنُ نَافِعٍ أَخْبَرَنَا حَرِيزٌ عَنْ حَبِيبِ بْنِ عُبَيْدٍ قَالَ سَمِعْتُ أَبَا أُمَامَةَ يَقُولُ مَنْ قَرَأَ مِائَتَيْ آيَةٍ كُتِبَ مِنْ الْقَانِتِينَ",
+                "id": "Telah menceritakan kepada kami [Al Hakam bin Nafi'] telah mengabarkan kepada kami [Hariz] dari [Habib bin Ubaid] ia berkata; Aku mendengar [Abu Umamah] berkata; Barangsiapa yang membaca dua ratus ayat, maka ia dicatat termasuk golongan orang-orang yang taat."
+            },
+            {
+                "number": 2913,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ الْقَاسِمِ حَدَّثَنَا مُوسَى بْنُ عُبَيْدَةَ عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ عَنْ يُحَنَّسَ مَوْلَى الزُّبَيْرِ عَنْ سَالِمٍ أَخِي أُمِّ الدَّرْدَاءِ فِي اللَّهِ عَنْ أُمِّ الدَّرْدَاءِ عَنْ أَبِي الدَّرْدَاءِ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ قَرَأَ مِائَتَيْ آيَةٍ فِي لَيْلَةٍ كُتِبَ مِنْ الْقَانِتِينَ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Al Qasim] telah menceritakan kepada kami [Musa bin Ubaidah] dari [Muhammad bin Ibrahim] dari [Yuhannas] mantan budak Az Zubair dari [Salim] saudara Ummu Ad Darda` karena Allah, dari [Ummu Ad Darda`] dari [Abu Ad Darda`] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa yang membaca dua ratus ayat pada malam hari, maka ia dicatat termasuk golongan orang-orang yang taat.\""
+            },
+            {
+                "number": 2914,
+                "arab": " حَدَّثَنَا أَبُو غَسَّانَ حَدَّثَنَا إِسْرَائِيلُ عَنْ أَبِي إِسْحَقَ عَنْ الْمُغِيرَةِ بْنِ عَبْدِ اللَّهِ الْجَدَلِيِّ عَنْ ابْنِ عُمَرَ قَالَ مَنْ قَرَأَ فِي لَيْلَةٍ عَشْرَ آيَاتٍ لَمْ يُكْتَبْ مِنْ الْغَافِلِينَ وَمَنْ قَرَأَ فِي لَيْلَةٍ بِمِائَةِ آيَةٍ كُتِبَ مِنْ الْقَانِتِينَ وَمَنْ قَرَأَ بِمِائَتَيْ آيَةٍ كُتِبَ مِنْ الْفَائِزِينَ",
+                "id": "Telah menceritakan kepada kami [Abu Ghassan] telah menceritakan kepada kami [Isra`il] dari [Abu Ishaq] dari [Al Mughirah bin Abdullah Al Jadali] dari [Ibnu Umar] ia berkata; Barangsiapa yang membaca sepuluh ayat pada malam hari, maka ia tidak dicatat termasuk orang-orang yang lalai. Dan barangsiapa membaca dua ratus ayat, maka ia dicatat termasuk orang-orang yang beruntung."
+            },
+            {
+                "number": 2915,
+                "arab": " حَدَّثَنَا أَبُو النُّعْمَانِ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ سَعِيدٍ الْجُرَيْرِيِّ عَنْ أَبِي نَضْرَةَ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَ مَنْ قَرَأَ فِي لَيْلَةٍ عَشْرَ آيَاتٍ كُتِبَ مِنْ الذَّاكِرِينَ وَمَنْ قَرَأَ بِمِائَةِ آيَةٍ كُتِبَ مِنْ الْقَانِتِينَ وَمَنْ قَرَأَ بِخَمْسِ مِائَةِ آيَةٍ إِلَى الْأَلْفِ أَصْبَحَ وَلَهُ قِنْطَارٌ مِنْ الْأَجْرِ قِيلَ وَمَا الْقِنْطَارُ قَالَ مِلْءُ مَسْكِ الثَّوْرِ ذَهَبًا",
+                "id": "Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari [Sa'id Al Jurairi] dari [Abu Nadlrah] dari [Abu Sa'id Al Hudri] ia berkata; Barangsiapa yang membaca sepuluh ayat pada malam hari, maka ia tidak dicatat termasuk orang-orang yang berdzikir, dan barangsiapa yang membaca seratus ayat, maka ia dicatat termasuk orang-orang yang taat, serta barangsiapa yang membaca lima ratus sampai seribu ayat maka pagi harinya ia akan mendapatkan satu qinthar pahala. Ditanyakan; Berapa satu qinthar itu? Ia menjawab; Emas sepenuh (wadah sebesar) kulit sapi jantan."
+            },
+            {
+                "number": 2916,
+                "arab": " حَدَّثَنَا أَبُو النُّعْمَانِ حَدَّثَنَا وُهَيْبٌ عَنْ يُونُسَ عَنْ الْحَسَنِ أَنَّ نَبِيَّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ قَرَأَ فِي لَيْلَةٍ مِائَةَ آيَةٍ لَمْ يُحَاجَّهُ الْقُرْآنُ تِلْكَ اللَّيْلَةَ وَمَنْ قَرَأَ فِي لَيْلَةٍ مِائَتَيْ آيَةٍ كُتِبَ لَهُ قُنُوتُ لَيْلَةٍ وَمَنْ قَرَأَ فِي لَيْلَةٍ خَمْسَ مِائَةِ آيَةٍ إِلَى الْأَلْفِ أَصْبَحَ وَلَهُ قِنْطَارٌ فِي الْآخِرَةِ قَالُوا وَمَا الْقِنْطَارُ قَالَ اثْنَا عَشَرَ أَلْفًا",
+                "id": "Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Wuhaib] dari [Yunus] dari [Al Hasan] bahwa Nabiyullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa yang membaca seratus ayat pada malam hari, maka Al Qur'an tidak mencelanya pada malam itu, dan barangsiapa yang membaca dua ratus ayat pada malam hari maka dicatat baginya ketaatan sepanjang malam, serta barangsiapa yang membaca lima ratus sampai seribu ayat pada malam hari maka pagi harinya ia akan mendapatkan satu qinthar di akhirat.\" Mereka bertanya; Berapa satu qinthar itu? Beliau menjawab: \"Dua belas ribu.\""
+            },
+            {
+                "number": 2917,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا فِطْرٌ عَنْ أَبِي إِسْحَقَ عَنْ أَبِي الْأَحْوَصِ عَنْ عَبْدِ اللَّهِ قَالَ مَنْ قَرَأَ فِي لَيْلَةٍ ثَلَاثَ مِائَةِ آيَةٍ كُتِبَ لَهُ قِنْطَارٌ وَمَنْ قَرَأَ سَبْعَ مِائَةِ آيَةٍ لَا أَدْرِي أَيَّ شَيْءٍ قَالَ فِيهَا أَبُو نُعَيْمٍ بِقَوْلِهِ",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Fithr] dari [Abu Ishaq] dari [Abu Al Ahwash] dari [Abdullah] ia berkata; Barangsiapa yang membaca tiga ratus ayat pada malam hari maka dicatat baginya satu qinthar. Sedangkan tentang (perkataan); Barangsiapa yang membaca tujuh ratus ayat, maka aku tidak tahu apa yang dikatakan oleh [Abu Nu'aim] tentangnya."
+            },
+            {
+                "number": 2918,
+                "arab": " أَخْبَرَنَا الْحَكَمُ بْنُ نَافِعٍ أَخْبَرَنَا حَرِيزٌ عَنْ حَبِيبِ بْنِ عُبَيْدٍ قَالَ سَمِعْتُ أَبَا أُمَامَةَ يَقُولُ مَنْ قَرَأَ أَلْفَ آيَةٍ كُتِبَ لَهُ قِنْطَارٌ مِنْ الْأَجْرِ وَالْقِيرَاطُ مِنْ ذَلِكَ الْقِنْطَارِ لَا يَفِي بِهِ دُنْيَاكُمْ يَقُولُ لَا يَعْدِلُهُ دُنْيَاكُمْ",
+                "id": "Telah mengabarkan kepada kami [Al Hakam bin Nafi'] telah mengabarkan kepada kami [Hariz] dari [Habib bin Ubaid] ia berkata; Aku mendengar [Abu Umamah] berkata; Barangsiapa yang membaca seribu ayat maka dicatat baginya satu qinthar pahala, dan qirath dari qinthar itu tidak dapat ditebus oleh dunia kalian. Ia berkata; Tidak dapat disamai oleh dunia kalian."
+            },
+            {
+                "number": 2919,
+                "arab": " حَدَّثَنَا يَحْيَى بْنُ بِسْطَامَ حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ عَنْ يَحْيَى بْنِ الْحَارِثِ عَنْ الْقَاسِمِ أَبِي عَبْدِ الرَّحْمَنِ عَنْ تَمِيمٍ الدَّارِيِّ وَفَضَالَةَ بْنِ عُبَيْدٍ قَالَا مَنْ قَرَأَ أَلْفَ آيَةٍ فِي لَيْلَةٍ كُتِبَ لَهُ قِنْطَارٌ وَالْقِيرَاطُ مِنْ الْقِنْطَارِ خَيْرٌ مِنْ الدُّنْيَا وَمَا فِيهَا وَاكْتَنَزَ مِنْ الْأَجْرِ مَا شَاءَ اللَّهُ",
+                "id": "Telah menceritakan kepada kami [Yahya bin Bistham] telah menceritakan kepada kami [Yahya bin Hamzah] dari [Yahya bin Al Harits] dari [Al Qasim Abu Abdurrahman] dari [Tamim Ad Dari] dan [Fadlalah bin Ubaid] keduanya berkata; Barangsiapa yang membaca seribu ayat pada malam hari maka dicatat baginya satu qinthar, sedangkan satu qirath dari qinthar tersebut lebih baik dari dunia dan seisinya, serta akan mendapat pahala yang disimpan sesuai dengan apa yang dikehendaki oleh Allah."
+            },
+            {
+                "number": 2920,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ الْقَاسِمِ حَدَّثَنَا مُوسَى بْنُ عُبَيْدَةَ عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ عَنْ يُحَنَّسَ مَوْلَى الزُّبَيْرِ عَنْ سَالِمٍ أَخِي أُمِّ الدَّرْدَاءِ عَنْ أُمِّ الدَّرْدَاءِ عَنْ أَبِي الدَّرْدَاءِ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ قَرَأَ أَلْفَ آيَةٍ إِلَى خَمْسِ مِائَةٍ كُتِبَ لَهُ قِنْطَارٌ مِنْ الْأَجْرِ الْقِيرَاطُ مِنْهُ مِثْلُ التَّلِّ الْعَظِيمِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Al Qasim] telah menceritakan kepada kami [Musa bin Ubaidah] dari [Muhammad bin Ibrahim] dari [Yuhannas] mantan budak Az Zubair, dari [Salim] saudara Ummu Ad Darda`, dari [Ummu Ad Darda`] dari [Abu Ad Darda`] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa yang membaca lima ratus sampai seribu ayat maka dicatat baginya satu qinthar pahala. Satu qirath dari qinthar tersebut seperti sebuah bukit yang besar.\""
+            },
+            {
+                "number": 2921,
+                "arab": " حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ حَدَّثَنَا أَبَانُ الْعَطَّارُ وَحَمَّادُ بْنُ سَلَمَةَ عَنْ عَاصِمٍ عَنْ أَبِي صَالِحٍ عَنْ أَبِي هُرَيْرَةَ قَالَ الْقِنْطَارُ اثْنَا عَشَرَ أَلْفًا",
+                "id": "Telah menceritakan kepada kami [Abdush Shamad bin Abdul Warits] telah menceritakan kepada kami [Aban Al 'Aththar] dan [Hammad bin Salamah] dari ['Ashim] dari [Abu Shalih] dari [Abu Hurairah] ia berkata; Satu qinthar adalah dua belas ribu."
+            },
+            {
+                "number": 2922,
+                "arab": " حَدَّثَنَا إِسْحَقُ بْنُ عِيسَى عَنْ أَبِي الْأَشْهَبِ عَنْ أَبِي نَضْرَةَ الْعَبْدِيِّ قَالَ الْقِنْطَارُ مِلْءُ مَسْكِ ثَوْرٍ ذَهَبًا",
+                "id": "Telah menceritakan kepada kami [Ishaq bin Isa] dari [Abu Al Asyhab] dari [Abu Nadlrah Al 'Abdi] ia berkata; Satu qinthar seperti emas sepenuh (wadah sebesar) kulit sapi jantan."
+            },
+            {
+                "number": 2923,
+                "arab": " حَدَّثَنَا إِسْحَقُ عَنْ هُشَيْمٍ عَنْ عَلِيِّ بْنِ زَيْدٍ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ قَالَ الْقِنْطَارُ أَرْبَعُونَ أَلْفًا",
+                "id": "Telah menceritakan kepada kami [Ishaq] dari [Husyaim] dari [Ali bin Zaid] dari [Sa'id bin Al Musayyab] ia berkata; Satu qinthar adalah empat puluh ribu."
+            },
+            {
+                "number": 2924,
+                "arab": " حَدَّثَنَا إِسْحَقُ عَنْ مُبَارَكٍ عَنْ الْحَسَنِ قَالَ الْقِنْطَارُ دِيَةُ أَحَدِكُمْ اثْنَا عَشَرَ أَلْفًا",
+                "id": "Telah menceritakan kepada kami [Ishaq] dari [Mubarak] dari [Al Hasan] ia berkata; Satu qinthar adalah diyat salah seorang dari kalian, yakni dua belas ribu."
+            },
+            {
+                "number": 2925,
+                "arab": " حَدَّثَنَا إِسْحَقُ عَنْ مُسْلِمٍ هُوَ الزَّنْجِيُّ عَنْ ابْنِ أَبِي نَجِيحٍ عَنْ مُجَاهِدٍ قَالَ الْقِنْطَارُ سَبْعُونَ أَلْفَ دِينَارٍ",
+                "id": "Telah menceritakan kepada kami [Ishaq] dari [Muslim] ia adalah Az Zanji, dari [Ibnu Abu Najih] dari [Mujahid] ia berkata; Satu qinthar adalah tujuh puluh ribu dinar."
+            },
+            {
+                "number": 2926,
+                "arab": " حَدَّثَنَا إِسْحَقُ عَنْ أَبِي بَكْرٍ عَنْ أَبِي حَصِينٍ عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ عَنْ مُعَاذِ بْنِ جَبَلٍ قَالَ الْقِنْطَارُ أَلْفُ أُوقِيَّةٍ وَمِائَتَا أُوقِيَّةٍ",
+                "id": "Telah menceritakan kepada kami [Ishaq] dari [Abu Bakr] dari [Abu Hashin] dari [Salim bin Abu Al Ja'd] dari [Mu'adz bin Jabal] ia berkata; Satu qinthar adalah seribu dua ratus uqiyah. "
+            },
+            {
+                "number": 2927,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا شَرِيكٌ عَنْ لَيْثٍ عَنْ مُجَاهِدٍ قَالَ الْقِنْطَارُ سَبْعُونَ أَلْفَ مِثْقَالٍ",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Syarik] dari [Laits] dari [Mujahid] ia berkata; Satu qinthar adalah tujuh puluh ribu mitsqal. "
+            },
+            {
+                "number": 2928,
+                "arab": " حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ حَدَّثَنَا صَالِحٌ الْمُرِّيُّ عَنْ قَتَادَةَ قَالَ كَانَ رَجُلٌ يَقْرَأُ فِي مَسْجِدِ الْمَدِينَةِ وَكَانَ ابْنُ عَبَّاسٍ قَدْ وَضَعَ عَلَيْهِ الرَّصَدَ فَإِذَا كَانَ يَوْمُ خَتْمِهِ قَامَ فَتَحَوَّلَ إِلَيْهِ",
+                "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Shalih Al Murri] dari [Qatadah] ia berkata; Ada seseorang yang membaca Al Qur'an di dalam masjid Madinah. Ketika itu [Ibnu Abbas] menempatkan seseorang untuk mengawasinya. Tatkala hari pengkhataman tiba, ia berdiri lalu berada bersamanya."
+            },
+            {
+                "number": 2929,
+                "arab": " حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ حَدَّثَنَا صَالِحٌ عَنْ ثَابِتٍ الْبُنَانِيِّ قَالَ كَانَ أَنَسُ بْنُ مَالِكٍ إِذَا أَشْفَى عَلَى خَتْمِ الْقُرْآنِ بِاللَّيْلِ بَقَّى مِنْهُ شَيْئًا حَتَّى يُصْبِحَ فَيَجْمَعَ أَهْلَهُ فَيَخْتِمَهُ مَعَهُمْ",
+                "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Shalih] dari [Tsabit Al Bunani] ia berkata; Apabila [Anas bin Malik] hampir mengkhatamkan Al Qur'an di malam hari, ia menyisakan sedikit dari Al Qur'an hingga waktu pagi. Lalu ia mengumpulkan keluarganya, kemudian ia mengkhatamkan Al Qur'an bersama mereka."
+            },
+            {
+                "number": 2930,
+                "arab": " حَدَّثَنَا أَبُو الْمُغِيرَةِ حَدَّثَنَا الْأَوْزَاعِيُّ عَنْ عَبْدَةَ قَالَ إِذَا خَتَمَ الرَّجُلُ الْقُرْآنَ بِنَهَارٍ صَلَّتْ عَلَيْهِ الْمَلَائِكَةُ حَتَّى يُمْسِيَ وَإِنْ فَرَغَ مِنْهُ لَيْلًا صَلَّتْ عَلَيْهِ الْمَلَائِكَةُ حَتَّى يُصْبِحَ",
+                "id": "Telah menceritakan kepada kami [Abu Al Mughirah] telah menceritakan kepada kami [Al Auza'i] dari [Abdah] ia berkata; Apabila seseorang mengkhatamkan Al Qur'an pada siang hari maka para malaikat bershalawat untuknya hingga waktu sore dan jika ia menyelesaikan bacaan Al Qur'an pada malam hari maka para malaikat bershalawat untuknya hingga waktu pagi."
+            },
+            {
+                "number": 2931,
+                "arab": " حَدَّثَنَا إِسْحَقُ بْنُ عِيسَى عَنْ صَالِحٍ الْمُرِّيِّ عَنْ قَتَادَةَ عَنْ زُرَارَةَ بْنِ أَوْفَى أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سُئِلَ أَيُّ الْعَمَلِ أَفْضَلُ قَالَ الْحَالُّ الْمُرْتَحِلُ قِيلَ وَمَا الْحَالُّ الْمُرْتَحِلُ قَالَ صَاحِبُ الْقُرْآنِ يَضْرِبُ مِنْ أَوَّلِ الْقُرْآنِ إِلَى آخِرِهِ وَمِنْ آخِرِهِ إِلَى أَوَّلِهِ كُلَّمَا حَلَّ ارْتَحَلَ",
+                "id": "Telah menceritakan kepada kami [Ishaq bin Isa] dari [Shalih Al Murri] dari [Qatadah] dari [Zurarah bin Aufa] bahwa Nabi shallallahu 'alaihi wasallam pernah ditanya; Amalan apa yang paling utama? Beliau menjawab: \"Al Haallu Al Murtahil.\" Ditanyakan; Apa maksud Al Haallu Al Murtahil? Beliau menjawab: \"Pembaca Al Qur'an yang membaca (mengkhatamkan) dari awal Al Qur'an sampai akhir dan dari akhir Al Qur'an sampai awalnya, setiap kali selesai (pengkhatamannya), ia langsung pergi.\""
+            },
+            {
+                "number": 2932,
+                "arab": " حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى عَنْ جَرِيرٍ عَنْ الْأَعْمَشِ عَنْ إِبْرَاهِيمَ قَالَ إِذَا قَرَأَ الرَّجُلُ الْقُرْآنَ نَهَارًا صَلَّتْ عَلَيْهِ الْمَلَائِكَةُ حَتَّى يُمْسِيَ وَإِنْ قَرَأَهُ لَيْلًا صَلَّتْ عَلَيْهِ الْمَلَائِكَةُ حَتَّى يُصْبِحَ قَالَ سُلَيْمَانُ فَرَأَيْتُ أَصْحَابَنَا يُعْجِبُهُمْ أَنْ يَخْتِمُوهُ أَوَّلَ النَّهَارِ وَأَوَّلَ اللَّيْلِ حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ الْفِرْيَابِيُّ عَنْ سُفْيَانَ عَنْ الْأَعْمَشِ عَنْ إِبْرَاهِيمَ مِثْلَهُ إِلَّا أَنَّهُ لَيْسَ فِيهِ قَوْلُ سُلَيْمَانَ",
+                "id": "Telah menceritakan kepada kami [Ibrahim bin Musa] dari [Jarir] dari [Al A'masy] dari [Ibrahim] ia berkata; Jika seseorang membaca Al Qur'an pada siang hari, maka para malaikat akan bershalawat untuknya sampai sore, jika ia membacanya di malam hari maka para malaikat akan bershalawat untuknya sampai pagi. [Sulaiman] berkata; Aku melihat para sahabat kami lebih suka mengkhatamkan Al Qur'an di awal siang dan di awal malam. Telah menceritakan kepada kami [Muhammad bin Yusuf Al Firyabi] dari [Sufyan] dari [Al A'masy] dari [Ibrahim] seperti itu, hanya saja tidak terdapat perkataan [Sulaiman]."
+            },
+            {
+                "number": 2933,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ سَعِيدٍ حَدَّثَنَا عَبْدُ السَّلَامِ عَنْ يَزِيدَ بْنِ عَبْدِ الرَّحْمَنِ عَنْ طَلْحَةَ وَعَبْدِ الرَّحْمَنِ بْنِ الْأَسْوَدِ قَالَا مَنْ قَرَأَ الْقُرْآنَ لَيْلًا أَوْ نَهَارًا صَلَّتْ عَلَيْهِ الْمَلَائِكَةُ إِلَى اللَّيْلِ وَقَالَ الْآخَرُ غُفِرَ لَهُ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Sa'id] telah menceritakan kepada kami [Abdus Salam] dari [Yazid bin Abdurrahman] dari [Thalhah] dan [Abdurrahman bin Al Aswad] keduanya berkata; Barangsiapa yang membaca Al Qur'an pada malam atau siang hari, maka para malaikat akan bershalawat untuknya sampai malam hari. Yang lain berkata; Maka ia diampuni."
+            },
+            {
+                "number": 2934,
+                "arab": " حَدَّثَنَا عَمْرُو بْنُ حَمَّادٍ حَدَّثَنَا قَزَعَةُ بْنُ سُوَيْدٍ عَنْ حُمَيْدٍ الْأَعْرَجِ قَالَ مَنْ قَرَأَ الْقُرْآنَ ثُمَّ دَعَا أَمَّنَ عَلَى دُعَائِهِ أَرْبَعَةُ آلَافِ مَلَكٍ",
+                "id": "Telah menceritakan kepada kami [Amr bin Hammad] telah menceritakan kepada kami [Faza'ah bin Suwaid] dari [Humaid Al A'raj] ia berkata; Barangsiapa yang membaca Al Qur'an kemudian ia berdoa, maka doanya akan diamini oleh empat ribu malaikat."
+            },
+            {
+                "number": 2935,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ حُمَيْدٍ حَدَّثَنَا هَارُونُ عَنْ عَنْبَسَةَ عَنْ لَيْثٍ عَنْ طَلْحَةَ بْنِ مُصَرِّفٍ عَنْ مُصْعَبِ بْنِ سَعْدٍ عَنْ سَعْدٍ قَالَ إِذَا وَافَقَ خَتْمُ الْقُرْآنِ أَوَّلَ اللَّيْلِ صَلَّتْ عَلَيْهِ الْمَلَائِكَةُ حَتَّى يُصْبِحَ وَإِنْ وَافَقَ خَتْمُهُ آخِرَ اللَّيْلِ صَلَّتْ عَلَيْهِ الْمَلَائِكَةُ حَتَّى يُمْسِيَ فَرُبَّمَا بَقِيَ عَلَى أَحَدِنَا الشَّيْءُ فَيُؤَخِّرَهُ حَتَّى يُمْسِيَ أَوْ يُصْبِحَ قَالَ أَبُو مُحَمَّد هَذَا حَسَنٌ عَنْ سَعْدٍ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Humaid] telah menceritakan kepada kami [Harun] dari ['Anbasah] dari [Laits] dari [Thalhah bin Musharrif] dari [Mush'ab bin Sa'd] dari [Sa'd] ia berkata; Jika pengkhataman Al Qur'an bertepatan dengan awal malam maka para malaikat akan bershalawat untuknya sampai pagi. Dan jika pengkhatamannya bertepatan dengan akhir malam maka para malaikat akan bershalawat untuknya sampai sore. Terkadang salah seorang dari kami menyisakan sedikit dari Al Qur'an dan mengakhirkannya sampai sore atau pagi. Abu Muhammad berkata; Riwayat ini hasan dari Sa'd."
+            },
+            {
+                "number": 2936,
+                "arab": " حَدَّثَنَا مُجَاهِدُ بْنُ مُوسَى حَدَّثَنَا مَعْنٌ حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُهَاجِرِ بْنِ مِسْمَارٍ ابْنِ أَخِي بُكَيْرِ بْنِ مِسْمَارٍ حَدَّثَنِي صَفْوَانُ بْنُ سُلَيْمٍ عَنْ عَطَاءِ بْنِ يَسَارٍ قَالَ حَمَلَةُ الْقُرْآنِ عُرَفَاءُ أَهْلِ الْجَنَّةِ",
+                "id": "Telah menceritakan kepada kami [Mujahid bin Musa] telah menceritakan kepada kami [Ma'n] telah menceritakan kepada kami [Ibrahim bin Muhajir bin Mismar] ia adalah anak saudaraku Bukair bin Mismar, telah menceritakan kepadaku [Shafwan bin Sulaim] dari ['Atha` bin Yasar] ia berkata; Para penghafal Al Qur'an akan menjadi pengatur perkara dan kemaslahatan penduduk surga."
+            },
+            {
+                "number": 2937,
+                "arab": " حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ أَخْبَرَنَا عَبْدُ الْمَلِكِ عَنْ سَعِيدِ بْنِ جُبَيْرٍ أَنَّهُ كَانَ يَخْتِمُ الْقُرْآنَ كُلَّ لَيْلَتَيْنِ",
+                "id": "Telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Abdul Malik] dari [Sa'id bin Jubair] bahwa ia selalu mengkhatamkan Al Qur'an setiap dua malam."
+            },
+            {
+                "number": 2938,
+                "arab": " حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ حَدَّثَنَا لَيْثُ بْنُ سَعْدٍ حَدَّثَنَا ابْنُ أَبِي مُلَيْكَةَ عَنْ ابْنِ أَبِي نَهِيكٍ عَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَيْسَ مِنَّا مَنْ لَمْ يَتَغَنَّ بِالْقُرْآنِ قَالَ أَبُو مُحَمَّد النَّاسُ يَقُولُونَ عُبَيْدُ اللَّهِ بْنُ أَبِي نَهِيكٍ",
+                "id": "Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi] telah menceritakan kepada kami [Laits bin Sa'd] telah menceritakan kepada kami [Ibnu Abu Mulaikah] dari [Ibnu Abu Nahik] dari [Sa'd bin Abu Waqqash] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak termasuk golongan kami orang yang tidak melantunkan Al Qur'an dengan suara indah.\" Abu Muhammad berkata; Orang-orang mengatakan; ubaidhullah bin Nahik."
+            },
+            {
+                "number": 2939,
+                "arab": " حَدَّثَنَا عَبْدُ اللَّهِ بْنُ صَالِحٍ حَدَّثَنِي اللَّيْثُ حَدَّثَنِي عُقَيْلٌ عَنْ ابْنِ شِهَابٍ حَدَّثَنِي أَبُو سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ أَنَّهُ كَانَ يَقُولُ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَمْ يَأْذَنْ اللَّهُ لِشَيْءٍ مَا أَذِنَ لِنَبِيٍّ يَتَغَنَّى بِالْقُرْآنِ و قَالَ صَاحِبٌ لَهُ زَادَ يَجْهَرُ بِهِ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Shalih] telah menceritakan kepadaku [Al Laits] telah menceritakan kepadaku ['Uqail] dari [Ibnu Syihab] telah menceritakan kepadaku [Abu Salamah] dari [Abu Hurairah], bahwa ia pernah berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Allah tidak pernah mengizinkan sesuatu seperti Dia mengizinkan kepada Nabi untuk melantunkan Al Qur'an dengan suara yang indah.\" Ada seorang sahabat beliau menambahkan: \"Dan mengeraskan bacaan Al Qur'an.\""
+            },
+            {
+                "number": 2940,
+                "arab": " حَدَّثَنَا عَبْدُ اللَّهِ بْنُ صَالِحٍ حَدَّثَنَا اللَّيْثُ حَدَّثَنِي يُونُسُ عَنْ ابْنِ شِهَابٍ أَخْبَرَنِي أَبُو سَلَمَةَ أَنَّ أَبَا هُرَيْرَةَ قَالَ مَا أَذِنَ اللَّهُ لِشَيْءٍ كَمَا أَذِنَ لِنَبِيٍّ يَتَغَنَّى بِالْقُرْآنِ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Shalih] telah menceritakan kepada kami [Al Laits] telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepada kami [Abu Salamah] bahwa [Abu Hurairah] ia berkata; Allah tidak mengizinkan sesuatu seperti Dia mengizinkan Nabi untuk melantunkan Al Qur'an dengan suara yang indah."
+            }
+        ]
+    }
+}

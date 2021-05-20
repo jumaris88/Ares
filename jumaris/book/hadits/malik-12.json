@@ -1,0 +1,26 @@
+{
+    "status": true,
+    "data": {
+        "start": 1585,
+        "end": 1728,
+        "total": 3,
+        "book": "malik",
+        "hadits": [
+            {
+                "number": 1585,
+                "arab": "و حَدَّثَنِي عَنْ مَالِك عَنْ زَيْدِ بْنِ أَسْلَمَ عَنْ أَبِيهِ أَنَّهُ قَالَ قَالَ عَبْدُ اللَّهِ بْنُ الْأَرْقَمِادْلُلْنِي عَلَى بَعِيرٍ مِنْ الْمَطَايَا أَسْتَحْمِلُ عَلَيْهِ أَمِيرَ الْمُؤْمِنِينَ فَقُلْتُ نَعَمْ جَمَلًا مِنْ الصَّدَقَةِ فَقَالَ عَبْدُ اللَّهِ بْنُ الْأَرْقَمِ أَتُحِبُّ أَنَّ رَجُلًا بَادِنًا فِي يَوْمٍ حَارٍّ غَسَلَ لَكَ مَا تَحْتَ إِزَارِهِ وَرُفْغَيْهِ ثُمَّ أَعْطَاكَهُ فَشَرِبْتَهُ قَالَ فَغَضِبْتُ وَقُلْتُ يَغْفِرُ اللَّهُ لَكَ أَتَقُولُ لِي مِثْلَ هَذَا فَقَالَ عَبْدُ اللَّهِ بْنُ الْأَرْقَمِ إِنَّمَا الصَّدَقَةُ أَوْسَاخُ النَّاسِ يَغْسِلُونَهَا عَنْهُمْ",
+                "id": "Telah menceritakan kepadaku dari Malik dari [Zaid bin Aslam] dari [Ayahnya] berkata; [Abdurrahman bin Al Arqam] berkata, \"Tunjukkan kepadaku seekor unta tunggangan yang bisa aku gunakan untuk membawa Amirul mukminin.\" Aku lalu berkata, \"Ya. ada seekor unta jantan dari unta sedekah.\" Lalu Abdullah bin Al Arqam bertanya, \"Apakah kamu senang jika ada seorang laki-laki gemuk pada suatu siang yang sangat panas, mencuci apa yang ada di bawah sarungnya dan pangkal pahanya karenamu. Lalu dia memberikan (airnya) kepadamu dan engkau meminumnya?\" Aslam berkata, \"Aku pun marah, lalu kukatakan, \"Semoga Allah mengampunimu, kenapa engkau mengatakan seperti ini kepadaku?\" Abdullah bin Arqam berkata; \"Sesungguhnya zakat adalah kotoran manusia yang mereka bersihkan dari diri mereka.\""
+            },
+            {
+                "number": 1586,
+                "arab": "حَدَّثَنِي عَنْ مَالِك عَنْ زَيْدِ بْنِ أَسْلَمَ عَنْ أَبِيهِ أَنَّ عُمَرَ بْنَ الْخَطَّابِاسْتَعْمَلَ مَوْلًى لَهُ يُدْعَى هُنَيًّا عَلَى الْحِمَى فَقَالَ يَا هُنَيُّ اضْمُمْ جَنَاحَكَ عَنْ النَّاسِ وَاتَّقِ دَعْوَةَ الْمَظْلُومِ فَإِنَّ دَعْوَةَ الْمَظْلُومِ مُجَابَةٌ وَأَدْخِلْ رَبَّ الصُّرَيْمَةِ وَرَبَّ الْغُنَيْمَةِ وَإِيَّايَ وَنَعَمَ ابْنِ عَفَّانَ وَابْنِ عَوْفٍ فَإِنَّهُمَا إِنْ تَهْلِكْ مَاشِيَتُهُمَا يَرْجِعَانِ إِلَى الْمَدِينَةِ إِلَى زَرْعٍ وَنَخْلٍ وَإِنَّ رَبَّ الصُّرَيْمَةِ وَالْغُنَيْمَةِ إِنْ تَهْلِكْ مَاشِيَتُهُ يَأْتِنِي بِبَنِيهِ فَيَقُولُ يَا أَمِيرَ الْمُؤْمِنِينَ يَا أَمِيرَ الْمُؤْمِنِينَ أَفَتَارِكُهُمْ أَنَا لَا أَبَا لَكَ فَالْمَاءُ وَالْكَلَأُ أَيْسَرُ عَلَيَّ مِنْ الذَّهَبِ وَالْوَرِقِ وَايْمُ اللَّهِ إِنَّهُمْ لَيَرَوْنَ أَنِّي قَدْ ظَلَمْتُهُمْ إِنَّهَا لَبِلَادُهُمْ وَمِيَاهُهُمْ قَاتَلُوا عَلَيْهَا فِي الْجَاهِلِيَّةِ وَأَسْلَمُوا عَلَيْهَا فِي الْإِسْلَامِ وَالَّذِي نَفْسِي بِيَدِهِ لَوْلَا الْمَالُ الَّذِي أَحْمِلُ عَلَيْهِ فِي سَبِيلِ اللَّهِ مَا حَمَيْتُ عَلَيْهِمْ مِنْ بِلَادِهِمْ شِبْرًا",
+                "id": "Telah menceritakan kepadaku dari Malik dari [Zaid bin Aslam] dari [Ayahnya] bahwa [Umar bin Khattab] memperkerjakan mantan budaknya yang bernama Hunayya untuk menjaga perbatasan. Lalu 'Umar berkata; \"Wahai Hunayya! Tahanlah tanganmu dari berbuat aniaya terhadap manusia dan takutlah doa orang-orang yang teraniaya. Karena doa orang-orang yang teraniaya itu dikabulkan. Masukkan pemilik unta dan kambing yang sedikit. Biarkan ternak Ibnu Affan dan Ibnu 'Auf, jika kedua ternak mereka habis, mereka akan kembali ke Madinah untuk bertani dan bercocok tanam. Penggembala yang memiliki unta atau kambing yang sedikit, jika telah habis ternaknya, mereka akan mendatangiku membawa anaknya seraya mengatakan 'Wahai Amirul Mu'minin! wahai Amirul Mu'minin! apakah engkau akan meninggalkan mereka? Aku tidaklah enggan denganmu, air dan rumput lebih ringan bagiku daripada emas dan perak. Demi Allah, mereka melihat bahwa aku telah menganiaya mereka. Ini adalah tanah mereka dan air mereka. Mereka berjuang untuk mendapatkannya pada masa Jahiliyah dan menyerahkannya pada masa Islam. Demi Dzat yang jiwaku di tangan-Nya, jika bukan karena harta yang aku bawa di jalan Allah, aku tidak akan menjaga tanah mereka sejengkalpun'.\""
+            },
+            {
+                "number": 1587,
+                "arab": "حَدَّثَنِي مَالِك عَنْ ابْنِ شِهَابٍ عَنْ مُحَمَّدِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍأَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لِي خَمْسَةُ أَسْمَاءٍ أَنَا مُحَمَّدٌ وَأَنَا أَحْمَدُ وَأَنَا الْمَاحِي الَّذِي يَمْحُو اللَّهُ بِيَ الْكُفْرَ وَأَنَا الْحَاشِرُ الَّذِي يُحْشَرُ النَّاسُ عَلَى قَدَمِي وَأَنَا الْعَاقِبُ",
+                "id": "Telah menceritakan kepadaku Malik dari [Ibnu Syihab] dari [Muhammad bin Jabir bin Muth'im] bahwa Nabi shallallahu 'alaihi wasallam berkata kepadaku: \"Aku mempunyai lima nama: Aku adalah Muhammad, Ahmad, Al Mahi yang mana Allah telah menghapuskan kekufuran denganku, Al Haasyir, yang mana seluruh manusia dikumpulkan pada telapak kakiku, dan Al 'Aqib.\""
+            }
+        ]
+    }
+}
