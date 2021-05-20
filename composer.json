@@ -1,0 +1,21 @@
+{
+    "name": "jumaris/ares",
+    "description": "responder message",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jumaris",
+            "email": "jumaris88shj@gmail.com"
+        }
+    ],
+    "require": {
+        "psr/log":"*",
+        "laminas/laminas-httphandlerrunner":"*",
+        "stichoza/google-translate-php": "^4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "jumaris\\ares\\": "jumaris/ares/"
+        }
+    }
+}
