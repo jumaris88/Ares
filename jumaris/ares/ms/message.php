@@ -17,7 +17,7 @@ class message
         return $this->value;
     }
     
-    public function __construct($message,$include="ares/data/key.php",$namaarray="key") {
+    public function __construct($message,$include=__DIR__."/../data/key.php",$namaarray="key") {
         include_once $include;
         $arrmessage = $this->str_toarray($message," ");
         if (count($arrmessage)>=2)
