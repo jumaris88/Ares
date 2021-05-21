@@ -1,0 +1,56 @@
+{
+    "status": true,
+    "data": {
+        "start": 4411,
+        "end": 4557,
+        "total": 9,
+        "book": "abu-daud",
+        "hadits": [
+            {
+                "number": 4411,
+                "arab": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ قَالَ أَخْبَرَنِي يُونُسُ عَنْ ابْنِ شِهَابٍ عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ وَسَعِيدِ بْنِ الْمُسَيِّبِ عَنْ أَبِي هُرَيْرَةَعَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّ نَمْلَةً قَرَصَتْ نَبِيًّا مِنْ الْأَنْبِيَاءِ فَأَمَرَ بِقَرْيَةِ النَّمْلِ فَأُحْرِقَتْ فَأَوْحَى اللَّهُ إِلَيْهِ أَفِي أَنْ قَرَصَتْكَ نَمْلَةٌ أَهْلَكْتَ أُمَّةً مِنْ الْأُمَمِ تُسَبِّحُ",
+                "id": "Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Abdullah bin Wahb] ia berkata; telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Abu Salamah bin 'Abdurrahman] dan [Sa'id Ibnul Musayyab] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: \"Seekor semut menggigit seorang Nabi dari Nabi Allah, lalu Nabi tersebut memerintahkan untuk membakar sarang semut tersebut, maka Allah berfirman kepadanya: \"Apakah karena seekor semut yang menggigitmu lalu engkau bunuh satu umat yang bertasbih?\""
+            },
+            {
+                "number": 4412,
+                "arab": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ حَدَّثَنَا عَبْدُ الرَّزَّاقِ حَدَّثَنَا مَعْمَرٌ عَنْ الزُّهْرِيِّ عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ عَنْ ابْنِ عَبَّاسٍ قَالَإِنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ قَتْلِ أَرْبَعٍ مِنْ الدَّوَابِّ النَّمْلَةُ وَالنَّحْلَةُ وَالْهُدْهُدُ وَالصُّرَدُ",
+                "id": "Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari [ubaidhullah bin Abdullah bin Utbah] dari [Ibnu Abbas] ia berkata, \"Nabi shallallahu 'alaihi wasallam melarang membunuh empat macam binatang; semut, lebah, burung hud-hud dan burung shurad (salah satu jenis burung).\""
+            },
+            {
+                "number": 4413,
+                "arab": "حَدَّثَنَا أَبُو صَالِحٍ مَحْبُوبُ بْنُ مُوسَى أَخْبَرَنَا أَبُو إِسْحَقَ الْفَزَارِيُّ عَنْ أَبِي إِسْحَقَ الشَّيْبَانِيِّ عَنْ ابْنِ سَعْدٍ قَالَ أَبُو دَاوُد وَهُوَ الْحَسَنُ بْنُ سَعْدٍ عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ عَنْ أَبِيهِ قَالَكُنَّا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي سَفَرٍ فَانْطَلَقَ لِحَاجَتِهِ فَرَأَيْنَا حُمَّرَةً مَعَهَا فَرْخَانِ فَأَخَذْنَا فَرْخَيْهَا فَجَاءَتْ الْحُمَرَةُ فَجَعَلَتْ تُفَرِّشُ فَجَاءَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ مَنْ فَجَعَ هَذِهِ بِوَلَدِهَا رُدُّوا وَلَدَهَا إِلَيْهَا وَرَأَى قَرْيَةَ نَمْلٍ قَدْ حَرَّقْنَاهَا فَقَالَ مَنْ حَرَّقَ هَذِهِ قُلْنَا نَحْنُ قَالَ إِنَّهُ لَا يَنْبَغِي أَنْ يُعَذِّبَ بِالنَّارِ إِلَّا رَبُّ النَّارِ",
+                "id": "Telah menceritakan kepada kami [Abu Shalih Mahbub bin Musa] berkata, telah mengabarkan kepada kami [Abu Ishaq Al Fazari] dari [Abu Ishaq Asy Syaibani] dari [Ibnu Sa'd] -Abu Dawud berkata; dia adalah Al Hasan bin Sa'd- dari ['Abdurrahman bin Abdullah] dari [Bapaknya] ia berkata, \"Kami pernah bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan, lalu beliau pergi untuk buang hajat. Kami lalu melihat seekor burung bersama dua anaknya, kami lantas mengambil dua anaknya hingga menjadikan burung tersebut terbang berputar-putar di atas kepala kami. Nabi shallallahu 'alaihi wasallam kemudian datang dan bertanya: \"Siapa yang menyakiti burung ini dengan mengambil anaknya? Kembalikanlah anaknya kepadanya.\" Setelah itu beliau juga melihat sarang semut yang telah dibakar, beliau pun bertanya: \"Siapa yang membakar sarang ini?\" Kami menjawab, \"Kami.\" Beliau bersabda: \"Sesungguhnya tidak pantas bagi seseorang menyiksa dengan api kecuali pemilik api (Allah).\""
+            },
+            {
+                "number": 4414,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ أَخْبَرَنَا سُفْيَانُ عَنْ ابْنِ أَبِي ذِئْبٍ عَنْ سَعِيدِ بْنِ خَالِدٍ عَنْ سَعِيدِ بْنِ الْمُسَيِّبِ عَنْ عَبْدِ الرَّحْمَنِ بْنِ عُثْمَانَأَنَّ طَبِيبًا سَأَلَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ ضِفْدَعٍ يَجْعَلُهَا فِي دَوَاءٍ فَنَهَاهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ قَتْلِهَا",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Sufyan] dari [Ibnu Abu Dzi`b] dari [Sa'id bin Khalid] dari [Sa'id Ibnul Musayyab] dari ['Abdurrahman bin Utsman] berkata, \"Ada seorang tabib bertanya kepada Nabi shallallahu 'alaihi wasallam tentang katak yang dijadikan sebagai obat, Nabi shallallahu 'alaihi wasallam lalu melarang untuk membunuhnya.\""
+            },
+            {
+                "number": 4415,
+                "arab": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ حَدَّثَنَا شُعْبَةُ عَنْ قَتَادَةَ عَنْ عُقْبَةَ بْنِ صُهْبَانَ عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ قَالَنَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ الْخَذْفِ قَالَ إِنَّهُ لَا يَصِيدُ صَيْدًا وَلَا يَنْكَأُ عَدُوًّا وَإِنَّمَا يَفْقَأُ الْعَيْنَ وَيَكْسِرُ السِّنَّ",
+                "id": "Telah menceritakan kepada kami [Hafsh bin Umar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Uqbah bin Shuhban] dari [Abdullah bin Mughaffal] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang penggunaan ketapel. Beliau bersabda: \"Sesungguhnya ketapel itu tidak bisa digunakan untuk memburu buruan atau membunuh musuh, tetapi ia hanya dapat memecahkan mata dan memecahkan gigi.\""
+            },
+            {
+                "number": 4416,
+                "arab": "حَدَّثَنَا سُلَيْمَانُ بْنُ عَبْدِ الرَّحْمَنِ الدِّمَشْقِيُّ وَعَبْدُ الْوَهَّابِ بْنُ عَبْدِ الرَّحِيمِ الْأَشْجَعِيُّ قَالَا حَدَّثَنَا مَرْوَانُ حَدَّثَنَا مُحَمَّدُ بْنُ حَسَّانَ قَالَ عَبْدُ الْوَهَّابِ الْكُوفِيُّ عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ عَنْ أُمِّ عَطِيَّةَ الْأَنْصَارِيَّةِأَنَّ امْرَأَةً كَانَتْ تَخْتِنُ بِالْمَدِينَةِ فَقَالَ لَهَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا تُنْهِكِي فَإِنَّ ذَلِكَ أَحْظَى لِلْمَرْأَةِ وَأَحَبُّ إِلَى الْبَعْلِقَالَ أَبُو دَاوُد رُوِيَ عَنْ عُبَيْدِ اللَّهِ بْنِ عَمْرٍو عَنْ عَبْدِ الْمَلِكِ بِمَعْنَاهُ وَإِسْنَادِهِ قَالَ أَبُو دَاوُد لَيْسَ هُوَ بِالْقَوِيِّ وَقَدْ رُوِيَ مُرْسَلًا قَالَ أَبُو دَاوُد وَمُحَمَّدُ بْنُ حَسَّانَ مَجْهُولٌ وَهَذَا الْحَدِيثُ ضَعِيفٌ",
+                "id": "Telah menceritakan kepada kami [Sulaiman bin 'Abdurrahman Ad Dimasyqi] dan [Abdul Wahhab bin Abdur Rahim Al Asyja'i] keduanya berkata; telah menceritakan kepada kami [Marwan] berkata, telah menceritakan kepada kami [Muhammad bin Hassan] -Abdul Wahhab Al Kufi berkata- dari [Abdul Malik bin Umair] dari [ummu Athiyah Al Anshariyah] berkata, \"Sesungguhnya ada seorang permpuan di Madinah yang berkhitan, lalu Nabi shallallahu 'alaihi wasallam bersabda kepadanya: \"Janganlah engkau habiskan semua, sebab hal itu akan mempercantik wanita dan disukai oleh suami.\" Abu Dawud berkata, \"Diriwayatkan pula dari [ubaidhullah bin Amru], dari [Abdul Malik] dengan sanad dan makna yang sama.\" Abu Dawud berkata, \"Tetapi hadits ini tidak kuat, sebab ia diriwayatkan secara mursal.\" Abu Dawud berkata, \"Muhammad bin Hassan adalah seorang yang majhul, sehingga hadits ini derajatnya lemah.\""
+            },
+            {
+                "number": 4417,
+                "arab": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ حَدَّثَنَا عَبْدُ الْعَزِيزِ يَعْنِي ابْنَ مُحَمَّدٍ عَنْ أَبِي الْيَمَانِ عَنْ شَدَّادِ بْنِ أَبِي عَمْرِو بْنِ حِمَاسٍ عَنْ أَبِيهِ عَنْ حَمْزَةَ بْنِ أَبِي أُسَيْدٍ الْأَنْصَارِيِّ عَنْ أَبِيهِأَنَّهُ سَمِعَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ وَهُوَ خَارِجٌ مِنْ الْمَسْجِدِ فَاخْتَلَطَ الرِّجَالُ مَعَ النِّسَاءِ فِي الطَّرِيقِ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِلنِّسَاءِ اسْتَأْخِرْنَ فَإِنَّهُ لَيْسَ لَكُنَّ أَنْ تَحْقُقْنَ الطَّرِيقَ عَلَيْكُنَّ بِحَافَّاتِ الطَّرِيقِ فَكَانَتْ الْمَرْأَةُ تَلْتَصِقُ بِالْجِدَارِ حَتَّى إِنَّ ثَوْبَهَا لَيَتَعَلَّقُ بِالْجِدَارِ مِنْ لُصُوقِهَا بِهِ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Maslamah] berkata, telah menceritakan kepada kami [Abdul Aziz] -maksudnya Abdul Aziz bin Muhammad- dari [Abul Yaman] dari [Syaddad bin Abu Amru bin Himas] dari [Bapaknya] dari [Hamzah bin Abu Usaid Al Anshari] dari [Bapaknya] Bahwasanya ia pernah mendengar Rasulullah shallallahu 'alaihi wasallam berbicara saat berada di luar masjid, sehingga banyak laki-laki dan perempuan bercampur baur di jalan. Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda kepada kaum wanita: \"Hendaklah kalian memperlambat dalam berjalan (terakhir), sebab kalian tidak berhak untuk memenuhi jalan. Hendaklah kalian berjalan di pinggiran jalan.\" Sehingga ada seorang wanita yang berjalan dengan menempel tembok, hingga bajunya menggantung tembok karena ia mendempel tembok.\""
+            },
+            {
+                "number": 4418,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ فَارِسٍ حَدَّثَنَا أَبُو قُتَيْبَةَ سَلْمُ بْنُ قُتَيْبَةَ عَنْ دَاوُدَ بْنِ أَبِي صَالِحٍ الْمَدَنِيِّ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَأَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى أَنْ يَمْشِيَ يَعْنِي الرَّجُلَ بَيْنَ الْمَرْأَتَيْنِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] berkata, telah menceritakan kepada kami [Abu Qutaibah, Salm bin Qutaibah] dari [Dawud bin Abu Shalih Al Madani] dari [Nafi'] dari [Ibnu Umar] berkata, \"Nabi shallallahu 'alaihi wasallam melarang seorang laki-laki berjalan di antara dua wanita.\""
+            },
+            {
+                "number": 4419,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ بْنِ سُفْيَانَ وَابْنُ السَّرْحِ قَالَا حَدَّثَنَا سُفْيَانُ عَنْ الزُّهْرِيِّ عَنْ سَعِيدٍ عَنْ أَبِي هُرَيْرَةَعَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ اللَّهُ عَزَّ وَجَلَّ يُؤْذِينِي ابْنُ آدَمَ يَسُبُّ الدَّهْرَ وَأَنَا الدَّهْرُ بِيَدِي الْأَمْرُ أُقَلِّبُ اللَّيْلَ وَالنَّهَارَ قَالَ ابْنُ السَّرْحِ عَنْ ابْنِ الْمُسَيِّبِ مَكَانَ سَعِيدٍ وَاللَّهُ أَعْلَمُ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Ash Shabbah bin Sufyan] dan [Ibnu As Sarh] keduanya berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Sa'id] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda: \"Allah Azza Wa Jalla berfirman: 'Anak Adam telah menyakiti-Ku, ia telah mencaci maki zaman, padahal Aku adalah zaman, di dalam genggaman-Ku lah semua urusan, Aku balikkan antara siang dan malam.\" Ibnu As Sarh menyebutkan (dalam riwayatnya); dari Ibnu Al Musayyab sebagai ganti dari penyebutan Said (yakni ia menyebutkan perawi sebelum Abu Hurairah, dengan Ibnu Al Musayyab bukan sa'id, dan asli namanya adalah Said bin Al Musayyab). Wallahu A'lam bisshawab. "
+            }
+        ]
+    }
+}
