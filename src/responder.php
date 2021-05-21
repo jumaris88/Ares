@@ -1,7 +1,7 @@
 <?php
 namespace ares;
 
-use Stichoza\GoogleTranslate\GoogleTranslate;
+use Terjemah\ClassTerjemah;
 use ares\message;
 
 include "data/echoku.php";
@@ -340,7 +340,7 @@ class responder{
                 return "Format terjemahan salah.\n\nContoh :\n\n".tanda()."terjemah ke arab semoga Allah merahmati kamu.\n\n".tanda()."terjemah ke id how are you\n\n".tanda()."terjemah ke inggris kamu sedang apa";
             }
             $bahasa=fixbahasa($message->kode);
-            $tr = new GoogleTranslate();
+            $tr = new ClassTerjemah();
             #$tr->setSource('en'); // Translate from English
             $tr->setSource(); // Detect language automatically
             $tr->setTarget($bahasa); // Translate to Georgian
