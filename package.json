@@ -1,0 +1,23 @@
+{
+  "name": "jumaris/ares",
+  "version": "1.0.0",
+  "description": "An ares application",
+  "main": "ares/ai.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jumaris",
+  "license": "MIT",
+  "repository": {
+    "type": "vcs",
+    "url": "https://github.com/jumaris/ares"
+  },
+  "bugs": {
+    "url": "https://github.com/jumaris/ares/issues"
+  },
+  "homepage": "https://github.com/jumaris/ares#readme",
+  "keywords": [
+    "jumaris",
+    "ares"
+  ]
+}
