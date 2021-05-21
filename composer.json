@@ -17,7 +17,7 @@
         },
         "autoload": {
             "psr-4": {
-                "jumaris\\ares\\": "jumaris/ares/"
+                "\\": "jumaris/ares/"
             }
         },
         "archive": {
