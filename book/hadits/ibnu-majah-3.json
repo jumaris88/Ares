@@ -1,0 +1,746 @@
+{
+    "status": true,
+    "data": {
+        "start": 295,
+        "end": 441,
+        "total": 147,
+        "book": "ibnu-majah",
+        "hadits": [
+            {
+                "number": 295,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ عَنْ مُحَمَّدِ بْنِ الْمُثَنَّى عَنْ عَطَاءٍ الْخُرَاسَانِيِّ عَنْ أَنَسٍ قَالَكُنْتُ مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي سَفَرٍ فَتَنَحَّى لِحَاجَتِهِ ثُمَّ جَاءَ فَدَعَا بِوَضُوءٍ فَتَوَضَّأَ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] berkata, telah menceritakan kepada kami [Muhammad bin Ubaid] dari [Muhammad bin Al Mutsanna] dari ['Atho` Al Khurasani] dari [Anas] ia berkata; \"Aku pernah bersama Nabi shallallahu 'alaihi wasallam dalam suatu perjalanan, beliau lalu menjauh untuk buang hajat. Setelah itu beliau minta diambilkan air wudlu, lalu beliau pun berwudlu.\" "
+            },
+            {
+                "number": 296,
+                "arab": "حَدَّثَنَا يَعْقُوبُ بْنُ حُمَيْدِ بْنِ كَاسِبٍ حَدَّثَنَا يَحْيَى بْنُ سُلَيْمٍ عَنْ ابْنِ خُثَيْمٍ عَنْ يُونُسَ بْنِ خَبَّابٍ عَنْ يَعْلَى بْنِ مُرَّةَأَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا ذَهَبَ إِلَى الْغَائِطِ أَبْعَدَ",
+                "id": "Telah menceritakan kepada kami [Ya'qub bin Humaid bin Kasib] berkata, telah menceritakan kepada kami [Yahya bin Sulaim] dari [Ibnu Khutsaim] dari [Yunus bin Khabbab] dari [Ya'la bin Murrah] berkata; \"Jika Nabi shallallahu 'alaihi wasallam ingin buang hajat beliau selalu pergi menjauh.\" "
+            },
+            {
+                "number": 297,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَمُحَمَّدُ بْنُ بَشَّارٍ قَالَا حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ الْقَطَّانُ عَنْ أَبِي جَعْفَرٍ الْخَطْمِيِّ قَالَ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَاسْمُهُ عُمَيْرُ بْنُ يَزِيدَ عَنْ عُمَارَةَ بْنِ خُزَيْمَةَ وَالْحَارِثُ بْنُ فُضَيْلٍ عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي قُرَادٍ قَالَحَجَجْتُ مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَذَهَبَ لِحَاجَتِهِ فَأَبْعَدَ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Muhammad bin Basysyar] keduanya berkata; telah menceritakan kepada kami [Yahya bin Sa'id Al Qaththan] dari [Abu Ja'far Al Khathmi] -Abu Bakr bin Abu Syaibah mengatakan; namanya adalah Umair bin Yazid- berkata; dari [Umarah bin Khuzaimah] dan [Harits bin Fudlail] dari [Abdurrahman bin Abu Furad] ia berkata; \"Aku melaksanakan haji bersama Nabi shallallahu 'alaihi wasallam, kemudian beliau pergi menjauh untuk buang hajat.\" "
+            },
+            {
+                "number": 298,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى أَنْبَأَنَا إِسْمَعِيلُ بْنُ عَبْدِ الْمَلِكِ عَنْ أَبِي الزُّبَيْرِ عَنْ جَابِرٍ قَالَخَرَجْنَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي سَفَرٍ وَكَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا يَأْتِي الْبَرَازَ حَتَّى يَتَغَيَّبَ فَلَا يُرَى",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [ubaidhullah bin Musa] berkata, telah memberitakan kepada kami [Isma'il bin Abdul Malik] dari [Abu Zubair] dari [Jabir] ia berkata; \"Kami keluar bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan, dan Rasulullah shallallahu 'alaihi wasallam tidak buang air besar hingga beliau menjauh dan tidak terlihat.\""
+            },
+            {
+                "number": 299,
+                "arab": "حَدَّثَنَا الْعَبَّاسُ بْنُ عَبْدِ الْعَظِيمِ الْعَنْبَرِيُّ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ كَثِيرِ بْنِ جَعْفَرٍ حَدَّثَنَا كَثِيرُ بْنُ عَبْدِ اللَّهِ الْمُزَنِيُّ عَنْ أَبِيهِ عَنْ جَدِّهِ عَنْ بِلَالِ بْنِ الْحَارِثِ الْمُزَنِيِّأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا أَرَادَ الْحَاجَةَ أَبْعَدَ",
+                "id": "Telah menceritakan kepada kami [Al Abbas bin Abdul Azhim Al 'Anbari] berkata, telah menceritakan kepada kami [Abdullah bin Katsir bin Ja'far] berkata, telah menceritakan kepada kami [Katsir bin Abdullah Al Muzani] dari [Bapaknya] dari [Kakeknya] dari [Bilal bin Al Harits Al Muzani] berkata; \"Jika Rasulullah shallallahu 'alaihi wasallam ingin buang hajat beliau selalu menjauh.\""
+            },
+            {
+                "number": 300,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ الصَّبَّاحِ حَدَّثَنَا ثَوْرُ بْنُ يَزِيدَ عَنْ حُصَيْنٍ الْحِمْيَرِيِّ عَنْ أَبِي سَعْدِ الْخَيْرِ عَنْ أَبِي هُرَيْرَةَعَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ اسْتَجْمَرَ فَلْيُوتِرْ مَنْ فَعَلَ ذَلِكَ فَقَدْ أَحْسَنَ وَمَنْ لَا فَلَا حَرَجَ وَمَنْ تَخَلَّلَ فَلْيَلْفِظْ وَمَنْ لَاكَ فَلْيَبْتَلِعْ مَنْ فَعَلَ فَقَدْ أَحْسَنَ وَمَنْ لَا فَلَا حَرَجَ وَمَنْ أَتَى الْخَلَاءَ فَلْيَسْتَتِرْ فَإِنْ لَمْ يَجِدْ إِلَّا كَثِيبًا مِنْ رَمْلٍ فَلْيَمْدُدْهُ عَلَيْهِ فَإِنَّ الشَّيْطَانَ يَلْعَبُ بِمَقَاعِدِ ابْنِ آدَمَ مَنْ فَعَلَ فَقَدْ أَحْسَنَ وَمَنْ لَا فَلَا حَرَجَحَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عُمَرَ حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ الصَّبَّاحِ بِإِسْنَادِهِ نَحْوَهُ وَزَادَ فِيهِ وَمَنْ اكْتَحَلَ فَلْيُوتِرْ مَنْ فَعَلَ فَقَدْ أَحْسَنَ وَمَنْ لَا فَلَا حَرَجَ وَمَنْ لَاكَ فَلْيَبْتَلِعْ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Abdul Malik bin Ash Shabbah] berkata, telah menceritakan kepada kami [Tsaur bin Yazid] dari [Hushain Al Himyari] dari [Abu Sa'id Al Khair] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa beristijmar hendaklan dengan bilangan ganjil, barangsiapa melakukannya maka ia telah berbuat baik, dan barangsiapa tidak melakukannya maka ia tidak berdosa. Barangsiapa mengeluarkan sisa-sisa makan dari sela gigi hendaklah ia buang, dan barangsiapa mengunyah hendaklah ia telan. Siapa melakukannya maka ia telah berbuat baik, dan siapa yang tidak melakukannya maka ia tidak berdosa. Barangsiapa masuk WC hendaklah membuat satir. Jika ia tidak mendapatkannya kecuali gundukan pasir hendaklah ia jadikan sebagai penghalang, sebab setan mempermainkan tempat duduk anak Adam. Siapa yang melakukan sedemikian ini, berarti ia telah melakukan kebaikan. Jika tidak, iapun tak berdosa. Telah menceritakan kepada kami [Abdurrahman bin Umar] telah menceritakan kepada kami [Abdul Malik bin Ash Shabbah] dengan sanadnya seperti itu, dan dia memberikan tambahan di dalamnya; \"dan barangsiapa memakai celak hendaklah dengan ganjil. Siapa yang melakukan sedemikian ini, berarti ia telah melakukan kebaikan. dan barangsiapa mengunyah hendaklah ia telan."
+            },
+            {
+                "number": 301,
+                "arab": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ حَدَّثَنَا وَكِيعٌ عَنْ الْأَعْمَشِ عَنْ الْمِنْهَالِ بْنِ عَمْرٍو عَنْ يَعْلَى بْنِ مُرَّةَ عَنْ أَبِيهِ قَالَكُنْتُ مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي سَفَرٍ فَأَرَادَ أَنْ يَقْضِيَ حَاجَتَهُ فَقَالَ لِي ائْتِ تِلْكَ الْأَشَاءَتَيْنِ قَالَ وَكِيعٌ يَعْنِي النَّخْلَ الصِّغَارَ فَقُلْ لَهُمَا إِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَأْمُرُكُمَا أَنْ تَجْتَمِعَا فَاجْتَمَعَتَا فَاسْتَتَرَ بِهِمَا فَقَضَى حَاجَتَهُ ثُمَّ قَالَ لِي ائْتِهِمَا فَقُلْ لَهُمَا لِتَرْجِعْ كُلُّ وَاحِدَةٍ مِنْكُمَا إِلَى مَكَانِهَا فَقُلْتُ لَهُمَا فَرَجَعَتَا",
+                "id": "Telah menceritakan kepada kami [Ali bin Muhammad] berkata, telah menceritakan kepada kami [Waki'] dari [Al A'masy] dari [Al Minhal bin 'Amru] dari [Ya'la bin Murrah] dari [Bapaknya] berkata; \"Aku bersama Nabi shallallahu 'alaihi wasallam dalam suatu perjalanan, beliau ingin buang hajat, lalu beliau berkata kepadaku: \"Datangilah dua Asa`ah itu, Waki' berkata; \"Yakni pohon kurma yang masih kecil, \" dan katakan kepada keduanya; 'Sesungguhnya Rasulullah shallallahu 'alaihi wasallam memerintahkan kalian berdua untuk berkumpul.\" Maka keduanya pun menyatu hingga beliau menggunakannya sebagai sater untuk buang hajat. Setelah itu beliau bersabda kepadaku: \"Datanglah kepada keduanya dan katakan kepada mereka; 'Hendaklah setiap kalian kembali ke tempatnya semula, ' lalu aku pun mengatakan hal itu kepada keduanya hingga mereka kembali (ke tempatnya semula).\""
+            },
+            {
+                "number": 302,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا أَبُو النُّعْمَانِ حَدَّثَنَا مَهْدِيُّ بْنُ مَيْمُونٍ حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي يَعْقُوبَ عَنْ الْحَسَنِ بْنِ سَعْدٍ عَنْ عَبْدِ اللَّهِ بْنِ جَعْفَرٍ قَالَكَانَ أَحَبَّ مَا اسْتَتَرَ بِهِ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِحَاجَتِهِ هَدَفٌ أَوْ حَائِشُ نَخْلٍ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Abu An Nu'man] berkata, telah menceritakan kepada kami [Mahdi bin Maimun] berkata, telah menceritakan kepada kami [Muhammad bin Abu Ya'qub] dari [Al Hasan bin Sa'd] dari [Abdullah bin Ja'far] berkata; \"Satir yang paling disukai oleh Nabi shallallahu 'alaihi wasallam untuk buang hajat adalah tembok atau pohon kurma yang masih kecil.\""
+            },
+            {
+                "number": 303,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ عَقِيلِ بْنِ خُوَيْلِدٍ حَدَّثَنِي حَفْصُ بْنُ عَبْدِ اللَّهِ حَدَّثَنِي إِبْرَاهِيمُ بْنُ طَهْمَانَ عَنْ مُحَمَّدِ بْنِ ذَكْوَانَ عَنْ يَعْلَى بْنِ حَكِيمٍ عَنْ سَعِيدِ بْنِ جُبَيْرٍ عَنْ ابْنِ عَبَّاسٍ قَالَعَدَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى الشِّعْبِ فَبَالَ حَتَّى أَنِّي آوِي لَهُ مِنْ فَكِّ وَرِكَيْهِ حِينَ بَالَ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Aqil bin Khuwailid] berkata, telah menceritakan kepadaku [Hafsh bin Abdul Malik] berkata, telah menceritakan kepadaku [Ibrahim bin Thahman] dari [Muhammad bin Dzakwan] dari [Ya'la bin Hakim] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata; \"Rasulullah shallallahu 'alaihi wasallam menjauh ke suatu lembah kemudian kencing, hingga akupun berpaling ketika beliau kencing.\" "
+            },
+            {
+                "number": 304,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا عَبْدُ اللَّهِ بْنُ رَجَاءٍ أَنْبَأَنَا عِكْرِمَةُ بْنُ عَمَّارٍ عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ عَنْ هِلَالِ بْنِ عِيَاضٍ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَا يَتَنَاجَى اثْنَانِ عَلَى غَائِطِهِمَا يَنْظُرُ كُلُّ وَاحِدٍ مِنْهُمَا إِلَى عَوْرَةِ صَاحِبِهِ فَإِنَّ اللَّهَ عَزَّ وَجَلَّ يَمْقُتُ عَلَى ذَلِكَحَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا سَلْمُ بْنُ إِبْرَاهِيمَ الْوَرَّاقُ حَدَّثَنَا عِكْرِمَةُ عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ عَنْ عِيَاضِ بْنِ هِلَالٍ قَالَ مُحَمَّدُ بْنُ يَحْيَى وَهُوَ الصَّوَابُ و حَدَّثَنَا مُحَمَّدُ بْنُ حُمَيْدٍ حَدَّثَنَا عَلِيُّ بْنُ أَبِي بَكْرٍ عَنْ سُفْيَانَ الثَّوْرِيِّ عَنْ عِكْرِمَةَ بْنِ عَمَّارٍ عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ عَنْ عِيَاضِ بْنِ عَبْدِ اللَّهِ نَحْوَهُ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Abdullah bin Raja`] berkata, telah memberitakan kepada kami [Ikrimah bin 'Ammar] dari [Yahya bin Abu Katsir] dari [Hilal bin Iyadl] dari [Abu Sa'id Al Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Janganlah dua orang yang sedang buang hajat bercakap-cakap, hingga setiap dari keduanya melihat aurat yang lain. Sesungguhnya Allah murka dengan yang demikian itu.\" Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Salm bin Ibrahim Al Warraq] berkata, telah menceritakan kepada kami [Ikrimah] dari [Yahya bin Abu Katsir] dari [Iyadl bin Hilal]. Muhammad bin Yahya berkata; \"sanad yang Ini yang benar.\" Telah menceritakan kepada kami [Muhammad bin Humaid] berkata, telah menceritakan kepada kami [Ali bin Abu Bakar bin Sulaiman] dari [Sufyan Ats Tsauri] dari [Ikrimah bin Ammar] dari [Yahya bin Abu Katsir] dari [Iyadl bin Abdullah] sebagaimana hadits diatas.\""
+            },
+            {
+                "number": 305,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ عَنْ أَبِي الزُّبَيْرِ عَنْ جَابِرٍعَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ نَهَى عَنْ أَنْ يُبَالَ فِي الْمَاءِ الرَّاكِدِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Ruhm] berkata, telah memberitakan kepada kami [Al Laits bin Sa'd] dari [Abu Az Zubair] dari [Jabir] dari Rasulullah shallallahu 'alaihi wasallam, ia menuturkan: \"Rasulullah shallallahu 'alaihi wasallam melarang seseorang kencing di air yang diam.\""
+            },
+            {
+                "number": 306,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو خَالِدٍ الْأَحْمَرُ عَنْ ابْنِ عَجْلَانَ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا يَبُولَنَّ أَحَدُكُمْ فِي الْمَاءِ الرَّاكِدِ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abu Khalid Al Ahmar] dari [Ibnu 'Ajlan] dari [Bapaknya] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Janganlah salah seorang dari kalian kencing di air yang diam.\""
+            },
+            {
+                "number": 307,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا مُحَمَّدُ بْنُ الْمُبَارَكِ حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ حَدَّثَنَا ابْنُ أَبِي فَرْوَةَ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا يَبُولَنَّ أَحَدُكُمْ فِي الْمَاءِ النَّاقِعِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Muhammad bin Al Mubarak] berkata, telah menceritakan kepada kami [Yahya bin Hamzah] telah menceritakan kepada kami [Ibnu Abi Farwah] dari [Nafi'] dari [Ibnu Umar] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Janganlah sekali-kali salah seorang di antara kalian kencing di air yang jernih (untuk minum).\" "
+            },
+            {
+                "number": 308,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو مُعَاوِيَةَ عَنْ الْأَعْمَشِ عَنْ زَيْدِ بْنِ وَهْبٍ عَنْ عَبْدِ الرَّحْمَنِ ابْنِ حَسَنَةَ قَالَخَرَجَ عَلَيْنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَفِي يَدِهِ الدَّرَقَةُ فَوَضَعَهَا ثُمَّ جَلَسَ فَبَالَ إِلَيْهَا فَقَالَ بَعْضُهُمْ انْظُرُوا إِلَيْهِ يَبُولُ كَمَا تَبُولُ الْمَرْأَةُ فَسَمِعَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ وَيْحَكَ أَمَا عَلِمْتَ مَا أَصَابَ صَاحِبَ بَنِي إِسْرَائِيلَ كَانُوا إِذَا أَصَابَهُمْ الْبَوْلُ قَرَضُوهُ بِالْمَقَارِيضِ فَنَهَاهُمْ عَنْ ذَلِكَ فَعُذِّبَ فِي قَبْرِهِقَالَ أَبُو الْحَسَنِ بْنُ سَلَمَةَ حَدَّثَنَا أَبُو حَاتِمٍ حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى أَنْبَأَنَا الْأَعْمَشُ فَذَكَرَ نَحْوَهُ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Zaid bin Wahb] dari [Abdurrahman bin Hasanah] berkata; \"Rasulullah shallallahu 'alaihi wasallam keluar menemui kami sedang di tangannya memegang perisai dari kulit. Beliau meletakkan perisai tersebut kemudian jongkok seraya kencing menghadap ke arahnya. Sebagian sahabat lalu berkata; \"Lihatlah, beliau kencing sebagaimana seorang wanita kencing! \" Nabi shallallahu 'alaihi wasallam mendengar perkataan tersebut hingga beliau bersabda: \"Celaka kamu! Tidakkah engkau tahu bagaimana orang-orang bani Isra`il, jika pakaian mereka terkena kencing mereka memotongnya dengan gunting. Mereka dilarang dan disiksa dalam kubur.\" Abu Al Hasan bin Abu Salamah berkata; telah menceritakan kepada kami Abu Hatim berkata, telah menceritakan kepada kami Abdullah bin Musa berkata, telah memberitakan kepada kami Al A'masy lalu ia menyebutkan sebagaimana hadits diatas.\""
+            },
+            {
+                "number": 309,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو مُعَاوِيَةَ وَوَكِيعٌ عَنْ الْأَعْمَشِ عَنْ مُجَاهِدٍ عَنْ طَاوُسٍ عَنْ ابْنِ عَبَّاسٍ قَالَمَرَّ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِقَبْرَيْنِ جَدِيدَيْنِ فَقَالَ إِنَّهُمَا لَيُعَذَّبَانِ وَمَا يُعَذَّبَانِ فِي كَبِيرٍ أَمَّا أَحَدُهُمَا فَكَانَ لَا يَسْتَنْزِهُ مِنْ بَوْلِهِ وَأَمَّا الْآخَرُ فَكَانَ يَمْشِي بِالنَّمِيمَةِ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dan [Waki'] dari [Al A'masy] dari [Mujahid] dari [Thawus] dari [Ibnu Abbas] ia berkata; Rasulullah shallallahu 'alaihi wasallam melewati dua kuburan yang masih baru, lalu beliau bersabda: \"Keduanya sedang disiksa, dan mereka disiksa bukan karena dosa besar. Yang satu disiksa karena tidak bersuci ketika kencing dan yang lain disiksa karena suka mengadu-domba.\""
+            },
+            {
+                "number": 310,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَفَّانُ حَدَّثَنَا أَبُو عَوَانَةَ عَنْ الْأَعْمَشِ عَنْ أَبِي صَالِحٍ عَنْ أَبِي هُرَيْرَةَ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَكْثَرُ عَذَابِ الْقَبْرِ مِنْ الْبَوْلِ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami ['Affan] berkata, telah menceritakan kepada kami [Abu Awanah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Mayoritas siksa yang terjadi di alam kubur adalah karena sebab kencing.\""
+            },
+            {
+                "number": 311,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا وَكِيعٌ حَدَّثَنَا الْأَسْوَدُ بْنُ شَيْبَانَ حَدَّثَنِي بَحْرُ بْنُ مَرَّارٍ عَنْ جَدِّهِ أَبِي بَكْرَةَ قَالَمَرَّ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِقَبْرَيْنِ فَقَالَ إِنَّهُمَا لَيُعَذَّبَانِ وَمَا يُعَذَّبَانِ فِي كَبِيرٍ أَمَّا أَحَدُهُمَا فَيُعَذَّبُ فِي الْبَوْلِ وَأَمَّا الْآخَرُ فَيُعَذَّبُ فِي الْغَيْبَةِ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Waki'] berkata, telah menceritakan kepada kami [Al Aswad bin Syaiban] berkata, telah menceritakan kepadaku [Bahr bin Mirar] dari kakeknya [Abu Bakrah] berkata; Nabi shallallahu 'alaihi wasallam melewati dua kuburan, lalu beliau bersabda: \"Keduanya sedang disiksa, dan mereka disiksa bukan karena dosa besar. Yang satu disiksa karena tidak menjaga kebersihan ketika kencing dan yang lain disiksa karena berbuat ghibah.\""
+            },
+            {
+                "number": 312,
+                "arab": "حَدَّثَنَا إِسْمَعِيلُ بْنُ مُحَمَّدٍ الطَّلْحِيُّ وَأَحْمَدُ بْنُ سَعِيدٍ الدَّارِمِيُّ قَالَا حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ عَنْ سَعِيدٍ عَنْ قَتَادَةَ عَنْ الْحَسَنِ عَنْ حُضَيْنِ بْنِ الْمُنْذِرِ بْنِ الْحَارِثِ بْنِ وَعْلَةَ أَبِي سَاسَانَ الرَّقَاشِيِّ عَنْ الْمُهَاجِرِ بْنِ قُنْفُذِ بْنِ عَمْرِو بْنِ جُدْعَانَ قَالَأَتَيْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ يَتَوَضَّأُ فَسَلَّمْتُ عَلَيْهِ فَلَمْ يَرُدَّ عَلَيَّ السَّلَامَ فَلَمَّا فَرَغَ مِنْ وُضُوئِهِ قَالَ إِنَّهُ لَمْ يَمْنَعْنِي مِنْ أَنْ أَرُدَّ إِلَيْكَ إِلَّا أَنِّي كُنْتُ عَلَى غَيْرِ وُضُوءٍقَالَ أَبُو الْحَسَنِ بْنُ سَلَمَةَ حَدَّثَنَا أَبُو حَاتِمٍ حَدَّثَنَا الْأَنْصَارِيُّ عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ فَذَكَرَ نَحْوَهُ",
+                "id": "Telah menceritakan kepada kami [Isma'il bin Muhammad Ath Thalhi] dan [Ahmad bin Sa'id Ad Darimi] keduanya berkata; telah menceritakan kepada kami [Rauh bin Ubadah] dari [Sa'id] dari [Qotadah] dari [Al Hasan] dari [Hudlain Ibnul Mundzir Ibnul Harits bin Wa'lah Abu Sasan Ar Raqisyi] dari [Al Muhajir bin Qunfudz bin 'Amru bin Jud'an] berkata; Aku mendatangi Nabi shallallahu 'alaihi wasallam ketika beliau sedang berwudlu, lalu aku mengucapkan salam namun beliau tidak menjawab. Maka ketika selesai beliau bersabda: \"Sebenarnya tidak ada yang menghalangiku untuk menjawabnya kecuali karena aku sedang berwudlu.\" Abu Al Hasan bin Salamah berkata; telah menceritakan kepada kami Abu Hatim berkata, telah menceritakan kepada kami Al Anshar dari Sa'id bin Abu Arubah lalu ia menyebutkan sebagaimana hadits diatas."
+            },
+            {
+                "number": 313,
+                "arab": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ حَدَّثَنَا مَسْلَمَةُ بْنُ عَلِيٍّ حَدَّثَنَا الْأَوْزَاعِيُّ عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ قَالَمَرَّ رَجُلٌ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ يَبُولُ فَسَلَّمَ عَلَيْهِ فَلَمْ يَرُدَّ عَلَيْهِ فَلَمَّا فَرَغَ ضَرَبَ بِكَفَّيْهِ الْأَرْضَ فَتَيَمَّمَ ثُمَّ رَدَّ عَلَيْهِ السَّلَامَ",
+                "id": "Telah menceritakan kepada kami [Hisyam bin Ammar] berkata, telah menceritakan kepada kami [Maslamah bin Ali] berkata, telah menceritakan kepada kami [Al Auza'i] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Hurairah] ia berkata; Seorang lelaki melewati Nabi shallallahu 'alaihi wasallam ketika beliau sedang kencing, laki-laki itu mengucapkan salam kepadanya namun beliau tidak menjawabnya. Tatkala selesai, beliau menepukkan kedua telapak tangannya ke tanah dan bertayamum, setelah itu menjawab salamnya.\" "
+            },
+            {
+                "number": 314,
+                "arab": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ حَدَّثَنَا عِيسَى بْنُ يُونُسَ عَنْ هَاشِمِ بْنِ الْبَرِيدِ عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِأَنَّ رَجُلًا مَرَّ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ يَبُولُ فَسَلَّمَ عَلَيْهِ فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا رَأَيْتَنِي عَلَى مِثْلِ هَذِهِ الْحَالَةِ فَلَا تُسَلِّمْ عَلَيَّ فَإِنَّكَ إِنْ فَعَلْتَ ذَلِكَ لَمْ أَرُدَّ عَلَيْكَ",
+                "id": "Telah menceritakan kepada kami [Suwaid bin Sa'id] berkata, telah menceritakan kepada kami [Isa bin Yunus] dari [Hasyim bin Al Barid] dari [Abdullah bin Muhammad bin 'Aqil] dari [Jabir bin Abdullah] berkata; Seorang laki-laki melewati Nabi shallallahu 'alaihi wasallam, kemudian ia mengucapkan salam ketika beliau sedang kencing. maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: \"Apabila kamu melihatku dalam kondisi seperti ini maka jangan memberi salam kepadaku. Karena sesungguhnya jika kamu melakukannya, maka aku tidak akan membalasnya.\""
+            },
+            {
+                "number": 315,
+                "arab": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ وَالْحُسَيْنُ بْنُ أَبِي السَّرِيِّ الْعَسْقَلَانِيُّ قَالَا حَدَّثَنَا أَبُو دَاوُدَ عَنْ سُفْيَانَ عَنْ الضَّحَّاكِ بْنِ عُثْمَانَ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ قَالَمَرَّ رَجُلٌ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ يَبُولُ فَسَلَّمَ عَلَيْهِ فَلَمْ يَرُدَّ عَلَيْهِ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Sa'id] dan [Husain bin Abu Sarri Al 'Asqalani] keduanya berkata; telah menceritakan kepada kami [Abu Dawud] dari [Sufyan] dari [Adl Dlahak bin Utsman] dari [Nafi'] dari [Ibnu Umar] ia berkata; \"Seorang lelaki melewati Rasulullah shallallahu 'alaihi wasallam ketika beliau kencing, kemudian ia mengucapkan salam kepadanya, namun beliau tidak menjawabnya.\""
+            },
+            {
+                "number": 316,
+                "arab": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ حَدَّثَنَا أَبُو الْأَحْوَصِ عَنْ مَنْصُورٍ عَنْ إِبْرَاهِيمَ عَنْ الْأَسْوَدِ عَنْ عَائِشَةَ قَالَتْمَا رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَرَجَ مِنْ غَائِطٍ قَطُّ إِلَّا مَسَّ مَاءً",
+                "id": "Telah menceritakan kepada kami [Hannad bin As Sari] berkata, telah menceritakan kepada kami [Abu Al Ahwash] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] ia berkata; \"Aku tidak pernah melihat Rasulullah shallallahu 'alaihi wasallam selesai dari buang hajat kecuali menyentuh air (bersuci).\""
+            },
+            {
+                "number": 317,
+                "arab": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ حَدَّثَنَا صَدَقَةُ بْنُ خَالِدٍ حَدَّثَنَا عُتْبَةُ بْنُ أَبِي حَكِيمٍ حَدَّثَنِي طَلْحَةُ بْنُ نَافِعٍ أَبُو سُفْيَانَ قَالَ حَدَّثَنِي أَبُو أَيُّوبَ الْأَنْصَارِيُّ وَجَابِرُ بْنُ عَبْدِ اللَّهِ وَأَنَسُ بْنُ مَالِكٍأَنَّ هَذِهِ الْآيَةَ نَزَلَتْ{ فِيهِ رِجَالٌ يُحِبُّونَ أَنْ يَتَطَهَّرُوا وَاللَّهُ يُحِبُّ الْمُطَّهِّرِينَ }قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَا مَعْشَرَ الْأَنْصَارِ إِنَّ اللَّهَ قَدْ أَثْنَى عَلَيْكُمْ فِي الطُّهُورِ فَمَا طُهُورُكُمْ قَالُوا نَتَوَضَّأُ لِلصَّلَاةِ وَنَغْتَسِلُ مِنْ الْجَنَابَةِ وَنَسْتَنْجِي بِالْمَاءِ قَالَ فَهُوَ ذَاكَ فَعَلَيْكُمُوهُ",
+                "id": "Telah menceritakan kepada kami [Hisyam bin Ammar] berkata, telah menceritakan kepada kami [Shadaqah bin Khalid] berkata, telah menceritakan kepada kami ['Utbah bin Abu Hakim] berkata, telah menceritakan kepadaku [Thalhah bin Nafi' Abu Sufyan] ia berkata; telah menceritakan kepadaku [Abu Ayyub Al Anshari] dan [Jabir bin Abdullah] dan [Anas bin Malik] berkata; Ayat ini turun; \"Di dalamnya ada orang-orang yang ingin membersihkan diri. Dan Allah menyukai orang-orang yang bersih, \" lalu Rasulullah shallallahu 'alaihi wasallam bersabda: \"Wahai kaum Anshar, sesungguhnya Allah telah memuji kalian di dalam perkara bersuci, maka bagaimana kalian bersuci?\" mereka menjawab; \"Kami berwudlu untuk sholat, mandi besar, dan beristinja` dengan air.\" Beliau bersabda: \"Apa yang sekarang kalian lakukan maka tekunilah.\""
+            },
+            {
+                "number": 318,
+                "arab": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ حَدَّثَنَا وَكِيعٌ عَنْ شَرِيكٍ عَنْ جَابِرٍ عَنْ زَيْدٍ الْعَمِّيِّ عَنْ أَبِي الصِّدِّيقِ النَّاجِيِّ عَنْ عَائِشَةَأَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَغْسِلُ مَقْعَدَتَهُ ثَلَاثًاقَالَ ابْنُ عُمَرَ فَعَلْنَاهُ فَوَجَدْنَاهُ دَوَاءً وَطُهُورًا قَالَ أَبُو الْحَسَنِ بْنُ سَلَمَةَ حَدَّثَنَا أَبُو حَاتِمٍ وَإِبْرَاهِيمُ بْنُ سُلَيْمَانَ الْوَاسِطِيُّ قَالَا حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا شَرِيكٌ نَحْوَهُ",
+                "id": "Telah menceritakan kepada kami [Ali bin Muhammad] berkata, telah menceritakan kepada kami [Waki'] dari [Syarik] dari [Jabir] dari [Zaid Al 'Ammi] dari [Abu Ash Shiddiq An Naaji] dari [Aisyah] berkata; \"Nabi shallallahu 'alaihi wasallam mencuci pantatnya tiga kali.\" [Ibnu Umar] berkata; \"Lalu kami melakukan hal itu, hingga yang kami dapatkan adalah obat dan kebersihan.\" Abu Al Hasan bin Salamah berkata; telah menceritakan kepada kami Abu Hatim dan Ibrahim bin Sulaiman Al Wasithi keduanya berkata; telah menceritakan kepada kami Abu Nu'aim berkata, Syarik sebagaimana hadits diatas.\""
+            },
+            {
+                "number": 319,
+                "arab": "حَدَّثَنَا أَبُو كُرَيْبٍ حَدَّثَنَا مُعَاوِيَةُ بْنُ هِشَامٍ عَنْ يُونُسَ بْنِ الْحَارِثِ عَنْ إِبْرَاهِيمَ بْنِ أَبِي مَيْمُونَةَ عَنْ أَبِي صَالِحٍ عَنْ أَبِي هُرَيْرَةَ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَزَلَتْ فِي أَهْلِ قُبَاءَ{ فِيهِ رِجَالٌ يُحِبُّونَ أَنْ يَتَطَهَّرُوا وَاللَّهُ يُحِبُّ الْمُطَّهِّرِينَ }قَالَ كَانُوا يَسْتَنْجُونَ بِالْمَاءِ فَنَزَلَتْ فِيهِمْ هَذِهِ الْآيَةُ",
+                "id": "Telah menceritakan kepada kami [Abu Kuraib] berkata, telah menceritakan kepada kami [Mu'awiyah bin Hisyam] dari [Yunus bin Al Harits] dari [Ibrahim bin Abu Maimunah] dari [Abu Shalih] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Telah turun ayat kepada penduduk Quba`: \"Di dalamnya ada orang-orang yang ingin membersihkan diri. Dan Allah menyukai orang-orang yang bersih.\" Beliau bersabda: \"Mereka beristinja` dengan air, sehingga ayat ini turun kepada mereka.\" "
+            },
+            {
+                "number": 320,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَعَلِيُّ بْنُ مُحَمَّدٍ قَالَا حَدَّثَنَا وَكِيعٌ عَنْ شَرِيكٍ عَنْ إِبْرَاهِيمَ بْنِ جَرِيرٍ عَنْ أَبِي زُرْعَةَ بْنِ عَمْرِو بْنِ جَرِيرٍ عَنْ أَبِي هُرَيْرَةَأَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَضَى حَاجَتَهُ ثُمَّ اسْتَنْجَى مِنْ تَوْرٍ ثُمَّ دَلَكَ يَدَهُ بِالْأَرْضِقَالَ أَبُو الْحَسَنِ بْنُ سَلَمَةَ حَدَّثَنَا أَبُو حَاتِمٍ حَدَّثَنَا سَعِيدُ بْنُ سُلَيْمَانَ الْوَاسِطِيُّ عَنْ شَرِيكٍ نَحْوَهُ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ali bin Muhammad] keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Syarik] dari [Ibrahim bin Jarir] dari [Abu Zur'ah bin Amru bin Jarir] dari [Abu Hurairah] berkata; \"Nabi shallallahu 'alaihi wasallam buang hajat kemudian beristinja` dengan air, setelah itu beliau mengusapkan tangannya ke tanah.\" "
+            },
+            {
+                "number": 321,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا أَبَانُ بْنُ عَبْدِ اللَّهِ حَدَّثَنِي إِبْرَاهِيمُ بْنُ جَرِيرٍ عَنْ أَبِيهِأَنَّ نَبِيَّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ دَخَلَ الْغَيْضَةَ فَقَضَى حَاجَتَهُ فَأَتَاهُ جَرِيرٌ بِإِدَاوَةٍ مِنْ مَاءٍ فَاسْتَنْجَى مِنْهَا وَمَسَحَ يَدَهُ بِالتُّرَابِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Aban bin Abdullah] berkata, telah menceritakan kepada kami [Ibrahim bin Jarir] dari [Bapakku] berkata; \"Nabi shallallahu 'alaihi wasallam masuk ke semak-semak dan membuang hajatnya. Kemudian Jarir membawakan setimba air, beliau lalu beristinja` dan mengusap tangannya dengan debu.\""
+            },
+            {
+                "number": 322,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا يَعْلَى بْنُ عُبَيْدٍ حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ أَبِي سُلَيْمَانَ عَنْ أَبِي الزُّبَيْرِ عَنْ جَابِرٍ قَالَأَمَرَنَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ نُوكِيَ أَسْقِيَتَنَا وَنُغَطِّيَ آنِيَتَنَا",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Ya'la bin Ubaid] berkata, telah menceritakan kepada kami [Abdul Malik bin Abu Sulaiman] dari [Abu Zubair] dari [Jabir] ia berkata: \"Nabi shallallahu 'alaihi wasallam memerintahkan kami mengikat geriba dan menutup bejana-bejana.\""
+            },
+            {
+                "number": 323,
+                "arab": "حَدَّثَنَا عِصْمَةُ بْنُ الْفَضْلِ وَيَحْيَى بْنُ حَكِيمٍ قَالَا حَدَّثَنَا حَرَمِيُّ بْنُ عُمَارَةَ بْنِ أَبِي حَفْصَةَ حَدَّثَنَا حَرِيشُ بْنُ الْخِرِّيتِ أَنْبَأَنَا ابْنُ أَبِي مُلَيْكَةَ عَنْ عَائِشَةَ قَالَتْكُنْتُ أَضَعُ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثَلَاثَةَ آنِيَةٍ مِنْ اللَّيْلِ مُخَمَّرَةً إِنَاءً لِطَهُورِهِ وَإِنَاءً لِسِوَاكِهِ وَإِنَاءً لِشَرَابِهِ",
+                "id": "Telah menceritakan kepada kami [Ishmah bin Al Fadhl] dan [Yahya bin Hakim] keduanya berkata; telah menceritakan kepada kami [Harami bin Umarah bin Abu Hafshah] berkata, telah menceritakan kepada kami [Huraisy bin Al Khirrit] berkata, telah memberitakan kepada kami [Ibnu Abu Mulaikah] dari [Aisyah] ia berkata: \"Pada malam hari aku menyediakan tiga bejana untuk Rasulullah shallallahu 'alaihi wasallam; satu bejana untuk bersuci, satu bejana untuk bersiwak dan satu bejana lainya untuk minum.\""
+            },
+            {
+                "number": 324,
+                "arab": "حَدَّثَنَا أَبُو بَدْرٍ عَبَّادُ بْنُ الْوَلِيدِ حَدَّثَنَا مُطَهَّرُ بْنُ الْهَيْثَمِ حَدَّثَنَا عَلْقَمَةُ بْنُ أَبِي جَمْرَةَ الضُّبَعِيُّ عَنْ أَبِيهِ أَبِي جَمْرَةَ الضُّبَعِيِّ عَنْ ابْنِ عَبَّاسٍ قَالَكَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا يَكِلُ طُهُورَهُ إِلَى أَحَدٍ وَلَا صَدَقَتَهُ الَّتِي يَتَصَدَّقُ بِهَا يَكُونُ هُوَ الَّذِي يَتَوَلَّاهَا بِنَفْسِهِ",
+                "id": "Telah menceritakan kepada kami [Abu Badr Abbad bin Al Walid] berkata, telah menceritakan kepada kami [Muthahhar bin Al Haitsam] berkata, telah menceritakan kepada kami [Alqamah bin Abu Jamrah Adl Dluba'i] dari Bapaknya [Abu Jamrah Adl Dluba'i] dari [Ibnu Abbas] ia berkata; \"Rasulullah shallallahu 'alaihi wasallam tidak mewakilkan bersucinya kepada seseorang dan juga tidak dengan sedekahnya, namun beliau sendiri yang mengurusinya.\""
+            },
+            {
+                "number": 325,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو مُعَاوِيَةَ عَنْ الْأَعْمَشِ عَنْ أَبِي رَزِينٍ قَالَرَأَيْتُ أَبَا هُرَيْرَةَ يَضْرِبُ جَبْهَتَهُ بِيَدِهِ وَيَقُولُ يَا أَهْلَ الْعِرَاقِ أَنْتُمْ تَزْعُمُونَ أَنِّي أَكْذِبُ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِيَكُونَ لَكُمْ الْمَهْنَأُ وَعَلَيَّ الْإِثْمُ أَشْهَدُ لَسَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ إِذَا وَلَغَ الْكَلْبُ فِي إِنَاءِ أَحَدِكُمْ فَلْيَغْسِلْهُ سَبْعَ مَرَّاتٍ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Razin] berkata; Aku melihat [Abu Hurairah] memukul keningnya dengan tangan dan berkata; \"Wahai penduduk Irak, kalian mengklaim bahwa aku telah berdusta atas nama Rasulullah shallallahu 'alaihi wasallam, biarlah kalian mendapatkan pahala dan aku yang mendapatkan dosa (jika aku berdusta, pent). Aku bersaksi bahwa aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Jika seekor anjing menjilat di bejana salah seorang dari kalian maka hendaklah ia mencucinya tujuh kali.\""
+            },
+            {
+                "number": 326,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ عَنْ أَبِي الزِّنَادِ عَنْ الْأَعْرَجِ عَنْ أَبِي هُرَيْرَةَأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِذَا شَرِبَ الْكَلْبُ فِي إِنَاءِ أَحَدِكُمْ فَلْيَغْسِلْهُ سَبْعَ مَرَّاتٍ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Rauh bin Ubadah] berkata, telah menceritakan kepada kami [Malik bin Anas] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Jika seekor anjing minum di bejana salah seorang dari kalian maka hendaklah ia mencucinya tujuh kali.\""
+            },
+            {
+                "number": 327,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا شَبَابَةُ حَدَّثَنَا شُعْبَةُ عَنْ أَبِي التَّيَّاحِ قَالَ سَمِعْتُ مُطَرِّفًا يُحَدِّثُ عَنْ عَبْدِ اللَّهِ بْنِ الْمُغَفَّلِأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِذَا وَلَغَ الْكَلْبُ فِي الْإِنَاءِ فَاغْسِلُوهُ سَبْعَ مَرَّاتٍ وَعَفِّرُوهُ الثَّامِنَةَ بِالتُّرَابِ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Syababah] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu At Tayyah] berkata; aku mendengar [Mutharrif] menceritakan dari [Abdullah Ibnul Mughaffal] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Jika seekor anjing menjilat bejana maka cucilah sebanyak tujuh kali dan lumurilah dengan tanah yang kedelapan kalinya.\""
+            },
+            {
+                "number": 328,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ عُمَرَ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا وَلَغَ الْكَلْبُ فِي إِنَاءِ أَحَدِكُمْ فَلْيَغْسِلْهُ سَبْعَ مَرَّاتٍ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Ibnu Abu Maryam] berkata, telah memberitakan kepada kami [Abdullah bin Umar] dari [Nafi'] dari [Ibnu Umar] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Apabila seekor anjing menjilat bejana salah seorang di antara kalian maka cucilah sebanyak tujuh kali.\""
+            },
+            {
+                "number": 329,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ أَنْبَأَنَا مَالِكُ بْنُ أَنَسٍ أَخْبَرَنِي إِسْحَقُ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ الْأَنْصَارِيُّ عَنْ حُمَيْدَةَ بِنْتِ عُبَيْدِ بْنِ رِفَاعَةَ عَنْ كَبْشَةَ بِنْتِ كَعْبٍ وَكَانَتْ تَحْتَ بَعْضِ وَلَدِ أَبِي قَتَادَةَأَنَّهَا صَبَّتْ لِأَبِي قَتَادَةَ مَاءً يَتَوَضَّأُ بِهِ فَجَاءَتْ هِرَّةٌ تَشْرَبُ فَأَصْغَى لَهَا الْإِنَاءَ فَجَعَلْتُ أَنْظُرُ إِلَيْهِ فَقَالَ يَا ابْنَةَ أَخِي أَتَعْجَبِينَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّهَا لَيْسَتْ بِنَجَسٍ هِيَ مِنْ الطَّوَّافِينَ أَوْ الطَّوَّافَاتِ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Zaid Ibnul Hubab] berkata, telah memberitakan kepada kami [Malik bin Anas] berkata, telah mengabarkan kepadaku [Ishaq bin Abdullah bin Abu Thalhah Al Anshari] dari [Humaidah binti Rifa'ah] dari [Kabsyah binti Ka'ab] -isteri salah seorang anak Abu Qotadah-, ia pernah menuangkan air wudlu untuk [Abu Qotadah], lalu datanglah seekor Kucing yang ingin minum, maka ia pun memiringkan bejana itu untuk Kucing tersebut, aku terus memandanginya. Lalu ia berkata; \"Wahai puteri saudaraku, apakah engkau merasa heran? Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya Kucing tidak najis, ia adalah binatang yang biasa kelilingi (di rumah).\""
+            },
+            {
+                "number": 330,
+                "arab": "حَدَّثَنَا عَمْرُو بْنُ رَافِعٍ أَبُو حَجَرٍ وَإِسْمَعِيلُ بْنُ تَوْبَةَ قَالَا حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ عَنْ حَارِثَةَ عَنْ عَمْرَةَ عَنْ عَائِشَةَ قَالَتْكُنْتُ أَتَوَضَّأُ أَنَا وَرَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ إِنَاءٍ وَاحِدٍ قَدْ أَصَابَتْ مِنْهُ الْهِرَّةُ قَبْلَ ذَلِكَ",
+                "id": "Telah menceritakan kepada kami [Amru bin Rafi' Abu Hajar] dan [Isma'il bin Taubah] keduanya berkata; telah menceritakan kepada kami [Yahya bin Zakaria bin Abu Za`idah] dari [Haritsah] dari [Amrah] dari [Aisyah] ia berkata; \"Aku dan Rasulullah shallallahu 'alaihi wasallam berwudlu dari satu bejana yang sebelumnya telah dijilat kucing.\" "
+            },
+            {
+                "number": 331,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عَبْدِ الْمَجِيدِ يَعْنِي أَبَا بَكْرٍ الْحَنَفِيَّ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي الزِّنَادِ عَنْ أَبِيهِ عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْهِرَّةُ لَا تَقْطَعُ الصَّلَاةَ لِأَنَّهَا مِنْ مَتَاعِ الْبَيْتِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [ubaidhullah bin Abdul Majid] -yaitu Abu Bakr Al Hanafi- berkata, telah menceritakan kepada kami [Abdurrahman bin Abu Az Zinad] dari [Bapaknya] dari [Abu Salamah] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Kucing tidak memutus (membatalkan) sholat, karena ia termasuk perhiasan rumah.\""
+            },
+            {
+                "number": 332,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو الْأَحْوَصِ عَنْ سِمَاكِ بْنِ حَرْبٍ عَنْ عِكْرِمَةَ عَنْ ابْنِ عَبَّاسٍ قَالَاغْتَسَلَ بَعْضُ أَزْوَاجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي جَفْنَةٍ فَجَاءَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِيَغْتَسِلَ أَوْ يَتَوَضَّأَ فَقَالَتْ يَا رَسُولَ اللَّهِ إِنِّي كُنْتُ جُنُبًا قَالَ الْمَاءُ لَا يُجْنِبُ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abu Al Ahwash] dari [Simak bin Harb] dari [Ikrimah] dari [Ibnu Abbas] ia berkata; \"Sebagian isteri Nabi shallallahu 'alaihi wasallam mandi besar dalam satu bejana, lalu Nabi shallallahu 'alaihi wasallam datang untuk mandi atau wudlu. Isterinya berkata; \"Wahai Rasulullah sesungguhnya aku junub! \" beliau bersabda: \"(Namun) air tidak junub.\""
+            },
+            {
+                "number": 333,
+                "arab": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ حَدَّثَنَا وَكِيعٌ عَنْ سُفْيَانَ عَنْ سِمَاكِ بْنِ حَرْبٍ عَنْ عِكْرِمَةَ عَنْ ابْنِ عَبَّاسٍأَنَّ امْرَأَةً مِنْ أَزْوَاجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اغْتَسَلَتْ مِنْ جَنَابَةٍ فَتَوَضَّأَ أَوْ اغْتَسَلَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ فَضْلِ وَضُوئِهَا",
+                "id": "Telah menceritakan kepada kami [Ali bin Muhammad] berkata, telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Simak bin Harb] dari [Ikrimah] dari [Ibnu Abbas] berkata; \"Seorang isteri Nabi shallallahu 'alaihi wasallam mandi junub lalu Nabi shallallahu 'alaihi wasallam wudlu, atau mandi junub dari sisa air wudlunya (isteri).\""
+            },
+            {
+                "number": 334,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى وَمُحَمَّدُ بْنُ يَحْيَى وَإِسْحَقُ بْنُ مَنْصُورٍ قَالُوا حَدَّثَنَا أَبُو دَاوُدَ حَدَّثَنَا شَرِيكٌ عَنْ سِمَاكٍ عَنْ عِكْرِمَةَ عَنْ ابْنِ عَبَّاسٍ عَنْ مَيْمُونَةَ زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَأَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ بِفَضْلِ غُسْلِهَا مِنْ الْجَنَابَةِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Yahya] dan [Ishaq bin Manshur] mereka berkata; telah menceritakan kepada kami [Abu Dawud] berkata, telah menceritakan kepada kami [Syarik] dari [Simak] dari [Ikrimah] dari [Ibnu Abbas] dari [Maimunah] isteri Nabi shallallahu 'alaihi wasallam, berkata; \"Nabi shallallahu 'alaihi wasallam berwudlu dengan air sisa mandi junub isterinya.\""
+            },
+            {
+                "number": 335,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا أَبُو دَاوُدَ حَدَّثَنَا شُعْبَةُ عَنْ عَاصِمٍ الْأَحْوَلِ عَنْ أَبِي حَاجِبٍ عَنْ الْحَكَمِ بْنِ عَمْرٍوأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى أَنْ يَتَوَضَّأَ الرَّجُلُ بِفَضْلِ وَضُوءِ الْمَرْأَةِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Abu Dawud] berkata, telah menceritakan kepada kami [Syu'bah] dari ['Ashim Al Ahwal] dari [Abu Hajib] dari [Al Hakam bin 'Amru] berkata; \"Rasulullah shallallahu 'alaihi wasallam melarang seorang lelaki berwudlu dari sisa wudlu perempuan.\""
+            },
+            {
+                "number": 336,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا الْمُعَلَّى بْنُ أَسَدٍ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ الْمُخْتَارِ حَدَّثَنَا عَاصِمٌ الْأَحْوَلُ عَنْ عَبْدِ اللَّهِ بْنِ سَرْجِسَ قَالَنَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يَغْتَسِلَ الرَّجُلُ بِفَضْلِ وَضُوءِ الْمَرْأَةِ وَالْمَرْأَةُ بِفَضْلِ الرَّجُلِ وَلَكِنْ يَشْرَعَانِ جَمِيعًاقَالَ أَبُو عَبْد اللَّهِ بْن مَاجَةَ الصَّحِيحُ هُوَ الْأَوَّلُ وَالثَّانِي وَهْمٌ قَالَ أَبُو الْحَسَنِ بْنُ سَلَمَةَ حَدَّثَنَا أَبُو حَاتِمٍ وَأَبُو عُثْمَانَ الْمُحَارِبِيُّ قَالَا حَدَّثَنَا الْمُعَلَّى بْنُ أَسَدٍ نَحْوَهُ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Al Mu'alla bin Asad] berkata, telah menceritakan kepada kami [Abdul Aziz bin Mukhtar] berkata, telah menceritakan kepada kami ['Ashim Al Ahwal] dari [Abdullah bin Sarjis] ia berkata berkata; \"Rasulullah shallallahu 'alaihi wasallam melarang seorang lelaki mandi dari sisa air wudlu seorang perempuan, dan perempuan mandi dari sisa seorang laki-laki. Dan yang dibolehkan adalah dilakukan secara bersama-sama\". Abu Abdullah Ibnu Majah berkata; \"Pendapat yang benar adalah yang pertama, sedang yang kedua masih meragukan.\" Abul Hasan bin Salamah berkata; telah menceritakan kepada kami Abu Hatim dan Abu Utsman Al Muharibi keduanya berkata; telah menceritakan kepada kami Al Mu'alla bin Asad dengan hadits yang serupa.\""
+            },
+            {
+                "number": 337,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا عُبَيْدُ اللَّهِ عَنْ إِسْرَائِيلَ عَنْ أَبِي إِسْحَقَ عَنْ الْحَارِثِ عَنْ عَلِيٍّ قَالَكَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَهْلُهُ يَغْتَسِلُونَ مِنْ إِنَاءٍ وَاحِدٍ وَلَا يَغْتَسِلُ أَحَدُهُمَا بِفَضْلِ صَاحِبِهِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [ubaidhullah] dari [Isra`il] dari [Abu Ishaq] dari [Al Harits] dari [Ali] ia berkata; \"Nabi shallallahu 'alaihi wasallam dan isteri-isterinya mandi dalam satu bejana, dan salah satu dari keduanya tidak mandi dengan sisa pasangannya.\""
+            },
+            {
+                "number": 338,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ عَنْ ابْنِ شِهَابٍ ح و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنْ الزُّهْرِيِّ عَنْ عُرْوَةَ عَنْ عَائِشَةَ قَالَتْكُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ إِنَاءٍ وَاحِدٍ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Rumh] berkata, telah memberitakan kepada kami [Al Laits bin Sa'd] dari [Ibnu Syihab]. Dan menurut jalur yang lain; Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dari ['Urwah] dari [Aisyah] ia berkata; \"Aku dan Rasulullah shallallahu 'alaihi wasallam mandi dari satu bejana.\""
+            },
+            {
+                "number": 339,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنْ عَمْرِو بْنِ دِينَارٍ عَنْ جَابِرِ بْنِ زَيْدٍ عَنْ ابْنِ عَبَّاسٍ عَنْ خَالَتِهِ مَيْمُونَةَ قَالَتْكُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ إِنَاءٍ وَاحِدٍ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Amru bin Dinar] dari [Jabir bin Zaid] dari [Ibnu Abbas] dari bibinya [Maimunah] ia berkata; \"Aku dan Rasulullah shallallahu 'alaihi wasallam mandi dari satu bejana.\""
+            },
+            {
+                "number": 340,
+                "arab": "حَدَّثَنَا أَبُو عَامِرٍ الْأَشْعَرِيُّ عَبْدُ اللَّهِ بْنُ عَامِرٍ حَدَّثَنَا يَحْيَى بْنُ أَبِي بُكَيْرٍ حَدَّثَنَا إِبْرَاهِيمُ بْنُ نَافِعٍ عَنْ ابْنِ أَبِي نَجِيحٍ عَنْ مُجَاهِدٍ عَنْ أُمِّ هَانِئٍأَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اغْتَسَلَ وَمَيْمُونَةَ مِنْ إِنَاءٍ وَاحِدٍ فِي قَصْعَةٍ فِيهَا أَثَرُ الْعَجِينِ",
+                "id": "Telah menceritakan kepada kami [Abu Amir Al Asy'ari Abdullah bin 'Amir] berkata, telah menceritakan kepada kami [Yahya bin Abu Bukair] berkata, telah menceritakan kepada kami [Ibrahim bin Nafi'] dari [Ibnu Abu Najih] dari [Mujahid] dari [Ummu Hani`] berkata; \"Nabi shallallahu 'alaihi wasallam dan Maimunah pernah mandi dari satu bejana dalam satu ember besar bekas adonan.\""
+            },
+            {
+                "number": 341,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا مُحَمَّدُ بْنُ الْحَسَنِ الْأَسَدِيُّ حَدَّثَنَا شَرِيكٌ عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ قَالَكَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَزْوَاجُهُ يَغْتَسِلُونَ مِنْ إِنَاءٍ وَاحِدٍ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Muhammad bin Al Hasan Al Asadi] berkata, telah menceritakan kepada kami [Syarik] dari [Abdullah bin Muhammad bin 'Aqil] dari [Jabir bin Abdullah] ia berkata; \"Rasulullah shallallahu 'alaihi wasallam dan isteri-isterinya mandi dari satu bejana.\""
+            },
+            {
+                "number": 342,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا إِسْمَعِيلُ ابْنُ عُلَيَّةَ عَنْ هِشَامٍ الدَّسْتُوَائِيِّ عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ عَنْ أَبِي سَلَمَةَ عَنْ زَيْنَبَ بِنْتِ أُمِّ سَلَمَةَ عَنْ أُمِّ سَلَمَةَأَنَّهَا كَانَتْ وَرَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَغْتَسِلَانِ مِنْ إِنَاءٍ وَاحِدٍ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Isma'il bin Ulaiyah] dari [Hisyam Ad Dustuwa`i] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Zainab binti Ummu Salamah] dari [Ummu Salamah] berkata; \"Dirinya dan Rasulullah shallallahu 'alaihi wasallam mandi dari satu bejana.\""
+            },
+            {
+                "number": 343,
+                "arab": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ حَدَّثَنِي نَافِعٌ عَنْ ابْنِ عُمَرَ قَالَكَانَ الرِّجَالُ وَالنِّسَاءُ يَتَوَضَّئُونَ عَلَى عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ إِنَاءٍ وَاحِدٍ",
+                "id": "Telah menceritakan kepada kami [Hisyam bin Ammar] berkata, telah menceritakan kepada kami [Malik bin Anas] berkata, telah menceritakan kepadaku [Nafi'] dari [Ibnu Umar] ia berkata; \"Pada masa Rasulullah shallallahu 'alaihi wasallam kaum lelaki dan wanita berwudlu dari satu bejana.\""
+            },
+            {
+                "number": 344,
+                "arab": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ حَدَّثَنَا أُسَامَةُ بْنُ زَيْدٍ عَنْ سَالِمِ بْنِ النُّعْمَانِ وَهُوَ ابْنُ سَرْحٍ عَنْ أُمِّ صُبَيَّةَ الْجُهَنِيَّةِ قَالَتْرُبَّمَا اخْتَلَفَتْ يَدِي وَيَدُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الْوُضُوءِ مِنْ إِنَاءٍ وَاحِدٍقَالَ أَبُو عَبْد اللَّهِ بْن مَاجَةَ سَمِعْتُ مُحَمَّدًا يَقُولُ أُمُّ صُبَيَّةَ هِيَ خَوْلَةُ بِنْتُ قَيْسٍ فَذَكَرْتُ لِأَبِي زُرْعَةَ فَقَالَ صَدَقَ",
+                "id": "Telah menceritakan kepada kami [Abdurrahman bin Ibrahim Ad Dimasyqi] berkata, telah menceritakan kepada kami [Anas bin 'Iyadl] berkata, telah menceritakan kepada kami [Usamah bin Zaid] dari [Salim bin Nu'man] -yaitu Ibnu Sarh- dari [Ummu Shubaiyyah Al Juhaniyyah] ia berkata; \"Kadang-kadang tanganku dan tangan Rasulullah shallallahu 'alaihi wasallam saling beradu saat wudlu dalam satu bejana.\" Abu Abdullah Ibnu Majah berkata; Aku mendengar Muhammad berkata; \"Ummu Shubaiyyah adalah Khaulah binti Qais.\" Lalu hal itu aku tanyakan kepada Abu Zur'ah, maka ia menjawab; \"Benar.\""
+            },
+            {
+                "number": 345,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا دَاوُدُ بْنُ شَبِيبٍ حَدَّثَنَا حَبِيبُ بْنُ أَبِي حَبِيبٍ عَنْ عَمْرِو بْنِ هَرَمٍ عَنْ عِكْرِمَةَ عَنْ عَائِشَةَعَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُمَا كَانَا يَتَوَضَّآَنِ جَمِيعًا لِلصَّلَاةِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Dawud bin Syabib] berkata, telah menceritakan kepada kami [Habib bin Abu Habib] dari [Amru bin Harm] dari [Ikrimah] dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam, bahwa keduanya pernah wudlu bersama untuk sholat."
+            },
+            {
+                "number": 346,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَعَلِيُّ بْنُ مُحَمَّدٍ قَالَا حَدَّثَنَا وَكِيعٌ عَنْ أَبِيهِ ح و حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا عَبْدُ الرَّزَّاقِ عَنْ سُفْيَانَ عَنْ أَبِي فَزَارَةَ الْعَبْسِيِّ عَنْ أَبِي زَيْدٍ مَوْلَى عَمْرِو بْنِ حُرَيْثٍ عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَهُ لَيْلَةَ الْجِنِّ عِنْدَكَ طَهُورٌ قَالَ لَا إِلَّا شَيْءٌ مِنْ نَبِيذٍ فِي إِدَاوَةٍ قَالَ تَمْرَةٌ طَيِّبَةٌ وَمَاءٌ طَهُورٌ فَتَوَضَّأَ هَذَا حَدِيثُ وَكِيعٍ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ali bin Muhammad] keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Bapaknya]. Dan menurut jalur yang lain; Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Abdurrazzaq] dari [Sufyan] dari [Abu Fazarah Al 'Absi] dari [Abu Zaid] mantan budak Amru bin Huraist, dari [Abdullah bin Mas'ud] bahwa Rasulullah shallallahu 'alaihi wasallam pada suatu malam yang gelap gulita bertanya kepadanya: \"Apakah kamu mempunyai air untuk bersuci?\" ia menjawab; \"Tidak, kecuali sedikit nabidz (air arak) yang ada di kantong kulit.\" Beliau bersabda: \"Kurma itu baik dan air itu suci.\" Lalu beliau pun berwudlu. Ini merupakan hadits Waki'."
+            },
+            {
+                "number": 347,
+                "arab": "حَدَّثَنَا الْعَبَّاسُ بْنُ الْوَلِيدِ الدِّمَشْقِيُّ حَدَّثَنَا مَرْوَانُ بْنُ مُحَمَّدٍ حَدَّثَنَا ابْنُ لَهِيعَةَ حَدَّثَنَا قَيْسُ بْنُ الْحَجَّاجِ عَنْ حَنَشٍ الصَّنْعَانِيِّ عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لِابْنِ مَسْعُودٍ لَيْلَةَ الْجِنِّ مَعَكَ مَاءٌ قَالَ لَا إِلَّا نَبِيذًا فِي سَطِيحَةٍ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَمْرَةٌ طَيِّبَةٌ وَمَاءٌ طَهُورٌ صُبَّ عَلَيَّ قَالَ فَصَبَبْتُ عَلَيْهِ فَتَوَضَّأَ بِهِ",
+                "id": "Telah menceritakan kepada kami [Al 'Abbas bin Al Walid Ad Dimasyqi] berkata, telah menceritakan kepada kami [Marwan bin Muhammad] berkata, telah menceritakan kepada kami [Ibnu Lahi'ah] berkata, telah menceritakan kepada kami [Qais bin Al Hajjaj] dari [Hanasy Ash Shan'ani] dari [Abdullah bin 'Abbas] berkata, Rasulullah shallallahu 'alaihi wasallam bertanya kepada Ibnu Mas'ud di malam yang gelap gulita: \"Apakah kamu punya air?\" ia menjawab; \"Tidak, kecuali nabidz dalam kantong air.\" Rasulullah shallallahu 'alaihi wasallam lalu bersabda: \" Kurma itu baik dan air itu suci. Tuangkanlah untukku.\" Ia berkata; \"Maka aku pun menuangkan untuk wudlu beliau.\""
+            },
+            {
+                "number": 348,
+                "arab": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ حَدَّثَنِي صَفْوَانُ بْنُ سُلَيْمٍ عَنْ سَعِيدِ بْنِ سَلَمَةَ هُوَ مِنْ آلِ ابْنِ الْأَزْرَقِ أَنَّ الْمُغِيرَةَ بْنَ أَبِي بُرْدَةَ وَهُوَ مِنْ بَنِي عَبْدِ الدَّارِ حَدَّثَهُ أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ يَقُولُجَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّا نَرْكَبُ الْبَحْرَ وَنَحْمِلُ مَعَنَا الْقَلِيلَ مِنْ الْمَاءِ فَإِنْ تَوَضَّأْنَا بِهِ عَطِشْنَا أَفَنَتَوَضَّأُ مِنْ مَاءِ الْبَحْرِ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ هُوَ الطَّهُورُ مَاؤُهُ الْحِلُّ مَيْتَتُهُ",
+                "id": "Telah menceritakan kepada kami [Hisyam bin Ammar] berkata, telah menceritakan kepada kami [Malik bin Anas] berkata, telah menceritakan kepadaku [Shafwan bin Sulaim] dari [Sa'id bin Salamah] -dari keluarga Ibnu Al Azraq- bahwa [Al Mughirah bin Abu Burdah] -dari bani Abdu Ad Dar- mendengar [Abu Hurairah] berkata; \"Seorang laki-laki datang kepada Rasulullah shallallahu 'alaihi wasallam seraya bertanya; \"Wahai Rasulullah, kami berlayar di lautan dan kami hanya membawa sedikit air, jika kami berwudlu dengannya maka kami akan kehausan. Bolehkah kami berwudlu dengan air laut?\" Rasulullah shallallahu 'alaihi wasallam menjawab: \"Laut itu suci airnya dan halal bangkainya.\""
+            },
+            {
+                "number": 349,
+                "arab": "حَدَّثَنَا سَهْلُ بْنُ أَبِي سَهْلٍ حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ حَدَّثَنِي اللَّيْثُ بْنُ سَعْدٍ عَنْ جَعْفَرِ بْنِ رَبِيعَةَ عَنْ بَكْرِ بْنِ سَوَادَةَ عَنْ مُسْلِمِ بْنِ مَخْشِيٍّ عَنْ ابْنِ الْفِرَاسِيِّ قَالَكُنْتُ أَصِيدُ وَكَانَتْ لِي قِرْبَةٌ أَجْعَلُ فِيهَا مَاءً وَإِنِّي تَوَضَّأْتُ بِمَاءِ الْبَحْرِ فَذَكَرْتُ ذَلِكَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ هُوَ الطَّهُورُ مَاؤُهُ الْحِلُّ مَيْتَتُهُ",
+                "id": "Telah menceritakan kepada kami [Sahal bin Abu Sahal] berkata, telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepadaku [Al Laits bin Sa'd] dari [Ja'far bin Rabi'ah] dari [Bakr bin Sawadah] dari [Muslim bin Makhsyi] dari [Ibnul Firasi] ia berkata; \"Aku pergi mencari ikan, dan aku mempunyai satu geriba yang aku jadikan sebagai tempat menyimpan air, dan aku berwudlu dengan air laut. Lantas hal itu aku tanyakan kepada Rasulullah shallallahu 'alaihi wasallam, maka beliau bersabda: \"Laut itu suci airnya dan halal bangkainya.\" "
+            },
+            {
+                "number": 350,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ حَدَّثَنَا أَبُو الْقَاسِمِ بْنُ أَبِي الزِّنَادِ قَالَ حَدَّثَنِي إِسْحَقُ بْنُ حَازِمٍ عَنْ عُبَيْدِ اللَّهِ ابْنِ مِقْسَمٍ عَنْ جَابِرٍأَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سُئِلَ عَنْ مَاءِ الْبَحْرِ فَقَالَ هُوَ الطَّهُورُ مَاؤُهُ الْحِلُّ مَيْتَتُهُقَالَ أَبُو الْحَسَنِ بْنُ سَلَمَةَ حَدَّثَنَا عَلِيُّ بْنُ الْحَسَنِ الْهَسْتَجَانِيُّ حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ حَدَّثَنَا أَبُو الْقَاسِمِ بْنُ أَبِي الزِّنَادِ حَدَّثَنِي إِسْحَقُ بْنُ حَازِمٍ عَنْ عُبَيْدِ اللَّهِ هُوَ ابْنُ مِقْسَمٍ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَذَكَرَ نَحْوَهُ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Ahmad bin Hambal] berkata, telah menceritakan kepada kami [Abul Qasim bin Abu Zanad] ia berkata; telah menceritakan kepadaku [Ishaq bin Hazim] dari [ubaidhullah bin Miqsam] dari [Jabir] berkata; Nabi shallallahu 'alaihi wasallam ditanya tentang air laut, maka beliau menjawab: \"Laut itu suci airnya dan halal bangkainya.\" Abu Al Hasan bin Salamah berkata; telah menceritakan kepada kami Ali Ibnul Hasan Al Hastajani berkata, telah menceritakan kepada kami Ahmad bin Hambal berkata, telah menceritakan kepada kami Abu Al Qasim bin Abu Az Zinad berkata, telah menceritakan kepadaku Ishaq bin Hazim dari ubaidhullah -yaitu Ibnu Miqsam- dari Jabir bin Abdullah bahwa Nabi shallallahu 'alaihi wasallam… lalu ia menyebutkan sebagaimana hadits diatas."
+            },
+            {
+                "number": 351,
+                "arab": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ حَدَّثَنَا عِيسَى بْنُ يُونُسَ حَدَّثَنَا الْأَعْمَشُ عَنْ مُسْلِمِ بْنِ صُبَيْحٍ عَنْ مَسْرُوقٍ عَنْ الْمُغِيرَةِ بْنِ شُعْبَةَ قَالَخَرَجَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِبَعْضِ حَاجَتِهِ فَلَمَّا رَجَعَ تَلَقَّيْتُهُ بِالْإِدَاوَةِ فَصَبَبْتُ عَلَيْهِ فَغَسَلَ يَدَيْهِ ثُمَّ غَسَلَ وَجْهَهُ ثُمَّ ذَهَبَ يَغْسِلُ ذِرَاعَيْهِ فَضَاقَتْ الْجُبَّةُ فَأَخْرَجَهُمَا مِنْ تَحْتِ الْجُبَّةِ فَغَسَلَهُمَا وَمَسَحَ عَلَى خُفَّيْهِ ثُمَّ صَلَّى بِنَا",
+                "id": "Telah menceritakan kepada kami [Hisyam bin Ammar] berkata, telah menceritakan kepada kami [Isa bin Yunus] berkata, telah menceritakan kepada kami [Al A'masy] dari [Muslim bin Shubaih] dari [Masruq] dari [Mughirah bin Syu'bah] ia berkata; \"Suatu kali Nabi shallallahu 'alaihi wasallam keluar untuk buang hajat. Tatkala beliau kembali, aku menjumpainya dengan membawa sebuah kantong kulit berisi air, aku lalu menuangkan air untuknya, kemudian beliau mencuci tangannya dan membasuh muka, setelah itu mencuci kedua lengannya hingga ke siku. Karena jubah beliau sempit, maka beliau mengeluarkan keduanya dari bawah jubah seraya membasuh keduanya. Lalu mengusap kedua khufnya kemudian sholat bersama kami.\" "
+            },
+            {
+                "number": 352,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا الْهَيْثَمُ بْنُ جَمِيلٍ حَدَّثَنَا شَرِيكٌ عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ عَنْ الرُّبَيِّعِ بِنْتِ مُعَوِّذٍ قَالَتْأَتَيْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمِيضَأَةٍ فَقَالَ اسْكُبِي فَسَكَبْتُ فَغَسَلَ وَجْهَهُ وَذِرَاعَيْهِ وَأَخَذَ مَاءً جَدِيدًا فَمَسَحَ بِهِ رَأْسَهُ مُقَدَّمَهُ وَمُؤَخَّرَهُ وَغَسَلَ قَدَمَيْهِ ثَلَاثًا ثَلَاثًا",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Al Haitsam bin Jamil] berkata, telah menceritakan kepada kami [Syarik] dari [Abdullah bin Muhammad bin 'Aqil] dari [Ar Rubayyi' binti Mu'awwidz] ia berkata; Aku mendatangi Nabi shallallahu 'alaihi wasallam membawa tempat wudlu, lalu beliau bersabda: \"Tuangkanlah untukku, \" maka akupun menuangkan untuknya. Kemudian beliau mencuci mukanya dan kedua lengannya hingga ke siku, beliau lalu mengambil air yang baru seraya mengusap kepalanya dari bagian depannya hingga ke bagian belakangnya, setelah itu membasuh kedua kakinya tiga kali-tiga kali.\""
+            },
+            {
+                "number": 353,
+                "arab": "حَدَّثَنَا بِشْرُ بْنُ آدَمَ حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ حَدَّثَنِي الْوَلِيدُ بْنُ عُقْبَةَ حَدَّثَنِي حُذَيْفَةُ بْنُ أَبِي حُذَيْفَةَ الْأَزْدِيُّ عَنْ صَفْوَانَ بْنِ عَسَّالٍ قَالَصَبَبْتُ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمَاءَ فِي السَّفَرِ وَالْحَضَرِ فِي الْوُضُوءِ",
+                "id": "Telah menceritakan kepada kami [Bisyr bin Adam] berkata, telah menceritakan kepada kami [Zaid bin Al Hubab] berkata, telah menceritakan kepadaku [Al Walid bin Uqbah] berkata, telah menceritakan kepadaku [Hudzaifah bin Abu Hudzaifah Al 'Azdi] dari [Shafwan bin 'Assal] ia berkata; \"Aku menuangkan air untuk wudlu Nabi shallallahu 'alaihi wasallam baik dalam safar maupun muqim.\" "
+            },
+            {
+                "number": 354,
+                "arab": "حَدَّثَنَا كُرْدُوسُ بْنُ أَبِي عَبْدِ اللَّهِ الْوَاسِطِيُّ حَدَّثَنَا عَبْدُ الْكَرِيمِ بْنُ رَوْحٍ حَدَّثَنَا أَبِي رَوْحُ بْنُ عَنْبَسَةَ بْنِ سَعِيدِ بْنِ أَبِي عَيَّاشٍ مَوْلَى عُثْمَانَ بْنِ عَفَّانَ عَنْ أَبِيهِ عَنْبَسَةَ بْنِ سَعِيدٍ عَنْ جَدَّتِهِ أُمِّ أَبِيهِ أُمِّ عَيَّاشٍ وَكَانَتْ أَمَةً لِرُقَيَّةَ بِنْتِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَتْكُنْتُ أُوَضِّئُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَنَا قَائِمَةٌ وَهُوَ قَاعِدٌ",
+                "id": "Telah menceritakan kepada kami [Kurdus bin Abu Abdullah Al Wasithi] berkata, telah menceritakan kepada kami [Abdul Karim bin Rauh] berkata, telah menceritakan kepada kami [Rauh bin 'Anbasah bin Sa'id bin Abu 'Ayyasy] mantan budak Utsman bin 'Affan, dari bapaknya ['Anbasah bin Sa'id] dari neneknya yaitu ibu ayahnya [Ummu 'Ayyasy] -dan ia adalah pembantu Ruqayyah puteri Rasulullah shallallahu 'alaihi wasallam- ia berkata; \"Aku memberi air wudlu Rasulullah shallallahu 'alaihi wasallam dengan berdiri sementara beliau duduk.\""
+            },
+            {
+                "number": 355,
+                "arab": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ حَدَّثَنَا الْأَوْزَاعِيُّ حَدَّثَنِي الزُّهْرِيُّ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ وَأَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ أَنَّهُمَا حَدَّثَاهُ أَنَّ أَبَا هُرَيْرَةَ كَانَ يَقُولُقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا اسْتَيْقَظَ أَحَدُكُمْ مِنْ اللَّيْلِ فَلَا يُدْخِلْ يَدَهُ فِي الْإِنَاءِ حَتَّى يُفْرِغَ عَلَيْهَا مَرَّتَيْنِ أَوْ ثَلَاثًا فَإِنَّ أَحَدَكُمْ لَا يَدْرِي فِيمَ بَاتَتْ يَدُهُ",
+                "id": "Telah menceritakan kepada kami [Abdurrahman bin Ibrahim Ad Dimasyqi] berkata, telah menceritakan kepada kami [Al Walid bin Muslim] berkata, telah menceritakan kepada kami [Al Auza'i] berkata, telah menceritakan kepadaku [Az Zuhri] dari [Sa'id Ibnul Musayyab] dan [Abu Salamah bin Abdurrahman] bahwa keduanya menceritakan kepadanya bahwa [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Jika salah seorang dari kalian bangun malam maka janganlah memasukkan tangannya ke dalam bejana hingga ia menuangkan ke tangannya dua atau tiga kali. Sebab salah seorang dari kalian tidak tahu ke mana tangannya bermalam.\""
+            },
+            {
+                "number": 356,
+                "arab": "حَدَّثَنَا حَرْمَلَةُ بْنُ يَحْيَى حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ أَخْبَرَنِي ابْنُ لَهِيعَةَ وَجَابِرُ بْنُ إِسْمَعِيلَ عَنْ عُقَيْلٍ عَنْ ابْنِ شِهَابٍ عَنْ سَالِمٍ عَنْ أَبِيهِ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا اسْتَيْقَظَ أَحَدُكُمْ مِنْ نَوْمِهِ فَلَا يُدْخِلْ يَدَهُ فِي الْإِنَاءِ حَتَّى يَغْسِلَهَا",
+                "id": "Telah menceritakan kepada kami [Harmalah bin Yahya] berkata, telah menceritakan kepada kami [Abdullah bin Wahb] berkata, telah mengabarkan kepadaku [Ibnu Lahi'ah] dan [Jabir bin Isma'il] dari [Uqail] dari [Ibnu Syihab] dari [Salim] dari [Bapaknya] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Jika salah seorang dari kalian bangun dari tidurnya, maka janganlah memasukkan tangannya kedalam bejana hingga ia mencucinya terlebih dahulu.\""
+            },
+            {
+                "number": 357,
+                "arab": "حَدَّثَنَا إِسْمَعِيلُ بْنُ تَوْبَةَ حَدَّثَنَا زِيَادُ بْنُ عَبْدِ اللَّهِ الْبَكَّائِيُّ عَنْ عَبْدِ الْمَلِكِ بْنِ أَبِي سُلَيْمَانَ عَنْ أَبِي الزُّبَيْرِ عَنْ جَابِرٍ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا قَامَ أَحَدُكُمْ مِنْ النَّوْمِ فَأَرَادَ أَنْ يَتَوَضَّأَ فَلَا يُدْخِلْ يَدَهُ فِي وَضُوئِهِ حَتَّى يَغْسِلَهَا فَإِنَّهُ لَا يَدْرِي أَيْنَ بَاتَتْ يَدُهُ وَلَا عَلَى مَا وَضَعَهَا",
+                "id": "Telah menceritakan kepada kami [Isma'il bin Taubah] berkata, telah menceritakan kepada kami [Ziyad bin Abdullah Al Bakka`i] dari [Abdul Malik bin Abu Sulaiman] dari [Abu Zubair] dari [Jabir] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Jika salah seorang dari kalian bangun dari tidur dan hendak berwudlu, maka jangan memasukkan tangannya ke tempat wudlu hingga ia mencucinya, karena ia tidak tahu di mana tangannya bermalam dan di atas apa ia meletakkannya.\""
+            },
+            {
+                "number": 358,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ عَنْ أَبِي إِسْحَقَ عَنْ الْحَارِثِ قَالَدَعَا عَلِيٌّ بِمَاءٍ فَغَسَلَ يَدَيْهِ قَبْلَ أَنْ يُدْخِلَهُمَا الْإِنَاءَ ثُمَّ قَالَ هَكَذَا رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صَنَعَ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abu Bakr bin 'Ayyasy] dari [Abu Ishaq] dari [Al Harits] ia berkata; [Ali] minta untuk diambilkan air, kemudian ia pun mencuci kedua tangannya sebelum memasukkan keduanya ke dalam bejana, setelah itu ia berkata; \"Seperti inilah aku melihat Rasulullah shallallahu 'alaihi wasallam melakukannya.\""
+            },
+            {
+                "number": 359,
+                "arab": "حَدَّثَنَا أَبُو كُرَيْبٍ مُحَمَّدُ بْنُ الْعَلَاءِ حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ ح و حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا أَبُو عَامِرٍ الْعَقَدِيُّ ح و حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ قَالُوا حَدَّثَنَا كَثِيرُ بْنُ زَيْدٍ عَنْ رُبَيْحِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي سَعِيدٍ عَنْ أَبِيهِ عَنْ جَدِّهِأَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَا وُضُوءَ لِمَنْ لَمْ يَذْكُرْ اسْمَ اللَّهِ عَلَيْهِ",
+                "id": "Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala] berkata, telah menceritakan kepada kami [Zaid bin Al Hubab]. Dan menurut jalur yang lain; Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Abu Amir Al 'Aqdi]. Dan menurut jalur yang lain; Telah menceritakan kepada kami [Ahmad bin Mani'] berkata, telah menceritakan kepada kami [Abu Ahmad Az Zubairi] mereka berkata; telah menceritakan kepada kami [Katsir bin Zaid] dari [Rubaih bin Abdurrahman bin Abu Sa'id] dari [Bapaknya] dari [Kakeknya], berkata; Nabi shallallahu 'alaihi wasallam bersabda: \"Tidak ada wudlu bagi orang yang tidak menyebut nama Allah ketika berwudlu.\""
+            },
+            {
+                "number": 360,
+                "arab": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْخَلَّالُ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ أَنْبَأَنَا يَزِيدُ بْنُ عِيَاضٍ حَدَّثَنَا أَبُو ثِفَالٍ عَنْ رَبَاحِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي سُفْيَانَ أَنَّهُ سَمِعَ جَدَّتَهُ بِنْتَ سَعِيدِ بْنِ زَيْدٍ تَذْكُرُ أَنَّهَا سَمِعَتْ أَبَاهَا سَعِيدَ بْنَ زَيْدٍ يَقُولُقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا صَلَاةَ لِمَنْ لَا وُضُوءَ لَهُ وَلَا وُضُوءَ لِمَنْ لَمْ يَذْكُرْ اسْمَ اللَّهِ عَلَيْهِ",
+                "id": "Telah menceritakan kepada kami [Al Hasan bin Ali Al Khallal] berkata, telah menceritakan kepada kami [Yazid bin Harun] berkata, telah memberitakan kepada kami [Yazid bin 'Iyadl] berkata, telah menceritakan kepada kami [Abu Tsifal] dari [Rabah bin Abdurrahman bin Abu Sufyan], bahwasanya ia mendengar neneknya [Binti Sa'id bin Zaid] menuturkan, bahwa ia pernah mendengar bapaknya [Sa'id bin Zaid] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada sholat bagi orang yang tidak berwudlu, dan tidak ada wudlu orang yang tidak menyebut nama Allah ketika berwudlu.\""
+            },
+            {
+                "number": 361,
+                "arab": "حَدَّثَنَا أَبُو كُرَيْبٍ وَعَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ قَالَا حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى بْنِ أَبِي عَبْدِ اللَّهِ عَنْ يَعْقُوبَ بْنِ سَلَمَةَ اللَّيْثِيِّ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا صَلَاةَ لِمَنْ لَا وُضُوءَ لَهُ وَلَا وُضُوءَ لِمَنْ لَمْ يَذْكُرْ اسْمَ اللَّهِ عَلَيْهِ",
+                "id": "Telah menceritakan kepada kami [Abu Kuraib] dan [Abdurrahman bin Ibrahim] keduanya berkata; telah menceritakan kepada kami [Ibnu Abu Fudaik] berkata, telah menceritakan kepada kami [Muhammad bin Musa bin Abu Abdullah] dari [Ya'qub bin Salamah Al Laitsi] dari [bapaknya] dari [Abu Hurairah], Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada sholat bagi orang yang tidak memiliki wudlu, dan tidak ada wudlu bagi orang yang tidak menyebut nama Allah ketika berwudlu.\""
+            },
+            {
+                "number": 362,
+                "arab": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ عَنْ عَبْدِ الْمُهَيْمِنِ بْنِ عَبَّاسِ بْنِ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ عَنْ أَبِيهِ عَنْ جَدِّهِعَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَا صَلَاةَ لِمَنْ لَا وُضُوءَ لَهُ وَلَا وُضُوءَ لِمَنْ لَمْ يَذْكُرْ اسْمَ اللَّهِ عَلَيْهِ وَلَا صَلَاةَ لِمَنْ لَا يُصَلِّي عَلَى النَّبِيِّ وَلَا صَلَاةَ لِمَنْ لَا يُحِبُّ الْأَنْصَارَقَالَ أَبُو الْحَسَنِ بْنُ سَلَمَةَ حَدَّثَنَا أَبُو حَاتِمٍ حَدَّثَنَا عِيسَى بْنُ مَرْحُومٍ الْعَطَّارُ حَدَّثَنَا عَبْدُ الْمُهَيْمِنِ بْنُ عَبَّاسٍ فَذَكَرَ نَحْوَهُ",
+                "id": "Telah menceritakan kepada kami [Abdurrahman bin Ibrahim] berkata, telah menceritakan kepada kami [Ibnu Abu Fudaik] dari [Abdul Muhaimin bin 'Abbas bin Sahal bin Sa'd As Sa'idi] dari [Bapaknya] dari [Kakeknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Tidak ada sholat bagi orang yang tidak memiliki wudlu, dan tidak ada wudlu bagi orang yang tidak menyebut nama Allah ketika berwudlu. Dan tidak ada sholat bagi orang yang tidak bershalawat kepada Nabi, serta tidak ada sholat bagi orang yang tidak menyukai kaum Anshar.\" Abu Al Hasan bin Salamah berkata; telah menceritakan kepada kami Abu Hatim berkata, telah menceritakan kepada kami Isa bin Marhum Al 'Aththar berkata, telah menceritakan kepada kami Abdul Muhaimin bin Abbas lalu ia menyebutkan sebagaimana hadits diatas."
+            },
+            {
+                "number": 363,
+                "arab": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ حَدَّثَنَا أَبُو الْأَحْوَصِ عَنْ أَشْعَثَ بْنِ أَبِي الشَّعْثَاءِ ح و حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ حَدَّثَنَا عُمَرُ بْنُ عُبَيْدٍ الطَّنَافِسِيُّ عَنْ أَشْعَثَ بْنِ أَبِي الشَّعْثَاءِ عَنْ أَبِيهِ عَنْ مَسْرُوقٍ عَنْ عَائِشَةَأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُحِبُّ التَّيَمُّنَ فِي الطُّهُورِ إِذَا تَطَهَّرَ وَفِي تَرَجُّلِهِ إِذَا تَرَجَّلَ وَفِي انْتِعَالِهِ إِذَا انْتَعَلَ",
+                "id": "Telah menceritakan kepada kami [Hannad bin As Sari] berkata, telah menceritakan kepada kami [Abu Al Ahwash] dari [Asy'ats bin Abu Asy Sya'tsa`]. Dan menurut jalur yang lain; Telah menceritakan kepada kami [Sufyan bin Waki'] berkata, telah menceritakan kepada kami [Umar bin Ubaid Ath Thanafusi] dari [Asy'ats bin Abu Asy Sya'tsa`] dari [Bapaknya] dari [Masruq] dari [Aisyah], ia menuturkan; \"Rasulullah shallallahu 'alaihi wasallam suka mendahulukan yang kanan jika berwudlu, mendahulukan yang kanan jika berjalan, dan mendahulukan yang kanan jika mengenakan sandal.\""
+            },
+            {
+                "number": 364,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا أَبُو جَعْفَرٍ النُّفَيْلِيُّ حَدَّثَنَا زُهَيْرُ بْنُ مُعَاوِيَةَ عَنْ الْأَعْمَشِ عَنْ أَبِي صَالِحٍ عَنْ أَبِي هُرَيْرَةَ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا تَوَضَّأْتُمْ فَابْدَءُوا بِمَيَامِنِكُمْقَالَ أَبُو الْحَسَنِ بْنُ سَلَمَةَ حَدَّثَنَا أَبُو حَاتِمٍ حَدَّثَنَا ابْنُ صَالِحٍ وَابْنُ نُفَيْلٍ وَغَيْرُهُمَا قَالُوا حَدَّثَنَا زُهَيْرٌ فَذَكَرَ نَحْوَهُ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Abu Ja'far An Nufaili] berkata, telah menceritakan kepada kami [Zuhair bin Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah], ia menuturkan; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Jika kalian berwudlu maka mulailah dengan yang sebelah kanan.\" Abu Al Hasan bin Salamah berkata; telah menceritakan kepada kami Abu Hatim berkata, telah menceritakan kepada kami Ibnu Shalih dan Ibnu Nufail dan selain keduanya, mereka berkata; telah menceritakan kepada kami Zuhair lalu ia menyebutkan sebagaimana hadits diatas."
+            },
+            {
+                "number": 365,
+                "arab": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْجَرَّاحِ وَأَبُو بَكْرِ بْنُ خَلَّادٍ الْبَاهِلِيُّ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ عَنْ زَيْدِ بْنِ أَسْلَمَ عَنْ عَطَاءِ بْنِ يَسَارٍ عَنْ ابْنِ عَبَّاسٍأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَضْمَضَ وَاسْتَنْشَقَ مِنْ غُرْفَةٍ وَاحِدَةٍ",
+                "id": "Telah menceritakan kepada kami [Abdullah Ibnul Jarrah] dan [Abu Bakr bin Khallad Al Bahili] berkata, telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Zaid bin Aslam] dari ['Atho` bin Yasar] dari [Ibnu Abbas] berkata; \"Rasulullah shallallahu 'alaihi wasallam berkumur dan memasukkan air ke hidung dari satu gayung.\""
+            },
+            {
+                "number": 366,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا شَرِيكٌ عَنْ خَالِدِ بْنِ عَلْقَمَةَ عَنْ عَبْدِ خَيْرٍ عَنْ عَلِيٍّأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ فَمَضْمَضَ ثَلَاثًا وَاسْتَنْشَقَ ثَلَاثًا مِنْ كَفٍّ وَاحِدٍ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Syarik] dari [Khalid bin Alqamah] dari [Abdu Khair] dari [Ali], ia menuturkan; \"Rasulullah shallallahu 'alaihi wasallam berwudlu, lalu beliau berkumur-kumur tiga kali dan istinsyaq tiga kali dari satu telapak tangan.\" "
+            },
+            {
+                "number": 367,
+                "arab": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ حَدَّثَنَا أَبُو الْحُسَيْنِ الْعُكْلِيُّ عَنْ خَالِدِ بْنِ عَبْدِ اللَّهِ عَنْ عَمْرِو بْنِ يَحْيَى عَنْ أَبِيهِ عَنْ عَبْدِ اللَّهِ بْنِ زَيْدٍ الْأَنْصَارِيِّ قَالَأَتَانَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَسَأَلَنَا وَضُوءًا فَأَتَيْتُهُ بِمَاءٍ فَمَضْمَضَ وَاسْتَنْشَقَ مِنْ كَفٍّ وَاحِدٍ",
+                "id": "Telah menceritakan kepada kami [Ali bin Muhammad] berkata, telah menceritakan kepada kami [Abu Al Husain Al 'Ukli] dari [Khalid bin Abdullah] dari [Amru bin Yahya] dari [bapaknya] dari [Abdullah bin Zaid Al Anshari] ia berkata; \"Rasulullah shallallahu 'alaihi wasallam datang kepada kami dan meminta air wudlu hingga kami pun memberinya air, kemudian beliau berkumur dan memasukkan air ke hidung dengan satu telapak tangan.\" "
+            },
+            {
+                "number": 368,
+                "arab": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ مَنْصُورٍ ح و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو الْأَحْوَصِ عَنْ مَنْصُورٍ عَنْ هِلَالِ بْنِ يَسَافٍ عَنْ سَلَمَةَ بْنِ قَيْسٍ قَالَقَالَ لِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا تَوَضَّأْتَ فَانْثُرْ وَإِذَا اسْتَجْمَرْتَ فَأَوْتِرْ",
+                "id": "Telah menceritakan kepada kami [Ahmad bin 'Abdah] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Manshur]. Dan menurut jalur yang lain; Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abu Al Ahwash] dari [Manshur] dari [Hilal bin Yasaf] dari [Salamah bin Qais] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: \"Jika engkau berwudlu maka keluarkanlah (air) dari dalam hidung, dan jika engkau beristijmar (bersuci dengan batu) maka hendaklah dengan bilangan ganjil.\""
+            },
+            {
+                "number": 369,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا يَحْيَى بْنُ سُلَيْمٍ الطَّائِفِيُّ عَنْ إِسْمَعِيلَ بْنِ كَثِيرٍ عَنْ عَاصِمِ بْنِ لَقِيطِ بْنِ صَبْرَةَ عَنْ أَبِيهِ قَالَقُلْتُ يَا رَسُولَ اللَّهِ أَخْبِرْنِي عَنْ الْوُضُوءِ قَالَ أَسْبِغْ الْوُضُوءَ وَبَالِغْ فِي الِاسْتِنْشَاقِ إِلَّا أَنْ تَكُونَ صَائِمًا",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Yahya bin Sulaim Ath Tha`ifi] dari [Isma'il bin Katsir] dari ['Ashim bin Laqith bin Shabrah] dari [Bapaknya] ia berkata; Aku berkata; \"Wahai Rasulullah, kabarkanlah kepadaku tentang wudlu, \" beliau bersabda: \"Sempurnakan wudlu dan perdalamlah dalam memasukkan air ke dalam hidung, kecuali jika engkau berpuasa.\""
+            },
+            {
+                "number": 370,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا إِسْحَقُ بْنُ سُلَيْمَانَ ح و حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ حَدَّثَنَا وَكِيعٌ عَنْ ابْنِ أَبِي ذِئْبٍ عَنْ قَارِظِ بْنِ شَيْبَةَ عَنْ أَبِي غَطَفَانَ الْمُرِّيِّ عَنْ ابْنِ عَبَّاسٍ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اسْتَنْثِرُوا مَرَّتَيْنِ بَالِغَتَيْنِ أَوْ ثَلَاثًا",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Ishaq bin Sulaiman]. Dan menurut jalur yang lain; Telah menceritakan kepada kami [Ali bin Muhammad] berkata, telah menceritakan kepada kami [Waki'] dari [Ibnu Abu Dzi`b] dari [Qarizh bin Syaibah] dari [Abu Ghathafan Al Murri] dari [Ibnu 'Abbas] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Lakukanlah Istinstar (keluarkan air dari hidung) dengan sempurna dua atau tiga kali.\""
+            },
+            {
+                "number": 371,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ وَدَاوُدُ بْنُ عَبْدِ اللَّهِ قَالَا حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ عَنْ ابْنِ شِهَابٍ عَنْ أَبِي إِدْرِيسَ الْخَوْلَانِيِّ عَنْ أَبِي هُرَيْرَةَ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ تَوَضَّأَ فَلْيَسْتَنْثِرْ وَمَنْ اسْتَجْمَرَ فَلْيُوتِرْ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Zaid Ibnul Hubab] dan [Dawud bin Abdullah] keduanya berkata; telah menceritakan kepada kami [Malik bin Anas] dari [Ibnu Syihab] dari [Abu Idris Al Khaulani] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa berwudlu hendaklah memasukkan air ke hidung, dan barangsiapa beristijmar hendaklah dengan bilangan ganjil.\" "
+            },
+            {
+                "number": 372,
+                "arab": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَامِرِ بْنِ زُرَارَةَ حَدَّثَنَا شَرِيكُ بْنُ عَبْدِ اللَّهِ النَّخَعِيُّ عَنْ ثَابِتِ بْنِ أَبِي صَفِيَّةَ الثُّمَالِيِّ قَالَ سَأَلْتُ أَبَا جَعْفَرٍ قُلْتُ لَهُ حُدِّثْتَ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِأَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ مَرَّةً مَرَّةً قَالَ نَعَمْ قُلْتُ وَمَرَّتَيْنِ مَرَّتَيْنِ وَثَلَاثًا ثَلَاثًا قَالَ نَعَمْ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Amir bin Zurarah] berkata, telah menceritakan kepada kami [Syarik bin Abdullah An Nakha'I] dari [Tsabit bin Abu Shafiyyah Ats Tsumali] ia berkata; aku bertanya [Abu Ja'far]; \"Apakah engkau pernah diceritakan dari [Jabir] bin Abdullah bahwa Nabi shallallahu 'alaihi wasallam berwudlu satu kali satu kali?\" ia menjawab; \"Benar.\" Aku bertanya lagi; \"Dan dua kali-dua kali, dan tiga kali-tiga kali?\" ia menjawab; \"Benar.\""
+            },
+            {
+                "number": 373,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ خَلَّادٍ الْبَاهِلِيُّ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ الْقَطَّانُ عَنْ سُفْيَانَ عَنْ زَيْدِ بْنِ أَسْلَمَ عَنْ عَطَاءِ بْنِ يَسَارٍ عَنْ ابْنِ عَبَّاسٍ قَالَرَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ غُرْفَةً غُرْفَةً",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Khallad Al Bahili] berkata, telah menceritakan kepada kami [Yahya bin Sa'id Al Qaththan] dari [Sufyan] dari [Zaid bin Aslam] dari ['Atho` bin Yasar] dari [Ibnu 'Abbas] ia berkata; \"Aku melihat Rasulullah shallallahu 'alaihi wasallam berwudlu satu gayung-satu gayung.\""
+            },
+            {
+                "number": 374,
+                "arab": "حَدَّثَنَا أَبُو كُرَيْبٍ حَدَّثَنَا رِشْدِينُ بْنُ سَعْدٍ أَنْبَأَنَا الضَّحَّاكُ بْنُ شُرَحْبِيلَ عَنْ زَيْدِ بْنِ أَسْلَمَ عَنْ أَبِيهِ عَنْ عُمَرَ قَالَرَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي غَزْوَةِ تَبُوكَ تَوَضَّأَ وَاحِدَةً وَاحِدَةً",
+                "id": "Telah menceritakan kepada kami [Abu Kuraib] berkata, telah menceritakan kepada kami [Risydin bin Sa'd] berkata, telah memberitakan kepada kami [Adl Dlahhak bin Syurahbil] dari [Zaid bin Aslam] dari [Bapaknya] dari [Umar] ia berkata; \"Pada perang Tabuk aku melihat Rasulullah shallallahu 'alaihi wasallam berwudlu satu kali-satu kali.\""
+            },
+            {
+                "number": 375,
+                "arab": "حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ الدِّمَشْقِيُّ حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ الدِّمَشْقِيُّ عَنْ ابْنِ ثَوْبَانَ عَنْ عَبْدَةَ بْنِ أَبِي لُبَابَةَ عَنْ شَقِيقِ بْنِ سَلَمَةَ قَالَرَأَيْتُ عُثْمَانَ وَعَلِيًّا يَتَوَضَّآَنِ ثَلَاثًا ثَلَاثًا وَيَقُولَانِ هَكَذَا كَانَ وُضُوءُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَقَالَ أَبُو الْحَسَنِ بْنُ سَلَمَةَ حَدَّثَنَاهُ أَبُو حَاتِمٍ حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ ثَابِتِ بْنِ ثَوْبَانَ فَذَكَرَ نَحْوَهُ",
+                "id": "Telah menceritakan kepada kami [Mahmud bin Khalid Ad Dimasyqi] berkata, telah menceritakan kepada kami [Al Walid bin Muslim Ad Dimasyqi] dari [Ibnu Tsauban] dari ['Abdah bin Abu Lubabah] dari [Syaqiq bin Salamah] ia berkata, \"Aku melihat [Utsman] dan [Ali] berwudlu tiga kali-tiga kali, lalu keduanya berkata: \"Seperti inilah wudlu Rasulullah shallallahu 'alaihi wasallam.\" Abul Hasan bin Salamah berkata; telah menceritakannya kepada kami Abu Hatim berkata, telah menceritakan kepada kami Abu Nu'aim berkata, telah menceritakan kepada kami Abdurrahman bin Tsabit bin Tsauban kemudian dia menyebutkan hadits yang serupa."
+            },
+            {
+                "number": 376,
+                "arab": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ حَدَّثَنَا الْأَوْزَاعِيُّ عَنْ الْمُطَّلِبِ بْنِ عَبْدِ اللَّهِ بْنِ حَنْطَبٍ عَنْ ابْنِ عُمَرَأَنَّهُ تَوَضَّأَ ثَلَاثًا ثَلَاثًا وَرَفَعَ ذَلِكَ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+                "id": "Telah menceritakan kepada kami [Abdurrahman bin Ibrahim Ad Dimasyqi] berkata, telah menceritakan kepada kami [Al Walid bin Muslim] berkata, telah menceritakan kepada kami [Al Auza'i] dari [Al Muththalib bin Abdullah bin Hanthab] dari [Ibnu Umar], bahwasanya ia berwudlu tiga kali-tiga kali, dan memarfu'kan hadits itu kepada Nabi shallallahu 'alaihi wasallam.\" "
+            },
+            {
+                "number": 377,
+                "arab": "حَدَّثَنَا أَبُو كُرَيْبٍ حَدَّثَنَا خَالِدُ بْنُ حَيَّانَ عَنْ سَالِمٍ أَبِي الْمُهَاجِرِ عَنْ مَيْمُونِ بْنِ مِهْرَانَ عَنْ عَائِشَةَ وَأَبِي هُرَيْرَةَأَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ ثَلَاثًا ثَلَاثًا",
+                "id": "Telah menceritakan kepada kami [Abu Kuraib] berkata, telah menceritakan kepada kami [Khalid bin Hayyan] dari [Salim Abul Muhajir] dari [Maimun bin Mihran] dari ['Aisyah] dan [Abu Hurairah] berkata; \"Nabi shallallahu 'alaihi wasallam berwudlu tiga kali-tiga kali.\""
+            },
+            {
+                "number": 378,
+                "arab": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ حَدَّثَنَا عِيسَى بْنُ يُونُسَ عَنْ فَائِدِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ عَبْدِ اللَّهِ بْنِ أَبِي أَوْفَى قَالَرَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ ثَلَاثًا ثَلَاثًا وَمَسَحَ رَأْسَهُ مَرَّةً",
+                "id": "Telah menceritakan kepada kami [Sufyan bin Waki'] berkata, telah menceritakan kepada kami [Isa bin Yunus] dari [Faid bin Abdurrahman] dari [Abdullah bin Abu Aufa] ia berkata; \"Aku melihat Rasulullah shallallahu 'alaihi wasallam berwudlu tiga kali-tiga kali dan mengusap kepalanya sekali.\""
+            },
+            {
+                "number": 379,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ عَنْ سُفْيَانَ عَنْ لَيْثٍ عَنْ شَهْرِ بْنِ حَوْشَبٍ عَنْ أَبِي مَالِكٍ الْأَشْعَرِيِّ قَالَكَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَتَوَضَّأُ ثَلَاثًا ثَلَاثًا",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Muhammad bin Yusuf] dari [Sufyan] dari [Laits] dari [Syahr bin Hausyab] dari [Abu Malik Al Asy'ari] ia berkata; \"Rasulullah shallallahu 'alaihi wasallam berwudlu tiga kali-tiga kali.\""
+            },
+            {
+                "number": 380,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَعَلِيُّ بْنُ مُحَمَّدٍ قَالَا حَدَّثَنَا وَكِيعٌ عَنْ سُفْيَانَ عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ عَنْ الرُّبَيِّعِ بِنْتِ مُعَوِّذِ ابْنِ عَفْرَاءَأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ ثَلَاثًا ثَلَاثًا",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ali bin Muhammad] keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Abdullah bin Muhammad bin 'Aqil] dari [Ar Rubayyi' binti Mu'awwidz bin Afra'] berkata; \"Rasulullah shallallahu 'alaihi wasallam berwudlu tiga kali-tiga kali.\""
+            },
+            {
+                "number": 381,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ خَلَّادٍ الْبَاهِلِيُّ حَدَّثَنِي مَرْحُومُ بْنُ عَبْدِ الْعَزِيزِ الْعَطَّارُ حَدَّثَنِي عَبْدُ الرَّحِيمِ بْنُ زَيْدٍ الْعَمِّيُّ عَنْ أَبِيهِ عَنْ مُعَاوِيَةَ بْنِ قُرَّةَ عَنْ ابْنِ عُمَرَ قَالَتَوَضَّأَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَاحِدَةً وَاحِدَةً فَقَالَ هَذَا وُضُوءُ مَنْ لَا يَقْبَلُ اللَّهُ مِنْهُ صَلَاةً إِلَّا بِهِ ثُمَّ تَوَضَّأَ ثِنْتَيْنِ ثِنْتَيْنِ فَقَالَ هَذَا وُضُوءُ الْقَدْرِ مِنْ الْوُضُوءِ وَتَوَضَّأَ ثَلَاثًا ثَلَاثًا وَقَالَ هَذَا أَسْبَغُ الْوُضُوءِ وَهُوَ وُضُوئِي وَوُضُوءُ خَلِيلِ اللَّهِ إِبْرَاهِيمَ وَمَنْ تَوَضَّأَ هَكَذَا ثُمَّ قَالَ عِنْدَ فَرَاغِهِ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ فُتِحَ لَهُ ثَمَانِيَةُ أَبْوَابِ الْجَنَّةِ يَدْخُلُ مِنْ أَيِّهَا شَاءَ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Khallad Al Bahili] berkata, telah menceritakan kepadaku [Marhum bin Abdul Aziz Al 'Aththar] berkata, telah menceritakan kepadaku [Abdurrahim bin Zaid Al 'Ammi] dari [Bapaknya] dari [Mu'wiyah bin Qurrah] dari [Ibnu Umar] ia berkata, Rasulullah shallallahu 'alaihi wasallam berwudlu satu kali-satu kali. Dan beliau bersabda: \"Ini adalah wudlu orang yang sholatnya tidak diterima oleh Allah kecuali dengannya.\" Kemudian beliau berwudlu dua kali-dua kali dan bersabda: \"Ini wudlu yang bagus.\" Dan beliau berwudlu tiga kali-tiga kali seraya bersabda: \"Ini wudlu yang sempurna, inilah wudluku dan wudlu kekasih Allah, Ibrahim. Barangsiapa berwudlu seperti ini setelah itu mengucapkan: ASYHADU ANLAA ILAAHA ILLALLAH WA ASYHADU ANNA MUHAMMADAN 'ABDUHU WA RASUULUHU (Aku bersaksi bahwa tidak ada Tuhan yang berhak disembah kecuali Allah, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya), akan dibuka baginya delapan pintu surga, ia diperbolehka masuk lewat pintu mana saja.\" "
+            },
+            {
+                "number": 382,
+                "arab": "حَدَّثَنَا جَعْفَرُ بْنُ مُسَافِرٍ حَدَّثَنَا إِسْمَعِيلُ بْنُ قَعْنَبٍ أَبُو بِشْرٍ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَرَادَةَ الشَّيْبَانِيُّ عَنْ زَيْدِ بْنِ الْحَوَارِيِّ عَنْ مُعَاوِيَةَ بْنِ قُرَّةَ عَنْ عُبَيْدِ بْنِ عُمَيْرٍ عَنْ أُبَيِّ بْنِ كَعْبٍأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ دَعَا بِمَاءٍ فَتَوَضَّأَ مَرَّةً مَرَّةً فَقَالَ هَذَا وَظِيفَةُ الْوُضُوءِ أَوْ قَالَ وُضُوءٌ مَنْ لَمْ يَتَوَضَّأْهُ لَمْ يَقْبَلْ اللَّهُ لَهُ صَلَاةً ثُمَّ تَوَضَّأَ مَرَّتَيْنِ مَرَّتَيْنِ ثُمَّ قَالَ هَذَا وُضُوءٌ مَنْ تَوَضَّأَهُ أَعْطَاهُ اللَّهُ كِفْلَيْنِ مِنْ الْأَجْرِ ثُمَّ تَوَضَّأَ ثَلَاثًا ثَلَاثًا فَقَالَ هَذَا وُضُوئِي وَوُضُوءُ الْمُرْسَلِينَ مِنْ قَبْلِي",
+                "id": "Telah menceritakan kepada kami [Ja'far bin Musafir] berkata, telah menceritakan kepada kami [Isma'il bin Qa'nab Abu Bisyr] berkata, telah menceritakan kepada kami [Abdullah bin 'Aradah As Syaibani] dari [Zaid bin Al Hawari] dari [Mu'awiyah bin Qurrah] dari [Ubaid bin Umair] dari [Ubai bin Ka'ab] berkata; \"Rasulullah shallallahu 'alaihi wasallam minta diambilkan air, lalu beliau berwudlu satu kali-satu kali dan bersabda: \"Ini adalah kewajiban wudlu, atau beliau bersabda: \"Wudlu yang Allah tidak akan menerima sholat seseorang kecuali dengannya.\" Kemudian beliau berwudlu dua kali-dua kali dan bersabda: \"orang yang berwudlu seperti ini akan Allah berikan kepadanya dua pahala.\" Kemudian beliau berwudlu tiga kali-tiga kali dan bersabda: \"Inilah wudluku dan wudlu para rasul sebelumku.\" "
+            },
+            {
+                "number": 383,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا أَبُو دَاوُدَ حَدَّثَنَا خَارِجَةُ بْنُ مُصْعَبٍ عَنْ يُونُسَ بْنِ عُبَيْدٍ عَنْ الْحَسَنِ عَنْ عُتَيِّ بْنِ ضَمْرَةَ السَّعْدِيِّ عَنْ أُبَيِّ بْنِ كَعْبٍ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّ لِلْوُضُوءِ شَيْطَانًا يُقَالُ لَهُ وَلَهَانُ فَاتَّقُوا وَسْوَاسَ الْمَاءِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Abu Dawud] berkata, telah menceritakan kepada kami [Kharijah bin Mus'ab] dari [Yunus bin Ubaid] dari [Al Hasan] dari ['Utai bin Dlamrah As Sa'di] dari [Ubai bin Ka'ab] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya wudlu itu mempunyai setan yang disebut Walhan, maka berhati-hatilah terhadap bisikan air.\""
+            },
+            {
+                "number": 384,
+                "arab": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ حَدَّثَنَا خَالِي يَعْلَى عَنْ سُفْيَانَ عَنْ مُوسَى بْنِ أَبِي عَائِشَةَ عَنْ عَمْرِو بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ قَالَجَاءَ أَعْرَابِيٌّ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَسَأَلَهُ عَنْ الْوُضُوءِ فَأَرَاهُ ثَلَاثًا ثَلَاثًا ثُمَّ قَالَ هَذَا الْوُضُوءُ فَمَنْ زَادَ عَلَى هَذَا فَقَدْ أَسَاءَ أَوْ تَعَدَّى أَوْ ظَلَمَ",
+                "id": "Telah menceritakan kepada kami [Ali bin Muhammad] berkata, telah menceritakan kepada kami pamanku [Ya'la] dari [Sufyan] dari [Musa bin Abu Aisyah] dari ['Amru bin Syu'aib] dari [Bapaknya] dari [Kakeknya] ia berkata; \"Seorang arab badui datang kepada Nabi shallallahu 'alaihi wasallam dan bertanya tentang wudlu, menurutku beliau berwudlu tiga kali-tiga kali, kemudian beliau bersabda: \"seperti Inilah tatacara wudlu, barangsiapa menambahi maka ia telah berbuat keburukan, atau melampaui batas, atau zhalim.\""
+            },
+            {
+                "number": 385,
+                "arab": "حَدَّثَنَا أَبُو إِسْحَقَ الشَّافِعِيُّ إِبْرَاهِيمُ بْنُ مُحَمَّدِ بْنِ الْعَبَّاسِ حَدَّثَنَا سُفْيَانُ عَنْ عَمْرٍو سَمِعَ كُرَيْبًا يَقُولُ سَمِعْتُ ابْنَ عَبَّاسٍ يَقُولُبِتُّ عِنْدَ خَالَتِي مَيْمُونَةَ فَقَامَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَتَوَضَّأَ مِنْ شَنَّةٍ وُضُوءًا يُقَلِّلُهُ فَقُمْتُ فَصَنَعْتُ كَمَا صَنَعَ",
+                "id": "Telah menceritakan kepada kami [Abu Ishaq Asy Syafi'i Ibrahim bin Muhammad bin Al 'Abbas] berkata, telah menceritakan kepada kami [Sufyan] dari ['Amru] ia mendengar [Kuraib] berkata; aku mendengar [Ibnu 'Abbas] berkata: aku menginap di tempat bibiku Maimunah, lalu Rasulullah shallallahu 'alaihi wasallam bangun berwudlu dengan hemat dari air yang ada di geriba. Maka akupun bangun dan melakukan sebagaimana yang beliau lakukan.\""
+            },
+            {
+                "number": 386,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُصَفَّى الْحِمْصِيُّ حَدَّثَنَا بَقِيَّةُ عَنْ مُحَمَّدِ بْنِ الْفَضْلِ عَنْ أَبِيهِ عَنْ سَالِمٍ عَنْ ابْنِ عُمَرَ قَالَرَأَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَجُلًا يَتَوَضَّأُ فَقَالَ لَا تُسْرِفْ لَا تُسْرِفْ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Al Mushaffa Al Himshi] berkata, telah menceritakan kepada kami [Baqiyyah] dari [Muhammad bin Al Fadhl] dari [Bapaknya] dari [Salim] dari [Ibnu Umar] ia berkata; Rasulullah shallallahu 'alaihi wasallam melihat seorang lelaki yang sedang berwudlu, kemudian bersabda: \"Jangan berlebih-lebihan, jangan berlebih-lebihan.\""
+            },
+            {
+                "number": 387,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا قُتَيْبَةُ حَدَّثَنَا ابْنُ لَهِيعَةَ عَنْ حُيَيِّ بْنِ عَبْدِ اللَّهِ الْمَعَافِرِيِّ عَنْ أَبِي عَبْدِ الرَّحْمَنِ الْحُبُلِيِّ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍوأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَرَّ بِسَعْدٍ وَهُوَ يَتَوَضَّأُ فَقَالَ مَا هَذَا السَّرَفُ فَقَالَ أَفِي الْوُضُوءِ إِسْرَافٌ قَالَ نَعَمْ وَإِنْ كُنْتَ عَلَى نَهَرٍ جَارٍ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Ibnu Lahi'ah] dari [Huyai bin Abdullah Al Ma'arifi] dari [Abi Abdurrahman Al Hubuli] dari [Abdullah bin 'Amru] berkata; \"Rasulullah shallallahu 'alaihi wasallam melewati Sa'd yang sedang berwudlu, lalu beliau bersabda: \"Kenapa berlebih-lebihan! \" Sa'd berkata; \"Apakah dalam wudlu juga ada berlebih-lebihan?\" beliau menjawab: \"Ya, meskipun engkau berada di sungai yang mengalir.\""
+            },
+            {
+                "number": 388,
+                "arab": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ حَدَّثَنَا مُوسَى بْنُ سَالِمٍ أَبُو جَهْضَمٍ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُبَيْدِ اللَّهِ بْنِ عَبَّاسٍ عَنْ ابْنِ عَبَّاسٍ قَالَأَمَرَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِإِسْبَاغِ الْوُضُوءِ",
+                "id": "Telah menceritakan kepada kami [Ahmad bin 'Abdah] berkata, telah menceritakan kepada kami [Hammad bin Zaid] berkata, telah menceritakan kepada kami [Musa bin Salim Abu Jahdlam] berkata, telah menceritakan kepada kami [Abdullah bin ubaidhullah bin 'Abbas] dari [Ibnu 'Abbas] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam memerintahkan kami untuk menyempurnakan wudlu.\""
+            },
+            {
+                "number": 389,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا يَحْيَى بْنُ أَبِي بُكَيْرٍ حَدَّثَنَا زُهَيْرُ بْنُ مُحَمَّدٍ عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّأَنَّهُ سَمِعَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ أَلَا أَدُلُّكُمْ عَلَى مَا يُكَفِّرُ اللَّهُ بِهِ الْخَطَايَا وَيَزِيدُ بِهِ فِي الْحَسَنَاتِ قَالُوا بَلَى يَا رَسُولَ اللَّهِ قَالَ إِسْبَاغُ الْوُضُوءِ عَلَى الْمَكَارِهِ وَكَثْرَةُ الْخُطَى إِلَى الْمَسَاجِدِ وَانْتِظَارُ الصَّلَاةِ بَعْدَ الصَّلَاةِ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Yahya bin Abu Bukair] berkata, telah menceritakan kepada kami [Zuhair bin Muhammad] dari [Abdullah bin Muhammad bin Aqil] dari [Sa'id Ibnul Musayyab] dari [Abu Sa'id Al Khudri] bahwasanya ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"maukah aku tunjukkan kepada kalian sesuatu yang dengannya Allah menghapus dosa dan mengangkat derajat?\" mereka menjawab: \"Mau wahai Rasulullah, \" beliau bersabda: \"Menyempurnakan wudlu di saat yang tidak disukai, memperbanyak langkah menuju masjid dan menunggu sholat setelah sholat.\""
+            },
+            {
+                "number": 390,
+                "arab": "حَدَّثَنَا يَعْقُوبُ بْنُ حُمَيْدِ بْنِ كَاسِبٍ حَدَّثَنَا سُفْيَانُ بْنُ حَمْزَةَ عَنْ كَثِيرِ بْنِ زَيْدٍ عَنْ الْوَلِيدِ بْنِ رَبَاحٍ عَنْ أَبِي هُرَيْرَةَأَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ كَفَّارَاتُ الْخَطَايَا إِسْبَاغُ الْوُضُوءِ عَلَى الْمَكَارِهِ وَإِعْمَالُ الْأَقْدَامِ إِلَى الْمَسَاجِدِ وَانْتِظَارُ الصَّلَاةِ بَعْدَ الصَّلَاةِ",
+                "id": "Telah menceritakan kepada kami [Ya'qub bin Humaid bin Kasib] berkata, telah menceritakan kepada kami [Sufyan bin Hamzah] dari [Katsir bin Zaid] dari [Al Walid bin Rabah] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: \"Menyempurnakan wudlu di saat yang tidak di sukai, melangkahkan kaki menuju masjid dan menunggu sholat setelah sholat dapat menghapus kesalahan.\""
+            },
+            {
+                "number": 391,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُمَرَ الْعَدَنِيُّ حَدَّثَنَا سُفْيَانُ عَنْ عَبْدِ الْكَرِيمِ أَبِي أُمَيَّةَ عَنْ حَسَّانَ بْنِ بِلَالٍ عَنْ عَمَّارِ بْنِ يَاسِرٍ ح و حَدَّثَنَا ابْنُ أَبِي عُمَرَ قَالَ حَدَّثَنَا سُفْيَانُ عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ عَنْ قَتَادَةَ عَنْ حَسَّانَ بْنِ بِلَالٍ عَنْ عَمَّارِ بْنِ يَاسِرٍ قَالَرَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُخَلِّلُ لِحْيَتَهُ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Abu Umar Al 'Adani] berkata, telah menceritakan kepada kami [Sufyan] dari [Abdul Karim Abu Umayyah] dari [Hassan bin Bilal] dari ['Ammar bin Yasir]. Dan menurut jalur yang lain; Telah menceritakan kepada kami [Ibnu Abu Umar] berkata; telah menceritakan kepada kami [Sufyan] dari [Sa'id bin Abu 'Arubah] dari [Qotadah] dari [Hassan bin Bilal] dari ['Ammar bin Yasir] ia berkata; \"Aku melihat Rasulullah shallallahu 'alaihi wasallam menyelah-nyelah jenggotnya.\" "
+            },
+            {
+                "number": 392,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي خَالِدٍ الْقَزْوِينِيُّ حَدَّثَنَا عَبْدُ الرَّزَّاقِ عَنْ إِسْرَائِيلَ عَنْ عَامِرِ بْنِ شَقِيقٍ الْأَسَدِيِّ عَنْ أَبِي وَائِلٍ عَنْ عُثْمَانَ بْنِ عَفَّانَأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ فَخَلَّلَ لِحْيَتَهُ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Abu Khalid Al Qazwini] berkata, telah menceritakan kepada kami [Abdurrazzaq] dari [Isra`il] dari [Amir bin Syaqiq Al Asadi] dari [Abu Wa`il] dari [Utsman bin 'Affan] berkata; \"Rasulullah shallallahu 'alaihi wasallam berwudlu lalu menyelah-nyelah jenggotnya.\""
+            },
+            {
+                "number": 393,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ حَفْصِ بْنِ هِشَامِ بْنِ زَيْدِ بْنِ أَنَسِ بْنِ مَالِكٍ حَدَّثَنَا يَحْيَى بْنُ كَثِيرٍ أَبُو النَّضْرِ صَاحِبُ الْبَصْرِيِّ عَنْ يَزِيدَ الرَّقَاشِيِّ عَنْ أَنَسِ بْنِ مَالِكٍ قَالَكَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا تَوَضَّأَ خَلَّلَ لِحْيَتَهُ وَفَرَّجَ أَصَابِعَهُ مَرَّتَيْنِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Abdullah bin Hafsh bin Hisyam bin Zaid bin Anas bin Malik] berkata, telah menceritakan kepada kami [Yahya bin Katsir Abu An Nadlr] dari [Yazid Ar Raqasyi] dari [Anas bin Malik] ia berkata; \"Rasulullah shallallahu 'alaihi wasallam jika berwudlu selalu menyelah-nyelah jenggotnya, dan merenggangkan jari-jemarinya dua kali.\""
+            },
+            {
+                "number": 394,
+                "arab": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ حَبِيبٍ حَدَّثَنَا الْأَوْزَاعِيُّ حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ قَيْسٍ حَدَّثَنِي نَافِعٌ عَنْ ابْنِ عُمَرَ قَالَكَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا تَوَضَّأَ عَرَكَ عَارِضَيْهِ بَعْضَ الْعَرْكِ ثُمَّ شَبَكَ لِحْيَتَهُ بِأَصَابِعِهِ مِنْ تَحْتِهَا",
+                "id": "Telah menceritakan kepada kami [Hisyam bin 'Ammar] berkata, telah menceritakan kepada kami [Abdul Humaid bin Habib] berkata, telah menceritakan kepada kami [Al Auza'i] berkata, telah menceritakan kepada kami [Abdul Wahid bin Qais] berkata, telah menceritakan kepadaku [Nafi'] dari [Ibnu Umar] ia berkata; \"Rasulullah shallallahu 'alaihi wasallam apabila berwudlu selalu menggosok kedua pipi lalu menyelah-nyelah jenggotnya dengan jemarinya dari bawah.\" "
+            },
+            {
+                "number": 395,
+                "arab": "حَدَّثَنَا إِسْمَعِيلُ بْنُ عَبْدِ اللَّهِ الرَّقِّيُّ حَدَّثَنَا مُحَمَّدُ بْنُ رَبِيعَةَ الْكِلَابِيُّ حَدَّثَنَا وَاصِلُ بْنُ السَّائِبِ الرَّقَاشِيُّ عَنْ أَبِي سَوْرَةَ عَنْ أَبِي أَيُّوبَ الْأَنْصَارِيِّ قَالَرَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ فَخَلَّلَ لِحْيَتَهُ",
+                "id": "Telah menceritakan kepada kami [Isma'il bin Abdullah Ar Raqqi] berkata, telah menceritakan kepada kami [Muhammad bin Rabi'ah Al Kilabi] berkata, telah menceritakan kepada kami [Washil bin Sa`ib Ar Raqasyi] dari [Abu Saurah] dari [Abu Ayyub Al Anshari] ia berkata; \"Aku melihat Rasulullah shallallahu 'alaihi wasallam berwudlu seraya menyelah-nyelah jenggotnya.\""
+            },
+            {
+                "number": 396,
+                "arab": "حَدَّثَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ وَحَرْمَلَةُ بْنُ يَحْيَى قَالَا أَخْبَرَنَا مُحَمَّدُ بْنُ إِدْرِيسَ الشَّافِعِيُّ قَالَ أَنْبَأَنَا مَالِكُ بْنُ أَنَسٍ عَنْ عَمْرِو بْنِ يَحْيَى عَنْ أَبِيهِأَنَّهُ قَالَ لِعَبْدِ اللَّهِ بْنِ زَيْدٍ وَهُوَ جَدُّ عَمْرِو بْنِ يَحْيَى هَلْ تَسْتَطِيعُ أَنْ تُرِيَنِي كَيْفَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَتَوَضَّأُ فَقَالَ عَبْدُ اللَّهِ بْنُ زَيْدٍ نَعَمْ فَدَعَا بِوَضُوءٍ فَأَفْرَغَ عَلَى يَدَيْهِ فَغَسَلَ يَدَيْهِ مَرَّتَيْنِ ثُمَّ تَمَضْمَضَ وَاسْتَنْثَرَ ثَلَاثًا ثُمَّ غَسَلَ وَجْهَهُ ثَلَاثًا ثُمَّ غَسَلَ يَدَيْهِ مَرَّتَيْنِ مَرَّتَيْنِ إِلَى الْمِرْفَقَيْنِ ثُمَّ مَسَحَ رَأْسَهُ بِيَدَيْهِ فَأَقْبَلَ بِهِمَا وَأَدْبَرَ بَدَأَ بِمُقَدَّمِ رَأْسِهِ ثُمَّ ذَهَبَ بِهِمَا إِلَى قَفَاهُ ثُمَّ رَدَّهُمَا حَتَّى رَجَعَ إِلَى الْمَكَانِ الَّذِي بَدَأَ مِنْهُ ثُمَّ غَسَلَ رِجْلَيْهِ",
+                "id": "Telah menceritakan kepada kami [Ar Rabi' bin Sulaiman] dan [Harmalah bin Yahya] keduanya berkata; telah mengabarkan kepada kami [Muhammad bin Idris Asy SYafi'i] berkata; telah memberitakan kepada kami [Malik bin Anas] dari ['Amru bin Yahya] dari [Bapaknya] bahwasanya ia berkata kepada [Abdullah bin Zaid] -dia adalah kakek 'Amru bin Yahya- berkata; \"Bisakah engkau memperlihatkan kepadaku bagaimana Rasulullah shallallahu 'alaihi wasallam berwudlu?\" Abdullah bin Zaid menjawab; \"Ya, \" lalu ia minta diambilkan air wudlu, kemudian ia menuangkan air ke tangannya seraya membasuh kedua tangannya dua kali, berkumur dan istintsar (mengeluarkan air dari hidung) tiga kali, membasuh wajah tiga kali, membasuh kedua tangan hingga siku dua kali-dua kali, kemudian mengusap kepalanya dengan kedua tangan dimulai dari bagian depan kepala ke belakang lalu kembali lagi ke tempat semula. Setelah itu membasuh kedua kakinya.\""
+            },
+            {
+                "number": 397,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَبَّادُ بْنُ الْعَوَّامِ عَنْ حَجَّاجٍ عَنْ عَطَاءٍ عَنْ عُثْمَانَ بْنِ عَفَّانَ قَالَرَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ فَمَسَحَ رَأْسَهُ مَرَّةً",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abbad bin Al 'Awwam] dari [Hajjaj] dari ['Atho`] dari [Utsman bin 'Affan] berkata; \"Aku melihat Rasulullah shallallahu 'alaihi wasallam berwudlu lalu mengusap kepalanya satu kali.\""
+            },
+            {
+                "number": 398,
+                "arab": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ حَدَّثَنَا أَبُو الْأَحْوَصِ عَنْ أَبِي إِسْحَقَ عَنْ أَبِي حَيَّةَ عَنْ عَلِيٍّأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَسَحَ رَأْسَهُ مَرَّةً",
+                "id": "Telah menceritakan kepada kami [Hannad bin As Sarri] berkata, telah menceritakan kepada kami [Abul Ahwash] dari [Abu Ishaq] dari [Abu Hayyah] dari [Ali] ia berkata; \"Rasulullah shallallahu 'alaihi wasallam mengusap kepalanya satu kali.\""
+            },
+            {
+                "number": 399,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ الْحَارِثِ الْمِصْرِيُّ حَدَّثَنَا يَحْيَى بْنُ رَاشِدٍ الْبَصْرِيُّ عَنْ يَزِيدَ مَوْلَى سَلَمَةَ عَنْ سَلَمَةَ بْنِ الْأَكْوَعِ قَالَرَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ فَمَسَحَ رَأْسَهُ مَرَّةً",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Al Harist Al Mishri] berkata, telah menceritakan kepada kami [Yahya bin Rasyid Al Bashri] dari [Yazid] -mantan budak Salamah- dari [Salamah bin Al Akwa'] ia berkata; \"Aku melihat Rasulullah shallallahu 'alaihi wasallam berwudlu lalu mengusap kepalanya satu kali.\""
+            },
+            {
+                "number": 400,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَعَلِيُّ بْنُ مُحَمَّدٍ قَالَا حَدَّثَنَا وَكِيعٌ عَنْ سُفْيَانَ عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ عَنْ الرُّبَيِّعِ بِنْتِ مُعَوِّذِ ابْنِ عَفْرَاءَ قَالَتْتَوَضَّأَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَمَسَحَ رَأْسَهُ مَرَّتَيْنِ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ali bin Muhammad] keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Abdullah bin Muhammad bin Aqil] dari [Ar Rubayyi' binti Mu'awwidz bin Afra'] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam berwudlu lalu mengusap kepalanya dua kali.\""
+            },
+            {
+                "number": 401,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ عَنْ ابْنِ عَجْلَانَ عَنْ زَيْدِ بْنِ أَسْلَمَ عَنْ عَطَاءِ بْنِ يَسَارٍ عَنْ ابْنِ عَبَّاسٍأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَسَحَ أُذُنَيْهِ دَاخِلَهُمَا بِالسَّبَّابَتَيْنِ وَخَالَفَ إِبْهَامَيْهِ إِلَى ظَاهِرِ أُذُنَيْهِ فَمَسَحَ ظَاهِرَهُمَا وَبَاطِنَهُمَا",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abdullah bin Idris] dari [Ibnu 'Ajlan] dari [Zaid] dari [Atho` bin Yasar] dari [Ibnu 'Abbas] berkata; \"Rasulullah shallallahu 'alaihi wasallam mengusap kedua telinganya bagian dalam dengan kedua jari telunjuk, dan bagian belakang dengan dua ibu jarinya, hingga beliau mengusapnya luar dan dalamnya.\""
+            },
+            {
+                "number": 402,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا شَرِيكٌ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ عَقِيلٍ عَنْ الرُّبَيِّعِأَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ فَمَسَحَ ظَاهِرَ أُذُنَيْهِ وَبَاطِنَهُمَا",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Syarik] berkata, telah menceritakan kepada kami [Abdullah bin Muhammad bin Aqil] dari [Ar Rubayyi'] berkata; \"Nabi shallallahu 'alaihi wasallam berwudlu lalu mengusap kedua telinganya pada bagian dalam dan luarnya.\""
+            },
+            {
+                "number": 403,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَعَلِيُّ بْنُ مُحَمَّدٍ قَالَا حَدَّثَنَا وَكِيعٌ عَنْ الْحَسَنِ بْنِ صَالِحٍ عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ عَنْ الرُّبَيِّعِ بِنْتِ مُعَوِّذِ ابْنِ عَفْرَاءَ قَالَتْتَوَضَّأَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَدْخَلَ إِصْبَعَيْهِ فِي جُحْرَيْ أُذُنَيْهِ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ali bin Muhammad] keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Al Hasan bin Shalih] dari [Abdullah bin Muhammad bin Aqil] dari [Ar Rubayyi' binti Mu'awwidz bin Afra'] ia berkata, \"Nabi shallallahu 'alaihi wasallam berwudlu lalu beliau memasukkan kedua jarinya ke dalam lubang telinga.\""
+            },
+            {
+                "number": 404,
+                "arab": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ حَدَّثَنَا الْوَلِيدُ حَدَّثَنَا حَرِيزُ بْنُ عُثْمَانَ عَنْ عَبْدِ الرَّحْمَنِ بْنِ مَيْسَرَةَ عَنْ الْمِقْدَامِ بْنِ مَعْدِيكَرِبَأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ فَمَسَحَ بِرَأْسِهِ وَأُذُنَيْهِ ظَاهِرَهُمَا وَبَاطِنَهُمَا",
+                "id": "Telah menceritakan kepada kami [Hisyam bin 'Ammar] berkata, telah menceritakan kepada kami [Al Walid] berkata, telah menceritakan kepada kami [Hariz bin Utsman] dari [Abdurrahman bin Maisarah] dari [Al Miqdam bin Ma'dikarib] berkata; \"Rasulullah shallallahu 'alaihi wasallam berwudlu, lalu mengusap kepalanya dan kedua telinga baik luar maupun dalamnya.\""
+            },
+            {
+                "number": 405,
+                "arab": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ عَنْ شُعْبَةَ عَنْ حَبِيبِ بْنِ زَيْدٍ عَنْ عَبَّادِ بْنِ تَمِيمٍ عَنْ عَبْدِ اللَّهِ بْنِ زَيْدٍ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْأُذُنَانِ مِنْ الرَّأْسِ",
+                "id": "Telah menceritakan kepada kami [Suwaid bin sa'id] berkata, telah menceritakan kepada kami [Yahya bin Zakaria bin Abu Za`idah] dari [Syu'bah] dari [Habib bin Zaid] dari [Abbad bin Tamim] dari [Abdullah bin Zaid] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Kedua telinga termasuk bagian dari kepala.\""
+            },
+            {
+                "number": 406,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ زِيَادٍ أَنْبَأَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ سِنَانِ بْنِ رَبِيعَةَ عَنْ شَهْرِ بْنِ حَوْشَبٍ عَنْ أَبِي أُمَامَةَأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ الْأُذُنَانِ مِنْ الرَّأْسِ وَكَانَ يَمْسَحُ رَأْسَهُ مَرَّةً وَكَانَ يَمْسَحُ الْمَأْقَيْنِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Ziyad] berkata, telah memberitakan kepada kami [Hammad bin Zaid] dari [Sinan bin Rabi'ah] dari [Syahr bin Hausyab] dari [Abu Umamah] berkata; \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Kedua telinga adalah bagian dari kepala.\" Dan beliau mengusap kepalanya satu kali serta mengusap dua daun telinganya.\""
+            },
+            {
+                "number": 407,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا عَمْرُو بْنُ الْحُصَيْنِ حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عُلَاثَةَ عَنْ عَبْدِ الْكَرِيمِ الْجَزَرِيِّ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ عَنْ أَبِي هُرَيْرَةَ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْأُذُنَانِ مِنْ الرَّأْسِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami ['Amru bin Al Hushain] berkata, telah menceritakan kepada kami [Muhammad bin Abdullah bin 'Ulatsah] dari [Abdul Karim Al Jazari] dari [Sa'id Ibnul Musayyab] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Kedua telinga adalah bagian dari kepala.\""
+            },
+            {
+                "number": 408,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُصَفَّى الْحِمْصِيُّ حَدَّثَنَا مُحَمَّدُ بْنُ حِمْيَرٍ عَنْ ابْنِ لَهِيعَةَ حَدَّثَنِي يَزِيدُ بْنُ عَمْرٍو الْمَعَافِرِيُّ عَنْ أَبِي عَبْدِ الرَّحْمَنِ الْحُبُلِيِّ عَنْ الْمُسْتَوْرِدِ بْنِ شَدَّادٍ قَالَرَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ فَخَلَّلَ أَصَابِعَ رِجْلَيْهِ بِخِنْصِرِهِقَالَ أَبُو الْحَسَنِ بْنُ سَلَمَةَ حَدَّثَنَا خَازِمٌ بْنُ يَحْيَي الْحُلْوَانِيُّ حَدَّثَنَا قُتَيْبَةُ حَدَّثَنَا ابْنُ لَهِيعَةَ فَذَكَرَ نَحْوَهُ",
+                "id": "Telah menceritakan kepada kami [Muhammad Ibnul Mushaffa Al Himshi] berkata, telah menceritakan kepada kami [Muhammad bin Himyar] dari [Ibnu Lahi'ah] berkata, telah menceritakan kepadaku [Yazid bin 'Amru Al Ma'afiri] dari [Abu Abdurrahman Al Hubuli] dari [Al Mustaurid bin Syaddad] ia berkata; \"Aku melihat Rasulullah shallallahu 'alaihi wasallam berwudlu lalu menyela jari-jari kakinya dengan jari kelingkingnya.\" Abu Al Hasan bin Salamah berkata; telah menceritakan kepada kami Khazim bin Yahya Al Hulwani berkata, telah menceritakan kepada kami Qutaibah berkata, telah menceritakan kepada kami Ibnu Lahi'ah lalu ia menyebutkan sebagaimana hadits di atas.\""
+            },
+            {
+                "number": 409,
+                "arab": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعِيدٍ الْجَوْهَرِيُّ حَدَّثَنَا سَعْدُ بْنُ عَبْدِ الْحَمِيدِ بْنِ جَعْفَرٍ عَنْ ابْنِ أَبِي الزِّنَادِ عَنْ مُوسَى بْنِ عُقْبَةَ عَنْ صَالِحٍ مَوْلَى التَّوْأَمَةِ عَنْ ابْنِ عَبَّاسٍ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا قُمْتَ إِلَى الصَّلَاةِ فَأَسْبِغْ الْوُضُوءَ وَاجْعَلْ الْمَاءَ بَيْنَ أَصَابِعِ يَدَيْكَ وَرِجْلَيْكَ",
+                "id": "Telah menceritakan kepada kami [Ibrahim bin Sa'id Al Jauhari] berkata, telah menceritakan kepada kami [Sa'd bin Abdul Hamid bin Ja'far] dari [Ibnu Abu Az Zinad] dari [Musa bin Uqbah] dari [Shalih] mantan budak At Tau`amah, dari [Ibnu 'Abbas] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Apabila kamu ingin mendirikan sholat maka sempurnakanlah wudlu, dan jadikanlah air di antara jari-jari tangan dan kedua kakimu.\""
+            },
+            {
+                "number": 410,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا يَحْيَى بْنُ سُلَيْمٍ الطَّائِفِيُّ عَنْ إِسْمَعِيلَ بْنِ كَثِيرٍ عَنْ عَاصِمِ بْنِ لَقِيطِ بْنِ صَبْرَةَ عَنْ أَبِيهِ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَسْبِغْ الْوُضُوءَ وَخَلِّلْ بَيْنَ الْأَصَابِعِ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Yahya bin Sulaim Ath Tha`ifi] dari [Isma'il bin Katsir] dari ['Ashim bin Laqith bin Shabrah] dari [Bapaknya] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sempurnakanlah wudlu dan sela-sela-lah antara jemari.\""
+            },
+            {
+                "number": 411,
+                "arab": "حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ مُحَمَّدٍ الرَّقَاشِيُّ حَدَّثَنَا مَعْمَرُ بْنُ مُحَمَّدِ بْنِ عُبَيْدِ اللَّهِ بْنِ أَبِي رَافِعٍ حَدَّثَنِي أَبِي عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي رَافِعٍ عَنْ أَبِيهِأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا تَوَضَّأَ حَرَّكَ خَاتَمَهُ",
+                "id": "Telah menceritakan kepada kami [Abdul Malik bin Muhammad Ar Raqasyi] berkata, telah menceritakan kepada kami [Ma'mar bin Muhammad bin ubaidhullah bin Abu Rafi'] berkata, telah menceritakan kepadaku [Bapakku] dari [ubaidhullah bin Abu Rafi'] dari [Bapaknya] berkata, \"Jika berwudlu Rasulullah shallallahu 'alaihi wasallam selalu menggerak-gerakkan cincinnya.\""
+            },
+            {
+                "number": 412,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَعَلِيُّ بْنُ مُحَمَّدٍ قَالَا حَدَّثَنَا وَكِيعٌ عَنْ سُفْيَانَ عَنْ مَنْصُورٍ عَنْ هِلَالِ بْنِ يَسَافٍ عَنْ أَبِي يَحْيَى عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو قَالَرَأَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَوْمًا يَتَوَضَّئُونَ وَأَعْقَابُهُمْ تَلُوحُ فَقَالَ وَيْلٌ لِلْأَعْقَابِ مِنْ النَّارِ أَسْبِغُوا الْوُضُوءَقَالَ الْقَطَّانُ حَدَّثَنَا أَبُو حَاتِمٍ حَدَّثَنَا عَبْدُ الْمُؤْمِنِ بْنُ عَلِيٍّ حَدَّثَنَا عَبْدُ السَّلَامِ بْنُ حَرْبٍ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ عَنْ عَائِشَةَ قَالَتْ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَيْلٌ لِلْأَعْقَابِ مِنْ النَّارِ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ali bin Muhammad] keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Manshur] dari [Hilal bin Yasaf] dari [Abu Yahya] dari [Abdullah bin 'Amru] ia berkata; \"Rasulullah shallallahu 'alaihi wasallam melihat suatu kaum yang sedang berwudlu, namun tumit-tumit mereka masih kering, maka beliau pun bersabda: \"Tumit-tumit yang tidak terbasuh air wudlu akan masuk neraka, sempurnakanlah wudlu kalian.\" Al Qaththan berkata; telah menceritakan kepada kami Abu Hatim berkata, telah menceritakan kepada kami Abdul Mukmin bin Ali berkata, telah menceritakan kepada kami Abdus Salam bin Harb dari Hisyam bin 'Urwah dari Bapaknya dari Aisyah ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tumit-tumit yang tidak terbasuh air wudlu akan masuk neraka.\""
+            },
+            {
+                "number": 413,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ رَجَاءٍ الْمَكِّيُّ عَنْ ابْنِ عَجْلَانَ ح و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ وَأَبُو خَالِدٍ الْأَحْمَرُ عَنْ مُحَمَّدِ بْنِ عَجْلَانَ عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ عَنْ أَبِي سَلَمَةَ قَالَرَأَتْ عَائِشَةُ عَبْدَ الرَّحْمَنِ وَهُوَ يَتَوَضَّأُ فَقَالَتْ أَسْبِغْ الْوُضُوءَ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ وَيْلٌ لِلْعَرَاقِيبِ مِنْ النَّارِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Ash Shabbah] berkata, telah menceritakan kepada kami [Abdullah bin Raja` Al Makki] dari [Ibnu 'Ajlan]. Dan menurut jalur yang lain; Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] dan [Abu Khalid bin Ahmar] dari [Muhammad bin 'Ajlan] dari [Sa'id bin Abu Sa'id] dari [Abu Salamah] ia berkata; [Aisyah] melihat Abdurrahman sedang berwudlu, lalu ia berkata; \"Sempurnakanlah wudlumu, Sesungguhnya aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Araqib (urat di atas tumit) yang tidak terbasuh air wudlu akan masuk neraka.\""
+            },
+            {
+                "number": 414,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبِي الشَّوَارِبِ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ الْمُخْتَارِ حَدَّثَنَا سُهَيْلٌ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَعَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ وَيْلٌ لِلْأَعْقَابِ مِنْ النَّارِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Abdul Malik bin Abu Asy Syawarib] berkata, telah menceritakan kepada kami [Abdul Aziz Ibnul Mukhtar] berkata, telah menceritakan kepada kami [Suhail] dari [Bapaknya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Tumit-tumit yang tidak terbasuh air wudlu akan masuk neraka.\""
+            },
+            {
+                "number": 415,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو الْأَحْوَصِ عَنْ أَبِي إِسْحَقَ عَنْ سَعِيدِ بْنِ أَبِي كَرِبٍ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ قَالَسَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ وَيْلٌ لِلْعَرَاقِيبِ مِنْ النَّارِ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abu Al Ahwash] dari [Abu Ishaq] dari [Sa'id bin Abu Karib] dari [Jabir bin Abdullah] ia berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Araqib (urat di atas tumit) yang tidak terbasuh air wudlu akan masuk neraka.\""
+            },
+            {
+                "number": 416,
+                "arab": "حَدَّثَنَا الْعَبَّاسُ بْنُ عُثْمَانَ وَعُثْمَانُ بْنُ إِسْمَعِيلَ الدِّمَشْقِيَّانِ قَالَا حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ حَدَّثَنَا شَيْبَةُ بْنُ الْأَحْنَفِ عَنْ أَبِي سَلَّامٍ الْأَسْوَدِ عَنْ أَبِي صَالِحٍ الْأَشْعَرِيِّ حَدَّثَنِي أَبُو عَبْدِ اللَّهِ الْأَشْعَرِيُّ عَنْ خَالِدِ بْنِ الْوَلِيدِ وَيَزِيدَ بْنِ أَبِي سُفْيَانَ وَشُرَحْبِيلَ ابْنِ حَسَنَةَ وَعَمْرِو بْنِ الْعَاصِ كُلُّ هَؤُلَاءِسَمِعُوا مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ أَتِمُّوا الْوُضُوءَ وَيْلٌ لِلْأَعْقَابِ مِنْ النَّارِ",
+                "id": "Telah menceritakan kepada kami [Al 'Abbas bin Utsman] dan [Utsman bin Isma'il Ad Dimasyqi] keduanya berkata; telah menceritakan kepada kami [Al Walid bin Muslim] berkata, telah menceritakan kepada kami [Syaibah bin Al Ahnaf] dari [Abu Sallam Al Aswad] dari [Abu Shalih Al Asy'ari] berkata, telah menceritakan kepadaku [Abu Abdullah Al Asy'ari] dari [Khalid bin Al Walid] dan [Yazid bin Abu Sufyan] dan [Syurahbil bin Hasanah] dan ['Amru bin Al 'Ash] semuanya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sempurnakanlah wudlu, tumit-tumit yang tidak terbasuh air wudlu akan masuk neraka.\""
+            },
+            {
+                "number": 417,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو الْأَحْوَصِ عَنْ أَبِي إِسْحَقَ عَنْ أَبِي حَيَّةَ قَالَرَأَيْتُ عَلِيًّا تَوَضَّأَ فَغَسَلَ قَدَمَيْهِ إِلَى الْكَعْبَيْنِ ثُمَّ قَالَ أَرَدْتُ أَنْ أُرِيَكُمْ طُهُورَ نَبِيِّكُمْ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abu Al Ahwash] dari [Abu Ishaq] dari [Abu Hayyah] ia berkata; Aku melihat Ali berwudlu, lalu ia membasuh kedua telapak kakinya hingga mata kaki, kemudian ([Ali]) berkata; \"Aku ingin memperlihatkan kepada kalian tatacara Nabi kalian shallallahu 'alaihi wasallam dalam bersuci.\" "
+            },
+            {
+                "number": 418,
+                "arab": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ حَدَّثَنَا حَرِيزُ بْنُ عُثْمَانَ عَنْ عَبْدِ الرَّحْمَنِ بْنِ مَيْسَرَةَ عَنْ الْمِقْدَامِ بْنِ مَعْدِيكَرِبَأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ فَغَسَلَ رِجْلَيْهِ ثَلَاثًا ثَلَاثًا",
+                "id": "Telah menceritakan kepada kami [Hisyam bin 'Ammar] berkata, telah menceritakan kepada kami [Al Walid bin Muslim] berkata, telah menceritakan kepada kami [Hariz bin Utsman] dari [Abdurrahman bin Maisarah] dari [Al Miqdam bin Ma'dikarib] berkata; \"Rasulullah shallallahu 'alaihi wasallam berwudlu lalu membasuh kedua kakinya tiga kali-tiga kali.\""
+            },
+            {
+                "number": 419,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا ابْنُ عُلَيَّةَ عَنْ رَوْحِ بْنِ الْقَاسِمِ عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ عَنْ الرُّبَيِّعِ قَالَتْ أَتَانِي ابْنُ عَبَّاسٍ فَسَأَلَنِي عَنْ هَذَا الْحَدِيثِ تَعْنِي حَدِيثَهَا الَّذِي ذَكَرَتْأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ وَغَسَلَ رِجْلَيْهِفَقَالَ ابْنُ عَبَّاسٍ إِنَّ النَّاسَ أَبَوْا إِلَّا الْغَسْلَ وَلَا أَجِدُ فِي كِتَابِ اللَّهِ إِلَّا الْمَسْحَ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Ibnu 'Ulayyah] dari [Rauh Ibnul Qasim] dari [Abdullah bin Muhammad bin Aqil] dari [Ar Rubayyi'] ia berkata; \"Ibnu 'Abbas mendatangiku dan bertanya berkenaan dengan hadits ini, yaitu hadits yang menyebutkan bahwa Rasulullah shallallahu 'alaihi wasallam berwudlu dan membasuh kedua kakinya. Ibnu 'Abbas berkata; \"Manusia tidak menghendaki kecuali membasuh, sedangkan aku tidak mendapatkan dalam Kitabullah selain mengusap.\" "
+            },
+            {
+                "number": 420,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ جَامِعِ بْنِ شَدَّادٍ أَبِي صَخْرَةَ قَالَ سَمِعْتُ حُمْرَانَ يُحَدِّثُ أَبَا بُرْدَةَ فِي الْمَسْجِدِ أَنَّهُ سَمِعَ عُثْمَانَ بْنَ عَفَّانَ يُحَدِّثُعَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ أَتَمَّ الْوُضُوءَ كَمَا أَمَرَهُ اللَّهُ فَالصَّلَاةُ الْمَكْتُوبَاتُ كَفَّارَاتٌ لِمَا بَيْنَهُنَّ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] berkata, telah menceritakan kepada kami [Syu'bah] dari [Jami' bin Syaddad Abu Shakhrah] berkata; Di masjid aku mendengar [Humran] menceritakan kepada Abu Burdah bahwa ia pernah mendengar [Utsman bin 'Affan] menceritakan dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa menyempurnakan wudlu sebagaimana yang diperintahkan Allah maka sholat-sholat maktubah akan menghapus dosa antara sholat-sholat tersebut.\""
+            },
+            {
+                "number": 421,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا حَجَّاجٌ حَدَّثَنَا هَمَّامٌ حَدَّثَنَا إِسْحَقُ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ حَدَّثَنِي عَلِيُّ بْنُ يَحْيَى بْنِ خَلَّادٍ عَنْ أَبِيهِ عَنْ عَمِّهِ رِفَاعَةَ بْنِ رَافِعٍأَنَّهُ كَانَ جَالِسًا عِنْدَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ إِنَّهَا لَا تَتِمُّ صَلَاةٌ لِأَحَدٍ حَتَّى يُسْبِغَ الْوُضُوءَ كَمَا أَمَرَهُ اللَّهُ تَعَالَى يَغْسِلُ وَجْهَهُ وَيَدَيْهِ إِلَى الْمِرْفَقَيْنِ وَيَمْسَحُ بِرَأْسِهِ وَرِجْلَيْهِ إِلَى الْكَعْبَيْنِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Hajjaj] berkata, telah menceritakan kepada kami [Hammam] berkata, telah menceritakan kepada kami [Ishaq bin Abdullah bin Abu Thalhah] berkata, telah menceritakan kepadaku [Ali bin Yahya bin Khallad] dari [Bapaknya] dari pamannya [Rifa'ah bin Rafi'] ketika dia duduk di samping Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"sholat seseorang tidak akan sempurna hingga ia menyempurnakan wudlu sebagaimana yang diperintahkan oleh Allah Ta'ala, membasuh muka dan kedua tangannya hingga siku, lalu mengusap kepala dan membasuh kedua kakinya hingga ke kedua mata kakinya.\""
+            },
+            {
+                "number": 422,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ حَدَّثَنَا زَكَرِيَّا بْنُ أَبِي زَائِدَةَ قَالَ قَالَ مَنْصُورٌ حَدَّثَنَا مُجَاهِدٌ عَنْ الْحَكَمِ بْنِ سُفْيَانَ الثَّقَفِيِّأَنَّهُ رَأَى رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ ثُمَّ أَخَذَ كَفًّا مِنْ مَاءٍ فَنَضَحَ بِهِ فَرْجَهُ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Muhammad bin Bisyr] berkata, telah menceritakan kepada kami [Zakaria bin Abu Za`idah] ia berkata; [Manshur] berkata; telah menceritakan kepada kami [Mujahid] dari [Al Hakam bin Sufyan Ats Tsaqafi] bahwasanya ia pernah melihat Rasulullah shallallahu 'alaihi wasallam berwudlu, kemudian mengambil air setelapak tangan dan memercikannya pada kemaluannya.\""
+            },
+            {
+                "number": 423,
+                "arab": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُحَمَّدٍ الْفِرْيَابِيُّ حَدَّثَنَا حَسَّانُ بْنُ عَبْدِ اللَّهِ حَدَّثَنَا ابْنُ لَهِيعَةَ عَنْ عُقَيْلٍ عَنْ الزُّهْرِيِّ عَنْ عُرْوَةَ قَالَ حَدَّثَنَا أُسَامَةُ بْنُ زَيْدِ بْنِ حَارِثَةَ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَّمَنِي جِبْرَائِيلُ الْوُضُوءَ وَأَمَرَنِي أَنْ أَنْضَحَ تَحْتَ ثَوْبِي لِمَا يَخْرُجُ مِنْ الْبَوْلِ بَعْدَ الْوُضُوءِقَالَ أَبُو الْحَسَنِ بْنُ سَلَمَةَ حَدَّثَنَا أَبُو حَاتِمٍ ح وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ التَّنِّيسِيُّ عَنْ ابْنِ لَهِيعَةَ فَذَكَرَ نَحْوَهُ",
+                "id": "Telah menceritakan kepada kami [Ibrahim bin Muhammad Al Firwani] berkata, telah menceritakan kepada kami [Hassan bin Abdullah] berkata, telah menceritakan kepada kami [Ibnu Lahi'ah] dari [Uqail] dari [Az Zuhri] dari [Urwah] berkata; telah menceritakan kepada kami [Usamah bin Zaid bin Haritsah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; \"Jibril mengajariku wudlu dan memerintahkan agar aku memercikkan air pada bagian bawah kain karena (sisa) kencing yang keluar setelah wudhu.\" "
+            },
+            {
+                "number": 424,
+                "arab": "حَدَّثَنَا الْحُسَيْنُ بْنُ سَلَمَةَ الْيَحْمِدِيُّ حَدَّثَنَا سَلْمُ بْنُ قُتَيْبَةَ حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْهَاشِمِيُّ عَنْ عَبْدِ الرَّحْمَنِ الْأَعْرَجِ عَنْ أَبِي هُرَيْرَةَ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا تَوَضَّأْتَ فَانْتَضِحْ",
+                "id": "Telah menceritakan kepada kami [Al Husain bin Maslamah Al Yahmidi] berkata, telah menceritakan kepada kami [Salm bin Qutaibah] berkata, telah menceritakan kepada kami [Al Hasan bin Ali Al Hasyimi] dari [Abdurrahman Al A'raj] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Apabila kamu berwudlu maka percikkanlah (air pada kemaluan).\""
+            },
+            {
+                "number": 425,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا عَاصِمُ بْنُ عَلِيٍّ حَدَّثَنَا قَيْسٌ عَنْ ابْنِ أَبِي لَيْلَى عَنْ أَبِي الزُّبَيْرِ عَنْ جَابِرٍ قَالَتَوَضَّأَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَنَضَحَ فَرْجَهُ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami ['Ashim bin Ali] berkata, telah menceritakan kepada kami [Qais] dari [Ibnu Abu Laila] dari [Abu Zubair] dari [Jabir] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam berwudlu lalu memercikkan air pada kemaluannya.\" "
+            },
+            {
+                "number": 426,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ عَنْ سَعِيدِ بْنِ أَبِي هِنْدٍ أَنَّ أَبَا مُرَّةَ مَوْلَى عَقِيلٍ حَدَّثَهُ أَنَّ أُمَّ هَانِئٍ بِنْتَ أَبِي طَالِبٍ حَدَّثَتْهُأَنَّهُ لَمَّا كَانَ عَامُ الْفَتْحِ قَامَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى غُسْلِهِ فَسَتَرَتْ عَلَيْهِ فَاطِمَةُ ثُمَّ أَخَذَ ثَوْبَهُ فَالْتَحَفَ بِهِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Rumh] berkata, telah memberitakan kepada kami [Al Laits bin Sa'd] dari [Yazid bin Abu Habib] dari [Sa'id bin Abu Hind] bahwa [Abu Murrah] mantan budak Aqil menceritakan kepadanya, bahwa [Ummu Hani` binti Abu Thalib] menceritakan kepadanya, bahwa pada tahun penaklukan, Rasulullah shallallahu 'alaihi wasallam masuk ke pemandiannya sedang Fatimah menutupi beliau. Kemudian beliau mengambil kain miliknya dan berselimut.\""
+            },
+            {
+                "number": 427,
+                "arab": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ حَدَّثَنَا وَكِيعٌ حَدَّثَنَا ابْنُ أَبِي لَيْلَى عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَسْعَدَ بْنِ زُرَارَةَ عَنْ مُحَمَّدِ بْنِ شُرَحْبِيلَ عَنْ قَيْسِ بْنِ سَعْدٍ قَالَأَتَانَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَوَضَعْنَا لَهُ مَاءً فَاغْتَسَلَ ثُمَّ أَتَيْنَاهُ بِمِلْحَفَةٍ وَرْسِيَّةٍ فَاشْتَمَلَ بِهَا فَكَأَنِّي أَنْظُرُ إِلَى أَثَرِ الْوَرْسِ عَلَى عُكَنِهِ",
+                "id": "Telah menceritakan kepada kami [Ali bin Muhammad] berkata, telah menceritakan kepada kami [Waki'] berkata, telah menceritakan kepada kami [Ibnu Abu Laila] dari [Muhammad bin Abdurrahman bin As'ad bin Zurarah] dari [Muhammad bin Syurahbil] dari [Qais bin Sa'd] ia berkata, \"Nabi shallallahu 'alaihi wasallam mendatangi kami, kemudian kami menyiapkan air untuknya hingga beliau pun mandi. Setelah itu kami memberikan kain berwarna merah, lalu beliau berselimut dengannya hingga seakan-akan kami melihat bekas warnanya pada lipatan perutnya.\" "
+            },
+            {
+                "number": 428,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَعَلِيُّ بْنُ مُحَمَّدٍ قَالَا حَدَّثَنَا وَكِيعٌ حَدَّثَنَا الْأَعْمَشُ عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ عَنْ كُرَيْبٍ حَدَّثَنَا ابْنُ عَبَّاسٍ عَنْ خَالَتِهِ مَيْمُونَةَ قَالَتْأَتَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِثَوْبٍ حِينَ اغْتَسَلَ مِنْ الْجَنَابَةِ فَرَدَّهُ وَجَعَلَ يَنْفُضُ الْمَاءَ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ali bin Muhammad] keduanya berkata; telah menceritakan kepada kami [Waki'] berkata, telah menceritakan kepada kami [Al A'masy] dari [Salim bin Abu Al Ja'd] dari [Kuraib] berkata, telah menceritakan kepada kami [Ibnu 'Abbas] dari bibinya [Maimunah] ia berkata; \"Ketika beliau mandi junub aku membawakan kain untuknya, namun beliau menolak seraya menyeka air.\""
+            },
+            {
+                "number": 429,
+                "arab": "حَدَّثَنَا الْعَبَّاسُ بْنُ الْوَلِيدِ وَأَحْمَدُ بْنُ الْأَزْهَرِ قَالَا حَدَّثَنَا مَرْوَانُ بْنُ مُحَمَّدٍ حَدَّثَنَا يَزِيدُ بْنُ السِّمْطِ حَدَّثَنَا الْوَضِينُ بْنُ عَطَاءٍ عَنْ مَحْفُوظِ بْنِ عَلْقَمَةَ عَنْ سَلْمَانَ الْفَارِسِيِّأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ فَقَلَبَ جُبَّةَ صُوفٍ كَانَتْ عَلَيْهِ فَمَسَحَ بِهَا وَجْهَهُ",
+                "id": "Telah menceritakan kepada kami [Al 'Abbas bin Al Walid] dan [Ahmad Al Azhar] keduanya berkata; telah menceritakan kepada kami [Marwan bin Muhammad] berkata, telah menceritakan kepada kami [Yazid bin As Simth] berkata, telah menceritakan kepada kami [Al Wadlin bin 'Atho`] dari [Mahfuzh bin Alqamah] dari [Salman Al Farisi] berkata; \"Rasulullah shallallahu 'alaihi wasallam berwudlu lalu beliau membalik jubah wol yang dipakainya kemudian mengusap wajahnya dengannya.\""
+            },
+            {
+                "number": 430,
+                "arab": "حَدَّثَنَا مُوسَى بْنُ عَبْدِ الرَّحْمَنِ حَدَّثَنَا الْحُسَيْنُ بْنُ عَلِيٍّ وَزَيْدُ بْنُ الْحُبَابِ ح و حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا أَبُو نُعَيْمٍ قَالُوا حَدَّثَنَا عَمْرُو بْنُ عَبْدِ اللَّهِ بْنِ وَهْبٍ أَبُو سُلَيْمَانَ النَّخَعِيُّ قَالَ حَدَّثَنِي زَيْدٌ الْعَمِّيُّ عَنْ أَنَسِ بْنِ مَالِكٍعَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ تَوَضَّأَ فَأَحْسَنَ الْوُضُوءَ ثُمَّ قَالَ ثَلَاثَ مَرَّاتٍ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ فُتِحَ لَهُ ثَمَانِيَةُ أَبْوَابِ الْجَنَّةِ مِنْ أَيِّهَا شَاءَ دَخَلَقَالَ أَبُو الْحَسَنِ بْنُ سَلَمَةَ الْقَطَّانُ حَدَّثَنَا إِبْرَاهِيمُ بْنُ نَصْرٍ حَدَّثَنَا أَبُو نُعَيْمٍ بِنَحْوِهِ",
+                "id": "Telah menceritakan kepada kami [Musa bin Abdurrahman] berkata, telah menceritakan kepada kami [Al Husain bin Ali] dan [Zaid Ibnul Hubab]. Dan menurut jalur yang lain; Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Abu Nu'aim] mereka berkata; telah menceritakan kepada kami ['Amru bin Abdullah bin Wahb Abu Sulaiman An Nakha'i] berkata; telah menceritakan kepadaku [Zaid Al Ammi] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa berwudlu dan membaguskannya, setelah itu membaca; ASYHADU ANLAA ILAAHA ILLAALLHU WAHDAHUU LAA SYARIIKALAH WA ASYHADU ANNA MUHAMMADAN ABDUHU WA RASUULUHU (Aku bersaksi bahwa tidak ada Tuhan yang berhak untuk disembah selain Allah Yang Maha Esa dan tidak dan tidak ada sekutu bagi-Nya. Dan aku bersaksi bahwa Muhammad adalah hamba dan Rasul-Nya) sebanyak tiga kali, maka akan dibukakan untuknya delapan pintu surga, ia masuk dari pintu mana saja yang ia sukai.\" Abu Al Hasan bin Salamah Al Qaththan berkata; telah menceritakan kepada kami Ibrahim bin Nashr berkata, telah menceritakan kepada kami Abu Nu'aim sebagaimana hadits diatas.\" "
+            },
+            {
+                "number": 431,
+                "arab": "حَدَّثَنَا عَلْقَمَةُ بْنُ عَمْرٍو الدَّارِمِيُّ حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ عَنْ أَبِي إِسْحَقَ عَنْ عَبْدِ اللَّهِ بْنِ عَطَاءٍ الْبَجَلِيِّ عَنْ عُقْبَةَ بْنِ عَامِرٍ الْجُهَنِيِّ عَنْ عُمَرَ بْنِ الْخَطَّابِ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا مِنْ مُسْلِمٍ يَتَوَضَّأُ فَيُحْسِنُ الْوُضُوءَ ثُمَّ يَقُولُ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ إِلَّا فُتِحَتْ لَهُ ثَمَانِيَةُ أَبْوَابِ الْجَنَّةِ يَدْخُلُ مِنْ أَيِّهَا شَاءَ",
+                "id": "Telah menceritakan kepada kami [Alqamah bin 'Amru Ad Darimi] berkata, telah menceritakan kepada kami [Abu Bakr bin 'Ayyasy] dari [Abu Ishaq] dari [Abdullah bin 'Atho` Al Bajali] dari [Uqbah bin Amir Al Juhani] dari [Umar Ibnul Khaththab] ia berkata; \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidaklah seorang muslim berwudlu dan membaguskan wudlunya kemudian membaca; ASYHADU ANLAA ILAAHA ILLAALLHU WA ASYHADU ANNA MUHAMMADAN ABDUHU WA RASUULUHU (Aku bersaksi bahwa tidak ada Tuhan yang berhak untuk disembah selain Allah. Dan aku bersaksi bahwa Muhammad adalah hamba dan Rasul-Nya), kecuali akan dibukakan untuknya delapan pintu surga, ia masuk dari pintu mana saja yang ia suka.\" "
+            },
+            {
+                "number": 432,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ عَنْ عَبْدِ الْعَزِيزِ بْنِ الْمَاجِشُونِ حَدَّثَنَا عَمْرُو بْنُ يَحْيَى عَنْ أَبِيهِ عَنْ عَبْدِ اللَّهِ بْنِ زَيْدٍ صَاحِبِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَأَتَانَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَخْرَجْنَا لَهُ مَاءً فِي تَوْرٍ مِنْ صُفْرٍ فَتَوَضَّأَ بِهِ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Ahmad bin Abdullah] dari [Abdul Aziz bin Al Majisyun] berkata, telah menceritakan kepada kami ['Amru bin Yahya] dari [Bapaknya] dari [Abdullah bin Zaid] sahabat Nabi shallallahu 'alaihi wasallam, ia berkata; \"Rasulullah shallallahu 'alaihi wasallam mendatangi kami, lalu kami mengeluarkan air dalam bejana kecil dari tembaga hingga beliau berwudlu dengannya.\" "
+            },
+            {
+                "number": 433,
+                "arab": "حَدَّثَنَا يَعْقُوبُ بْنُ حُمَيْدِ بْنِ كَاسِبٍ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ الدَّرَاوَرْدِيُّ عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ جَحْشٍ عَنْ أَبِيهِ عَنْ زَيْنَبَ بِنْتِ جَحْشٍأَنَّهُ كَانَ لَهَا مِخْضَبٌ مِنْ صُفْرٍ قَالَتْ فَكُنْتُ أُرَجِّلُ رَأْسَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِيهِ",
+                "id": "Telah menceritakan kepada kami [Ya'qub bin Humaid bin Kasib] berkata, telah menceritakan kepada kami [Abdul Aziz bin Muhammad bin Ad Darawardi] dari [ubaidhullah bin Umar] dari [Ibrahim bin Muhammad bin Abdullah bin Jahsy] dari [Bapaknya] dari [Zainab binti Jahsy] bahwasanya ia mempunyai bejana dari tembaga, ia berkata; \"Aku biasa merapikan rambut Rasulullah shallallahu 'alaihi wasallam dengan bejana tersebut.\""
+            },
+            {
+                "number": 434,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَعَلِيُّ بْنُ مُحَمَّدٍ قَالَا حَدَّثَنَا وَكِيعٌ عَنْ شَرِيكٍ عَنْ إِبْرَاهِيمَ بْنِ جَرِيرٍ عَنْ أَبِي زُرْعَةَ بْنِ عَمْرِو بْنِ جَرِيرٍ عَنْ أَبِي هُرَيْرَةَأَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ فِي تَوْرٍ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ali bin Muhammad] keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Syarik] dari [Ibrahim bin Jarir] dari [Abu Zur'ah bin 'Amru bin Jarir] dari [Abu Hurairah] berkata; \"Nabi shallallahu 'alaihi wasallam berwudlu dalam mangkuk kecil dari tembaga.\""
+            },
+            {
+                "number": 435,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَعَلِيُّ بْنُ مُحَمَّدٍ قَالَا حَدَّثَنَا وَكِيعٌ حَدَّثَنَا الْأَعْمَشُ عَنْ إِبْرَاهِيمَ عَنْ الْأَسْوَدِ عَنْ عَائِشَةَ قَالَتْكَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَنَامُ حَتَّى يَنْفُخَ ثُمَّ يَقُومُ فَيُصَلِّي وَلَا يَتَوَضَّأُقَالَ الطَّنَافِسِيُّ قَالَ وَكِيعٌ تَعْنِي وَهُوَ سَاجِدٌ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ali bin Muhammad] keduanya berkata; telah menceritakan kepada kami [Waki'] berkata, telah menceritakan kepada kami [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] ia berkata; \"Rasulullah shallallahu 'alaihi wasallam tidur hingga terdengar tarikan nafasnya, kemudian beliau bangun dan sholat tanpa berwudlu terlebih dahulu.\" Ath Thanafusi berkata; Waki' berkata; \"Maksudnya bahwa beliau dalam keadaan sujud.\""
+            },
+            {
+                "number": 436,
+                "arab": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَامِرِ بْنِ زُرَارَةَ حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ عَنْ حَجَّاجٍ عَنْ فُضَيْلِ بْنِ عَمْرٍو عَنْ إِبْرَاهِيمَ عَنْ عَلْقَمَةَ عَنْ عَبْدِ اللَّهِأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَامَ حَتَّى نَفَخَ ثُمَّ قَامَ فَصَلَّى",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Amir bin Zurarah] berkata, telah menceritakan kepada kami [Yahya bin Zakaria bin Abu Za`idah] dari [Al Hajjaj] dari [Fudlail bin 'Amru] dari [Ibrahim] dari [Alqamah] dari [Abdullah] berkata; \"Rasulullah shallallahu 'alaihi wasallam tidur hingga terdengar tarikan nafasnya, setelah itu beliau sholat dan tidak berwudlu.\""
+            },
+            {
+                "number": 437,
+                "arab": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَامِرِ بْنِ زُرَارَةَ عَنْ ابْنِ أَبِي زَائِدَةَ عَنْ حُرَيْثِ بْنِ أَبِي مَطَرٍ عَنْ يَحْيَى بْنِ عَبَّادٍ أَبِي هُبَيْرَةَ الْأَنْصَارِيِّ عَنْ سَعِيدِ بْنِ جُبَيْرٍ عَنْ ابْنِ عَبَّاسٍ قَالَكَانَ نَوْمُهُ ذَلِكَ وَهُوَ جَالِسٌ يَعْنِي النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Amir bin Zurarah] dari [Ibnu Abu Za`idah] dari [Huraits bin Abu Mathar] dari [Yahya bin Abbad Abu Hubairah Al Anshari] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas], ia berkata; \"Begitulah beliau tidur, yakni dalam keadaan duduk.\" Yang dimaksud adalah Nabi shallallahu 'alaihi wasallam.\" "
+            },
+            {
+                "number": 438,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُصَفَّى الْحِمْصِيُّ حَدَّثَنَا بَقِيَّةُ عَنْ الْوَضِينِ بْنِ عَطَاءٍ عَنْ مَحْفُوظِ بْنِ عَلْقَمَةَ عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَائِذٍ الْأَزْدِيِّ عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ الْعَيْنُ وِكَاءُ السَّهِ فَمَنْ نَامَ فَلْيَتَوَضَّأْ",
+                "id": "Telah menceritakan kepada kami [Muhammad Ibnul Mushaffa Al Himshi] berkata, telah menceritakan kepada kami [Baqiyyah] dari [Al Wadlin bin 'Atho`] dari [Mahfuzh bin Alqamah] dari [Abdurrahman bin A`idz Al 'Azdi] dari [Ali bin Abu Thalib] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Mata adalah tali penutup dubur, maka barangsiapa tertidur hendaklah ia wudlu.\""
+            },
+            {
+                "number": 439,
+                "arab": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنْ عَاصِمٍ عَنْ زِرٍّ عَنْ صَفْوَانَ بْنِ عَسَّالٍ قَالَكَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَأْمُرُنَا أَنْ لَا نَنْزِعَ خِفَافَنَا ثَلَاثَةَ أَيَّامٍ إِلَّا مِنْ جَنَابَةٍ لَكِنْ مِنْ غَائِطٍ وَبَوْلٍ وَنَوْمٍ",
+                "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Ashim] dari [Zirr] dari [Shafwan bin 'Assal] ia berkata; \"Rasulullah shallallahu 'alaihi wasallam memerintahkan agar kami tidak melepas khuf kami selama tiga hari kecuali jika junub. dan tetap dibolehkan memakai karena sebab buang air besar, buang air kecil dan tidur.\""
+            },
+            {
+                "number": 440,
+                "arab": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ عَنْ مَرْوَانَ بْنِ الْحَكَمِ عَنْ بُسْرَةَ بِنْتِ صَفْوَانَ قَالَتْقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا مَسَّ أَحَدُكُمْ ذَكَرَهُ فَلْيَتَوَضَّأْ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] berkata, telah menceritakan kepada kami [Abdullah bin Idris] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari [Marwan Ibnul Hakam] dari [Busrah binti Shafwan] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Jika salah seorang dari kalian menyentuh kemaluannya hendaklah berwudlu.\""
+            },
+            {
+                "number": 441,
+                "arab": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ الْحِزَامِيُّ حَدَّثَنَا مَعْنُ بْنُ عِيسَى ح و حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نَافِعٍ جَمِيعًا عَنْ ابْنِ أَبِي ذِئْبٍ عَنْ عُقْبَةَ بْنِ عَبْدِ الرَّحْمَنِ عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ ثَوْبَانَ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ قَالَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا مَسَّ أَحَدُكُمْ ذَكَرَهُ فَعَلَيْهِ الْوُضُوءُ",
+                "id": "Telah menceritakan kepada kami [Ibrahim bin Al Mundzir Al Hizam] berkata, telah menceritakan kepada kami [Ma'n bin Isa]. Dan menurut jalur yang lain; Telah menceritakan kepada kami [Abdurrahman bin Ibrahim Ad Dimasyqi] berkata, telah menceritakan kepada kami [Abdullah bin Nafi'] dari [Ibnu Abu Dzi`b] dari [Uqbah bin Abdurrahman] dari [Muhammad bin Abdurrahman bin Tsauban] dari [Jabir bin Abdullah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Jika salah seorang dari kalian menyentuh kemaluannya, maka baginya wajib berwudlu.\" "
+            }
+        ]
+    }
+}

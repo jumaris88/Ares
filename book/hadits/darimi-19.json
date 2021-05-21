@@ -1,0 +1,746 @@
+{
+    "status": true,
+    "data": {
+        "start": 2647,
+        "end": 2793,
+        "total": 147,
+        "book": "darimi",
+        "hadits": [
+            {
+                "number": 2647,
+                "arab": " حَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ حَدَّثَنَا ابْنُ إِدْرِيسَ عَنْ ابْنِ جُرَيْجٍ عَنْ عَطَاءٍ قَالَ قَالَ ابْنُ عَبَّاسٍ لَا يُبَاعُ الْوَلَاءُ أَيُؤْكَلُ بِرَقَبَةِ رَجُلٍ مَرَّتَيْنِ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Sa'id] telah menceritakan kepada kami [Ibnu Idris] dari [Ibnu Juraij] dari ['Atha`] ia berkata; [Ibnu Abbas] berkata; Wala` tidak boleh dijual. Apakah layak seseorang diberi makan budak dua kali? "
+            },
+            {
+                "number": 2648,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ حَدَّثَنَا سُفْيَانُ عَنْ ابْنِ جُرَيْجٍ عَنْ عَطَاءٍ عَنْ ابْنِ عَبَّاسٍ قَالَ الْفَرَائِضُ مِنْ سِتَّةٍ لَا نُعِيلُهَا",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Ibnu Juraij] dari ['Atha`] dari [Ibnu Abbas] ia berkata; Pembagian harta waris dari enam tidak kami jadikan sebagai 'aul. "
+            },
+            {
+                "number": 2649,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ عِمْرَانَ عَنْ مُعَاوِيَةَ بْنِ مَيْسَرَةَ بْنِ شُرَيْحٍ عَنْ أَيُّوبَ بْنِ الْحَارِثِ قَالَ اخْتُصِمَ إِلَى شُرَيْحٍ فِي بِنْتَيْنِ وَأَبَوَيْنِ وَزَوْجٍ فَقَضَى فِيهَا فَأَقْبَلَ الزَّوْجُ يَشْكُوهُ فِي الْمَسْجِدِ فَأَرْسَلَ إِلَيْهِ عَبْدَ اللَّهِ بْنَ رَبَاحٍ فَأَخَذَهُ وَبَعَثَ إِلَى شُرَيْحٍ فَقَالَ مَا يَقُولُ هَذَا قَالَ هَذَا يَخَالُنِي امْرَأً جَائِرًا وَأَنَا إِخَالُهُ امْرَأً فَاجِرًا يُظْهِرُ الشَّكْوَى وَيَكْتُمُ قَضَاءً سَائِرًا فَقَالَ لَهُ الرَّجُلُ مَا تَقُولُ فِي بِنْتَيْنِ وَأَبَوَيْنِ وَزَوْجٍ فَقَالَ لِلزَّوْجِ الرُّبُعُ مِنْ جَمِيعِ الْمَالِ وَلِلْأَبَوَيْنِ السُّدُسَانِ وَمَا بَقِيَ فَلِلِابْنَتَيْنِ قَالَ فَلِأَيِّ شَيْءٍ نَقَصْتَنِي قَالَ لَيْسَ أَنَا نَقَصْتُكَ اللَّهُ نَقَصَكَ لِلِابْنَتَيْنِ الثُّلُثَانِ وَلِلْأَبَوَيْنِ السُّدُسَانِ وَلِلزَّوْجِ الرُّبُعُ فَهِيَ مِنْ سَبْعَةٍ وَنِصْفٍ فَرِيضَةً فَرِيضَتُكَ عَائِلَةٌ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Imran] dari [Mu'awiyah bin Maisarah bin Syuraih] dari [Ayyub bin Al Harits] ia berkata; Syuraih pernah mendapat pengaduan tentang dua anak perempuan, dua orang tua dan suami. Maka ia memutuskan dalam masalah ini. Lalu sang suami datang dan mengadukannya di dalam masjid. Maka ia mengutus Abdullah bin Rabah, ia pun segera menjemput dan mengantarkan kepada Syuraih. (Syuraih) pun bertanya; Apa yang dikatakan orang ini? ' Syuraih berkata, 'Dia menyangka aku adalah orang yang zhalim, sedangkan aku menyangkanya seorang yang jahat. Dia mengumbar ketidakpuasan dan menyembunyikan keputusan yang berlaku.' Lalu laki-laki itu (suami) berkata kepada Syuraih, 'Apa yang kamu katakan tentang dua anak perempuan.' Laki-laki itu berkata, 'Kenapa kamu mengurangi bagianmu. Allah yang mengurangi bagianmu. Untuk dua anak perempuan dua pertiga, untuk kedua orang tua dua perenam dan untuk suami seperempat. Masalah ini dari tujuh setengah sebagai bagian wajib dan bagiannya dikalikan sebagai Aul.\""
+            },
+            {
+                "number": 2650,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ عُيَيْنَةَ عَنْ عَلِيِّ بْنِ مُسْهِرٍ عَنْ أَشْعَثَ عَنْ الشَّعْبِيِّ عَنْ عَلِيٍّ وَعُمَرَ وَزَيْدٍ قَالُوا الْوَالِدُ يَجُرُّ وَلَاءَ وَلَدِهِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Uyainah] dari [Ali bin Mushir] dari [Asy'ats] dari [Asy Sya'bi] dari [Ali], [Umar] dan [Zaid], mereka berkata, Bapak berhak mengambil wala` anaknya."
+            },
+            {
+                "number": 2651,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ عُيَيْنَةَ عَنْ عَلِيِّ بْنِ مُسْهِرٍ عَنْ أَشْعَثَ عَنْ الشَّعْبِيِّ قَالَ الْجَدُّ يَجُرُّ الْوَلَاءَ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Uyainah] dari [Ali bin Mushir] dari [Asy'ats] dari [Asy Sya'bi] ia berkata; Kakek berhak mengambil wala`."
+            },
+            {
+                "number": 2652,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ عُيَيْنَةَ عَنْ عَلِيِّ بْنِ مُسْهِرٍ عَنْ أَشْعَثَ عَنْ ابْنِ سِيرِينَ عَنْ شُرَيْحٍ قَالَ الْوَالِدُ يَجُرُّ وَلَاءَ وَلَدِهِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Uyainah] dari [Ali bin Mushir] dari [Asy'ats] dari [Ibnu Sirin] dari [Syuraih] ia berkata; Bapak berhak mengambil wala` anaknya."
+            },
+            {
+                "number": 2653,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا زَكَرِيَّا عَنْ عَامِرٍ فِي مَمْلُوكٍ تُوُفِّيَ وَلَهُ أَبٌ حُرٌّ وَلَهُ بَنُونَ مِنْ امْرَأَةٍ حُرَّةٍ لِمَنْ وَلَاءُ وَلَدِهِ قَالَ لِمَوَالِي الْجَدِّ",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Zakariya] dari [Amir] tentang seorang budak yang meninggal dunia dan meninggalkan ayah yang merdeka dan beberapa anak laki-laki dari isteri yang merdeka, Untuk siapakah wala` anaknya? Ia menjawab; Untuk para mantan budak kakek."
+            },
+            {
+                "number": 2654,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا إِسْرَائِيلُ عَنْ مُغِيرَةَ عَنْ إِبْرَاهِيمَ فِي مُكَاتَبٍ مَاتَ وَقَدْ أَدَّى نِصْفَ مُكَاتَبَتِهِ وَلَهُ وَلَدٌ مِنْ امْرَأَةٍ أَحْرَارٌ قَالَ مَا أُرَاهُ إِلَّا قَدْ جَرَّ وَلَاءَ وَلَدِهِ",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Isra`il] dari [Mughirah] dari [Ibrahim] tentang budak mukatab yang meninggal dunia dan meninggalkan seorang anak dari isteri yang merdeka, ia berkata; Tidaklah aku berpendapat kecuali ia berhak mengambil wala` anaknya."
+            },
+            {
+                "number": 2655,
+                "arab": " حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ حَدَّثَنَا شُعْبَةُ عَنْ الْحَكَمِ عَنْ إِبْرَاهِيمَ قَالَ كَانَ شُرَيْحٌ لَا يَرْجِعُ عَنْ قَضَاءٍ يَقْضِي بِهِ فَحَدَّثَهُ الْأَسْوَدُ أَنَّ عُمَرَ قَالَ إِذَا تَزَوَّجَ الْمَمْلُوكُ الْحُرَّةَ فَوَلَدَتْ أَوْلَادًا أَحْرَارًا ثُمَّ عُتِقَ بَعْدَ ذَلِكَ رَجَعَ الْوَلَاءُ لِمَوَالِي أَبِيهِمْ فَأَخَذَ بِهِ شُرَيْحٌ",
+                "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Ibrahim] ia berkata; [Syuraih] tidak pernah menarik keputusannya yang telah dia putuskan. Lalu [Al Aswad] menceritakan kepadanya bahwa Umar pernah berkata; Jika seorang budak menikah dengan seorang perempuan yang merdeka lalu melahirkan anak-anak dalam keadaan merdeka kemudian setelah itu ia dimerdekakan, maka wala` kembali kepada orang yang memerdekakan ayah mereka. Lalu Syuraih pun memegang riwayat ini."
+            },
+            {
+                "number": 2656,
+                "arab": " حَدَّثَنَا يَعْلَى عَنْ الْأَعْمَشِ عَنْ إِبْرَاهِيمَ قَالَ قَالَ عُمَرُ فِي الْمَمْلُوكِ يَكُونُ تَحْتَهُ الْحُرَّةُ يُعْتَقُ الْوَلَدُ بِعِتْقِ أُمِّهِ فَإِذَا عُتِقَ الْأَبُ جَرَّ الْوَلَاءَ",
+                "id": "Telah menceritakan kepada kami [Ya'la] dari [Al A'masy] dari [Ibrahim] ia berkata; [Umar] berkata tentang seorang budak yang memiliki isteri yang merdeka; Anaknya dimerdekakan karena status ibunya yang merdeka. Jika ayah dimerdekakan, maka wala` berhak diambil oleh orang yang memerdekakannya."
+            },
+            {
+                "number": 2657,
+                "arab": " حَدَّثَنَا مُسْلِمٌ حَدَّثَنَا عَبْدُ الْوَارِثِ عَنْ كَثِيرِ بْنِ شِنْظِيرٍ عَنْ عَطَاءٍ فِي الْحُرَّةِ تَحْتَ الْعَبْدِ قَالَ أَمَّا مَا وَلَدَتْ مِنْهُ وَهُوَ عَبْدٌ فَوَلَاؤُهُمْ لِأَهْلِ نِعْمَتِهَا وَمَا وَلَدَتْ مِنْهُ وَهُوَ حُرٌّ فَوَلَاؤُهُمْ لِأَهْلِ نِعْمَتِهِ",
+                "id": "Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Abdul Warits] dari [Katsir bin Syinzhir] dari ['Atha`] tentang seorang perempuan merdeka yang menjadi isteri seorang budak, ia berkata; Jika yang dilahirkan adalah seorang budak maka wala` mereka jatuh kepada para wali dari ibunya, sedangkan jika yang dilahirkan adalah anak yang merdeka maka wala` mereka jatuh kepada orang-orang yang memerdekakan ayahnya."
+            },
+            {
+                "number": 2658,
+                "arab": " حَدَّثَنَا جَعْفَرُ بْنُ عَوْنٍ عَنْ الْأَعْمَشِ عَنْ إِبْرَاهِيمَ قَالَ قَالَ عُمَرُ إِذَا كَانَتْ الْحُرَّةُ تَحْتَ الْمَمْلُوكِ فَوَلَدَتْ لَهُ غُلَامًا فَإِنَّهُ يُعْتَقُ بِعِتْقِ أُمِّهِ وَوَلَاؤُهُ لِمَوَالِي أُمِّهِ فَإِذَا أُعْتِقَ الْأَبُ جَرَّ الْوَلَاءَ إِلَى مَوَالِي أَبِيهِ",
+                "id": "Telah menceritakan kepada kami [Ja'far bin 'Aun] dari [Al A'masy] dari [Ibrahim] ia berkata; [Umar] berkata; Jika seorang perempuan merdeka menjadi isteri seorang budak, lalu melahirkan seorang anak maka anaknya dimerdekakan karena status ibunya yang merdeka dan wala'nya jatuh kepada para wali dari ibunya dan jika sang ayah telah dimerdekakan maka wala`nya jatuh kepada para wali dari ayahnya."
+            },
+            {
+                "number": 2659,
+                "arab": " حَدَّثَنَا الْحَكَمُ بْنُ الْمُبَارَكِ حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ عَنْ ابْنِ إِسْحَقَ عَنْ الْعَلَاءِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِيهِ قَالَ كَانَتْ أُمِّي مَوْلَاةً لِلْحُرَقَةِ وَكَانَ أَبِي يَعْقُوبُ مُكَاتَبًا لِمَالِكِ بْنِ أَوْسِ بْنِ الْحَدَثَانِ النَّصْرِيِّ ثُمَّ إِنَّ أَبِي أَدَّى كِتَابَتَهُ فَدَخَلَ الْحُرَقِيُّ عَلَى عُثْمَانَ يَسْأَلُ الْحَقَّ يَعْنِي الْعَطَاءَ وَعِنْدَهُ مَالِكُ بْنُ أَوْسٍ فَقَالَ ذَاكَ مَوْلَايَ فَاخْتَصَمَا إِلَى عُثْمَانَ فَقَضَى بِهِ لِلْحُرَقِيِّ",
+                "id": "Telah menceritakan kepada kami [Al Hakam bin Al Mubarak] telah menceritakan kepada kami [Muhammad bin Salamah] dari [Ibnu Ishaq] dari [Al 'Ala` bin Abdurrahman] dari [ayahnya] ia berkata; Ibuku adalah mantan budak milik Huraqah sedangkan ayahku, Ya'qub adalah seorang budak mukatab milik Malik bin Aus bin Al Hadatsan An Nashri, kemudian ayahku telah melunasi mukatabahnya. Maka Al Huraqi menemui Utsman untuk memintakan hak, yakni pemberian, saat itu Malik bin Aus ada di sampingnya, ia berkata; Ia adalah mantan budakku. Lalu keduanya mengadukan hal itu kepada Utsman, lalu [Utsman] pun memutuskan wala`ku untuk Al Huraqi."
+            },
+            {
+                "number": 2660,
+                "arab": " حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ حَدَّثَنَا حَيْوَةُ أَخْبَرَنِي سَهْمُ بْنُ يَزِيدَ الْحَمْرَاوِيُّ أَنَّ رَجُلًا تُوُفِّيَ وَلَيْسَ لَهُ وَارِثٌ فَكُتِبَ فِيهِ إِلَى عُمَرَ بْنِ عَبْدِ الْعَزِيزِ وَهُوَ خَلِيفَةٌ فَكَتَبَ أَنْ اقْتَسِمُوا مِيرَاثَهُ عَلَى مَنْ كَانَ يَأْخُذُ مَعَهُمْ الْعَطَاءَ فَقُسِمَ مِيرَاثُهُ عَلَى مَنْ كَانَ يَأْخُذُ مَعَهُمْ الْعَطَاءَ فِي عِرَافَتِهِ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Yazid] telah menceritakan kepada kami [Haiwah] telah mengabarkan kepadaku [Sahm bin Yazid Al Hamrawi] bahwa seseorang telah meninggal dunia namun ia tidak memiliki seorang ahli waris pun. Maka dikirimkan surat kepada [Umar bin Abdul Aziz], saat itu ia menjabat sebagai khalifah, lalu ia membalas surat itu; Hendaklah kalian membagikan warisannya kepada orang yang berhak mengambil pemberian bersama mereka. Maka warisan itu pun dibagikan kepada orang-orang yang berhak mengambil pemberian bersama mereka dalam pekerjaannya."
+            },
+            {
+                "number": 2661,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ أَخْبَرَنَا عُبَيْدُ اللَّهِ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَا حَقُّ امْرِئٍ مُسْلِمٍ يَبِيتُ لَيْلَتَيْنِ وَلَهُ شَيْءٌ يُوصِي فِيهِ إِلَّا وَوَصِيَّتُهُ مَكْتُوبَةٌ عِنْدَهُ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Ubaid] telah mengabarkan kepada kami [ubaidhullah] dari [Nafi'] dari [Ibnu Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak selayaknya bagi seorang muslim yang melewati dua malam sedangkan ia memiliki sesuatu yang harus diwasiatkan kecuali wasiatnya tertulis di sisinya.\""
+            },
+            {
+                "number": 2662,
+                "arab": " حَدَّثَنَا عَفَّانُ حَدَّثَنَا أَبُو الْأَشْهَبِ حَدَّثَنَا الْحَسَنُ قَالَ الْمُؤْمِنُ لَا يَأْكُلُ فِي كُلِّ بَطْنِهِ وَلَا تَزَالُ وَصِيَّتُهُ تَحْتَ جَنْبِهِ",
+                "id": "Telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Abu Al Asyhab] telah menceritakan kepada kami [Al Hasan] ia berkata; Seorang mukmin adalah orang yang tidak makan sepenuh perutnya dan wasiatnya selalu berada di bawah pundaknya."
+            },
+            {
+                "number": 2663,
+                "arab": " أَخْبَرَنَا سُلَيْمَانُ بْنُ حَرْبٍ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ عَنْ الْقَاسِمِ بْنِ عُمَرَ قَالَ قَالَ لِي ثُمَامَةُ بْنُ حَزْنٍ مَا فَعَلَ أَبُوكَ قُلْتُ مَاتَ قَالَ فَهَلْ أَوْصَى فَإِنَّهُ كَانَ يُقَالُ إِذَا أَوْصَى الرَّجُلُ كَانَ وَصِيَّتُهُ تَمَامًا لِمَا ضَيَّعَ مِنْ زَكَاتِهِ قَالَ أَبُو مُحَمَّد و قَالَ غَيْرُهُ الْقَاسِمُ بْنُ عَمْرٍو",
+                "id": "Telah mengabarkan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Salamah] dari [Dawud bin Abu Hind] dari [Al Qasim bin Umar] ia berkata; [Tsumamah bin Hazn] berkata kepadaku; Apa yang dilakukan ayahmu? Aku menjawab; Ia telah meninggal dunia. Ia bertanya; Apakah ia telah berwasiat? Sebab dikatakan; Jika seseorang telah berwasiat dengan wasiat yang sempurna niscaya zakatnya tidak sia-sia. Abu Muhammad berkata, ada juga orang selainnya berkata; ia adalah Al Qasim bin Amr."
+            },
+            {
+                "number": 2664,
+                "arab": " حَدَّثَنَا أَبُو النُّعْمَانِ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ حَدَّثَنَا دَاوُدُ بْنُ أَبِي هِنْدٍ عَنْ الشَّعْبِيِّ قَالَ كَانَ يُقَالُ مَنْ أَوْصَى بِوَصِيَّةٍ فَلَمْ يَجُرْ وَلَمْ يَحِفْ كَانَ لَهُ مِنْ الْأَجْرِ مِثْلُ مَا أَنْ لَوْ تَصَدَّقَ بِهِ فِي حَيَاتِهِ",
+                "id": "Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Dawud bin Abu Hind] dari [Asy Sya'bi] ia berkata; Pernah dikatakan; Barangsiapa yang menyampaikan sebuah wasiat lalu ia tidak berbuat zhalim dan aniaya, maka ia mendapatkan pahala seperti pahala yang diperolehnya seandainya ia menyedekahkan selama hidupnya."
+            },
+            {
+                "number": 2665,
+                "arab": " أَخْبَرَنَا سَهْلُ بْنُ حَمَّادٍ حَدَّثَنَا شُعْبَةُ عَنْ أَبِي يُونُسَ عَنْ قَزَعَةَ قَالَ قِيلَ لِهَرِمِ بْنِ حَيَّانَ أَوْصِهْ قَالَ أُوصِيكُمْ بِالْآيَاتِ الْأَوَاخِرِ مِنْ سُورَةِ النَّحْلِ وَقَرَأَ ابْنُ حَيَّانَ { ادْعُ إِلَى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ - إِلَى قَوْلِهِ - وَالَّذِينَ هُمْ مُحْسِنُونَ }",
+                "id": "Telah mengabarkan kepada kami [Sahl bin Hammad] telah menceritakan kepada kami [Syu'bah] dari [Abu Yunus] dari [Qaza'ah] ia berkata; Dikatakan kepada [Harim bin Hayyan]; Berwasiatlah. Ia berkata; Aku wasiatkan kepada kalian ayat-ayat terakhir dari surah An Nahl. Lalu Ibnu Hayyan membaca, UD'UU ILA RABBIKA BIL HIKMATI… WALLADZI HUM MUHSININ (Serulah (manusia) kepada jalan Tuhanmu dengan yang baik…. dan orang-orang yang berbuat kebaikan)."
+            },
+            {
+                "number": 2666,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ عَنْ مَالِكِ بْنِ مِغْوَلٍ عَنْ طَلْحَةَ بْنِ مُصَرِّفٍ الْيَامِيِّ قَالَ سَأَلْتُ عَبْدَ اللَّهِ بْنَ أَبِي أَوْفَى أَوْصَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَا قُلْتُ فَكَيْفَ كُتِبَ عَلَى النَّاسِ الْوَصِيَّةُ أَوْ أُمِرُوا بِالْوَصِيَّةِ فَقَالَ أَوْصَى بِكِتَابِ اللَّهِ و قَالَ هُزَيْلُ بْنُ شُرَحْبِيلَ أَبُو بَكْرٍ كَانَ يَتَأَمَّرُ عَلَى وَصِيِّ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَدَّ أَبُو بَكْرٍ أَنَّهُ وَجَدَ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَهْدًا فَخَزَمَ أَنْفَهُ بِخِزَامَةٍ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yusuf] dari [Malik bin Mighwal] dari [Thalhah bin Musharrif Al Yami] ia berkata; Aku pernah bertanya kepada [Abdullah bin Abu Aufa]; Apakah Rasulullah shallallahu 'alaihi wasallam berwasiat? Ia menjawab; Tidak. Aku bertanya lagi; Lalu bagaimana wasiat itu diwajibkan atas manusia atau mereka diperintahkan untuk berwasiat? Ia menjawab; Beliau berwasiat dengan Kitabullah. Huzail bin Syurahbil berkata; Abu Bakar mendasarkan perintah wasiat kepada orang yang diberi wasiat dari Rasulullah shallallahu 'alaihi wasallam. Seandainya, ia menemukan sebuah wasiat dari Rasulullah shallallahu 'alaihi wasallam tentu ia akan mengaitkan hidungnya dengan kait itu (menaatinya)."
+            },
+            {
+                "number": 2667,
+                "arab": " أَخْبَرَنَا يَزِيدُ أَخْبَرَنَا هَمَّامٌ عَنْ قَتَادَةَ { إِنْ تَرَكَ خَيْرًا الْوَصِيَّةُ } قَالَ الْخَيْرُ الْمَالُ كَانَ يُقَالُ أَلْفًا فَمَا فَوْقَ ذَلِكَ",
+                "id": "Telah mengabarkan kepada kami [Yazid] telah mengabarkan kepada kami [Hammam] dari [Qatadah] tentang ayat: IN TARAKA KHAIRANIL WASHIYYAH (Jika dia meninggalkan harta yang banyak, berwasiat), ia berkata; Al Khair adalah harta. Dikatakan; Seribu atau lebih."
+            },
+            {
+                "number": 2668,
+                "arab": " أَخْبَرَنَا يَزِيدُ بْنُ هَارُونَ أَخْبَرَنَا ابْنُ عَوْنٍ عَنْ مُحَمَّدِ بْنِ سِيرِينَ أَنَّهُ أَوْصَى ذِكْرُ مَا أَوْصَى بِهِ أَوْ هَذَا ذِكْرُ مَا أَوْصَى بِهِ مُحَمَّدُ بْنُ أَبِي عَمْرَةَ بَنِيهِ وَأَهْلَ بَيْتِهِ أَنْ { اتَّقُوا اللَّهَ وَأَصْلِحُوا ذَاتَ بَيْنِكُمْ وَأَطِيعُوا اللَّهَ وَرَسُولَهُ إِنْ كُنْتُمْ مُؤْمِنِينَ } وَأَوْصَاهُمْ بِمَا أَوْصَى بِهِ إِبْرَاهِيمُ بَنِيهِ وَيَعْقُوبُ { يَا بَنِيَّ إِنَّ اللَّهَ اصْطَفَى لَكُمْ الدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنْتُمْ مُسْلِمُونَ } وَأَوْصَاهُمْ أَنْ لَا يَرْغَبُوا أَنْ يَكُونُوا مَوَالِيَ الْأَنْصَارِ وَإِخْوَانَهُمْ فِي الدِّينِ وَأَنَّ الْعِفَّةَ وَالصِّدْقَ خَيْرٌ وَأَتْقَى مِنْ الزِّنَا وَالْكَذِبِ إِنْ حَدَثَ بِهِ حَدَثٌ فِي مَرَضِي هَذَا قَبْلَ أَنْ أُغَيِّرَ وَصِيَّتِي هَذِهِ ثُمَّ ذَكَرَ حَاجَتَهُ",
+                "id": "Telah mengabarkan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Ibnu 'Aun] dari [Muhammad bin Sirin] bahwa ia pernah berwasiat. Berikut ini apa yang diwasiatkan atau inilah yang diwasiatkan oleh Muhammad bin Abu 'Amrah kepada anak-anak dan keluarganya; (Bertaqwalah kepada Allah dan perbaikilah hubungan di antara sesama kalian dan taatlah kepada Allah juga RasulNya jika kalian adalah orang-orang yang beriman). Lalu ia berwasiat kepada mereka seperti wasiat yang disampaikan oleh Nabi Ibrahim dan Ya'qub kepada anak-anaknya, (Hai anak-anakku! Sesungguhnya Allah telah memilih agama ini bagimu maka janganlah kamu mati kecuali dalam memeluk agama Islam). Ia juga berwasiat kepada mereka agar tidak keberatan menjadi penolong kaum Anshar dan menjadi saudara mereka dalam agama. Sesungguhnya sikap menjaga kehormatan diri dan kejujuran itu lebih baik dan lebih abadi dari pada zina dan dusta. Jika sesuatu terjadi pada diriku dalam sakitku ini sebelum aku mengubah wasiatku ini, kemudian ia menyebutkan keinginannya."
+            },
+            {
+                "number": 2669,
+                "arab": " أَخْبَرَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ حَدَّثَنَا أَبُو بَكْرٍ حَدَّثَنَا هِشَامُ بْنُ حَسَّانَ عَنْ ابْنِ سِيرِينَ عَنْ أَنَسٍ قَالَ هَكَذَا كَانُوا يُوصُونَ هَذَا مَا أَوْصَى بِهِ فُلَانُ بْنُ فُلَانٍ أَنَّهُ يَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ وَأَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ { وَأَنَّ السَّاعَةَ آتِيَةٌ لَا رَيْبَ فِيهَا وَأَنَّ اللَّهَ يَبْعَثُ مَنْ فِي الْقُبُورِ } وَأَوْصَى مَنْ تَرَكَ بَعْدَهُ مِنْ أَهْلِهِ أَنْ يَتَّقُوا اللَّهَ وَيُصْلِحُوا ذَاتَ بَيْنِهِمْ وَأَنْ يُطِيعُوا اللَّهَ وَرَسُولَهُ إِنْ كَانُوا مُؤْمِنِينَ وَأَوْصَاهُمْ بِمَا أَوْصَى بِهِ إِبْرَاهِيمُ بَنِيهِ وَيَعْقُوبُ { يَا بَنِيَّ إِنَّ اللَّهَ اصْطَفَى لَكُمْ الدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنْتُمْ مُسْلِمُونَ } وَأَوْصَى إِنْ حَدَثَ بِهِ حَدَثٌ مِنْ وَجَعِهِ هَذَا أَنَّ حَاجَتَهُ كَذَا وَكَذَا",
+                "id": "Telah mengabarkan kepada kami [Ahmad bin Abdullah] telah menceritakan kepada kami [Abu Bakr] telah menceritakan kepada kami [Hisyam bin Hassan] dari [Ibnu Sirin] dari [Anas] ia berkata; Seperti inilah mereka berwasiat; Ini adalah wasiat yang disampaikan oleh Fulan bin Fulan; Bahwa ia bersaksi tidak ada Tuhan yang berhak disembah selain Allah saja tiada sekutu bagiNya dan bahwa Muhammad adalah hamba dan utusanNya. Sesungguhnya hari kiamat pasti datang tanpa ada keraguan padanya. Dan sesungguhnya Allah akan membangkitkan orang-orang yang berada di dalam kubur. Ia juga berwasiat kepada keluarga yang ditinggalkannya agar bertaqwa kepada Allah dan memperbaiki hubungan di antara sesama mereka dan mentaati Allah dan RasulNya jika mereka adalah orang-orang yang beriman. Ia juga berwasiat kepada mereka seperti wasiat yang disampaikan oleh Nabi Ibrahim dan Ya'qub kepada anak-anaknya; (Hai anak-anakku! Sesungguhnya Allah telah memilih agama ini bagimu, maka janganlah kamu mati kecuali dalam memeluk agama Islam). Lalu ia berwasiat jika terjadi sesuatu pada dirinya akibat sakitnya ini, maka keinginannya adalah ini dan itu."
+            },
+            {
+                "number": 2670,
+                "arab": " حَدَّثَنَا الْحَكَمُ بْنُ الْمُبَارَكِ أَخْبَرَنَا الْوَلِيدُ عَنْ حَفْصِ بْنِ غَيْلَانَ عَنْ مَكْحُولٍ حِينَ أَوْصَى قَالَ تَشَهُّدُ هَذَا مَا شَهِدَ بِهِ يَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ وَأَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ وَيُؤْمِنُ بِاللَّهِ وَيَكْفُرُ بِالطَّاغُوتِ عَلَى ذَلِكَ يَحْيَا إِنْ شَاءَ اللَّهُ وَيَمُوتُ وَيُبْعَثُ وَأَوْصَى فِيمَا رَزَقَهُ اللَّهُ فِيمَا تَرَكَ إِنْ حَدَثَ بِهِ حَدَثٌ وَهُوَ كَذَا وَكَذَا إِنْ لَمْ يُغَيِّرْ شَيْئًا مِمَّا فِي هَذِهِ الْوَصِيَّةِ حَدَّثَنَا الْحَكَمُ حَدَّثَنَا الْوَلِيدُ قَالَ أَخْبَرَنِي ابْنُ ثَوْبَانَ عَنْ أَبِيهِ عَنْ مَكْحُولٍ قَالَ هَذِهِ وَصِيَّةُ أَبِي الدَّرْدَاءِ",
+                "id": "Telah menceritakan kepada kami [Al Hakam bin Al Mubarak] telah mengabarkan kepada kami [Al Walid] dari [Hafsh bin Ghailan] dari [Makhul] tatkala berwasiat ia berkata; ia berkata; Kesaksian ini adalah apa yang telah ia saksikan; Ia bersaksi bahwa tidak ada Tuhan yang berhak di sembah selain Allah saja, tiada sekutu bagiNya dan Muhammad adalah hamba Allah dan utusanNya, beriman kepada Allah dan kafir terhadap thaghut. Atas kesaksian ini ia hidup jika Allah menghendaki, ia mati dan dibangkitkan. Ia juga berwasiat kepda apa yang telah Allah rezkikan kepadanya terhadap apa yang ia tinggalkan. Jika terjadi sesuatu pada dirinya, maka seperti ini dan itu, jika ia tidak merubah sedikit pun dari apa yang telah tersebut dalam wasiat ini. Telah menceritakan kepada kami [Al Hakam] telah menceritakan kepada kami [Al Walid] ia berkata; Telah mengabarkan kepadaku [Ibnu Tsauban] dari [ayahnya] dari [Makhul] ia berkata; Ini adalah wasiat [Abu Ad Darda`]."
+            },
+            {
+                "number": 2671,
+                "arab": " حَدَّثَنَا جَعْفَرُ بْنُ عَوْنٍ حَدَّثَنَا أَبُو حَيَّانَ التَّيْمِيُّ عَنْ أَبِيهِ قَالَ كَتَبَ الرَّبِيعُ بْنُ خُثَيْمٍ وَصِيَّتَهُ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ هَذَا مَا أَوْصَى بِهِ الرَّبِيعُ بْنُ خُثَيْمٍ وَأَشْهَدَ اللَّهَ عَلَيْهِ وَكَفَى بِاللَّهِ شَهِيدًا وَجَازِيًا لِعِبَادِهِ الصَّالِحِينَ وَمُثِيبًا بِأَنِّي رَضِيتُ بِاللَّهِ رَبًّا وَبِالْإِسْلَامِ دِينًا وَبِمُحَمَّدٍ نَبِيًّا وَإِنِّي آمُرُ نَفْسِي وَمَنْ أَطَاعَنِي أَنْ نَعْبُدَ اللَّهَ فِي الْعَابِدِينَ وَنَحْمَدَهُ فِي الْحَامِدِينَ وَأَنْ نَنْصَحَ لِجَمَاعَةِ الْمُسْلِمِينَ",
+                "id": "Telah menceritakan kepada kami [Ja'far bin 'Aun] telah menceritakan kepada kami [Abu Hayyan At Taimi] dari [ayahnya] ia berkata; [Rabi' bin Khutsaim] pernah menulis wasiatnya sebagai berikut; Dengan nama Allah yang Maha Pengasih lagi Maha Penyayang, Ini adalah wasiat yang disampaikan oleh Rabi' bin Khutsaim, semoga Allah menyaksikan wasiat ini. Cukuplah Allah sebagai saksi dan pemberi balasan kepada orang-orang shalih dan pemberi pahala, karena sesungguhnya aku rela Allah sebagai Rabb, Islam sebagai agama dan Muhammad shallallahu 'alaihi wasallam sebagai nabi. Sesungguhnya aku memerintahkan kepada diriku dan orang yang taat kepadaku; Hendaklah kita beribadah kepada Allah bersama orang-orang yang beribadah dan memujiNya bersama orang-orang yang memuji serta selalu memberi nasehat kepada seluruh kaum muslimin."
+            },
+            {
+                "number": 2672,
+                "arab": " حَدَّثَنَا أَبُو النُّعْمَانِ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ هِشَامٍ عَنْ أَبِيهِ أَنَّ عَلِيًّا دَخَلَ عَلَى مَرِيضٍ فَذَكَرُوا لَهُ الْوَصِيَّةَ فَقَالَ عَلِيٌّ قَالَ اللَّهُ { إِنْ تَرَكَ خَيْرًا } وَلَا أُرَاهُ تَرَكَ خَيْرًا قَالَ حَمَّادٌ فَحَفِظْتُ أَنَّهُ تَرَكَ أَكْثَرَ مِنْ سَبْعِ مِائَةٍ",
+                "id": "Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari [Hisyam] dari [ayahnya] bahwa Ali pernah menjenguk orang sakit, lalu mereka menyebutkan wasiatnya kepada Ali, maka [Ali] pun berkata; Allah berfirman: IN TARAKA KHAIRAN (Jika dia meninggalkan harta), namun aku tidak melihatnya meninggalkan khair (harta). Hammad berkata; Seingatku, ia meninggalkan harta lebih dari tujuh ratus."
+            },
+            {
+                "number": 2673,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ كُنَاسَةَ حَدَّثَنَا هِشَامٌ عَنْ أَبِيهِ قَالَ دَخَلَ عَلِيُّ بْنُ أَبِي طَالِبٍ عَلَى رَجُلٍ مِنْ قَوْمِهِ يَعُودُهُ فَقَالَ أُوصِي قَالَ لَا لَمْ تَدَعْ مَالًا فَدَعْ مَالَكَ لِوَلَدِكَ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Kunasah] telah menceritakan kepada kami [Hisyam] dari [ayahnya] ia berkata; [Ali bin Abu Thalib] pernah menjenguk seorang laki-laki dari kaumnya. Lalu ia bertanya; Apakah aku berwasiat? Ia menjawab; Tidak. Ia bertanya; Engkau belum meninggalkan harta? Tinggalkanlah hartamu untuk anakmu."
+            },
+            {
+                "number": 2674,
+                "arab": " حَدَّثَنَا أَبُو زَيْدٍ حَدَّثَنَا شُعْبَةُ عَنْ مَنْصُورٍ عَنْ إِبْرَاهِيمَ فِي رَجُلٍ أَوْصَى وَالْوَرَثَةُ شُهُودٌ مُقِرُّونَ فَقَالَ لَا يَجُوزُ قَالَ أَبُو مُحَمَّد يَعْنِي إِذَا أَنْكَرُوا بَعْدُ",
+                "id": "Telah menceritakan kepada kami [Abu Zaid] telah menceritakan kepada kami [Syu'bah] dari [Manshur] dari [Ibrahim] tentang seseorang yang berwasiat sementara para ahli waris menyaksikan dan menyutujui, ia pun berkata; Tidak boleh. Abu Muhammad berkata; Yakni, jika setelah itu mereka mengingkarinya."
+            },
+            {
+                "number": 2675,
+                "arab": " حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ حَدَّثَنَا شُعْبَةُ قَالَ سَأَلْتُ الْحَكَمَ وَحَمَّادًا عَنْ الْأَوْلِيَاءِ يُجِيزُونَ الْوَصِيَّةَ فَإِذَا مَاتَ لَمْ يُجِيزُوا قَالَا لَا يَجُوزُ",
+                "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] ia berkata; Aku pernah bertanya kepada [Al Hakam] dan [Hammad] tentang para wali yang menyetujui wasiat, namun ketika ia meninggal dunia mereka tidak menyetujui? Maka keduanya menjawab; Tidak boleh."
+            },
+            {
+                "number": 2676,
+                "arab": " أَخْبَرَنَا يَزِيدُ بْنُ هَارُونَ عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ عَنْ عَامِرٍ عَنْ شُرَيْحٍ فِي الرَّجُلِ يُوصِي بِأَكْثَرَ مِنْ ثُلُثِهِ قَالَ إِنْ أَجَازَتْهُ الْوَرَثَةُ أَجَزْنَاهُ وَإِنْ قَالَتْ الْوَرَثَةُ أَجَزْنَاهُ فَهُمْ بِالْخِيَارِ إِذَا نَفَضُوا أَيْدِيَهُمْ مِنْ الْقَبْرِ",
+                "id": "Telah menceritakan kepada kami [Yazid bin Harun] dari [Dawud bin Abu Hind] dari [Amir] dari [Syuraih] tentang seseorang yang berwasiat lebih dari sepertiga hartanya, ia berkata; Jika para ahli waris menyetujuinya maka kami membolehkannya dan jika para ahli waris telah berkata; Kami menyetujuinya, maka mereka boleh memilih jika mereka telah mengibaskan tangan mereka dari kuburan."
+            },
+            {
+                "number": 2677,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا الْمَسْعُودِيُّ عَنْ أَبِي عَوْنٍ عَنْ الْقَاسِمِ أَنَّ رَجُلًا اسْتَأْذَنَ وَرَثَتَهُ أَنْ يُوصِيَ بِأَكْثَرَ مِنْ الثُّلُثِ فَأَذِنُوا لَهُ ثُمَّ رَجَعُوا فِيهِ بَعْدَ مَا مَاتَ فَسُئِلَ عَبْدُ اللَّهِ عَنْ ذَلِكَ فَقَالَ هَذَا التَّكَرُّهُ لَا يَجُوزُ",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Al Mas'udi] dari [Abu 'Aun] dari [Al Qasim] bahwa seorang laki-laki meminta izin kepada para ahli warisnya untuk berwasiat lebih dari sepertiga hartanya. Mereka pun mengizinkannya kemudian mereka membatalkan persetujuan mereka setelah laki-laki tersebut meninggal dunia. Maka ketika [Abdullah] ditanya tentang hal itu, ia menjawab; Pembatalan persetujuan ini tidak boleh."
+            },
+            {
+                "number": 2678,
+                "arab": " حَدَّثَنَا أَبُو النُّعْمَانِ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ هِشَامٍ عَنْ الْحَسَنِ فِي الرَّجُلِ يُوصِي بِأَكْثَرَ مِنْ الثُّلُثِ فَرَضِيَ الْوَرَثَةُ قَالَ هُوَ جَائِزٌ قَالَ أَبُو مُحَمَّد أَجَزْنَاهُ يَعْنِي فِي الْحَيَاةِ",
+                "id": "Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari [Hisyam] dari [Al Hasan] tentang seorang laki-laki yang berwasiat lebih dari sepertiga harta, namun para ahli warisnya setuju, ia berkata; Boleh. Abu Muhammad berkata; Kami membolehkannya, yakni selama masih hidup."
+            },
+            {
+                "number": 2679,
+                "arab": " حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ حَدَّثَنَا هَمَّامٌ حَدَّثَنَا قَتَادَةُ عَنْ يُونُسَ بْنِ جُبَيْرٍ عَنْ مُحَمَّدِ بْنِ سَعْدٍ عَنْ أَبِيهِ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ دَخَلَ عَلَيْهِ وَهُوَ بِمَكَّةَ وَلَيْسَ لَهُ إِلَّا ابْنَةٌ فَقُلْتُ لَهُ إِنَّهُ لَيْسَ لِي إِلَّا ابْنَةٌ وَاحِدَةٌ فَأُوصِي بِمَالِي كُلِّهِ فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا قُلْتُ فَأُوصِي بِالنِّصْفِ فَقَالَ لَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا قَالَ فَأُوصِي بِالثُّلُثِ قَالَ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الثُّلُثُ وَالثُّلُثُ كَثِيرٌ",
+                "id": "Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Yunus bin Jubair] dari [Muhammad bin Sa'd] dari [ayahnya] bahwa Nabi shallallahu 'alaihi wasallam menemuinya saat beliau berada di Makkah dan ia hanya memiliki seorang anak perempuan. Aku pun bertanya kepada beliau; Sesungguhnya aku hanya memiliki seorang anak perempuan, bolehkah aku mewasiatkan seluruh hartaku kepadanya? Nabi shallallahu 'alaihi wasallam menjawab: \"Tidak.\" Aku bertanya lagi; Bolehkah aku mewasiatkan setengah? Beliau mengatakan kepadanya: \"Tidak.\" Aku bertanya; Bolehkah aku mewasiatkan sepertiga? Ia mengatakan; Rasulullah shallallahu 'alaihi wasallam menjawab: \"Boleh sepertiga dan sepertiga itu banyak.\""
+            },
+            {
+                "number": 2680,
+                "arab": " أَخْبَرَنَا يَزِيدُ بْنُ هَارُونَ حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَقَ عَنْ الزُّهْرِيِّ عَنْ عَامِرِ بْنِ سَعْدٍ عَنْ أَبِيهِ قَالَ اشْتَكَيْتُ مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي حَجَّةِ الْوَدَاعِ حَتَّى أُدْنِفْتُ فَدَخَلَ عَلَيَّ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَعُودُنِي فَقُلْتُ يَا رَسُولَ اللَّهِ مَا أُرَانِي إِلَّا لِمَا بِي وَأَنَا ذُو مَالٍ كَثِيرٍ وَإِنَّمَا يَرِثُنِي ابْنَةٌ لِي أَفَأَتَصَدَّقُ بِمَالِي كُلِّهِ قَالَ لَا قُلْتُ فَبِنِصْفِهِ قَالَ لَا قُلْتُ فَالثُّلُثِ قَالَ الثُّلُثُ وَالثُّلُثُ كَثِيرٌ إِنَّكَ إِنْ تَتْرُكْ وَرَثَتَكَ أَغْنِيَاءَ خَيْرٌ مِنْ أَنْ تَتْرُكَهُمْ فُقَرَاءَ يَتَكَفَّفُونَ النَّاسَ بِأَيْدِيهِمْ وَإِنَّكَ لَا تُنْفِقُ نَفَقَةً إِلَّا آجَرَكَ اللَّهُ فِيهَا حَتَّى مَا تَجْعَلُ فِي فِي امْرَأَتِكَ",
+                "id": "Telah menceritakan kepada kami [Yazid bin Harun] telah menceritakan kepada kami [Muhammad bin Ishaq] dari [Az Zuhri] dari [Amir bin Sa'd] dari [ayahnya] ia berkata; Aku mengadukan sakitku kepada Nabi shallallahu 'alaihi wasallam pada saat haji wada' hingga ketika sakitku semakin parah, Rasulullah shallallahu 'alaihi wasallam datang menjengukku. Aku katakan; Wahai Rasulullah, aku kira sakitku semakin parah sementara aku memiliki banyak harta dan ahli warisku hanya anak perempuanku. Apakah aku boleh menyedekahkan seluruh hartaku? Beliau menjawab: \"Tidak.\" Aku berkata; Bagaimana setengahnya? Beliau menjawab; \"Tidak.\" Aku berkata; Sepertiga? Beliau menjawab: \"Sepertiga dan sepertiga itu sudah banyak. Sesungguhnya engkau jika meninggalkan para ahli warismu dalam keadaan kaya adalah lebih baik dari pada engkau meninggalkan mereka dalam keadaan fakir, meminta-minta kepada manusia dengan tangan mereka. Sesungguhnya tidaklah engkau menafkahkan suatu nafkah kecuali Allah akan memberi balasan di dalamnya untukmu hingga sesuatu yang engkau letakkan di mulut istrimu.\""
+            },
+            {
+                "number": 2681,
+                "arab": " حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ إِسْحَقَ بْنِ سُوَيْدٍ عَنْ الْعَلَاءِ بْنِ زِيَادٍ أَنَّ أَبَاهُ زِيَادَ بْنَ مَطَرٍ أَوْصَى فَقَالَ وَصِيَّتِي مَا اتَّفَقَ عَلَيْهِ فُقَهَاءُ أَهْلِ الْبَصْرَةِ فَسَأَلْتُ فَاتَّفَقُوا عَلَى الْخُمُسِ",
+                "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ishaq bin Suwaid] dari [Al 'Ala` bin Ziyad] bahwa ayahnya [Ziyad bin Mathar] pernah berwasiat seraya berkata; Wasiatku adalah apa yang disepakati oleh para fuqaha` Bashrah. Maka ketika aku tanyakan, mereka sepakat atas seperlima."
+            },
+            {
+                "number": 2682,
+                "arab": " حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ إِسْحَقَ بْنِ سُوَيْدٍ عَنْ الْعَلَاءِ بْنِ زِيَادٍ أَنَّ رَجُلًا سَأَلَ عُمَرَ بْنَ الْخَطَّابِ فَقَالَ إِنَّ وَارِثِي كَلَالَةٌ فَأُوصِي بِالنِّصْفِ قَالَ لَا قَالَ فَالثُّلُثِ قَالَ لَا قَالَ فَالرُّبُعِ قَالَ لَا قَالَ فَالْخُمُسِ قَالَ لَا حَتَّى صَارَ إِلَى الْعُشْرِ فَقَالَ أَوْصِ بِالْعُشْرِ",
+                "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ishaq bin Suwaid] dari [Al 'Ala` bin Ziyad] bahwa seorang laki-laki pernah bertanya kepada [Umar bin Al Khaththab], ia berkata; Sesungguhnya ahli warisku adalah kalalah, apakah aku boleh berwasiat dengan setengah harta? Ia menjawab; Tidak. Ia bertanya lagi; Sepertiga? Ia menjawab; Tidak. Ia bertanya lagi; Seperempat? Ia menjawab; Tidak. Ia bertanya; Seperlima? Ia menjawab; Tidak. Hingga ketika sampai sepersepuluh, ia menjawab; Berwasiatlah dengan sepersepuluh. "
+            },
+            {
+                "number": 2683,
+                "arab": " حَدَّثَنَا يَعْلَى حَدَّثَنَا إِسْمَعِيلُ عَنْ عَامِرٍ قَالَ إِنَّمَا كَانُوا يُوصُونَ بِالْخُمُسِ وَالرُّبُعِ وَكَانَ الثُّلُثُ مُنْتَهَى الْجَامِحِ قَالَ أَبُو مُحَمَّد يَعْنِي بِالْجَامِحِ الْفَرَسَ الْجَمُوحَ",
+                "id": "Telah menceritakan kepada kami [Ya'la] telah menceritakan kepada kami [Isma'il] dari [Amir] ia berkata; Sesungguhnya mereka berwasiat dengan seperlima dan seperempat. Sedangkan sepertiga sangat jamih. Abu Muhammad berkata; Al Jamih adalah kuda liar yang tidak patuh kepada pemiliknya."
+            },
+            {
+                "number": 2684,
+                "arab": " حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ عَنْ حُمَيْدٍ عَنْ بَكْرٍ قَالَ أَوْصَيْتُ إِلَى حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ فَقَالَ مَا كُنْتُ لِأَقْبَلَ وَصِيَّةَ رَجُلٍ لَهُ وَلَدٌ يُوصِي بِالثُّلُثِ",
+                "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Salamah] dari [Humaid] dari [Bakr] ia berkata; Aku pernah berwasiat kepada [Humaid bin Abdurrahman], lalu ia berkata; Aku tidak mau menerima wasiat orang memiliki anak berwasiat dengan sepertiga harta."
+            },
+            {
+                "number": 2685,
+                "arab": " حَدَّثَنَا قَبِيصَةُ أَخْبَرَنَا سُفْيَانُ عَنْ هِشَامٍ عَنْ مُحَمَّدِ بْنِ سِيرِينَ عَنْ شُرَيْحٍ قَالَ الثُّلُثُ جَهْدٌ وَهُوَ جَائِزٌ",
+                "id": "Telah menceritakan kepada kami [Qabishah] telah mengabarkan kepada kami [Sufyan] dari [Hisyam] dari [Muhammad bin Sirin] dari [Syuraih] ia berkata; Sepertiga sangat berat namun itu boleh."
+            },
+            {
+                "number": 2686,
+                "arab": " حَدَّثَنَا عُبَيْدُ اللَّهِ عَنْ إِسْرَائِيلَ عَنْ مَنْصُورٍ عَنْ إِبْرَاهِيمَ قَالَ كَانَ السُّدُسُ أَحَبَّ إِلَيْهِمْ مِنْ الثُّلُثِ",
+                "id": "Telah menceritakan kepada kami [ubaidhullah] dari [Isra`il] dari [Manshur] dari [Ibrahim] ia berkata; Seperenam lebih mereka sukai dari pada sepertiga."
+            },
+            {
+                "number": 2687,
+                "arab": " حَدَّثَنَا أَبُو الْوَلِيدِ حَدَّثَنَا شَرِيكٌ عَنْ مُغِيرَةَ عَنْ إِبْرَاهِيمَ قَالَ الْوَصِيُّ أَمِينٌ فِيمَا أُوصِيَ إِلَيْهِ بِهِ",
+                "id": "Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syarik] dari [Mughirah] dari [Ibrahim] ia berkata; Orang yang diberi wasiat harus amanah terhadap apa yang diwasiatkan kepadanya."
+            },
+            {
+                "number": 2688,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ الْمُبَارَكِ حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ عَنْ ابْنِ وَهْبٍ عَنْ مَكْحُولٍ قَالَ أَمْرُ الْوَصِيِّ جَائِزٌ فِي كُلِّ شَيْءٍ إِلَّا فِي الِابْتِيَاعِ وَإِذَا بَاعَ بَيْعًا لَمْ يُقِلْ وَهُوَ رَأْيُ يَحْيَى بْنِ حَمْزَةَ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Al Mubarak] telah menceritakan kepada kami [Yahya bin Hamzah] dari [Ibnu Wahb] dari [Makhul] ia berkata; Tindakan orang yang diberi wasiat boleh pada segala hal kecuali dalam hal membeli dirinya sendiri. Jika ia menjual suatu barang maka tidak boleh dibatalkan. Ini adalah pendapat Yahya bin Hamzah."
+            },
+            {
+                "number": 2689,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ الْمُبَارَكِ حَدَّثَنَا الْوَلِيدُ عَنْ الْأَوْزَاعِيِّ عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ قَالَ الْوَصِيُّ أَمِينٌ فِي كُلِّ شَيْءٍ إِلَّا فِي الْعِتْقِ فَإِنَّ عَلَيْهِ أَنْ يُقِيمَ الْوَلَاءَ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Al Mubarak] telah menceritakan kepada kami [Al Walid] dari [Al Auza'i] dari [Yahya bin Abu Katsir] ia berkata; Orang yang diberi wasiat berhak atas segala sesuatu kecuali memerdekakan, sebab kewajibannya adalah memelihara kepemilikan budak."
+            },
+            {
+                "number": 2690,
+                "arab": " حَدَّثَنَا عُبَيْدُ اللَّهِ عَنْ إِسْرَائِيلَ عَنْ مَنْصُورٍ عَنْ إِبْرَاهِيمَ فِي مَالِ الْيَتِيمِ يَعْمَلُ بِهِ الْوَصِيُّ إِذَا أَوْصَى إِلَى الرَّجُلِ",
+                "id": "Telah menceritakan kepada kami [ubaidhullah] dari [Isra`il] dari [Manshur] dari [Ibrahim] tentang harta anak yatim; Orang yang diberi wasiat berhak mengelolanya jika ia mewasiatkan kepada seseorang."
+            },
+            {
+                "number": 2691,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ الصَّلْتِ حَدَّثَنَا مُوسَى بْنُ مُحَمَّدٍ عَنْ إِسْمَعِيلَ عَنْ الْحَسَنِ قَالَ وَصِيُّ الْيَتِيمِ يَأْخُذُ لَهُ بِالشُّفْعَةِ وَالْغَائِبُ عَلَى شُفْعَتِهِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Ash Shalt] telah menceritakan kepada kami [Musa bin Muhammad] dari [Isma'il] dari [Al Hasan] ia berkata; Hak wasiat untuk mengurusi anak yatim diambil secara syuf'ah, Orang yang tidak ada di tempat juga memiliki hak syuf'ah. "
+            },
+            {
+                "number": 2692,
+                "arab": " أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُبَارَكِ حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ عَنْ عِكْرِمَةَ عَنْ شَيْخٍ مِنْ أَهْلِ دِمَشْقَ قَالَ كُنْتُ عِنْدَ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ وَعِنْدَهُ سُلَيْمَانُ بْنُ حَبِيبٍ وَأَبُو قِلَابَةَ إِذْ دَخَلَ غُلَامٌ فَقَالَ أَرْضُنَا بِمَكَانِ كَذَا وَكَذَا بَاعَكُمْ الْوَصِيُّ وَنَحْنُ أَطْفَالٌ فَالْتَفَتَ إِلَى سُلَيْمَانَ بْنِ حَبِيبٍ فَقَالَ مَا تَقُولُ فَأَضْجَعَ فِي الْقَوْلِ فَالْتَفَتَ إِلَى أَبِي قِلَابَةَ فَقَالَ مَا تَقُولُ قَالَ رُدَّ عَلَى الْغُلَامِ أَرْضَهُ قَالَ إِذًا يَهْلِكُ مَالُنَا قَالَ أَنْتَ أَهْلَكْتَهُ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Al Mubarak] telah menceritakan kepada kami [Yahya bin Hamzah] dari [Ikrimah] dari [seorang syaikh penduduk Damsyiq] ia berkata; Aku pernah berada di sisi Umar bin Abdul Aziz, saat itu di sebelahnya ada Sulaiman bin Habib dan Abu Qilabah. Ketika itu ada seorang anak muda masuk seraya berkata; Lahan kami yang ada di tempat ini dan itu dijual oleh orang yang diberi wasiat kepada kalian saat kami masih kecil. Maka (Umar) menoleh kepada Sulaiman bin Habib dan bertanya; Apa yang akan engkau katakan? Ia menjawab dengan singkat, ia pun menoleh ke arah [Abu Qilabah] dan bertanya; Apa yang akan engkau katakan? Ia menjawab; Kembalikan lahan tersebut kepada anak muda ini. (Sulaiman) berkata; Kalau begitu hilanglah harta kita. Ia menjawab; Engkaulah yang menghilangkannya."
+            },
+            {
+                "number": 2693,
+                "arab": " أَخْبَرَنَا إِبْرَاهِيمُ بْنُ مُوسَى عَنْ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ عَنْ أَشْعَثَ عَنْ الْحَسَنِ فِي رَجُلٍ أَوْصَى لِرَجُلٍ بِنِصْفِ مَالِهِ وَلِآخَرَ بِثُلُثِ مَالِهِ قَالَ يَضْرِبَانِ بِذَلِكَ فِي الثُّلُثِ هَذَا بِالنِّصْفِ وَهَذَا بِالثُّلُثِ",
+                "id": "Telah mengabarkan kepada kami [Ibrahim bin Musa] dari [Muhammad bin Abdullah] dari [Asy'ats] dari [Al Hasan] tentang seseorang yang mewasiatkan setengah hartanya kepada seseorang dan sepertiga hartanya kepada orang lain, ia berkata; Bagian mereka itu diambil dari sepertiga harta. Untuk orang ini setengahnya dan orang itu sepertiganya."
+            },
+            {
+                "number": 2694,
+                "arab": " حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ حَدَّثَنَا زَائِدَةُ عَنْ الشَّيْبَانِيِّ عَنْ الشَّعْبِيِّ قَالَ يُغَيِّرُ صَاحِبُ الْوَصِيَّةِ مِنْهَا مَا شَاءَ غَيْرَ الْعَتَاقَةِ",
+                "id": "Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi] telah menceritakan kepada kami [Za`idah] dari [Asy Syaibani] dari [Asy Sya'bi] ia berkata; Orang yang memberi wasiat boleh merubah sesukanya kecuali pemerdekaan."
+            },
+            {
+                "number": 2695,
+                "arab": " حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ حَدَّثَنَا هَمَّامٌ حَدَّثَنَا قَتَادَةُ عَنْ عَمْرِو بْنِ شُعَيْبٍ عَنْ عَبْدِ اللَّهِ بْنِ أَبِي رَبِيعَةَ أَنَّ عُمَرَ بْنَ الْخَطَّابِ قَالَ يُحْدِثُ الرَّجُلُ فِي وَصِيَّتِهِ مَا شَاءَ وَمِلَاكُ الْوَصِيَّةِ آخِرُهَا",
+                "id": "Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Amr bin Syu'aib] dari [Abdullah bin Abu Rabi'ah] bahwa [Umar bin Al Khaththab] berkata; Seseorang boleh melakukan apa saja pada wasiatnya. Sandaran wasiat adalah yang diwasiatkan terakhir."
+            },
+            {
+                "number": 2696,
+                "arab": " حَدَّثَنَا سَهْلُ بْنُ حَمَّادٍ حَدَّثَنَا هَمَّامٌ قَالَ حَدَّثَنِي قَتَادَةُ قَالَ حَدَّثَنِي عَمْرُو بْنُ دِينَارٍ أَنَّ أَبَاهُ أَعْتَقَ رَقِيقًا لَهُ فِي مَرَضِهِ ثُمَّ بَدَا لَهُ أَنْ يَرُدَّهُمْ وَيُعْتِقَ غَيْرَهُمْ قَالَ فَخَاصَمُونِي إِلَى عَبْدِ الْمَلِكِ بْنِ مَرْوَانَ فَأَجَازَ عِتْقَ الْآخِرِينَ وَأَبْطَلَ عِتْقَ الْأَوَّلِينَ",
+                "id": "Telah menceritakan kepada kami [Sahl bin Hammad] telah menceritakan kepada kami [Hammam] ia berkata; Telah menceritakan kepadaku [Qatadah] ia berkata; Telah menceritakan kepadaku [Amr bin Dinar] bahwa ayahnya memerdekakan seorang budak miliknya pada waktu ia sakit. Kemudian ia ingin membatalkan pemerdekaannya itu dan memerdekakan budak yang lain. Ia berkata; Mereka mengadukanku kepada [Abdul Malik bin Marwan], maka ia membolehkan kemerdekaan yang terakhir dan membatalkan kemerdekaan yang pertama."
+            },
+            {
+                "number": 2697,
+                "arab": " حَدَّثَنَا سَهْلُ بْنُ حَمَّادٍ حَدَّثَنَا هَمَّامٌ عَنْ عَمْرِو بْنِ شُعَيْبٍ عَنْ عَبْدِ اللَّهِ بْنِ أَبِي رَبِيعَةَ عَنْ الشَّرِيدِ بْنِ سُوَيْدٍ قَالَ قَالَ عُمَرُ يُحْدِثُ الرَّجُلُ فِي وَصِيَّتِهِ مَا شَاءَ وَمِلَاكُ الْوَصِيَّةِ آخِرُهَا قَالَ أَبُو مُحَمَّد هَمَّامٌ لَمْ يَسْمَعْ مِنْ عَمْرٍو وَبَيْنَهُمَا قَتَادَةُ",
+                "id": "Telah menceritakan kepada kami [Sahal bin Hammad] telah menceritakan kepada kami [Hammam] dari [Amr bin Syu'aib] dari [Abdullah bin Abu Rabi'ah] dari [Asy Syarid bin Suwaid] ia berkata; [Umar] berkata; Seseorang boleh melakukan apa saja pada wasiatnya. Sandaran wasiat adalah yang terakhir. Abu Muhammad berkata; Hammam tidak mendengar dari Amr dan Qatadah berada di antara keduanya."
+            },
+            {
+                "number": 2698,
+                "arab": " حَدَّثَنَا سَعِيدُ بْنُ الْمُغِيرَةِ قَالَ ابْنُ الْمُبَارَكِ حَدَّثَنَا عَنْ مَعْمَرٍ عَنْ الزُّهْرِيِّ فِي الرَّجُلِ يُوصِي بِوَصِيَّةٍ ثُمَّ يُوصِي بِأُخْرَى قَالَ هُمَا جَائِزَتَانِ فِي مَالِهِ",
+                "id": "Telah menceritakan kepada kami [Sa'id bin Al Mughirah], [Ibnu Al Mubarak] berkata; Telah menceritakan kepada kami dari [Ma'mar] dari [Az Zuhri] tentang seseorang yang mewasiatkan sebuah wasiat kemudian mewasiatkan wasiat lain, ia berkata; Keduanya boleh dilakukan pada hartanya sendiri."
+            },
+            {
+                "number": 2699,
+                "arab": " حَدَّثَنَا سَعِيدٌ عَنْ ابْنِ الْمُبَارَكِ عَنْ مَعْمَرٍ عَنْ قَتَادَةَ قَالَ قَالَ عُمَرُ بْنُ الْخَطَّابِ مِلَاكُ الْوَصِيَّةِ آخِرُهَا",
+                "id": "Telah menceritakan kepada kami [Sa'id] dari [Ibnu Al Mubarak] dari [Ma'mar] dari [Qatadah] ia berkata; [Umar bin Al Khaththab] berkata; Sandaran wasiat adalah yang diwasiatkan terakhir."
+            },
+            {
+                "number": 2700,
+                "arab": " أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُبَارَكِ حَدَّثَنَا الْوَلِيدُ عَنْ الْأَوْزَاعِيِّ عَنْ يَحْيَى قَالَ إِذَا اتَّهَمَ الْقَاضِي الْوَصِيَّ لَمْ يَعْزِلْهُ وَلَكِنْ يُوَكِّلُ مَعَهُ غَيْرَهُ وَهُوَ رَأْيُ الْأَوْزَاعِيِّ",
+                "id": "Telah mengabarkan kepada kami [Muhammad bin Al Mubarak] telah menceritakan kepada kami [Al Walid] dari [Al Auza'i] dari [Yahya] ia berkata; Jika hakim menuduh orang yang diberi wasiat maka ia tidak dibebaskan dari wasiatnya namun hakim menugaskan orang lain bersamanya dalam mengurusi wasiat. Ini adalah pendapat Al Auza'i."
+            },
+            {
+                "number": 2701,
+                "arab": " حَدَّثَنَا أَبُو الْوَلِيدِ حَدَّثَنَا شَرِيكٌ عَنْ الشَّيْبَانِيِّ عَنْ عَامِرٍ قَالَ يَجُوزُ بَيْعُ الْمَرِيضِ وَشِرَاؤُهُ وَنِكَاحُهُ وَلَا يَكُونُ مِنْ الثُّلُثِ",
+                "id": "Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syarik] dari [Asy Syaibani] dari [Amir] ia berkata; Orang sakit boleh melakukan transaksi jual beli dan menikah, namun hal itu tidak termasuk dari sepertiga."
+            },
+            {
+                "number": 2702,
+                "arab": " حَدَّثَنَا أَبُو الْوَلِيدِ حَدَّثَنَا أَبُو عَوَانَةَ عَنْ مُطَرِّفٍ عَنْ الْحَارِثِ الْعُكْلِيِّ قَالَ مَا حَابَى بِهِ الْمَرِيضُ فِي مَرَضِهِ مِنْ بَيْعٍ أَوْ شِرَاءٍ فَهُوَ فِي ثُلُثِهِ قِيمَةُ عَدْلٍ",
+                "id": "Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Abu 'Awanah] dari [Mutharrif] dari [Al Harits Al 'Ukli] ia berkata; Apa yang dibawa oleh orang sakit pada waktu sakitnya dari penjualan atau pembelian maka hak itu termasuk dalam sepertiga berdasarkan hitungan yang adil."
+            },
+            {
+                "number": 2703,
+                "arab": " حَدَّثَنَا أَبُو النُّعْمَانِ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ يَحْيَى هُوَ ابْنُ سَعِيدٍ قَالَ أَعْطَتْ امْرَأَةٌ مِنْ أَهْلِنَا وَهِيَ حَامِلٌ فَسُئِلَ الْقَاسِمُ فَقَالَ هُوَ مِنْ جَمِيعِ الْمَالِ قَالَ يَحْيَى وَنَحْنُ نَقُولُ إِذَا ضَرَبَهَا الْمَخَاضُ فَمَا أَعْطَتْ فَمِنْ الثُّلُثِ",
+                "id": "Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari [Yahya] ia adalah Ibnu Sa'id, ia berkata; Seorang wanita hamil dalam keluarga kami memberikan hartanya, maka hal itu ditanyakan kepada [Al Qasim] ia pun menjawab; Diberikan dari seluruh harta. Yahya berkata; Sedangkan pendapat kami adalah jika kehamilannya telah berumur satu kali haidl, ia tidak boleh memberikan namun ia memberinya dari sepertiga harta."
+            },
+            {
+                "number": 2704,
+                "arab": " حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ حَدَّثَنَا أَبُو شِهَابٍ عَنْ عَمْرٍو عَنْ الْحَسَنِ فِي رَجُلٍ قَالَ لِغُلَامِهِ إِنْ دَخَلْتُ دَارَ فُلَانٍ فَغُلَامِي حُرٌّ ثُمَّ دَخَلَهَا وَهُوَ مَرِيضٌ قَالَ يُعْتَقُ مِنْ الثُّلُثِ وَإِنْ دَخَلَ فِي صِحَّتِهِ عُتِقَ مِنْ جَمِيعِ الْمَالِ",
+                "id": "Telah menceritakan kepada kami [Ahmad bin Abdullah] telah menceritakan kepada kami [Abu Syihab] dari [Amr] dari [Al Hasan] tentang seseorang yang berkata kepada budaknya; Jika aku masuk rumah Fulan maka budakku merdeka. Kemudian ia memasukinya ketika sakit, ia berkata; Ia dimerdekakan dari sepertiga harta namun jika ia masuk rumah itu ketika sehatnya, ia dimerdekakan dari seluruh harta."
+            },
+            {
+                "number": 2705,
+                "arab": " حَدَّثَنَا مَرْوَانُ بْنُ مُحَمَّدٍ حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ حَدَّثَنَا النُّعْمَانُ بْنُ الْمُنْذِرِ عَنْ مَكْحُولٍ قَالَ إِذَا كَانَ الْوَرَثَةُ مَحَاوِيجَ فَلَا أَرَى بَأْسًا أَنْ يُرَدَّ عَلَيْهِمْ مِنْ الثُّلُثِ قَالَ يَحْيَى فَذَكَرْتُ ذَلِكَ لِلْأَوْزَاعِيِّ فَأَعْجَبَهُ",
+                "id": "Telah menceritakan kepada kami [Marwan bin Muhammad] telah menceritakan kepada kami [Yahya bin Hamzah] telah menceritakan kepada kami [An Nu'man bin Al Mundzir] dari [Makhul] ia berkata; Jika ahli waris adalah orang-orang yang membutuhkan maka aku berpendapat tidak apa-apa jika sepertiga harta tersebut dikembalikan kepada mereka. [Yahya] berkata; Kemudian aku menyebut hal itu kepada [Al Auza'i] dan ia menjadi heran."
+            },
+            {
+                "number": 2706,
+                "arab": " حَدَّثَنَا أَبُو النُّعْمَانِ حَدَّثَنَا هُشَيْمٌ حَدَّثَنَا يُونُسُ عَنْ الْحَسَنِ ح و أَخْبَرَنَا مُغِيرَةُ عَنْ إِبْرَاهِيمَ قَالَا إِذَا شَهِدَ شَاهِدَانِ مِنْ الْوَرَثَةِ جَازَ عَلَى جَمِيعِهِمْ وَإِذَا شَهِدَ وَاحِدٌ فَفِي نَصِيبِهِ بِحِصَّتِهِ",
+                "id": "Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Husyaim] telah menceritakan kepada kami [Yunus] dari [Al Hasan], dalam riwayat lain; Dan telah mengabarkan kepada kami [Mughirah] dari [Ibrahim] keduanya berkata; Jika ada dua orang ahli waris bersaksi atas wasiat maka hal itu boleh mewakili untuk semuanya dan jika hanya satu orang yang bersaksi maka hitungannya sesuai dengan bagiannya."
+            },
+            {
+                "number": 2707,
+                "arab": " حَدَّثَنَا أَبُو النُّعْمَانِ حَدَّثَنَا هُشَيْمٌ حَدَّثَنَا مُطَرِّفٌ أَنَّهُ سَمِعَ الشَّعْبِيَّ يَقُولُ إِذَا شَهِدَ رَجُلٌ مِنْ الْوَرَثَةِ فَفِي نَصِيبِهِ بِحِصَّتِهِ ثُمَّ قَالَ بَعْدَ ذَلِكَ فِي جَمِيعِ حِصَّتِهِ",
+                "id": "Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Husyaim] telah menceritakan kepada kami [Mutharrif] bahwa ia pernah mendengar [Asy Sya'bi] berkata; Jika salah seorang dari ahli waris bersaksi maka bagiannya sesuai dengan perhitungannya. Kemudian setelah itu ia mengatakan; Untuk semuanya sesuai dengan bagiannya."
+            },
+            {
+                "number": 2708,
+                "arab": " حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ حَدَّثَنَا أَبُو شِهَابٍ عَبْدُ رَبِّهِ بْنُ نَافِعٍ عَنْ الْأَعْمَشِ عَنْ إِبْرَاهِيمَ قَالَ إِذَا أَوْصَى الرَّجُلُ بِالثُّلُثِ وَالرُّبُعِ فَفِي الْعَيْنِ وَالدَّيْنِ وَإِذَا أَوْصَى بِخَمْسِينَ أَوْ سِتِّينَ إِلَى الْمِائَةِ فَفِي الْعَيْنِ حَتَّى يَبْلُغَ الثُّلُثَ",
+                "id": "Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi] telah menceritakan kepada kami [Abu Syihab Abdu Rabbihi bin Nafi'] dari [Al A'masy] dari [Ibrahim] ia berkata; Jika seseorang berwasiat dengan sepertiga atau seperempat hartanya maka diambil dari barang dan hutang, namun jika ia berwasiat dengan lima puluh atau enam puluh hingga seratus maka hanya dari barang hingga mencapai sepertiga."
+            },
+            {
+                "number": 2709,
+                "arab": " أَخْبَرَنَا مَرْوَانُ بْنُ مُحَمَّدٍ حَدَّثَنَا سُلَيْمَانُ بْنُ بِلَالٍ حَدَّثَنَا جَعْفَرُ بْنُ مُحَمَّدٍ عَنْ يَزِيدَ بْنِ عَبْدِ اللَّهِ بْنِ قُسَيْطٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمَرْءُ أَحَقُّ بِثُلُثِ مَالِهِ يَضَعُهُ فِي أَيِّ مَالِهِ شَاءَ",
+                "id": "Telah mengabarkan kepada kami [Marwan bin Muhammad] telah menceritakan kepada kami [Sulaiman bin Bilal] telah menceritakan kepada kami [Ja'far bin Muhammad] dari [Yazid bin Abdullah bin Qusaith] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Seseorang lebih berhak terhadap sepertiga hartanya di mana saja akan ia tempatkan.\" Yakni, dari harta manapun yang ia kehendaki."
+            },
+            {
+                "number": 2710,
+                "arab": " حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ حَدَّثَنَا شُعْبَةُ حَدَّثَنَا أَبُو إِسْحَقَ عَنْ أَبِي حَبِيبَةَ قَالَ سَأَلْتُ أَبَا الدَّرْدَاءِ عَنْ رَجُلٍ جَعَلَ دَرَاهِمَ فِي سَبِيلِ اللَّهِ فَقَالَ أَبُو الدَّرْدَاءِ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَثَلُ الَّذِي يَتَصَدَّقُ عِنْدَ مَوْتِهِ أَوْ يُعْتِقُ كَالَّذِي يُهْدِي بَعْدَ مَا شَبِعَ",
+                "id": "Telah menceritakan kepada kami [Abdush Shamad bin Abdul Warits] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Abu Ishaq] dari [Abu Habibah] ia berkata; Aku bertanya kepada Abu Ad Darda` tentang seseorang yang menyedekahkan dirham (harta) nya fi sabilillah, [Abu Ad Darda`] pun menjawab; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Perumpamaan orang yang bersedekah atau membebaskan budak menjelang kematiannya bagaikan orang yang memberi hadiah setelah ia kenyang.\""
+            },
+            {
+                "number": 2711,
+                "arab": " حَدَّثَنَا الْمُعَلَّى بْنُ أَسَدٍ حَدَّثَنَا وُهَيْبٌ عَنْ يُونُسَ عَنْ الْحَسَنِ فِي الرَّجُلِ يُوصِي بِأَشْيَاءَ وَفِيهَا الْعِتْقُ فَيُجَاوِزُ الثُّلُثَ قَالَ يُبْدَأُ بِالْعِتْقِ حَدَّثَنَا الْمُعَلَّى بْنُ أَسَدٍ قَالَ حَدَّثَنَا وُهَيْبٌ عَنْ أَيُّوبَ عَنْ مُحَمَّدٍ قَالَ بِالْحِصَصِ",
+                "id": "Telah menceritakan kepada kami [Al Mu'alla bin Asad] telah menceritakan kepada kami [Wuhaib] dari [Yunus] dari [Al Hasan] tentang seseorang mewasiatkan sesuatu yang terdapat hal pemerdekaan budak di dalamnya lalu wasiat itu melebihi sepertiga hartanya, ia berkata; Didahulukan pemerdekaan. Telah menceritakan kepada kami [Al Mu'alla bin Asad] ia berkata; Telah menceritakan kepada kami [Wuhaib] dari [Ayyub] dari [Muhammad] ia berkata; Didahulukan hitungan."
+            },
+            {
+                "number": 2712,
+                "arab": " حَدَّثَنَا الْحَسَنُ بْنُ بِشْرٍ حَدَّثَنَا الْمُعَافَى عَنْ عُثْمَانَ بْنِ الْأَسْوَدِ عَنْ عَطَاءٍ قَالَ مَنْ أَوْصَى أَوْ أَعْتَقَ فَكَانَ فِي وَصِيَّتِهِ عَوْلٌ دَخَلَ الْعَوْلُ عَلَى أَهْلِ الْعَتَاقَةِ وَأَهْلِ الْوَصِيَّةِ قَالَ وَقَالَ عَطَاءٌ إِنَّ أَهْلَ الْمَدِينَةِ غَلَبُونَا يَبْدَءُونَ بِالْعَتَاقَةِ قَبْلُ",
+                "id": "Telah menceritakan kepada kami [Al Hasan bin Bisyr] telah menceritakan kepada kami [Al Mu'afa] dari [Utsman bin Al Aswad] dari ['Atha`] ia berkata; Barangsiapa yang berwasiat atau memerdekakan budak sedangkan dalam wasiatnya itu terdapat 'aul, maka 'aul tersebut mengambil bagian dari orang yang memerdekakan budak dan orang yang berwasiat. Ia melanjutkan; ['Atha`] berkata; Sesungguhnya penduduk Madinah menyelisihi kami, mereka mendahulukan pemerdekaan. "
+            },
+            {
+                "number": 2713,
+                "arab": " حَدَّثَنَا أَبُو النُّعْمَانِ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ قَالَ قَالَ عَمْرُو بْنُ دِينَارٍ فِي الَّذِي يُوصِي بِعِتْقٍ وَغَيْرِهِ فَيَزِيدُ عَلَى الثُّلُثِ قَالَ بِالْحِصَصِ",
+                "id": "Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] ia berkata; [Amr bin Dinar] berkata tentang orang yang berwasiat untuk pemerdekaan budak dan hal lainnya lalu melebihi sepertiga harta, ia berkata; Didahulukan hitungan."
+            },
+            {
+                "number": 2714,
+                "arab": " حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ كَثِيرِ بْنِ شِنْظِيرٍ عَنْ الْحَسَنِ فِي رَجُلٍ أَوْصَى بِأَكْثَرَ مِنْ الثُّلُثِ وَفِيهِ عِتْقٌ قَالَ يُبْدَأُ بِالْعِتْقِ",
+                "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Katsir bin Syinzhir] dari [Al Hasan] tentang seseorang yang berwasiat melebihi sepertiga harta dan termasuk di dalamnya pemerdekaan budak, ia berkata; Didahulukan pemerdekaan budak."
+            },
+            {
+                "number": 2715,
+                "arab": " حَدَّثَنَا عُبَيْدُ اللَّهِ عَنْ إِسْرَائِيلَ عَنْ مَنْصُورٍ عَنْ إِبْرَاهِيمَ قَالَ يُبْدَأُ بِالْعَتَاقَةِ قَبْلَ الْوَصِيَّةِ",
+                "id": "Telah menceritakan kepada kami [ubaidhullah] dari [Isra`il] dari [Manshur] dari [Ibrahim] ia berkata; Didahulukan pemerdekaan budak sebelum wasiat."
+            },
+            {
+                "number": 2716,
+                "arab": " أَخْبَرَنَا الْمُعَلَّى بْنُ أَسَدٍ قَالَ حَدَّثَنَا وُهَيْبٌ عَنْ يُونُسَ عَنْ الْحَسَنِ فِي الرَّجُلِ يُوصِي لِبَنِي فُلَانٍ قَالَ غَنِيُّهُمْ وَفَقِيرُهُمْ وَذَكَرُهُمْ وَأُنْثَاهُمْ سَوَاءٌ",
+                "id": "Telah menceritakan kepada kami [Al Mu'alla bin Asad] ia berkata; telah menceritakan kepada kami [Wuhaib] dari [Yunus] dari [Al Hasan] tentang seorang laki-laki yang berwasiat untuk anak orang lain, ia katakan, \"Kaya dan miskin, laki-laki dan perempuan mereka semua sama.\""
+            },
+            {
+                "number": 2717,
+                "arab": " حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ حَدَّثَنَا أَبُو شِهَابٍ عَنْ عَمْرٍو عَنْ الْحَسَنِ قَالَ إِذَا أَوْصَى لِبَنِي فُلَانٍ فَالذَّكَرُ وَالْأُنْثَى فِيهِ سَوَاءٌ",
+                "id": "Telah menceritakan kepada kami [Ahmad bin Abdullah] telah menceritakan kepada kami [Abu Syihab] dari [Amru] dari [Al Hasan] ia berkata, \"Jika seseorang berwasiat untuk anak orang lain maka laki-laki dan perempuan adalah sama.\""
+            },
+            {
+                "number": 2718,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا زَائِدَةُ بْنُ مُوسَى الْهَمْدَانِيُّ حَدَّثَنِي سَيَّارُ بْنُ أَبِي كَرِبٍ أَنَّ آتِيًا أَتَى شُرَيْحًا فَسَأَلَهُ عَنْ رَجُلٍ أَوْصَى بِسَهْمٍ مِنْ مَالِهِ قَالَ تُحْسَبُ الْفَرِيضَةُ فَمَا بَلَغَ سِهَامَهَا أُعْطِيَ الْمُوصَى لَهُ سَهْمًا كَأَحَدِهَا",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Za`idah bin Musa Al Hamdani] telah menceritakan kepadaku [Sayyar bin Abu Karb], bahwa ada seseorang mendatangi [Syuraih] dan bertanya kepadanya tentang seorang laki-laki yang berwasiat dari sebagian hartanya. Syuraih menjawab, \"Dihitung yang menjadi kewajibannya, jika melampaui bagian wasiat maka orang yang mendapatkan wasiat diberikan bagiannya seperti yang lainnya.\""
+            },
+            {
+                "number": 2719,
+                "arab": " أَخْبَرَنَا مَرْوَانُ بْنُ مُحَمَّدٍ حَدَّثَنَا سَعِيدٌ عَنْ مَكْحُولٍ قَالَ إِذَا تَصَدَّقَ الرَّجُلُ عَلَى بَعْضِ وَرَثَتِهِ وَهُوَ صَحِيحٌ بِأَكْثَرَ مِنْ النِّصْفِ رُدَّ إِلَى الثُّلُثِ وَإِذَا أَعْطَى النِّصْفَ جَازَ لَهُ ذَلِكَ قَالَ سَعِيدٌ وَكَانَ قُضَاةُ أَهْلِ دِمَشْقَ يَقْضُونَ بِذَلِكَ",
+                "id": "Telah mengabarkan kepada kami [Marwan bin Muhammad] telah menceritakan kepada kami [Sa'id] dari [Makhul] ia berkata, \"Jika seorang laki-laki bersedekah kepada sebagian ahli warisnya -sedangkan ia masih dalam keadaan sehat- lebih dari setengah hartanya, maka harus kurangi hingga hanya sepertiga. Dan jika ia memberikan setengah hartanya maka hal itu diperbolehkan baginya.\" Sa'id berkata, \"Para hakim Damaskus memutuskan hukum seperti itu.\""
+            },
+            {
+                "number": 2720,
+                "arab": " حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ أَبِي شَيْبَةَ حَدَّثَنَا حَفْصٌ عَنْ إِسْمَعِيلَ بْنِ أَبِي خَالِدٍ عَنْ الْحَكَمِ عَنْ إِبْرَاهِيمَ قَالَ الْكَفَنُ مِنْ جَمِيعِ الْمَالِ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Muhammad bin Abu Syaibah] telah menceritakan kepada kami [Hafsh] dari [Isma'il bin Abu Khalid] dari [Al Hakam] dari [Ibrahim] ia berkata, \"Kafan diambil dari seluruh harta.\""
+            },
+            {
+                "number": 2721,
+                "arab": " حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى عَنْ مُعَاذٍ عَنْ أَشْعَثَ عَنْ الْحَسَنِ فِي رَجُلٍ مَاتَ وَتَرَكَ قِيمَةَ أَلْفَيْ دِرْهَمٍ وَعَلَيْهِ مِثْلُهَا أَوْ أَكْثَرُ قَالَ يُكَفَّنُ مِنْهَا وَلَا يُعْطَى دَيْنُهُ",
+                "id": "Telah menceritakan kepada kami [Ibrahim bin Musa] dari [Mu'adz] dari [Asy'ats] dari [Al Hasan] tentang seorang laki-laki yang meninggal dan ia meninggalkan harta senilai dua ratus dirham dan ia juga memiliki hutang sebanyak itu atau bahkan lebih, ia berkata, \"Kain kafan harus diambilkan dari harta tersebut meskipun hutangnya tidak lunas.\" "
+            },
+            {
+                "number": 2722,
+                "arab": " حَدَّثَنَا قَبِيصَةُ حَدَّثَنَا سُفْيَانُ عَمَّنْ سَمِعَ إِبْرَاهِيمَ قَالَ يُبْدَأُ بِالْكَفَنِ ثُمَّ الدَّيْنِ ثُمَّ الْوَصِيَّةِ",
+                "id": "Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan] dari [seseorang] yang mendengar [Ibrahim] ia berkata, \"Yang harus didahulukan itu adalah pengkafanan, kemudian pelunasan hutang, kemudian wasiat.\""
+            },
+            {
+                "number": 2723,
+                "arab": " حَدَّثَنَا قَبِيصَةُ أَخْبَرَنَا سُفْيَانُ عَنْ فِرَاسٍ عَنْ الشَّعْبِيِّ فِي الْمَرْأَةِ تَمُوتُ قَالَ تُكَفَّنُ مِنْ مَالِهَا لَيْسَ عَلَى الزَّوْجِ شَيْءٌ",
+                "id": "Telah menceritakan kepada kami [Qabishah] telah mengabarkan kepada kami [Sufyan] dari [Firas] dari [Asy Sya'bi] tentang seorang wanita yang meninggal, ia berkata, \"Ia harus dikafani dari hartanya tersebut, dan suaminya tidak mendapatkan apapun.\" "
+            },
+            {
+                "number": 2724,
+                "arab": " حَدَّثَنَا سَعِيدُ بْنُ الْمُغِيرَةِ عَنْ ابْنِ الْمُبَارَكِ عَنْ ابْنِ جُرَيْجٍ عَنْ عَطَاءٍ قَالَ الْحَنُوطُ وَالْكَفَنُ مِنْ رَأْسِ الْمَالِ",
+                "id": "Telah menceritakan kepada kami [Sa'id bin Al Mughirah] dari [Ibnu Al Mubarak] dari [Ibnu Juraij] dari ['Atha] ia berkata, \"Wewangian dan kafan diambil dari pokok harta.\""
+            },
+            {
+                "number": 2725,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ عُيَيْنَةَ عَنْ عَلِيِّ بْنِ مُسْهِرٍ عَنْ إِسْمَعِيلَ عَنْ الْحَسَنِ قَالَ الْكَفَنُ مِنْ وَسَطِ الْمَالِ يُكَفَّنُ عَلَى قَدْرِ مَا كَانَ يَلْبَسُ فِي حَيَاتِهِ ثُمَّ يُخْرَجُ الدَّيْنُ ثُمَّ الثُّلُثُ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Uyainah] dari [Ali bin Mushir] dari [Isma'il] dari [Al Hasan] ia berkata, \"Kafan diambil dari kain yang biasa, ia dikafani sekedar apa yang ia kenakan pada masa hidupnya, kemudian harta dikeluarkan untuk membayar hutang kemudian sepertiga untuk wasiat.\""
+            },
+            {
+                "number": 2726,
+                "arab": " حَدَّثَنَا أَبُو النُّعْمَانِ حَدَّثَنَا هُشَيْمٌ أَخْبَرَنَا مَنْصُورٌ عَنْ الْحَسَنِ أَنَّهُ كَانَ يَقُولُ إِذَا أَوْصَى الرَّجُلُ إِلَى الرَّجُلِ وَهُوَ غَائِبٌ فَلْيَقْبَلْ وَصِيَّتَهُ وَإِنْ كَانَ حَاضِرًا فَهُوَ بِالْخِيَارِ إِنْ شَاءَ قَبِلَ وَإِنْ شَاءَ تَرَكَ",
+                "id": "Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Manshur] dari [Al Hasan] bahwa ia pernah berkata, \"Jika seorang laki-laki berwasiat kepada seseorang yang tidak ada di tempat hendaklah ia menerima wasiatnya, jika berada di tempat maka ia boleh memilih, jika mau ia bisa menerima dan jika mau ia bisa menolaknya.\" "
+            },
+            {
+                "number": 2727,
+                "arab": " حَدَّثَنَا صَالِحُ بْنُ عَبْدِ اللَّهِ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ أَيُّوبَ قَالَ سَأَلْتُ الْحَسَنَ وَمُحَمَّدًا عَنْ الرَّجُلِ يُوصِي إِلَى الرَّجُلِ قَالَا نَخْتَارُ أَنْ يَقْبَلَ",
+                "id": "Telah menceritakan kepada kami [Shalih bin Abdullah] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] ia berkata, \"Aku bertanya kepada [Al Hasan] dan [Muhammad] tentang seseorang yang berwasiat kepada orang lain, keduanya berkata, \"Menurut kami hendaklah ia menerimanya.\""
+            },
+            {
+                "number": 2728,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ أَسْعَدَ حَدَّثَنَا أَبُو بَكْرٍ عَنْ هِشَامٍ عَنْ الْحَسَنِ قَالَ إِذَا أَوْصَى الرَّجُلُ إِلَى الرَّجُلِ وَهُوَ غَائِبٌ فَإِذَا قَدِمَ فَإِنْ شَاءَ قَبِلَ فَإِذَا قَبِلَ لَمْ يَكُنْ لَهُ أَنْ يَرُدَّ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Asad] telah menceritakan kepada kami [Abu Bakar] dari [Hisyam] dari [Al Hasan] ia berkata, \"Jika seorang laki-laki berwasiat kepada orang lain yang tidak berada di tempat maka ketika datang, jika mau boleh menerimanya, dan jika ia telah menerima maka tidak boleh lagi menolaknya.\""
+            },
+            {
+                "number": 2729,
+                "arab": " حَدَّثَنَا الْوَضَّاحُ بْنُ يَحْيَى حَدَّثَنَا أَبُو بَكْرٍ عَنْ هِشَامٍ عَنْ الْحَسَنِ قَالَ إِذَا أَوْصَى الرَّجُلُ إِلَى الرَّجُلِ فَعُرِضَتْ عَلَيْهِ الْوَصِيَّةُ وَكَانَ غَائِبًا فَقَبِلَ لَمْ يَكُنْ لَهُ أَنْ يَرْجِعَ",
+                "id": "Telah menceritakan kepada kami [Al Wadldlah bin Yahya] telah menceritakan kepada kami [Abu Bakar] dari [Hisyam] dari [Al Hasan] ia berkata, \"Jika seseorang berwasiat kepada orang lain lalu wasiat tersebut ditawarkan kepadanya, saat itu ia tidak berada di tempat dan ia menerima, maka tidak boleh baginya untuk menolak.\""
+            },
+            {
+                "number": 2730,
+                "arab": " حَدَّثَنَا جَعْفَرُ بْنُ عَوْنٍ عَنْ سَعِيدٍ عَنْ أَبِي مَعْشَرٍ عَنْ إِبْرَاهِيمَ قَالَ إِذَا أَوْصَى الرَّجُلُ لِإِنْسَانٍ وَهُوَ غَائِبٌ وَكَانَ مَيِّتًا وَهُوَ لَا يَدْرِي فَهِيَ رَاجِعَةٌ",
+                "id": "Telah menceritakan kepada kami [Ja'far bin 'Aun] dari [Sa'id] dari [Abu Ma'syar] dari [Ibrahim] ia berkata, \"Jika seseorang berwasiat kepada orang lain yang tidak berada di tempat dan ternyata ia telah meninggal, sedangkan orang yang berwasiat tidak tahu maka wasiat tersebut tidak berlaku.\""
+            },
+            {
+                "number": 2731,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ حَدَّثَنَا يُونُسُ عَنْ الْحَسَنِ قَالَ إِذَا أَوْصَى لِعَبْدِهِ ثُلُثَ مَالِهِ رُبُعَ مَالِهِ خُمُسَ مَالِهِ فَهُوَ مِنْ مَالِهِ دَخَلَتْهُ عَتَاقَةٌ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Yunus] dari [Al Hasan] ia berkata, \"Jika seseorang berwasiat kepada budaknya sepertiga, seperempat atau seperlima hartanya, maka harta itu termasuk harta budak. Pembebasannya yang memasukkannya.\""
+            },
+            {
+                "number": 2732,
+                "arab": " حَدَّثَنَا يَعْلَى عَنْ إِسْمَعِيلَ عَنْ قَيْسٍ قَالَ كَانَ يُقَالُ إِنَّ الرَّجُلَ لَيُحْرَمُ بَرَكَةَ مَالِهِ فِي حَيَاتِهِ فَإِذَا كَانَ عِنْدَ الْمَوْتِ تَزَوَّدَ بِفَجْرَةٍ",
+                "id": "Telah menceritakan kepada kami [Ya'la] dari [Isma'il] dari [Qais] ia berkata, \"Dikatakan, 'Sungguh, seorang laki-laki itu terhalang dari keberkahan hartanya semasa hidupnya jika pada saat kematiannya ia membawa kezhaliman terhadap ahli warisnya'.\""
+            },
+            {
+                "number": 2733,
+                "arab": " حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ حَدَّثَنَا أَبُو زُبَيْدٍ حَدَّثَنَا حُصَيْنٌ عَنْ إِبْرَاهِيمَ التَّيْمِيِّ عَنْ أَبِيهِ قَالَ قَالَ عَبْدُ اللَّهِ الْمُرَّانِ الْإِمْسَاكُ فِي الْحَيَاةِ وَالتَّبْذِيرُ عِنْدَ الْمَوْتِ قَالَ أَبُو مُحَمَّد يُقَالُ مُرٌّ فِي الْحَيَاةِ وَمُرٌّ عِنْدَ الْمَوْتِ",
+                "id": "Telah menceritakan kepada kami [Ahmad bin Abdullah] telah menceritakan kepada kami [Abu Zubaid] telah menceritakan kepada kami [Hushain] dari [Ibrahim At Taimi] dari [Ayahnya] ia berkata; [Abdullah] berkata, \"Ada dua kepahitan; kikir saat masih hidup dan foya-toya saat kematian.\" Abu Muhammad berkata, \"Dikatakan kepahitan ketika hidup dan kepahitan ketika meninggal dunia.\""
+            },
+            {
+                "number": 2734,
+                "arab": " حَدَّثَنَا عُبَيْدُ اللَّهِ عَنْ إِسْرَائِيلَ عَنْ مَنْصُورٍ عَنْ إِبْرَاهِيمَ قَالَ إِذَا أَوْصَى الرَّجُلُ لِآخَرَ بِمِثْلِ نَصِيبِ ابْنِهِ فَلَا يَتِمُّ لَهُ مِثْلُ نَصِيبِهِ حَتَّى يَنْقُصَ مِنْهُ",
+                "id": "Telah menceritakan kepada kami [ubaidhullah] dari [Israil] dari [Manshur] dari [Ibrahim] ia berkata, \"Jika seseorang memberi wasiat untuk orang lain dengan jumlah seperti bagian anaknya, maka wasiat tidak diberikan seperti bagian anaknya tersebut hingga kurang dari itu.\""
+            },
+            {
+                "number": 2735,
+                "arab": " حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ عَنْ الشَّعْبِيِّ فِي رَجُلٍ كَانَ لَهُ ثَلَاثَةُ بَنِينَ فَأَوْصَى لِرَجُلٍ مِثْلَ نَصِيبِ أَحَدِهِمْ لَوْ كَانُوا أَرْبَعَةً قَالَ الشَّعْبِيُّ يُعْطَى الْخُمُسَ",
+                "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Salamah] dari [Dawud bin Abu Hind] dari [Asy Sya'bi] tentang seseorang yang memiliki tiga anak laki-laki lalu ia memberikan wasiat untuk orang lain dengan jumlah seperti bagian salah seorang dari mereka seandainya anaknya berjumlah empat orang.\" Asy Sya'bi berkata, \"Ia diberi seperlima.\""
+            },
+            {
+                "number": 2736,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ حَدَّثَنَا دَاوُدُ بْنُ أَبِي هِنْدٍ قَالَ سَأَلْنَا عَامِرًا عَنْ رَجُلٍ تَرَكَ ابْنَيْنِ وَأَوْصَى بِمِثْلِ نَصِيبِ أَحَدِهِمْ لَوْ كَانُوا ثَلَاثَةً قَالَ أَوْصَى بِالرُّبُعِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Dawud bin Abu Hind] ia berkata, \"Kami bertanya kepada [Amir] tentang seseorang yang meninggalkan dua anak laki-laki dan berwasiat dengan jumlah seperti bagian salah seorang dari mereka seandainya anaknya berjumlah tiga orang.\" Amir lalu menjawab, \"Hendaklah ia berwasiat dengan seperempat.\""
+            },
+            {
+                "number": 2737,
+                "arab": " حَدَّثَنَا أَبُو النُّعْمَانِ حَدَّثَنَا أَبُو عَوَانَةَ عَنْ مُغِيرَةَ عَنْ إِبْرَاهِيمَ قَالَ فِي رَجُلٍ أَوْصَى بِمِثْلِ نَصِيبِ بَعْضِ الْوَرَثَةِ قَالَ لَا يَجُوزُ وَإِنْ كَانَ أَقَلَّ مِنْ الثُّلُثِ قَالَ أَبُو مُحَمَّد هُوَ حَسَنٌ",
+                "id": "Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Abu 'Awanah] dari [Mughirah] dari [Ibrahim], ia berkata tentang seorang laki-laki yang memberi wasiat untuk orang lain sejumlah dengan bagian ahli waris, ia berkata, \"Tidak boleh sekalipun kurang dari sepertiga.\" Abu Muhammad berkata, \"Ini bagus.\""
+            },
+            {
+                "number": 2738,
+                "arab": " حَدَّثَنَا قَبِيصَةُ أَخْبَرَنَا سُفْيَانُ عَنْ ابْنِ أَبِي السَّفَرِ عَنْ الشَّعْبِيِّ فِي رَجُلٍ أَوْصَى فِي غَلَّةِ عَبْدِهِ بِدِرْهَمٍ وَغَلَّتُهُ سِتَّةٌ قَالَ لَهُ سُدُسُهُ",
+                "id": "Telah menceritakan kepada kami [Qabishah] telah mengabarkan kepada kami [Sufyan] dari [Ibnu Abu As Safar] dari [Asy Sya'bi] tentang seorang laki-laki yang memberikan wasiat untuk budaknya senilai satu dirham, sementara budaknya berjumlah enam orang, maka bagian setiap mereka adalah seperenam.\" "
+            },
+            {
+                "number": 2739,
+                "arab": " حَدَّثَنَا قَبِيصَةُ قَالَ سَمِعْتُ سُفْيَانَ يَقُولُ إِذَا أَقَرَّ لِوَارِثٍ وَلِغَيْرِ وَارِثٍ بِمِائَةِ دِرْهَمٍ أَرَى أَنْ أُبْطِلَهُمَا جَمِيعًا",
+                "id": "Telah menceritakan kepada kami [Qabishah] ia berkata; Aku pernah mendengar [Sufyan] berkata, \"Jika seseorang menetapkan untuk ahli waris atau untuk yang bukan ahli waris dengan seratus dirham, maka menurutku wasiat untuk keduanya itu batal.\""
+            },
+            {
+                "number": 2740,
+                "arab": " حَدَّثَنَا مُسْلِمٌ حَدَّثَنَا هَمَّامٌ حَدَّثَنَا قَتَادَةُ عَنْ ابْنِ سِيرِينَ عَنْ شُرَيْحٍ قَالَ لَا يَجُوزُ إِقْرَارٌ لِوَارِثٍ قَالَ و قَالَ الْحَسَنُ أَحَقُّ مَا جَازَ عَلَيْهِ عِنْدَ مَوْتِهِ أَوَّلَ يَوْمٍ مِنْ أَيَّامِ الْآخِرَةِ وَآخِرَ يَوْمٍ مِنْ أَيَّامِ الدُّنْيَا",
+                "id": "Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Ibnu Sirin] dari [Syuraih] ia berkata, \"Tidak boleh menetapkan wasiat untuk ahli waris.\" Ia berkata; [Al Hasan] berkata, \"Apa yang ia dapatkan pada saat kematian adalah, hari pertama dari hari-hari akhirat, dan hari terakhir dari hari-hari di dunia.\" "
+            },
+            {
+                "number": 2741,
+                "arab": " حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ أَخْبَرَنَا خَالِدٌ عَنْ خَالِدٍ عَنْ أَبِي قِلَابَةَ قَالَ لَا يَجُوزُ لِوَارِثٍ وَصِيَّةٌ",
+                "id": "Telah menceritakan kepada kami [Amru bin 'Aun] telah mengabarkan kepada kami [Khalid] dari [Khalid] dari [Abu Qilabah] ia berkata, \"Tidak boleh bagi ahli waris menerima wasiat.\""
+            },
+            {
+                "number": 2742,
+                "arab": " حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ حُمَيْدٍ أَنَّ رَجُلًا يُكْنَى أَبَا ثَابِتٍ أَقَرَّ لِامْرَأَتِهِ عِنْدَ مَوْتِهِ أَنَّ لَهَا عَلَيْهِ أَرْبَعَ مِائَةِ دِرْهَمٍ مِنْ صَدَاقِهَا فَأَجَازَهُ الْحَسَنُ",
+                "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Humaid], bahwa seorang laki-laki yang bernama Abu Tsabit menetapkan untuk isterinya ketika ia hendak meninggal dunia, bahwa isterinya tersebut mendapat empat ratus dirham dari mas kawinnya. Dan [Al Hasan] membolehkannya.\""
+            },
+            {
+                "number": 2743,
+                "arab": " حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا هِشَامٌ الدَّسْتَوَائِيُّ حَدَّثَنَا قَتَادَةُ عَنْ شَهْرِ بْنِ حَوْشَبٍ عَنْ عَبْدِ الرَّحْمَنِ بْنِ غَنْمٍ عَنْ عَمْرِو بْنِ خَارِجَةَ قَالَ كُنْتُ تَحْتَ نَاقَةِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهِيَ تَقْصَعُ بِجِرَّتِهَا وَلُعَابُهَا يَنُوصُ بَيْنَ كَتِفَيَّ سَمِعْتُهُ يَقُولُ أَلَا إِنَّ اللَّهَ قَدْ أَعْطَى كُلَّ ذِي حَقٍّ حَقَّهُ فَلَا يَجُوزُ وَصِيَّةٌ لِوَارِثٍ",
+                "id": "Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam Ad Dastawa`i] telah menceritakan kepada kami [Qatadah] dari [Syahr bin Hausyab] dari [Abdurrahman bin Ghanm] dari [Amru bin Kharijah] ia berkata, \"Aku pernah berada di bawah unta milik Nabi shallallahu 'alaihi wasallam yang sedang mengunyah makanan hingga air liurnya mengalir antara dua pundakku, aku mendengar beliau bersabda: \"Ketahuilah, sesungguhnya Allah telah memberikan kepada setiap orang apa yang telah menjadi haknya. Maka tidak boleh berwasiat kepada ahli waris.\""
+            },
+            {
+                "number": 2744,
+                "arab": " أَخْبَرَنَا يَزِيدُ بْنُ هَارُونَ أَخْبَرَنَا هَمَّامٌ عَنْ قَتَادَةَ قَالَ { إِذَا حَضَرَ أَحَدَكُمْ الْمَوْتُ إِنْ تَرَكَ خَيْرًا الْوَصِيَّةُ لِلْوَالِدَيْنِ وَالْأَقْرَبِينَ } فَأَمَرَ أَنْ يُوصِيَ لِوَالِدَيْهِ وَأَقَارِبِهِ ثُمَّ نُسِخَ بَعْدَ ذَلِكَ فِي سُورَةِ النِّسَاءِ فَجَعَلَ لِلْوَالِدَيْنِ نَصِيبًا مَعْلُومًا وَأَلْحَقَ لِكُلِّ ذِي مِيرَاثٍ نَصِيبَهُ مِنْهُ وَلَيْسَتْ لَهُمْ وَصِيَّةٌ فَصَارَتْ الْوَصِيَّةُ لِمَنْ لَا يَرِثُ مِنْ قَرِيبٍ وَغَيْرِهِ",
+                "id": "Telah mengabarkan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Hammam] dari [Qatadah] ia berkata tentang firman-Nya: '(Apabila seorang di antara kamu kedatangan (tanda-tanda) maut, jika ia meninggalkan harta yang banyak, berwasiat untuk ibu-bapak dan karib kerabatnya) '. (Qs. Al Baqarah: 180), Allah memerintahkan agar berwasiat kepada kedua orang tua dan karib kerabatnya. Kemudian hukum ini dihapus dengan ayat di dalam surat An Nisaa`. Dia menetapkan bahwa kedua orang tua telah mendapatkan bagian yang telah ditentukan, dan memberikan warisan kepada setiap orang yang berhak mendapat warisan dari harta warisannya, dan tidak ada lagi wasiat bagi mereka. Wasiat hanya diberikan kepada orang-orang yang tidak berhak mewarisi baik dari kerabat maupun lainnya.\""
+            },
+            {
+                "number": 2745,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ حَدَّثَنَا وَرْقَاءُ عَنْ ابْنِ أَبِي نَجِيحٍ عَنْ عَطَاءٍ عَنْ ابْنِ عَبَّاسٍ قَالَ كَانَ الْمَالُ لِلْوَلَدِ وَكَانَتْ الْوَصِيَّةُ لِلْوَالِدَيْنِ وَالْأَقْرَبِينَ فَنَسَخَ اللَّهُ مِنْ ذَلِكَ مَا أَحَبَّ فَجَعَلَ لِلذَّكَرِ مِثْلَ حَظِّ الْأُنْثَيَيْنِ وَجَعَلَ لِلْأَبَوَيْنِ لِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسَ وَالثُّلُثَ وَجَعَلَ لِلْمَرْأَةِ الثُّمُنَ وَالرُّبُعَ وَلِلزَّوْجِ الشَّطْرَ وَالرُّبُعَ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Warqa`] dari [Ibnu Abu Najih] dari ['Atha] dari [Ibnu Abbas] ia berkata, \"Harta adalah untuk anak sedangkan wasiat untuk kedua orang tua dan kerabat, lalu Allah menghapus dari hal itu apa yang Dia kehendaki. Allah menjadikan bagian untuk laki-laki seperti bagian dua perempuan, kedua orang tua masing-masing seperenam dan sepertiga, untuk isteri seperdelapan dan seperempat, dan untuk suami setengah dan seperempat.\""
+            },
+            {
+                "number": 2746,
+                "arab": " حَدَّثَنَا أَحْمَدُ بْنُ إِسْمَعِيلَ حَدَّثَنَا أَبُو تُمَيْلَةَ عَنْ الْحُسَيْنِ بْنِ وَاقِدٍ عَنْ يَزِيدَ عَنْ عِكْرِمَةَ وَالْحَسَنِ { إِنْ تَرَكَ خَيْرًا الْوَصِيَّةُ لِلْوَالِدَيْنِ وَالْأَقْرَبِينَ } وَكَانَتْ الْوَصِيَّةُ كَذَلِكَ حَتَّى نَسَخَتْهَا آيَةُ الْمِيرَاثِ",
+                "id": "Telah menceritakan kepada kami [Ahmad bin Isma'il] telah menceritakan kepada kami [Abu Tumailah] dari [Al Husain bin Waqid] dari [Yazid] dari [Ikrimah] dan [Al Hasan] tentang ayat: '(Jika ia meninggalkan harta yang banyak, berwasiat untuk ibu-bapak dan karib kerabatnya) ' (Qs. Al Baqarah: 180), begitulah wasiat dahulu hingga dihapus oleh ayat tentang harta warisan.\""
+            },
+            {
+                "number": 2747,
+                "arab": " حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ عَنْ حُمَيْدٍ عَنْ الْحَسَنِ سُئِلَ عَنْ رَجُلٍ أَوْصَى وَلَهُ أَخٌ مُوسِرٌ أَيُوصِ لَهُ قَالَ نَعَمْ وَإِنْ كَانَ رَبَّ عِشْرِينَ أَلْفًا ثُمَّ قَالَ وَإِنْ كَانَ رَبَّ مِائَةِ أَلْفٍ فَإِنَّ غِنَاهُ لَا يَمْنَعُهُ الْحَقَّ",
+                "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Salamah] dari [Humaid] dari [Al Hasan], ia ditanya tentang seseorang yang berwasiat sedangkan ia memiliki saudara yang kaya, apakah ia boleh berwasiat kepadanya?\" Ia menjawab, 'Ya, sekalipun ia memiliki dua puluh ribu.\" Kemudian ia berkata, \"Dan sekalipun ia memiliki seratus ribu, sebab kekayaannya tidak menghalanginya untuk memperoleh hak.\""
+            },
+            {
+                "number": 2748,
+                "arab": " حَدَّثَنَا عَفَّانُ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ حَدَّثَنَا قَتَادَةُ عَنْ الْحَسَنِ وَسَعِيدُ بْنُ الْمُسَيَّبِ فِي رَجُلٍ قَالَ سَيْفِي لِفُلَانٍ فَإِنْ مَاتَ فُلَانٌ فَلِفُلَانٍ فَإِنْ مَاتَ فُلَانٌ فَمَرْجِعُهُ إِلَيَّ قَالَا هُوَ لِلْأَوَّلِ قَالَ وَقَالَ حُمَيْدُ ابْنُ عَبْدِ الرَّحْمَنِ يُمْضَى كَمَا قَالَ",
+                "id": "Telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Hammad bin Salamah] telah menceritakan kepada kami [Qatadah] dari [Al Hasan] dan [Sa'id bin Al Musayyab] tentang seseorang yang berkata, 'Pedangku untuk Fulan, jika ia meninggal maka untuk Fulan (orang kedua) dan jika ia meninggal maka kembali kepadaku.' Mereka berdua menjawab, \"Pedang itu untuk yang pertama.\" [Humaid bin Abdurrahman] berkata, \"Berlaku seperti apa yang ia katakan.\""
+            },
+            {
+                "number": 2749,
+                "arab": " حَدَّثَنَا عَفَّانُ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ أَنَّ عُرْوَةَ قَالَ فِي الرَّجُلِ يُعْطِي الرَّجُلَ الْعَطَاءَ فَيَقُولُ هُوَ لَكَ فَإِذَا مُتَّ فَلِفُلَانٍ فَإِذَا مَاتَ فُلَانٌ فَلِفُلَانٍ وَإِذَا مَاتَ فُلَانٌ فَمَرْجِعُهُ إِلَيَّ قَالَ يُمْضَى كَمَا قَالَ وَإِنْ كَانُوا مِائَةً",
+                "id": "Telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Hammad bin Salamah] telah menceritakan kepada kami [Hisyam bin Urwah] ia berkata tentang seorang laki-laki yang memberikan kepada orang lain suatu pemberian, ia katakan, \"Itu untukmu, jika engkau meninggal maka ia untuk Fulan dan jika Fulan tersebut meninggal maka untuk fulan, jika fulan itu juga meninggal maka ia kembali kepadaku.\" [Urwah] berkata, \"Berlaku seperti apa yang ia katakan, sekalipun jumlah mereka seratus orang.\""
+            },
+            {
+                "number": 2750,
+                "arab": " حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ حَدَّثَنَا شَيْبَةُ بْنُ هِشَامٍ الرَّاسِبِيُّ وَكَثِيرُ بْنُ مَعْدَانَ قَالَا سَأَلْنَا سَالِمَ بْنَ عَبْدِ اللَّهِ عَنْ الرَّجُلِ يُوصِي فِي غَيْرِ قَرَابَتِهِ فَقَالَ سَالِمٌ هِيَ حَيْثُ جَعَلَهَا قَالَ فَقُلْنَا إِنَّ الْحَسَنَ يَقُولُ يُرَدُّ عَلَى الْأَقْرَبِينَ فَأَنْكَرَ ذَلِكَ وَقَالَ قَوْلًا شَدِيدًا",
+                "id": "Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Syaibah bin Hisyam Ar Rasibi] dan [Katsir bin Ma'dan] keduanya berkata, \"Kami bertanya kepada [Salim bin Abdullah] tentang seseorang yang berwasiat kepada selain kerabatnya. Salim menjawab, \"Wasiat itu dilakukan sesuai yang diwasiatkan.\" Katsir melanjutkan, \"Kami katakan, \"Sesungguhnya [Al Hasan] berkata, 'Dikembalikan kepada para kerabat.' Namun Salim mengingkari hal itu dan ia mengucapkan kata-kata yang keras.\""
+            },
+            {
+                "number": 2751,
+                "arab": " حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ حَدَّثَنَا أَبُو شِهَابٍ عَنْ عَمْرٍو عَنْ الْحَسَنِ قَالَ إِذَا أَوْصَى الرَّجُلُ فِي قَرَابَتِهِ فَهُوَ لِأَقْرَبِهِمْ بِبَطْنٍ الذَّكَرُ وَالْأُنْثَى فِيهِ سَوَاءٌ",
+                "id": "Telah menceritakan kepada kami [Ahmad bin Abdullah] telah menceritakan kepada kami [Abu Syihab] dari [Amru] dari [Al Hasan] ia berkata, \"Jika seseorang berwasiat untuk kerabatnya maka wasiat itu untuk kerabat yang terdekat, laki-laki dan perempuan sama.\""
+            },
+            {
+                "number": 2752,
+                "arab": " حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ حَدَّثَنَا أَبُو بَكْرٍ عَنْ مُطَرِّفٍ عَنْ الشَّعْبِيِّ فِي رَجُلٍ قَالَ أَحَدُ غُلَامَيَّ حُرٌّ ثُمَّ مَاتَ وَلَمْ يُبَيِّنْ قَالَ الْوَرَثَةُ بِمَنْزِلَتِهِ يُعْتِقُونَ أَيَّهُمَا أَحَبُّوا",
+                "id": "Telah menceritakan kepada kami [Ahmad bin Abdullah] telah menceritakan kepada kami [Abu Bakar] dari [Mutharrif] dari [Asy Sya'bi] tentang seorang laki-laki yang berkata, 'Salah satu budakku merdeka.' Kemudian laki-laki itu meninggal sebelum menjelaskan budak yang dimaksud. Asy Sya'bi berkata, \"Ahli waris sama kedudukannya dengan mayit, mereka boleh memerdekakan siapa yang lebih baik dimerdekakan.\""
+            },
+            {
+                "number": 2753,
+                "arab": " حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ عَنْ يُونُسَ عَنْ الْحَسَنِ أَنَّ رَجُلًا قَالَ فِي مَرَضِهِ لِفُلَانٍ كَذَا وَلِفُلَانٍ كَذَا وَعَبْدِي فُلَانٌ حُرٌّ وَلَمْ يَقُلْ إِنْ حَدَثَ بِي حَدَثٌ فَبَرَأَ قَالَ هُوَ مَمْلُوكٌ",
+                "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Salamah] dari [Yunus] dari [Al Hasan] tentang seseorang yang berkata ketika sakit, 'Untuk fulan sekian, untuk fulan sekian dan budakku si fulan merdeka, ' tanpa mengatakan 'jika terjadi sesuatu padaku', lalu ia sembuh. Al Hasan berkata, \"Budak itu tetap menjadi budak.\""
+            },
+            {
+                "number": 2754,
+                "arab": " حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ حَدَّثَنَا أَبُو بَكْرٍ عَنْ مُطَرِّفٍ عَنْ الشَّعْبِيِّ فِي رَجُلٍ أَعْتَقَ غُلَامَهُ عِنْدَ الْمَوْتِ وَلَيْسَ لَهُ غَيْرُهُ وَعَلَيْهِ دَيْنٌ قَالَ يَسْعَى لِلْغُرَمَاءِ فِي ثَمَنِهِ",
+                "id": "Telah menceritakan kepada kami [Ahmad bin Abdullah] telah menceritakan kepada kami [Abu Bakar] dari [Mutharrif] dari [Asy Sya'bi] tentang seseorang yang memerdekakan budaknya ketika menjelang kematiannya dan ia tidak memiliki harta selain budak tersebut sedangkan ia memiliki hutang, ia (Asy Sya'bi) berkata, \"Budak tersebut harus berusaha melunasi hutang tersebut dengan harga dirinya.\""
+            },
+            {
+                "number": 2755,
+                "arab": " حَدَّثَنَا أَبُو الْوَلِيدِ حَدَّثَنَا هَمَّامٌ حَدَّثَنَا قَتَادَةُ عَنْ الْحَسَنِ أَنَّ رَجُلًا اشْتَرَى عَبْدًا بِتِسْعِ مِائَةِ دِرْهَمٍ فَأَعْتَقَهُ وَلَمْ يَقْضِ ثَمَنَ الْعَبْدِ وَلَمْ يَتْرُكْ شَيْئًا فَقَالَ عَلِيٌّ يَسْعَى الْعَبْدُ فِي ثَمَنِهِ",
+                "id": "Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Al Hasan], bahwa seseorang membeli budak dengan harga sembilan ratus dirham, lalu ia memerdekakannya namun uang pembayarannya belum selesai, sementara ia tidak meninggalkan sedikit pun harta. Maka Ali berkata, \"Budak itu harus berusaha untuk membayar dirinya.\""
+            },
+            {
+                "number": 2756,
+                "arab": " حَدَّثَنَا مَنْصُورُ بْنُ سَلَمَةَ عَنْ شَرِيكٍ عَنْ الْأَشْعَثِ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ قَالَ الْمُدَبَّرُ مِنْ الثُّلُثِ",
+                "id": "Telah menceritakan kepada kami [Manshur bin Salamah] dari [Syarik] dari [Al Asy'ats] dari [Nafi'] dari [Ibnu Umar] ia berkata, \"Al Mudabbar termasuk sepertiga wasiat.\" "
+            },
+            {
+                "number": 2757,
+                "arab": " حَدَّثَنَا مَنْصُورُ بْنُ سَلَمَةَ عَنْ شَرِيكٍ عَنْ مَنْصُورٍ عَنْ إِبْرَاهِيمَ قَالَ الْمُدَبَّرُ مِنْ الثُّلُثِ",
+                "id": "Telah menceritakan kepada kami [Manshur bin Salamah] dari [Syarik] dari [Manshur] dari [Ibrahim] ia berkata, \"Al Mudabbar termasuk dalam sepertiga wasiat.\" "
+            },
+            {
+                "number": 2758,
+                "arab": " حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ كَثِيرٍ عَنْ الْحَسَنِ قَالَ الْمُعْتَقُ عَنْ دُبُرٍ مِنْ الثُّلُثِ",
+                "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Katsir] dari [Al Hasan] ia berkata, \"Budak yang dimerdekakan sepeninggal tuannya termasuk dalam sepertiga harta (yang boleh diwasiatkan).\""
+            },
+            {
+                "number": 2759,
+                "arab": " حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ عَنْ حُمَيْدٍ عَنْ الْحَسَنِ قَالَ الْمُعْتَقَةُ عَنْ دُبُرٍ وَوَلَدُهَا مِنْ الثُّلُثِ",
+                "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Salamah] dari [Humaid] dari [Al Hasan] ia berkata, \"Budak wanita dan anak laki-lakinyanya yang dimerdekakan sepeninggal tuannya termasuk dalam sepertiga harta (yang boleh diwasiatkan).\""
+            },
+            {
+                "number": 2760,
+                "arab": " حَدَّثَنَا أَبُو الْوَلِيدِ حَدَّثَنَا شُعْبَةُ قَالَ مَنْصُورٌ أَخْبَرَنِي عَنْ إِبْرَاهِيمَ قَالَ الْمُعْتَقُ عَنْ دُبُرٍ مِنْ الثُّلُثِ",
+                "id": "Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah], [Manshur] berkata; telah mengabarkan kepadaku dari [Ibrahim] ia berkata, \"Budak yang dimerdekakan sepeninggal tuannya termasuk dalam sepertiga harta (yang bisa diwasiatkan).\""
+            },
+            {
+                "number": 2761,
+                "arab": " حَدَّثَنَا أَبُو النُّعْمَانِ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ أَبِي عَبْدِ اللَّهِ الشَّقَرِيِّ وَأَبِي هَاشِمٍ عَنْ إِبْرَاهِيمَ قَالَ الْمُدَبَّرُ مِنْ جَمِيعِ الْمَالِ",
+                "id": "Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari [Abu Abdullah Asy Syaqari] dan [Abu Hasyim] dari [Ibrahim] ia berkata, \"Al Mudabbar termasuk dari keseluruhan harta.\" "
+            },
+            {
+                "number": 2762,
+                "arab": " أَخْبَرَنَا الْحَكَمُ بْنُ الْمُبَارَكِ أَخْبَرَنَا أَبُو عَوَانَةَ عَنْ أَبِي بِشْرٍ عَنْ سَعِيدِ بْنِ جُبَيْرٍ قَالَ الْمُعْتَقُ عَنْ دُبُرٍ مِنْ جَمِيعِ الْمَالِ سُئِلَ أَبُو مُحَمَّد بِأَيِّهِمَا تَقُولُ قَالَ مِنْ الثُّلُثِ",
+                "id": "Telah mengabarkan kepada kami [Al Hakam bin Al Mubarak] telah mengabarkan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Sa'id bin Jubair] ia berkata, \"Budak yang dimerdekakan sepeninggal tuannya termasuk dalam keseluruhan harta.\" Ketika Abu Muhammad ditanya, \"Manakah pendapat yang engkau ambil dari keduanya?\" Ia menjawab, \"Termasuk dari sepertiga harta.\""
+            },
+            {
+                "number": 2763,
+                "arab": " أَخْبَرَنَا سَعِيدُ بْنُ الْمُغِيرَةِ حَدَّثَنَا مَخْلَدٌ عَنْ هِشَامٍ عَنْ الْحَسَنِ قَالَ لَا تَشْهَدْ عَلَى وَصِيَّةٍ حَتَّى تُقْرَأَ عَلَيْكَ وَلَا تَشْهَدْ عَلَى مَنْ لَا تَعْرِفُ",
+                "id": "Telah mengabarkan kepada kami [Sa'id bin Al Mughirah] telah menceritakan kepada kami [Makhlad] dari [Hisyam] dari [Al Hasan] ia berkata, \"Janganlah engkau bersaksi atas suatu wasiat hingga dibacakan kepadamu dan jangan bersaksi atas orang yang tidak engkau kenal.\""
+            },
+            {
+                "number": 2764,
+                "arab": " أَخْبَرَنَا سُلَيْمَانُ بْنُ حَرْبٍ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ عَنْ حُمَيْدٍ عَنْ الْحَسَنِ أَنَّ عُمَرَ بْنَ الْخَطَّابِ أَوْصَى لِأُمَّهَاتِ أَوْلَادِهِ بِأَرْبَعَةِ آلَافٍ أَرْبَعَةِ آلَافٍ لِكُلِّ امْرَأَةٍ مِنْهُنَّ",
+                "id": "Telah mengabarkan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Salamah] dari [Humaid] dari [Al Hasan] bahwa [Umar bin Al Khaththab] pernah berwasiat kepada para ibu dari anak-anaknya sebanyak empat ribu, masing-masing orang mendapat empat ribu.\""
+            },
+            {
+                "number": 2765,
+                "arab": " حَدَّثَنَا يَحْيَى بْنُ حَسَّانَ أَخْبَرَنَا ابْنُ أَبِي الزِّنَادِ عَنْ أَبِيهِ عَنْ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ أَنَّهُ أَجَازَ وَصِيَّةَ ابْنِ ثَلَاثَ عَشْرَةَ سَنَةً",
+                "id": "Telah menceritakan kepada kami [Yahya bin Hassan] telah mengabarkan kepada kami [Ibnu Abu Az Zinad] dari [Ayahnya] dari [Umar bin Abdul Aziz], bahwa ia membolehkan wasiat anak berumur tiga belas tahun.\""
+            },
+            {
+                "number": 2766,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا زُهَيْرٌ عَنْ أَبِي إِسْحَقَ قَالَ أَوْصَى غُلَامٌ مِنْ الْحَيِّ ابْنُ سَبْعِ سِنِينَ فَقَالَ شُرَيْحٌ إِذَا أَصَابَ الْغُلَامُ فِي وَصِيَّتِهِ جَازَتْ قَالَ أَبُو مُحَمَّد يُعْجِبُنِي وَالْقُضَاةُ لَا يُجِيزُونَ ",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Zuhair] dari [Abu Ishaq] ia berkata, \"Seorang anak berumur tujuh tahun dari suatu kampung pernah berwasiat.\" Maka [Syuraih] berkata, \"Jika anak itu dalam wasiatnya benar maka wasiat itu dibolehkan.\" Abu Muhammad berkata, \"Hal itu membuatku kagum namun para hakim tidak membolehkannya.\""
+            },
+            {
+                "number": 2767,
+                "arab": " حَدَّثَنَا جَعْفَرُ بْنُ عَوْنٍ أَخْبَرَنَا يُونُسُ حَدَّثَنَا أَبُو إِسْحَقَ أَنَّهُ شَهِدَ شُرَيْحًا أَجَازَ وَصِيَّةَ عَبَّاسِ بْنِ إِسْمَعِيلَ بْنِ مَرْثَدٍ لِظِئْرِهِ مِنْ أَهْلِ الْحِيرَةِ وَعَبَّاسٌ صَبِيٌّ",
+                "id": "Telah menceritakan kepada kami [Ja'far bin 'Aun] telah mengabarkan kepada kami [Yunus] telah menceritakan kepada kami [Abu Ishaq] bahwa ia menyaksikan [Syuraih] membolehkan wasiat Abbas bin Isma'il bin Martsad kepada ibu susunya dari penduduk Hirah, padahal Abbas masih kecil.\""
+            },
+            {
+                "number": 2768,
+                "arab": " حَدَّثَنَا جَعْفَرُ بْنُ عَوْنٍ أَخْبَرَنَا يُونُسُ حَدَّثَنَا أَبُو إِسْحَقَ قَالَ قَالَ شُرَيْحٌ إِذَا اتَّقَى الصَّبِيُّ الرَّكِيَّةَ جَازَتْ وَصِيَّتُهُ",
+                "id": "Telah menceritakan kepada kami [Ja'far bin 'Aun] telah mengabarkan kepada kami [Yunus] telah menceritakan kepada kami [Abu Ishaq] ia berkata; [Syuraih] berkata, \"Jika seorang anak kecil dapat menghindari sumur, maka wasiatnya dibolehkan.\""
+            },
+            {
+                "number": 2769,
+                "arab": " حَدَّثَنَا قَبِيصَةُ حَدَّثَنَا سُفْيَانُ عَنْ أَبِي إِسْحَقَ أَنَّ غُلَامًا مِنْهُمْ حِينَ ثُغِرَ يُقَالُ لَهُ مَرْثَدٌ أَوْصَى لِظِئْرٍ لَهُ مِنْ أَهْلِ الْحِيرَةِ بِأَرْبَعِينَ دِرْهَمًا فَأَجَازَهُ شُرَيْحٌ وَقَالَ مَنْ أَصَابَ الْحَقَّ أَجَزْنَاهُ",
+                "id": "Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan] dari [Abu Ishaq] bahwa seorang anak dari mereka ketika telah tanggal giginya dipanggil Martsad, ia berwasiat kepada ibu susunya dari penduduk Hirah sebanyak empat puluh dirham. Dan [Syuraih] membolehkannya hal itu, ia katakan, \"Siapa saja yang sesuai dengan haknya maka kami membolehkannya.\""
+            },
+            {
+                "number": 2770,
+                "arab": " حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ أَخْبَرَنَا يَحْيَى أَنَّ أَبَا بَكْرِ بْنَ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ أَخْبَرَهُ أَنَّ غُلَامًا بِالْمَدِينَةِ حَضَرَهُ الْمَوْتُ وَوَرَثَتُهُ بِالشَّامِ وَأَنَّهُمْ ذَكَرُوا لِعُمَرَ أَنَّهُ يَمُوتُ فَسَأَلُوهُ أَنْ يُوصِيَ فَأَمَرَهُ عُمَرُ أَنْ يُوصِيَ فَأَوْصَى بِبِئْرٍ يُقَالُ لَهَا بِئْرُ جُشَمَ وَإِنَّ أَهْلَهَا بَاعُوهَا بِثَلَاثِينَ أَلْفًا ذَكَرَ أَبُو بَكْرٍ أَنَّ الْغُلَامَ كَانَ ابْنَ عَشْرِ سِنِينَ أَوْ ثِنْتَيْ عَشْرَةَ",
+                "id": "Telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Yahya] bahwa [Abu Bakar bin Muhammad bin Amru bin Hazm] mengabarkan kepadanya, bahwa ada seorang anak di Madinah sedang menghadapi kematian sementara ahli warisnya berada di Syam. Mereka memberitahukan kepada Umar bahwa anak itu akan meninggal, lalu mereka meminta kepadanya agar ia berwasiat. Maka [Umar] menyuruhnya untuk berwasiat, ia pun berwasiat dengan sebuah sumur bernama sumur Jusyam dan pemiliknya menjual dengan harga tiga puluh ribu.\" Abu Bakar menyebutkan bahwa anak itu berumur sepuluh atau dua belas tahun."
+            },
+            {
+                "number": 2771,
+                "arab": " حَدَّثَنَا يَزِيدُ عَنْ هِشَامٍ الدَّسْتَوَائِيِّ عَنْ حَمَّادٍ عَنْ إِبْرَاهِيمَ قَالَ يَجُوزُ وَصِيَّةُ الصَّبِيِّ فِي مَالِهِ فِي الثُّلُثِ فَمَا دُونَهُ وَإِنَّمَا يَمْنَعُهُ وَلِيُّهُ ذَلِكَ فِي الصِّحَّةِ رَهْبَةَ الْفَاقَةِ عَلَيْهِ فَأَمَّا عِنْدَ الْمَوْتِ فَلَيْسَ لَهُ أَنْ يَمْنَعَهُ",
+                "id": "Telah menceritakan kepada kami [Yazid] dari [Hisyam Ad Dastawa`i] dari [Hammad] dari [Ibrahim] ia berkata, \"Seorang anak kecil dibolehkan berwasiat dengan sepertiga dari hartanya atau kurang dari itu, walinya hanya boleh melarangnya berwasiat pada waktu sehat karena khawatir kemiskinan menimpanya. Adapun ketika (anak itu) akan meninggalnya maka walinya tidak berhak melarangnya.\""
+            },
+            {
+                "number": 2772,
+                "arab": " حَدَّثَنَا قَبِيصَةُ حَدَّثَنَا سُفْيَانُ عَنْ خَالِدٍ الْحَذَّاءِ وَأَيُّوبَ عَنْ ابْنِ سِيرِينَ عَنْ عَبْدِ اللَّهِ بْنِ عُتْبَةَ أَنَّهُ أُتِيَ فِي جَارِيَةٍ أَوْصَتْ فَجَعَلُوا يُصَغِّرُونَهَا فَقَالَ مَنْ أَصَابَ الْحَقَّ أَجَزْنَاهُ",
+                "id": "Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan] dari [Khalid Al Hadzdza`] dan [Ayyub] dari [Ibnu Sirin] dari [Abdullah bin Utbah], bahwa pernah didatangkan kepadanya seorang anak perempuan yang masih kecil, anak tersebut ingin berwasiat (dengan hartanya), namun mereka menganggapnya masih kecil. Abdullah bin Utbah berkata, \"Jika mendapati kebenaran maka kami membolehkannya.\""
+            },
+            {
+                "number": 2773,
+                "arab": " حَدَّثَنَا قَبِيصَةُ أَخْبَرَنَا سُفْيَانُ عَنْ يَحْيَى بْنِ سَعِيدٍ عَنْ أَبِي بَكْرٍ أَنَّ سُلَيْمًا الْغَسَّانِيَّ مَاتَ وَهُوَ ابْنُ عَشْرٍ أَوْ ثِنْتَيْ عَشْرَةَ سَنَةً فَأَوْصَى بِبِئْرٍ لَهُ قِيمَتُهَا ثَلَاثُونَ أَلْفًا فَأَجَازَهَا عُمَرُ بْنُ الْخَطَّابِ قَالَ أَبُو مُحَمَّد النَّاسُ يَقُولُونَ عَمْرُو بْنُ سُلَيْمٍ حَدَّثَنَا قَبِيصَةُ حَدَّثَنَا سُفْيَانُ عَنْ ابْنَيْهِ عَبْدِ اللَّهِ وَمُحَمَّدٍ ابْنَيْ أَبِي بَكْرٍ عَنْ أَبِيهِمَا مِثْلَ ذَلِكَ غَيْرَ أَنَّ أَحَدَهُمَا قَالَ ابْنُ ثَلَاثَ عَشْرَةَ وَقَالَ الْآخَرُ قَبْلَ أَنْ يَحْتَلِمَ قَالَ أَبُو مُحَمَّد عَنْ ابْنَيْهِ يَعْنِي ابْنَيْ أَبِي بَكْرٍ",
+                "id": "Telah menceritakan kepada kami [Qabishah] telah mengabarkan kepada kami [Sufyan] dari [Yahya bin Sa'd] dari [Abu Bakar], bahwa Sulaim Al Ghassan meninggal pada umur sepuluh atau dua belas tahun, ia pun berwasiat dengan sumur miliknya yang bernilai tiga puluh ribu, [Umar bin Al Khaththab] pun membolehkannya.\" Abu Muhammad berkata, \"Orang-orang mengatakan, 'Ia adalah Amru bin Sulaim'.\" Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan] dari kedua anaknya [Abdullah] dan [Muhammad] keduanya anak Abu Bakar dari [Ayah keduanya] seperti itu, hanya saja salah seorang dari keduanya berkata, \"Ia berumur tiga belas tahun.\" Yang lain berkata, \"Sebelum ia bermimpi junub.\" Abu Muhammad berkata, \"Dari kedua anaknya, yakni kedua anak Abu Bakar.\""
+            },
+            {
+                "number": 2774,
+                "arab": " حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ حَدَّثَنَا عَبْدُ الْأَعْلَى عَنْ مَعْمَرٍ عَنْ الزُّهْرِيِّ أَنَّهُ كَانَ يَقُولُ وَصِيَّتُهُ لَيْسَتْ بِجَائِزَةٍ إِلَّا مَا لَيْسَ بِذِي بَالٍ يَعْنِي الْغُلَامَ قَبْلَ أَنْ يَحْتَلِمَ",
+                "id": "Telah menceritakan kepada kami [Nashr bin Ali] telah menceritakan kepada kami [Abdul A'la] dari [Ma'mar] dari [Az Zuhri] bahwa ia berkata, \"Wasiatnya tidak dibolehkan kecuali jika ia sudah memiliki nalar, yakni anak yang belum bermimpi junub.\""
+            },
+            {
+                "number": 2775,
+                "arab": " حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ أَخْبَرَنَا هُشَيْمٌ عَنْ يُونُسَ عَنْ الْحَسَنِ قَالَ لَا يَجُوزُ طَلَاقُ الْغُلَامِ وَلَا وَصِيَّتُهُ وَلَا هِبَتُهُ وَلَا صَدَقَتُهُ وَلَا عَتَاقَتُهُ حَتَّى يَحْتَلِمَ",
+                "id": "Telah menceritakan kepada kami [Amru bin 'Aun] telah mengabarkan kepada kami [Husyaim] dari [Yunus] dari [Al Hasan] ia berkata, \"Tidak sah talak anak kecil, wasiat, hibah, sedekah dan pemerdekaannya hingga ia bermimpi junub.\""
+            },
+            {
+                "number": 2776,
+                "arab": " حَدَّثَنَا سَعِيدُ بْنُ الْمُغِيرَةِ عَنْ حَفْصِ بْنِ غِيَاثٍ عَنْ حَجَّاجٍ عَنْ عَطَاءٍ عَنْ ابْنِ عَبَّاسٍ قَالَ لَا يَجُوزُ طَلَاقُ الصَّبِيِّ وَلَا عِتْقُهُ وَلَا وَصِيَّتُهُ وَلَا شِرَاؤُهُ وَلَا بَيْعُهُ وَلَا شَيْءٌ",
+                "id": "Telah menceritakan kepada kami [Sa'id bin Al Mughirah] dari [Hafsh bin Ghiyats] dari [Hajjaj] dari ['Atha] dari [Ibnu Abbas] ia berkata, \"Tidak sah talak anak kecil, pemerdekaan, wasiat, jual belinya dan selainnya.\" "
+            },
+            {
+                "number": 2777,
+                "arab": " حَدَّثَنَا أَبُو الْوَلِيدِ حَدَّثَنَا هَمَّامٌ عَنْ قَتَادَةَ عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ الْحِمْيَرِيِّ قَالَ لَا يَجُوزُ طَلَاقٌ وَلَا وَصِيَّةٌ إِلَّا فِي عَقْلٍ إِلَّا النَّشْوَانَ يَعْنِي السَّكْرَانَ فَإِنَّهُ يَجُوزُ طَلَاقُهُ وَيُضْرَبُ ظَهْرُهُ",
+                "id": "Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Humaid bin Abdurrahman Al Himyari] ia berkata, \"Tidak sah talak dan wasiat kecuali telah berakal, selain An Nasywan, yaitu orang yang mabuk. Talaknya sah dan ia wajib dihukum dengan hukuman cambuk.\""
+            },
+            {
+                "number": 2778,
+                "arab": " حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ عَنْ خَالِدِ بْنِ عَبْدِ اللَّهِ عَنْ يَحْيَى بْنِ أَبِي إِسْحَقَ قَالَ سَأَلْتُ الْقَاسِمَ بْنَ عَبْدِ الرَّحْمَنِ وَمُعَاوِيَةَ بْنَ قُرَّةَ عَنْ رَجُلٍ قَالَ فِي وَصِيَّتِهِ كُلُّ مَمْلُوكٍ لِي حُرٌّ وَلَهُ مَمْلُوكٌ آبِقٌ فَقَالَا هُوَ حُرٌّ و قَالَ الْحَسَنُ وَإِيَاسٌ وَبَكْرُ بْنُ عَبْدِ اللَّهِ لَيْسَ بِحُرٍّ",
+                "id": "Telah menceritakan kepada kami [Amru bin 'Aun] dari [Khalid bin Abdullah] dari [Yahya bin Abu Ishaq] ia berkata, \"Aku bertanya kepada [Al Qasim bin Abdurrahman] dan [Mu'awiyah bin Qurrah] tentang seseorang yang berkata di dalam wasiatnya, 'Setiap budak milikku merdeka', dan ia memiliki seorang budak yang kabur?\" keduanya lalu menjawab, \"Budak yang kabur itu merdeka.\" Sedangkan [Al Hasan] dan [Iyas] dan [Bakar bin Abdullah] mengatakan, \"Ia tidak merdeka.\""
+            },
+            {
+                "number": 2779,
+                "arab": " حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ حَدَّثَنَا عَبْدُ اللَّهِ الْعُمَرِيُّ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ أَنَّ عُمَرَ أَوْصَى إِلَى حَفْصَةَ أُمِّ الْمُؤْمِنِينَ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Abdullah Al Umari] dari [Nafi'] dari [Ibnu Umar] bahwa [Umar] pernah berwasiat kepada Hafshah Ummul Mukminin.\""
+            },
+            {
+                "number": 2780,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا سُفْيَانُ عَنْ لَيْثٍ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ أَنَّ صَفِيَّةَ أَوْصَتْ لِنَسِيبٍ لَهَا يَهُودِيٍّ",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Laits] dari [Nafi'] dari [Ibnu Umar] bahwa [Shafiyah] telah berwasiat kepada seorang Yahudi yang bersamanya.\""
+            },
+            {
+                "number": 2781,
+                "arab": " حَدَّثَنَا أَبُو نُعَيْمٍ حَدَّثَنَا زُهَيْرٌ عَنْ أَبِي إِسْحَقَ قَالَ أَوْصَى غُلَامٌ مِنْ الْحَيِّ يُقَالُ لَهُ عَبَّاسُ بْنُ مَرْثَدٍ ابْنُ سَبْعِ سِنِينَ لِظِئْرٍ لَهُ يَهُودِيَّةٍ مِنْ أَهْلِ الْحِيرَةِ بِأَرْبَعِينَ دِرْهَمًا فَقَالَ شُرَيْحٌ إِذَا أَصَابَ الْغُلَامُ فِي وَصِيَّتِهِ جَازَتْ وَإِنَّمَا أَوْصَى لِذِي حَقٍّ قَالَ أَبُو مُحَمَّد أَنَا أَقُولُ بِهِ",
+                "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Zuhair] dari [Abu Ishaq] ia berkata, \"Seorang anak dari suatu perkampungan, bernama Abbas bin Marsad yang berumur tujuh tahun, berwasiat kepada ibu susunya yang beragama Yahudi dari Al Hirah sebanyak empat puluh dirham. [Syuraih] lalu menjawab, \"Jika anak itu benar dalam wasiatnya maka dibolehkan. Hanyasanya ia berwasiat kepada orang yang berhak.\" Abu Muhammad berkata, \"Aku juga berpendapat seperti itu.\""
+            },
+            {
+                "number": 2782,
+                "arab": " أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ حَدَّثَنَا أَبُو أُسَامَةَ عَنْ هِشَامٍ عَنْ أَبِيهِ أَنَّ الزُّبَيْرَ جَعَلَ دُورَهُ صَدَقَةً عَلَى بَنِيهِ لَا تُبَاعُ وَلَا تُوَرَّثُ وَأَنَّ لِلْمَرْدُودَةِ مِنْ بَنَاتِهِ أَنْ تَسْكُنَ غَيْرَ مُضِرَّةٍ وَلَا مُضَارٍّ بِهَا فَإِنْ هِيَ اسْتَغْنَتْ بِزَوْجٍ فَلَا حَقَّ لَهَا",
+                "id": "Telah mengabarkan kepada kami [Abdullah bin Sa'id] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Ayahnya] bahwa [Az Zubair] menjadikan beberapa rumahnya sebagai sedekah kepada anak-anaknya, tidak boleh dijual dan diwariskan. Dan bagi anak perempuannya yang dicerai oleh suami, boleh tinggal di rumah ayahnya tanpa mengganggu dan diganggu. Jika ia telah bersuami maka tidak ada lagi hak baginya untuk tinggal di rumah itu.\""
+            },
+            {
+                "number": 2783,
+                "arab": " حَدَّثَنَا الْحَكَمُ بْنُ الْمُبَارَكِ أَخْبَرَنَا الْوَلِيدُ عَنْ حَفْصٍ عَنْ مَكْحُولٍ فِي الرَّجُلِ يُوصِي لِلرَّجُلِ بِدَنَانِيرَ فِي سَبِيلِ اللَّهِ فَيَمُوتُ الْمُوصَى لَهُ قَبْلَ أَنْ يَخْرُجَ بِهَا مِنْ أَهْلِهِ قَالَ هِيَ إِلَى أَوْلِيَاءِ الْمُتَوَفَّى الْمُوصِي يُنْفِذُونَهَا فِي سَبِيلِ اللَّهِ",
+                "id": "Telah menceritakan kepada kami [Al Hakam bin Al Mubarak] telah mengabarkan kepada kami [Al Walid] dari [Hafsh] dari [Makhul] tentang seorang laki-laki yang berwasiat kepada orang lain beberapa dinar di jalan Allah, lalu orang yang diberi wasiat tersebut meninggal sebelum ia keluarkan uang itu dari keluarganya. Makhul katakan, \"Uang itu beralih kepada para wali orang yang diberi wasiat yang meninggal dunia untuk digunakan di jalan Allah.\""
+            },
+            {
+                "number": 2784,
+                "arab": " حَدَّثَنَا مُحَمَّدُ بْنُ عُيَيْنَةَ عَنْ عَلِيِّ بْنِ مُسْهِرٍ عَنْ أَشْعَثَ عَنْ الْحَسَنِ فِي الرَّجُلِ يُوصِي لِلرَّجُلِ بِالْوَصِيَّةِ فَيَمُوتُ الْمُوصَى لَهُ قَبْلَ الْمُوصِي قَالَ هِيَ جَائِزَةٌ لِوَرَثَةِ الْمُوصَى لَهُ حَدَّثَنَا مُحَمَّدُ بْنُ عُيَيْنَةَ عَنْ عَلِيِّ بْنِ مُسْهِرٍ عَنْ أَشْعَثَ عَنْ أَبِي إِسْحَقَ السَّبِيعِيِّ قَالَ حُدِّثْتُ أَنَّ عَلِيًّا كَانَ يُجِيزُهَا مِثْلَ قَوْلِ الْحَسَنِ",
+                "id": "Telah menceritakan kepada kami [Muhammad bin Uyainah] dari [Ali bin Mushir] dari [Asy'ats] dari [Al Hasan] tentang seseorang yang berwasiat suatu wasiat kepada orang lain, lalu orang yang diberi wasiat itu meninggal sebelum orang yang berwasiat. Al Hasan katakan, \"Boleh dialihkan kepada ahli waris orang yang diberi wasiat.\" Telah menceritakan kepada kami [Muhammad bin Uyainah] dari [Ali bin Mushir] dari [Asy'ats] dari [Abu Ishaq As Sabi'i] ia berkata, \" [Diceritakan kepadaku] bahwa [Ali] membolehkannya, seperti pendapat Al Hasan.\""
+            },
+            {
+                "number": 2785,
+                "arab": " حَدَّثَنَا الْحَكَمُ بْنُ الْمُبَارَكِ أَخْبَرَنَا عَبْدُ الْعَزِيزِ هُوَ ابْنُ مُحَمَّدٍ عَنْ مُوسَى هُوَ ابْنُ عُقْبَةَ عَنْ نَافِعٍ أَنَّ رَجُلًا جَاءَ إِلَى ابْنِ عُمَرَ فَقَالَ إِنَّ رَجُلًا أَوْصَى إِلَيَّ وَجَعَلَ نَاقَةً فِي سَبِيلِ اللَّهِ وَلَيْسَ هَذَا زَمَانًا يُخْرَجُ إِلَى الْغَزْوِ فَأَحْمِلُ عَلَيْهَا فِي الْحَجِّ فَقَالَ ابْنُ عُمَرَ الْحَجُّ وَالْعُمْرَةُ مِنْ سَبِيلِ اللَّهِ",
+                "id": "Telah menceritakan kepada kami [Al Hakam bin Al Mubarak] telah mengabarkan kepada kami [Abdul Aziz] -yaitu Ibnu Muhammad- dari [Musa] -yaitu Ibnu Uqbah- dari [Nafi'], bahwa seorang laki-laki datang kepada Ibnu Umar seraya berkata, \"Seseorang berwasiat kepadaku dengan seekor unta untuk digunakan di jalan Allah, sementara sekarang bukan masa perang, lalu aku menggunakannya untuk berhaji?\" [Ibnu Umar] lalu menjawab, \"Haji dan umrah juga termasuk di jalan Allah.\""
+            },
+            {
+                "number": 2786,
+                "arab": " أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى عَنْ مُوسَى بْنِ عُبَيْدَةَ عَنْ وَاقِدِ بْنِ مُحَمَّدِ بْنِ زَيْدٍ عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ أَنَّ رَجُلًا أَوْصَى بِمَالِهِ فِي سَبِيلِ اللَّهِ فَسَأَلَ الْوَصِيُّ عَنْ ذَلِكَ عُمَرَ فَقَالَ أَعْطِهِ عُمَّالَ اللَّهِ قَالَ وَمَنْ عُمَّالُ اللَّهِ قَالَ حَاجُّ بَيْتِ اللَّهِ",
+                "id": "Telah mengabarkan kepada kami [ubaidhullah bin Musa] dari [Musa bin Ubaidah] dari [Waqid bin Muhammad bin Zaid] dari [Abdullah bin Umar], bahwa ada seseorang yang ingin berwasiat dengan hartanya di jalan Allah, lalu orang itu bertanya kepada [Umar] tentang hal itu. Umar pun menjawab, \"Berikan kepada para pekerja Allah.\" Ia bertanya lagi, \"Siapakah para pekerja Allah itu?\" Umar menjawab, \"Orang yang berhaji ke Baitullah.\""
+            },
+            {
+                "number": 2787,
+                "arab": " حَدَّثَنَا عَمْرُو بْنُ زُرَارَةَ حَدَّثَنَا جَرِيرٌ عَنْ قَابُوسَ عَنْ أَبِيهِ عَنْ ابْنِ عَبَّاسٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّ الرَّجُلَ الَّذِي لَيْسَ فِي جَوْفِهِ مِنْ الْقُرْآنِ شَيْءٌ كَالْبَيْتِ الْخَرِبِ",
+                "id": "Telah menceritakan kepada kami [Amru bin Zurarah] telah menceritakan kepada kami [Jarir] dari [Qabus] dari [Ayahnya] dari [Ibnu Abbas] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya seorang laki-laki yang tidak ada sedikit pun bacaan Al Qur'an di dalam rongga mulutnya niscaya ia seperti rumah yang hancur.\""
+            },
+            {
+                "number": 2788,
+                "arab": " أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ خَالِدِ بْنِ حَازِمٍ حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ حَدَّثَنَا أَبُو سِنَانٍ عَنْ أَبِي إِسْحَقَ عَنْ أَبِي الْأَحْوَصِ عَنْ عَبْدِ اللَّهِ قَالَ إِنَّ هَذَا الْقُرْآنَ مَأْدُبَةُ اللَّهِ فَخُذُوا مِنْهُ مَا اسْتَطَعْتُمْ فَإِنِّي لَا أَعْلَمُ شَيْئًا أَصْفَرَ مِنْ خَيْرٍ مِنْ بَيْتٍ لَيْسَ فِيهِ مِنْ كِتَابِ اللَّهِ شَيْءٌ وَإِنَّ الْقَلْبَ الَّذِي لَيْسَ فِيهِ مِنْ كِتَابِ اللَّهِ شَيْءٌ خَرِبٌ كَخَرَابِ الْبَيْتِ الَّذِي لَا سَاكِنَ لَهُ",
+                "id": "Telah mengabarkan kepada kami [Abdullah bin Khalid bin Hazim] telah menceritakan kepada kami [Muhammad bin Salamah] telah menceritakan kepada kami [Abu Sinan] dari [Abu Ishaq] dari [Abu Al Ahwash] dari [Abdullah] ia berkata, \"Sesungguhnya Al Qur'an ini adalah jamuan Allah, maka ambillah darinya semampu kalian. Sungguh, aku tidak mengetahui sesuatu yang lebih kosong dari kebaikan selain rumah yang di dalamnya tidak ada bacaan Al Qur'an. Sungguh, hati yang di dalamnya tidak ada bacaan Al Qur'an adalah hancur seperti hancurnya rumah yang tidak berpenghuni.\""
+            },
+            {
+                "number": 2789,
+                "arab": " حَدَّثَنَا مُعَاذُ بْنُ هَانِئٍ حَدَّثَنَا حَرْبُ بْنُ شَدَّادٍ حَدَّثَنَا يَحْيَى هُوَ ابْنُ أَبِي كَثِيرٍ حَدَّثَنِي حَفْصُ بْنُ عِنَانٍ الْحَنَفِيُّ أَنَّ أَبَا هُرَيْرَةَ كَانَ يَقُولُ إِنَّ الْبَيْتَ لَيَتَّسِعُ عَلَى أَهْلِهِ وَتَحْضُرُهُ الْمَلَائِكَةُ وَتَهْجُرُهُ الشَّيَاطِينُ وَيَكْثُرُ خَيْرُهُ أَنْ يُقْرَأَ فِيهِ الْقُرْآنُ وَإِنَّ الْبَيْتَ لَيَضِيقُ عَلَى أَهْلِهِ وَتَهْجُرُهُ الْمَلَائِكَةُ وَتَحْضُرُهُ الشَّيَاطِينُ وَيَقِلُّ خَيْرُهُ أَنْ لَا يُقْرَأَ فِيهِ الْقُرْآنُ",
+                "id": "Telah menceritakan kepada kami [Mu'adz bin Hani`] telah menceritakan kepada kami [Harb bin Syaddad] telah menceritakan kepada kami [Yahya] -yaitu Ibnu Abu Katsir- telah menceritakan kepadaku [Hafsh bin 'Inan Al Hanafi] bahwa [Abu Hurairah] pernah berkata, \"Sesungguhnya rumah akan terasa luas bagi penghuninya, para malaikat akan mendatanginya, setan-setan akan menjauhi dan kebaikannya akan bertambah jika Al Qur'an dibaca di dalamnya. Dan rumah akan terasa sempit bagi penghuninya, para malaikat menjauhinya, setan-setan datang dan kebaikannya berkurang jika di dalamnya tidak dibacakan Al Qur'an.\""
+            },
+            {
+                "number": 2790,
+                "arab": " حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ حَدَّثَنَا ابْنُ لَهِيعَةَ عَنْ مِشْرَحِ بْنِ هَاعَانَ قَالَ سَمِعْتُ عُقْبَةَ بْنَ عَامِرٍ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ لَوْ جُعِلَ الْقُرْآنُ فِي إِهَابٍ ثُمَّ أُلْقِيَ فِي النَّارِ مَا احْتَرَقَ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Yazid] telah menceritakan kepada kami [Ibnu Lahi'ah] dari [Misyrah bin Ha'an] ia berkata; Aku mendengar [Uqbah bin Amir] berkata, \"Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Seandainya Al Qur'an diletakkan pada sebuah kulit kemudian dilemparkan ke dalam api neraka niscaya ia tidak akan terbakar.\""
+            },
+            {
+                "number": 2791,
+                "arab": " حَدَّثَنَا عَبْدُ اللَّهِ بْنُ جَعْفَرٍ الرَّقِّيُّ عَنْ عُبَيْدِ اللَّهِ بْنِ عَمْرٍو عَنْ زَيْدِ بْنِ أَبِي أُنَيْسَةَ عَنْ عَاصِمٍ عَنْ أَبِي صَالِحٍ قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ يَقُولُ اقْرَءُوا الْقُرْآنَ فَإِنَّهُ نِعْمَ الشَّفِيعُ يَوْمَ الْقِيَامَةِ إِنَّهُ يَقُولُ يَوْمَ الْقِيَامَةِ يَا رَبِّ حَلِّهِ حِلْيَةَ الْكَرَامَةِ فَيُحَلَّى حِلْيَةَ الْكَرَامَةِ يَا رَبِّ اكْسُهُ كِسْوَةَ الْكَرَامَةِ فَيُكْسَى كِسْوَةَ الْكَرَامَةِ يَا رَبِّ أَلْبِسْهُ تَاجَ الْكَرَامَةِ يَا رَبِّ ارْضَ عَنْهُ فَلَيْسَ بَعْدَ رِضَاكَ شَيْءٌ",
+                "id": "Telah menceritakan kepada kami [Abdullah bin Ja'far Ar Raqqi] dari [ubaidhullah bin Amru] dari [Zaid bin Abu Unaisah] dari ['Ashim] dari [Abu Shalih] ia berkata, \"Aku mendengar [Abu Hurairah] berkata, \"Bacalah Al Qur'an sebab ia adalah sebaik-baik pemberi syafaat pada hari kiamat, pada hari kiamat ia akan berkata 'Wahai Rabbku, hiasilah ia dengan hiasan kemuliaan, ' maka ia dihiasilah dengan hiasan kemuliaan. 'Wahai Rabbku, selimutilah ia dengan selimut kemuliaan, ' maka ia diselimuti dengan selimut kemuliaan. 'Wahai Rabbku, pakaikanlah padanya mahkota kemuliaan, wahai Rabbku ridlailah ia, sebab tidak ada sesuatu yang diharap lagi setelah ridla-Mu'.\""
+            },
+            {
+                "number": 2792,
+                "arab": " أَخْبَرَنَا مُوسَى بْنُ خَالِدٍ حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُحَمَّدٍ الْفَزَارِيُّ عَنْ الْحَسَنِ بْنِ عُبَيْدِ اللَّهِ عَنْ الْمُسَيَّبِ بْنِ رَافِعٍ عَنْ أَبِي صَالِحٍ قَالَ الْقُرْآنُ يَشْفَعُ لِصَاحِبِهِ فَيُكْسَى حُلَّةَ الْكَرَامَةِ ثُمَّ يَقُولُ رَبِّ زِدْهُ فَيُكْسَى تَاجَ الْكَرَامَةِ قَالَ فَيَقُولُ رَبِّ زِدْهُ فَإِنَّهُ فَإِنَّهُ فَيَقُولُ رِضَائِي قَالَ أَبُو مُحَمَّد قَالَ وُهَيْبُ بْنُ الْوَرْدِ اجْعَلْ قِرَاءَتَكَ الْقُرْآنَ عِلْمًا وَلَا تَجْعَلْهُ عَمَلًا",
+                "id": "Telah menceritakan kepada kami [Musa bin Khalid] telah menceritakan kepada kami [Ibrahim bin Muhammad Al Fazari] dari [Al Hasan bin ubaidhullah] dari [Al Musayyab bin Rafi'] dari [Abu Shalih] ia berkata, \"Al Qur'an akan memberi syafaat kepada para pembacanya hingga ia pun dikenakan hiasan kemuliaan, kemudian Al-Qur'an berkata, 'Wahai Rabbku, tambahkan padanya, ' maka dipakaikan mahkota kemuliaan padanya. Al-Qur'an berkata lagi, 'Wahai Rabbku, tambahkan padanya, berilah ia, berilah ia.' Maka Allah pun menjawab: 'Keridlaan-Ku.'\" Abu Muhammad berkata; Wuhaib Ibnu Al Wardi berkata, \"Jadikanlah bacaan Al Qur'anmu sebagai ilmu dan jangan engkau jadikan ia sebagai amal.\""
+            },
+            {
+                "number": 2793,
+                "arab": " حَدَّثَنَا مُوسَى بْنُ خَالِدٍ حَدَّثَنَا إِبْرَاهِيمُ الْفَزَارِيُّ عَنْ الْأَعْمَشِ عَنْ أَبِي صَالِحٍ عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَيُحِبُّ أَحَدُكُمْ إِذَا أَتَى أَهْلَهُ أَنْ يَجِدَ ثَلَاثَ خَلِفَاتٍ سِمَانٍ قَالُوا نَعَمْ يَا رَسُولَ اللَّهِ قَالَ فَثَلَاثُ آيَاتٍ يَقْرَؤُهُنَّ أَحَدُكُمْ خَيْرٌ لَهُ مِنْهُنَّ",
+                "id": "Telah menceritakan kepada kami [Musa bin Khalid] telah menceritakan kepada kami [Ibrahim Al Fazari] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Apakah salah seorang dari kalian senang jika menemui keluarganya ia mendapatkan tiga ekor unta hamil lagi gemuk?\" Mereka menjawab, \"Tentu wahai Rasulullah.\" Beliau bersabda: \"Tiga ayat yang dibaca oleh salah seorang dari kalian itu lebih baik baginya dari unta tersebut.\""
+            }
+        ]
+    }
+}
