@@ -17,12 +17,10 @@
         },
         "autoload": {
             "psr-4": {
-                "\\": "jumaris/ares/"
+                "ares\\": "src/"
             }
         },
         "archive": {
-            "exclude": ["jumaris/ares/book/"]
-        },
-        "minimum-stability": "stable",
-        "prefer-stable": true
+            "exclude": ["src/book/"]
+        }
 }
