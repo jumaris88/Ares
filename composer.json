@@ -21,6 +21,6 @@
             }
         },
         "archive": {
-            "exclude": ["src/book/"]
+            "exclude": ["src/exclude/"]
         }
 }
