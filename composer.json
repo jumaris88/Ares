@@ -23,5 +23,5 @@
         "archive": {
             "exclude": ["/jumaris/ares/book/"]
         },
-        "minimum-stability": "dev"
+        "minimum-stability": "stable"
 }
