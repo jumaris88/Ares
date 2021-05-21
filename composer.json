@@ -18,8 +18,9 @@
         "autoload": {
             "psr-4": {
                 "jumaris\\ares\\": "jumaris/ares/"
-            },
-            "exclude-from-classmap": ["/jumaris/ares/book/"]
-            
+            }
+        },
+        "archive": {
+            "exclude": ["/jumaris/ares/book/"]
         }
 }
