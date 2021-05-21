@@ -7,15 +7,19 @@
             "name": "Jumaris",
             "email": "jumaris88shj@gmail.com"
         }
-    ],
-    "require": {
-        "psr/log":"*",
-        "laminas/laminas-httphandlerrunner":"*",
-        "stichoza/google-translate-php": "^4.1"
-    },
-    "autoload": {
-        "psr-4": {
-            "jumaris\\ares\\": "jumaris/ares/"
+        ],
+        "license": "MIT",
+        "require": {
+            "php" : ">=7.4",
+            "psr/log":"*",
+            "laminas/laminas-httphandlerrunner":"*",
+            "stichoza/google-translate-php": "^4.1"
+        },
+        "autoload": {
+            "psr-4": {
+                "jumaris\\ares\\": "jumaris/ares/"
+            },
+            "exclude-from-classmap": ["/jumaris/ares/book/"]
+            
         }
-    }
 }
