@@ -41,7 +41,37 @@ function contains_word($string,$search){
     return 0;
 }
 
+function contains_perkata($string,$search){
+    $coun = 0;
+    $arrcari=str_toarray($search," ");
+    
+    //$cleanstr=bersihtandabaca($string);
+    $arrstr=str_toarray($string," ");
+    
+    $jmlword=count($arrcari);
+    foreach($arrcari as $word) {
+        foreach ($arrstr as $wordx){
+            if($word == $wordx) {
+                $coun++;
+                break;
+            }
+        }
+    }
+    if (($jmlword==1 and $coun==1) or
+    ($jmlword==2 and $coun>=2) or 
+    ($jmlword==3 and $coun>=3) or
+    ($jmlword==4 and $coun>=3) or
+    ($jmlword==5 and $coun>=4) or
+    ($jmlword==6 and $coun>=4) or
+    ($jmlword>=7 and $coun>=5) 
+    ){
+        return 1;
+    }else
+    return 0;
+}
+
 function contains($str,$search){
+    //$str=bersihtandabaca($str);
     if (stripos($str, $search) !== false) 
     return 1;
     else
@@ -68,6 +98,7 @@ function kasi_tanda($msg,$word){
     $str = $msg;
     $expl=explode(" ", $word);
     foreach($expl as $wor) {
+        if (strlen($wor)<=2) continue;
         $str = preg_replace(kuote($wor),bold($wor),$str);
     }
     $s1="Nabi shallallahu 'alaihi wasallam bersabda";
@@ -87,7 +118,7 @@ function kasi_tanda($msg,$word){
 }
 
 function get_nomor($str) {
-    preg_match_all('/\d+/', $str, $matches);
+    preg_match_all('/\d+/', $str, $matches, PREG_UNMATCHED_AS_NULL);
     return $matches[0];
 }
 
@@ -106,12 +137,18 @@ function cleanold($string) {
     return preg_replace("/[^A-Za-z0-9\-\s\:\']/", '', $string);
 }
 
+function bersihtandabaca($str){
+    $str = preg_replace("/[^A-Za-z0-9]/", '', $str);
+    $str = preg_replace('/\s\s+/', ' ', $str);
+    return $str;
+}
+
 function hapuskata($kata){
     include "data/hapuskata.php";
     $expl=explode(" ",$kata);
     foreach ($expl as $word){
         foreach ($hapuskata as $val){
-            if ($word==$val or strlen($word)<=2){
+            if ($word==$val or strlen($word)<=1){
                 //echo "Found ". $word."---".$val."<br >";
                 $kata=str_ireplace_once($word,"",$kata);
                 break;

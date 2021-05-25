@@ -17,8 +17,9 @@ class message
         return $this->value;
     }
     
-    public function __construct($message,$include=__DIR__."/data/key.php",$namaarray="key") {
-        include_once $include;
+    public function __construct($message,$include=file_key,$namaarray="key") {
+        
+        include $include;
         $arrmessage = $this->str_toarray($message," ");
         if (count($arrmessage)>=2)
         $duakata=$arrmessage[0]." ".$arrmessage[1];

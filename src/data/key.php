@@ -11,9 +11,12 @@ $key = array(
 	"abu-daud","ibnu-majah",
 	"abu daud","ibnu majah",
 	
-	"bug","listbug","addfix","delfix",
+	"add bug","list bug",
+	"add fix","addfix","del fix","list fix",
+	"add ignore","del ignore","list ignore",
+	
 	"addhapuskata","delhapuskata",
-	"xreplace",
+	"xreplace", "hadits",
 	"random hadits",
 	"random qur'an",
 	"random quran",

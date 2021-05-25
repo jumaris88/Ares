@@ -11,4 +11,11 @@
   'takwa' => 'taqwa',
   'janabah' => 'junub',
   'ubaidullah' => 'ubaidhullah',
+  'yg' => 'yang',
+  'dgn' => 'dengan',
+  'agma' => 'agama',
+  'yng' => 'yang',
+  'quran' => 'qur\'an',
+  'doa' => 'do\'a',
+  'ta\'at' => 'taat',
 ); ?>

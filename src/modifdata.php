@@ -1,32 +1,36 @@
 <?php
 
-
-
-function delete_ignore_word($OldText){
-    if ($OldText=="" or strlen($OldText)<=1)
-    return "format salah atau kata terlalu pendek.";
+function _delignore($Old){
+    $OldText= str_toarray($Old,"/");
+    $ret="";
     
-    $OldText=trim(strtolower($OldText),trim_message());
-    $FilePath="ares/data/hapuskata.php";
+    //$OldText=trim(strtolower($OldText),trim_message());
+    $FilePath=file_ignore;
     if(file_exists($FilePath)===TRUE){
         if(is_writeable($FilePath)){
             try{
-                include "ares/data/hapuskata.php";
-                foreach ($hapuskata as &$value){
-                    if (empty($value)) continue;
-                    if ($value==$OldText){
-                        
-                        $value="";
-                        //array_splice($katasambung, array_search($OldText, $katasambung), 1);
-                        
-                        if(file_put_contents($FilePath,"<?php $"."hapuskata = ".var_export($hapuskata,true)."; ?>")){
-                            return  "sukses terhapus ".$OldText;
-                        }else{
-                            return  "Error while writing file ".$FilePath;
+                include file_ignore;
+                foreach ($OldText as $oldval){
+                    $sukses=0;
+                    foreach ($hapuskata as $value => $key){
+                        if ($key==trim($oldval,trim_message())){
+                            $sukses=1;
+                            $ret.=$oldval."✅\n";
+                            unset($hapuskata[$value]);
                         }
                     }
+                    if ($sukses==0){
+                        $ret.=$oldval."❌\n";
+                    }
                 }
-                return "Tidak ditemukan kata '".$OldText."'";
+                if ($ret!=""){
+                    if(file_put_contents($FilePath,"<?php $"."hapuskata = ".var_export($hapuskata,true)."; ?>")){
+                        return  "sukses terhapus:\n\n".$ret;
+                    }else{
+                        return  "Error while writing file ".$FilePath;
+                    }
+                }
+                return "Tidak ditemukan kata ".implode(",",$OldText);
             }catch(Exception $e){
                 return 'Error : '.$e;
             }
@@ -38,30 +42,38 @@ function delete_ignore_word($OldText){
     }
 }
 
-function add_ignore_word($NewText){
-    if ($NewText=="" or strlen($NewText)<=1)
+function _addignore($NewT){
+    if ($NewT=="" or strlen($NewT)<=1)
     return "format addhapuskata salah atau kata terlalu pendek.";
-    
-    $NewText=trim(strtolower($NewText),trim_message());
-    $FilePath="ares/data/hapuskata.php";
+    $ret="";
+    $NewText = str_toarray($NewT,"/");
+    $FilePath=file_ignore;
     if(file_exists($FilePath)===TRUE){
         if(is_writeable($FilePath)){
             try{
-                include "ares/data/hapuskata.php";
-                foreach ($hapuskata as $value){
-                    if (empty($value)) continue;
-                    if ($value==$NewText){
-                        return "kata '".$NewText."' sudah ada";
+                include file_ignore;
+                $oke=1;
+                foreach ($NewText as $newval){
+                    foreach ($hapuskata as $value => $key){
+                        if ($key==trim($newval,trim_message())){
+                            $oke=0;
+                            $ret .= $newval."❌\n";
+                        }
                     }
-                    
+                    if ($oke==1){
+                        $hapuskata[].=trim($newval,trim_message());
+                        $ret .= $newval."✅\n";
+                    }
                 }
-                $hapuskata[].=$NewText;
                 
-                if(file_put_contents($FilePath,"<?php $"."hapuskata = ".var_export($hapuskata,true)."; ?>")){
-                    return  "sukses menambahkan ".$NewText;
-                }else{
-                    return  "Error while writing file ".$FilePath;
+                if ($ret!=""){
+                    if(file_put_contents($FilePath,"<?php $"."hapuskata = ".var_export($hapuskata,true)."; ?>")){
+                        return  "sukses menambahkan:\n".$ret;
+                    }else{
+                        return  "Error while writing file ".$FilePath;
+                    }
                 }
+                return "Tidak ditemukan kata ".implode(",",$NewText);
             }catch(Exception $e){
                 return 'Error : '.$e;
             }
@@ -74,7 +86,7 @@ function add_ignore_word($NewText){
 }
 
 
-function add_fix_word($kata){
+function _addfix($kata){
     if ($kata=="" or contains($kata,"/")==0)
     return "Format addfix salah";
     
@@ -85,9 +97,9 @@ function add_fix_word($kata){
     $key=trim($xarr[0],trim_message());
     $val=trim($xarr[1],trim_message());
     
-    $FilePath="ares/data/fixkey.php";
+    $FilePath=file_fixkey;
     try{
-        include "ares/data/fixkey.php";
+        include file_fixkey;
         foreach ($fixkey as $fixk=>$fixv){
             //if (empty($fixk)) continue;
             if ($fixk==$key or $fixv==$key){
@@ -108,15 +120,15 @@ function add_fix_word($kata){
     }
 }
 
-function del_fix_word($kata){
+function _delfix($kata){
     $kata=trim($kata,trim_message());
     $cek="";
     if ($kata=="")
     return "Format delfix salah";
     
-    $FilePath="ares/data/fixkey.php";
+    $FilePath=file_fixkey;
     try{
-        include "ares/data/fixkey.php";
+        include file_fixkey;
         foreach ($fixkey as $fixk=>$fixv){
             
             if ($fixk==$kata or $fixv==$kata){
@@ -141,12 +153,12 @@ function del_fix_word($kata){
     }
 }
 
-function add_bug($kata){
+function _addbug($kata){
     if ($kata=="")
     return "Maaf format menambahkan bug salah.\nContoh : \n".tanda()."bug penulisan kata ramadlan yang seharusnya ramadhan di hadits bukhari";
     
-    include "ares/file/bug.php";
-    $file="ares/file/bug.php";
+    $file= file_bug;
+    include file_bug;
     
     $addarr= array("$kata"=>"Status belum Fix");
     $finalarr = $bug+$addarr;
@@ -157,15 +169,29 @@ function add_bug($kata){
         return  "Maaf ada kesalahan penyimpanan Bug";
     }
 }
-function list_bug($message){
+function _listbug($message){
     $xbug="";
-    include "ares/file/bug.php";
+    include file_bug;
     foreach ($bug as $key => $val){
         $xbug.="👉".$key."\n👉'".$val."'\n\n";
     }
     return $xbug;
 }
+function _listfix($message){
+    $xbug="";
+    include file_fixkey;
+    foreach ($fixkey as $key => $val){
+        $xbug.="👉".$key." => ".$val."\n\n";
+    }
+    return $xbug;
+}
+function _listignore($message){
+    $xbug="";
+    include file_ignore;
+    foreach ($hapuskata as $key => $val){
+        $xbug.="👉".$val."\n";
+    }
+    return $xbug;
+}
 
 
-
-?>

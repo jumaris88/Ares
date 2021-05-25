@@ -1,5 +1,7 @@
 <?php
 
+use ares\message;
+
 function replace_in_file($FilePath, $OldText, $NewText){
     //$Result = "";
     if(file_exists($FilePath)===TRUE){
@@ -10,29 +12,33 @@ function replace_in_file($FilePath, $OldText, $NewText){
                     $FileContent = str_ireplace($OldText, $NewText, $FileContent);
                     
                     if(file_put_contents($FilePath, $FileContent)){
-                        return  "Success\n".$OldText." => ".$NewText."\n".$FilePath."\n\n";
+                        return  "Success\n".$OldText." => ".$NewText."\n".$FilePath."\n";
                     }else{
-                        return  "Error while writing file ".$FilePath;
+                        return "";// "Error while writing file ".$FilePath;
                     }
                 }
+                return "";
             }catch(Exception $e){
-                return 'Error : '.$e;
+                return "";//'Error : '.$e;
             }
         }else{
-            return 'File '.$FilePath.' is not writable !';
+            return "";//'File '.$FilePath.' is not writable !';
         }
     }else{
-        return 'File '.$FilePath.' does not exist !';
+        return "";//'File '.$FilePath.' does not exist !';
     }
     return "";
 }
 
-function xreplace($kata){
+function replace($kata){
     $psn="";
+    $ret="";
+    $Headpsn="";
+    $hadits_yg_diedit="";
     $msg = new message($kata);
     if ($msg->oke){
         $kode=$msg->kode;
-        $rep=trim($msg->isi,trim_message());
+        $rep=$msg->value;
     }else
     return "Format xreplace salah.";
     
@@ -50,98 +56,79 @@ function xreplace($kata){
         $NewText=trim($xarr[1]," ");
     }
     
-    if ($kode!="quran"){
-        include "data/perawi.php";
+    $header="Replace ".$kode." '".$OldText."' -> '".$NewText."'\n";
+    
+    if ($kode=="hadits"){
+        include file_perawi;
         foreach ($perawi as $perawix ){
             for($a=1;$a<50;$a++){  
-                
-                $file="hadits/".$kode."-".$a.".json";
-                
+                $cod="";
+                $file=dir_hadits.$perawix."-".$a.".json";
                 if (file_exists($file) !== true){
                     break;
                 }
-                $status=replace_in_file($file,$OldText,$NewText);
-                if ($status!="")
-                $psn.=$status;
+                
+                $Headpsn = "File ".$perawix."-".$a.".json\nNo.Hadits yang di edit:\n";
+                $hadits = file_get_contents($file);
+                $json_a = json_decode($hadits,true);
+                $haditsPerFile = $json_a["data"]["total"];
+                
+                for($b=0;$b<$haditsPerFile;$b++){
+                    $isihadits=$json_a["data"]["hadits"][$b]["id"];
+                    $nomorhadits=$json_a["data"]["hadits"][$b]["number"];
+                    if (contains($isihadits,$OldText)){
+                        $cod.=$perawix." No.".$nomorhadits."\n";
+                    }
+                }
+                if ($cod!=""){
+                    replace_in_file($file,$OldText,$NewText);
+                    $ret.= $Headpsn.$cod."\n\n";
+                }
             }
         }
     }else
     if ($kode=="quran"){
         for($a=1;$a<114;$a++){  
-            
-            $file="quran/".$a.".json";
+            $cod="";
+            $file=dir_quran.$a.".json";
             if (file_exists($file) !== true){
                 break;
             }
-            $status=replace_in_file($file,$OldText,$NewText);
-            if ($status!="")
-            $psn.=$status;
+            
+            $content = file_get_contents($file);
+            $json = json_decode($content,true);
+            $ayatPerFile = $json[$a]["number_of_ayah"];
+            $namasurah = $json[$a]["name_latin"];
+            
+            $Headpsn = "Qur'an Surah ".$namasurah."[".$a."]\n";
+            
+            for($b=1;$b<$ayatPerFile;$b++){  
+                $isiqs=$json[$a]["translations"]["id"]["text"][$b];
+                
+                if (contains($isiqs,$OldText)){
+                    $cod.= "Ayat ".$b."\n";
+                }
+            }
+            
+            if ($cod!=""){
+                replace_in_file($file,$OldText,$NewText);
+                $ret.= $Headpsn.$cod."\n";
+            }
         }
     }
     
-    if ($psn==""){
+    
+    if ($ret==""){
         return "Tidak ada kata dalam '".$kode."' yang mengandung kata '".$OldText."'";
     }
-    //$psn=preg_replace("/\s+/", " ", $psn);
-    return kirim($psn);
+    $psn.=$header.$ret."=========================";
+    _simpanhistori($psn);
+    
+    return $psn;
 }
-/*
-function replace_text_onhadits($perawi,$kata){
-    $psn="";
-    
-    $xarr=str_toarray($x);
-    if (count($xarr)==0){
-        return kirim("Format salah\nContoh:\n/bukhari xreplace -ramadjan yang -ramadhan yang");
-    }
-    $OldText=$xarr[0];
-    if (count($xarr)==1){
-        $NewText="";
-    }else{
-        $NewText=$xarr[1];
-    }
-    
-    for($a=1;$a<50;$a++){  
-        
-        $file="hadits/".$perawi."-".$a.".json";
-        if (file_exists($file) !== true){
-            break;
-        }
-        $psn.= replace_in_file($file,$OldText,$NewText)."\n\n";
-    }
-    if ($psn=="..."){
-        $psn="Tidak ada file yang diedit.";
-    }
-    $psn=trim(preg_replace("/\s+/", " ", $psn));
-    return kirim($psn);
+function _simpanhistori($histori){
+    $file = file_history_replacer;
+    $FileContent = file_get_contents($file);
+    $FileContent .= $histori;
+    file_put_contents($file, $FileContent);
 }
-
-function replace_text_onquran($kata){
-    $psn="";
-    
-    $x=substr($kata,stripos($kata,$botreplace)+strlen($botreplace)+1);
-    $xarr=get_kode_toarray($x);//explode(" ",$x);
-    if (count($xarr)==0){
-        return kirim("Format salah\nContoh:\n/quran botreplace -ramadjan yang -ramadhan yang");
-    }
-    $OldText=$xarr[0];
-    if (count($xarr)==1){
-        $NewText="";
-    }else{
-        $NewText=$xarr[1];
-    }
-    
-    for($a=1;$a<114;$a++){  
-        
-        $file="quran/".$a.".json";
-        if (file_exists($file) !== true){
-            break;
-        }
-        $psn.= replace_in_file($file,$OldText,$NewText)."\n\n";
-    }
-    if (trim($psn," ")==""){
-        $psn="Tidak ada file yang diedit.";
-    }
-    $psn=trim(preg_replace("/\s+/", " ", $psn));
-    return kirim($psn);
-}
-*/

@@ -13,7 +13,8 @@
             "php" : ">=7.4",
             "psr/log":"*",
             "laminas/laminas-httphandlerrunner":"*",
-            "jumaris/terjemah": "^1.0.0"
+            "jumaris/terjemah": "^1.0.0",
+            "paquettg/php-html-parser": "^3.1"
         },
         "autoload": {
             "psr-4": {
