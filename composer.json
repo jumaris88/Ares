@@ -15,7 +15,7 @@
             "laminas/laminas-httphandlerrunner":"*",
             "jumaris/terjemah": "^1.0.0",
             "paquettg/php-html-parser": "^3.1",
-            "symfony/dom-crawler": "^5.3"
+            "symfony/dom-crawler": "^5.3.0-RC1"
         },
         "autoload": {
             "psr-4": {
